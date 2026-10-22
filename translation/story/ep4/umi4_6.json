@@ -12026,7 +12026,7 @@
         },
         {
           "index": 1,
-          "text": "  Qué desagradable de mi parte...",
+          "text": " Qué desagradable de mi parte...",
           "inline_tags": []
         },
         {
@@ -12035,7 +12035,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Lady {f:5:María}...   Qué desagradable de mi parte...  ¿Era esa barrera de hace un momento suya?\"",
+      "text": "\"Lady {f:5:María}...  Qué desagradable de mi parte...  ¿Era esa barrera de hace un momento suya?\"",
       "inline_tags": [
         "{f:5:María}"
       ],

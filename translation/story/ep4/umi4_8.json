@@ -1915,11 +1915,11 @@
         },
         {
           "index": 2,
-          "text": " ¿Cómo van los estudios?  ¿Cómo van los estudios?’",
+          "text": " ¿Cómo van los estudios? ¿Cómo van los estudios?’",
           "inline_tags": []
         }
       ],
-      "text": "‘¡Uryuu!  ¡Angeee!  ¿Cómo van los estudios?  ¿Cómo van los estudios?’",
+      "text": "‘¡Uryuu!  ¡Angeee!  ¿Cómo van los estudios? ¿Cómo van los estudios?’",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -6183,11 +6183,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"Normalmente, cuando conoces los problemas de antemano, serías capaz de pasar fácilmente, ¿verdad?  ¡Fácilmente!\"",
+          "text": "\"Normalmente, cuando conoces los problemas de antemano, serías capaz de pasar fácilmente, ¿verdad? ¡Fácilmente!\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Normalmente, cuando conoces los problemas de antemano, serías capaz de pasar fácilmente, ¿verdad?  ¡Fácilmente!\"",
+      "text": "\"Normalmente, cuando conoces los problemas de antemano, serías capaz de pasar fácilmente, ¿verdad? ¡Fácilmente!\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -10403,7 +10403,7 @@
         },
         {
           "index": 1,
-          "text": "  ¡¡En esta clase de situación, está bien si se pone loca de ira por el bien de su honor!!",
+          "text": " ¡¡En esta clase de situación, está bien si se pone loca de ira por el bien de su honor!!",
           "inline_tags": []
         },
         {
@@ -10419,7 +10419,7 @@
           ]
         }
       ],
-      "text": "\"¡Ange‐sama!   ¡¡En esta clase de situación, está bien si se pone loca de ira por el bien de su honor!!  ¡El enojo es una emoción apropiada y una reacción apropiada!  ¡¡¿Si no se enoja ahora, {i:cuándo} lo hará?!!\"",
+      "text": "\"¡Ange‐sama!  ¡¡En esta clase de situación, está bien si se pone loca de ira por el bien de su honor!!  ¡El enojo es una emoción apropiada y una reacción apropiada!  ¡¡¿Si no se enoja ahora, {i:cuándo} lo hará?!!\"",
       "inline_tags": [
         "{i:cuándo}"
       ],
@@ -10910,11 +10910,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"¡No dejarle comer la cena, y hacer que se quede tanto tiempo después de clase!  ¡¡Lo oooooooooodio!!\"",
+          "text": "\"¡No dejarle comer la cena, y hacer que se quede tanto tiempo después de clase! ¡¡Lo oooooooooodio!!\"",
           "inline_tags": []
         }
       ],
-      "text": "\"¡No dejarle comer la cena, y hacer que se quede tanto tiempo después de clase!  ¡¡Lo oooooooooodio!!\"",
+      "text": "\"¡No dejarle comer la cena, y hacer que se quede tanto tiempo después de clase! ¡¡Lo oooooooooodio!!\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -12247,7 +12247,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"... ¿Las Siete Hermanas del Purgatorio?  Sí, claro...",
+          "text": "\"... ¿Las Siete Hermanas del Purgatorio? Sí, claro...",
           "inline_tags": []
         },
         {
@@ -12261,7 +12261,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"... ¿Las Siete Hermanas del Purgatorio?  Sí, claro...  Tonta, tonta...  Y lo sabia desde el principio...\"",
+      "text": "\"... ¿Las Siete Hermanas del Purgatorio? Sí, claro...  Tonta, tonta...  Y lo sabia desde el principio...\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -14371,11 +14371,11 @@
         },
         {
           "index": 1,
-          "text": " ¡¡¿Acaso  no son muebles... porque son capaces de hacer las cosas que yo no puedo?!!\"",
+          "text": " ¡¡¿Acaso no son muebles... porque son capaces de hacer las cosas que yo no puedo?!!\"",
           "inline_tags": []
         }
       ],
-      "text": "\"... Se los estoy... pidiendo a ustedes... porque yo no puedo hacerlo, no puedo...  ¡¡¿Acaso  no son muebles... porque son capaces de hacer las cosas que yo no puedo?!!\"",
+      "text": "\"... Se los estoy... pidiendo a ustedes... porque yo no puedo hacerlo, no puedo...  ¡¡¿Acaso no son muebles... porque son capaces de hacer las cosas que yo no puedo?!!\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -15452,7 +15452,7 @@
         },
         {
           "index": 1,
-          "text": " ¿Amigas mágicas?  Por favor...",
+          "text": " ¿Amigas mágicas? Por favor...",
           "inline_tags": []
         },
         {
@@ -15466,7 +15466,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Las alianzas de brujas no tienen nada que ver con esto.  ¿Amigas mágicas?  Por favor...  Yo las maté, las borré.  ¡Destruí a las Siete Hermanas!\"",
+      "text": "\"Las alianzas de brujas no tienen nada que ver con esto.  ¿Amigas mágicas? Por favor...  Yo las maté, las borré.  ¡Destruí a las Siete Hermanas!\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

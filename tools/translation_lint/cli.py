@@ -11,6 +11,7 @@ from typing import Sequence
 
 from tools.translation_lint import __version__
 from tools.translation_lint.applicator import apply_corrections_workspace
+from tools.translation_lint.double_space_normalizer import apply_double_space_normalization
 from tools.translation_lint.models import Finding, LintReport
 from tools.translation_lint.rules import HUMAN_REVIEW_FINDINGS
 from tools.translation_lint.scanner import scan_workspace
@@ -281,5 +282,19 @@ def main(argv: Sequence[str] | None = None) -> int:
     p_val.add_argument("target", help="Path to translation workspace or catalog file.")
     p_val.set_defaults(func=cmd_validate)
 
+    # normalize-spaces
+    p_norm = subparsers.add_parser("normalize-spaces", help="Normalize unnecessary double spaces outside markup tags.")
+    p_norm.add_argument("target", help="Path to translation workspace.")
+    p_norm.add_argument("--dry-run", action="store_true", help="Simulate without writing files.")
+    p_norm.set_defaults(func=lambda args: apply_cmd_normalize_spaces(args))
+
     args = parser.parse_args(argv)
     return args.func(args)
+
+
+def apply_cmd_normalize_spaces(args: argparse.Namespace) -> int:
+    target_path = Path(args.target).resolve()
+    changes = apply_double_space_normalization(target_path, dry_run=args.dry_run)
+    status_str = "would be applied" if args.dry_run else "applied"
+    print(f"Double-space normalizer: {len(changes)} corrections {status_str} in {target_path}.")
+    return 0

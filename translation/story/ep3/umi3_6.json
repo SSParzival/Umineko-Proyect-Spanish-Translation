@@ -11284,7 +11284,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "... No, tal vez  había pensado un poco en ello.",
+          "text": "... No, tal vez había pensado un poco en ello.",
           "inline_tags": []
         },
         {
@@ -11295,7 +11295,7 @@
           ]
         }
       ],
-      "text": "... No, tal vez  había pensado un poco en ello. {n}... Sin embargo, su soberbia no le permitió apuntar a un lugar distinto.",
+      "text": "... No, tal vez había pensado un poco en ello. {n}... Sin embargo, su soberbia no le permitió apuntar a un lugar distinto.",
       "inline_tags": [
         "{n}"
       ],

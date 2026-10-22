@@ -19751,7 +19751,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"Hay un rumor sobre que existen restos de una antigua  militar japonesa en Rokkenjima...",
+          "text": "\"Hay un rumor sobre que existen restos de una antigua militar japonesa en Rokkenjima...",
           "inline_tags": []
         },
         {
@@ -19760,7 +19760,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Hay un rumor sobre que existen restos de una antigua  militar japonesa en Rokkenjima...  Podría ser...\"",
+      "text": "\"Hay un rumor sobre que existen restos de una antigua militar japonesa en Rokkenjima...  Podría ser...\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -24231,13 +24231,13 @@
         },
         {
           "index": 1,
-          "text": "{n}...  Se había demostrado que las palabras de la bruja eran correctas.",
+          "text": "{n}... Se había demostrado que las palabras de la bruja eran correctas.",
           "inline_tags": [
             "{n}"
           ]
         }
       ],
-      "text": "El interruptor seguía apuntando hacia la izquierda. {n}...  Se había demostrado que las palabras de la bruja eran correctas.",
+      "text": "El interruptor seguía apuntando hacia la izquierda. {n}... Se había demostrado que las palabras de la bruja eran correctas.",
       "inline_tags": [
         "{n}"
       ],
@@ -61112,11 +61112,11 @@
         },
         {
           "index": 1,
-          "text": "  Es— ¡Cierto, solo es una probabilidad!\"",
+          "text": " Es— ¡Cierto, solo es una probabilidad!\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Eso es... una locura...   Es— ¡Cierto, solo es una probabilidad!\"",
+      "text": "\"Eso es... una locura...  Es— ¡Cierto, solo es una probabilidad!\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

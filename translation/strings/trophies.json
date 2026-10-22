@@ -1168,7 +1168,7 @@
       "sprite_prefix": "",
       "markers": [],
       "segments": [],
-      "text": "{p:18:Trofeo de bronce{n}Regalo de Kinzo:  Mango completamente maduro{n}Recibe un mango completamente maduro. como regalo de Kinzo.}",
+      "text": "{p:18:Trofeo de bronce{n}Regalo de Kinzo: Mango completamente maduro{n}Recibe un mango completamente maduro. como regalo de Kinzo.}",
       "inline_tags": [
         "{n}",
         "{n}"

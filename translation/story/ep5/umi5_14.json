@@ -43301,7 +43301,7 @@
         },
         {
           "index": 4,
-          "text": "  entonces, esta vez, quedará claro que eres la culpable,",
+          "text": " entonces, esta vez, quedará claro que eres la culpable,",
           "inline_tags": []
         },
         {
@@ -43312,7 +43312,7 @@
           ]
         }
       ],
-      "text": "\"¿Estás segura?  Como ya he dicho varias veces,  todos tienen coartadas menos tú.  Si no acusas a Kinzo-san,   entonces, esta vez, quedará claro que eres la culpable,  y eso {i:se} convertirá en la verdad, ¿cierto?...\"",
+      "text": "\"¿Estás segura?  Como ya he dicho varias veces,  todos tienen coartadas menos tú.  Si no acusas a Kinzo-san,  entonces, esta vez, quedará claro que eres la culpable,  y eso {i:se} convertirá en la verdad, ¿cierto?...\"",
       "inline_tags": [
         "{i:se}"
       ],
@@ -44698,11 +44698,11 @@
         },
         {
           "index": 2,
-          "text": "  Pero eso no te satisface, ¿verdad, Bern?\"",
+          "text": " Pero eso no te satisface, ¿verdad, Bern?\"",
           "inline_tags": []
         }
       ],
-      "text": "\"La verdad roja de los juegos anteriores dice que  {p:1:Kinzo ya se encuentra muerto}...   Pero eso no te satisface, ¿verdad, Bern?\"",
+      "text": "\"La verdad roja de los juegos anteriores dice que  {p:1:Kinzo ya se encuentra muerto}...  Pero eso no te satisface, ¿verdad, Bern?\"",
       "inline_tags": [
         "{p:1:Kinzo ya se encuentra muerto}"
       ],

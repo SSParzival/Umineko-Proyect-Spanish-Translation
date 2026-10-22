@@ -191,11 +191,11 @@
         },
         {
           "index": 1,
-          "text": " Era una mujer.  ",
+          "text": " Era una mujer.",
           "inline_tags": []
         }
       ],
-      "text": "La figura se agachó y me miró a la cara...  Era una mujer.  ",
+      "text": "La figura se agachó y me miró a la cara...  Era una mujer.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -278,11 +278,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Yo... me agarré el pecho.  ",
+          "text": "Yo... me agarré el pecho.",
           "inline_tags": []
         }
       ],
-      "text": "Yo... me agarré el pecho.  ",
+      "text": "Yo... me agarré el pecho.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -666,11 +666,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Al final, el doctor tomó el dinero y juró guardar silencio sobre el asunto.  ",
+          "text": "Al final, el doctor tomó el dinero y juró guardar silencio sobre el asunto.",
           "inline_tags": []
         }
       ],
-      "text": "Al final, el doctor tomó el dinero y juró guardar silencio sobre el asunto.  ",
+      "text": "Al final, el doctor tomó el dinero y juró guardar silencio sobre el asunto.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -805,7 +805,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "... Pero... ¿dónde estoy?  ",
+          "text": "... Pero... ¿dónde estoy?",
           "inline_tags": []
         },
         {
@@ -823,7 +823,7 @@
           ]
         }
       ],
-      "text": "... Pero... ¿dónde estoy?   {n}Una habitación de la que no tengo absolutamente ningún recuerdo... en una casa totalmente desconocida. {n}Y, antes que nada, aquí hay una mujer que nunca había visto...",
+      "text": "... Pero... ¿dónde estoy? {n}Una habitación de la que no tengo absolutamente ningún recuerdo... en una casa totalmente desconocida. {n}Y, antes que nada, aquí hay una mujer que nunca había visto...",
       "inline_tags": [
         "{n}",
         "{n}"
@@ -2509,11 +2509,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Descubrir quién era yo... parecía una tarea muy difícil.  ",
+          "text": "Descubrir quién era yo... parecía una tarea muy difícil.",
           "inline_tags": []
         }
       ],
-      "text": "Descubrir quién era yo... parecía una tarea muy difícil.  ",
+      "text": "Descubrir quién era yo... parecía una tarea muy difícil.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -9292,11 +9292,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Mamá me empujó por la espalda...  y caí hacia adelante.",
+          "text": "Mamá me empujó por la espalda... y caí hacia adelante.",
           "inline_tags": []
         }
       ],
-      "text": "Mamá me empujó por la espalda...  y caí hacia adelante.",
+      "text": "Mamá me empujó por la espalda... y caí hacia adelante.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -13947,11 +13947,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Desde el otro lado de un rosal se escuchaba el sonido de alguien comiendo palomitas.  ",
+          "text": "Desde el otro lado de un rosal se escuchaba el sonido de alguien comiendo palomitas.",
           "inline_tags": []
         }
       ],
-      "text": "Desde el otro lado de un rosal se escuchaba el sonido de alguien comiendo palomitas.  ",
+      "text": "Desde el otro lado de un rosal se escuchaba el sonido de alguien comiendo palomitas.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -14640,7 +14640,7 @@
         },
         {
           "index": 6,
-          "text": " Así que iré yo.  ",
+          "text": " Así que iré yo.",
           "inline_tags": []
         },
         {
@@ -14649,7 +14649,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"{f:5:Lambdadelta}.  Yo iré allí...  Solo necesito que me lleves en la dirección correcta.  De todos modos soy un ser vacío, incapaz de existir fuera de la caja del gato.  Ange, por otra parte, tiene que seguir viviendo en el futuro.  Y tú también eres una persona con un futuro...  Así que iré yo.    No tengo nada que perder.\"",
+      "text": "\"{f:5:Lambdadelta}.  Yo iré allí...  Solo necesito que me lleves en la dirección correcta.  De todos modos soy un ser vacío, incapaz de existir fuera de la caja del gato.  Ange, por otra parte, tiene que seguir viviendo en el futuro.  Y tú también eres una persona con un futuro...  Así que iré yo.  No tengo nada que perder.\"",
       "inline_tags": [
         "{f:5:Lambdadelta}"
       ],

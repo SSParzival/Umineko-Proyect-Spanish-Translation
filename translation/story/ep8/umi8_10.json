@@ -12665,13 +12665,13 @@
       "segments": [
         {
           "index": 0,
-          "text": "Después de escuchar mi inmediata respuesta, {f:5:Bernkastel}  me miró fijamente.",
+          "text": "Después de escuchar mi inmediata respuesta, {f:5:Bernkastel} me miró fijamente.",
           "inline_tags": [
             "{f:5:Bernkastel}"
           ]
         }
       ],
-      "text": "Después de escuchar mi inmediata respuesta, {f:5:Bernkastel}  me miró fijamente.",
+      "text": "Después de escuchar mi inmediata respuesta, {f:5:Bernkastel} me miró fijamente.",
       "inline_tags": [
         "{f:5:Bernkastel}"
       ],

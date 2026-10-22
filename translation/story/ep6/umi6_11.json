@@ -627,11 +627,11 @@
         },
         {
           "index": 1,
-          "text": "  eres el padre de María, ¿no?...",
+          "text": " eres el padre de María, ¿no?...",
           "inline_tags": []
         }
       ],
-      "text": "... Aun así...   eres el padre de María, ¿no?...",
+      "text": "... Aun así...  eres el padre de María, ¿no?...",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -668,11 +668,11 @@
         },
         {
           "index": 1,
-          "text": "  aunque solo sea una vez...",
+          "text": " aunque solo sea una vez...",
           "inline_tags": []
         }
       ],
-      "text": "Por favor, ven a verla...   aunque solo sea una vez...",
+      "text": "Por favor, ven a verla...  aunque solo sea una vez...",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -900,11 +900,11 @@
         },
         {
           "index": 2,
-          "text": "  ¿Necesitas algo?\"",
+          "text": " ¿Necesitas algo?\"",
           "inline_tags": []
         }
       ],
-      "text": "\"... Me asustaste...  Perdón, supongo que estaba pensando tanto que no me di cuenta que estabas aquí...   ¿Necesitas algo?\"",
+      "text": "\"... Me asustaste...  Perdón, supongo que estaba pensando tanto que no me di cuenta que estabas aquí...  ¿Necesitas algo?\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -1607,7 +1607,7 @@
         },
         {
           "index": 1,
-          "text": "  Por ese motivo, ya sea que olvidase su amor o no,",
+          "text": " Por ese motivo, ya sea que olvidase su amor o no,",
           "inline_tags": []
         },
         {
@@ -1616,7 +1616,7 @@
           "inline_tags": []
         }
       ],
-      "text": "Era algo natural...   Por ese motivo, ya sea que olvidase su amor o no,  tenía que hacer lo imposible para devolver el dinero.",
+      "text": "Era algo natural...  Por ese motivo, ya sea que olvidase su amor o no,  tenía que hacer lo imposible para devolver el dinero.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -5875,11 +5875,11 @@
         },
         {
           "index": 1,
-          "text": "  ¡si era asesinado aquí, sería arrastrado fuera del tablero!...",
+          "text": " ¡si era asesinado aquí, sería arrastrado fuera del tablero!...",
           "inline_tags": []
         }
       ],
-      "text": "Aunque logró cumplir su cometido en la prueba de los demonios...   ¡si era asesinado aquí, sería arrastrado fuera del tablero!...",
+      "text": "Aunque logró cumplir su cometido en la prueba de los demonios...  ¡si era asesinado aquí, sería arrastrado fuera del tablero!...",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -11128,7 +11128,7 @@
         },
         {
           "index": 1,
-          "text": "  no puedo perder...",
+          "text": " no puedo perder...",
           "inline_tags": []
         },
         {
@@ -11137,7 +11137,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"... Y por lo tanto...   no puedo perder...  aquí...\"",
+      "text": "\"... Y por lo tanto...  no puedo perder...  aquí...\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

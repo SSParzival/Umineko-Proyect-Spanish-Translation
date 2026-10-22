@@ -2092,13 +2092,13 @@
         },
         {
           "index": 1,
-          "text": "  Así que incluso {i:si eso} es negado por un completo extraño que no sabe nada de mi mundo, no es algo de lo que deba preocuparme.",
+          "text": " Así que incluso {i:si eso} es negado por un completo extraño que no sabe nada de mi mundo, no es algo de lo que deba preocuparme.",
           "inline_tags": [
             "{i:si eso}"
           ]
         }
       ],
-      "text": "Puedo confiar en el mundo que conozco.   Así que incluso {i:si eso} es negado por un completo extraño que no sabe nada de mi mundo, no es algo de lo que deba preocuparme.",
+      "text": "Puedo confiar en el mundo que conozco.  Así que incluso {i:si eso} es negado por un completo extraño que no sabe nada de mi mundo, no es algo de lo que deba preocuparme.",
       "inline_tags": [
         "{i:si eso}"
       ],

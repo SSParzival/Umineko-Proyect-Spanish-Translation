@@ -18427,11 +18427,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"Battler.  Ya se terminó.\"",
+          "text": "\"Battler. Ya se terminó.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Battler.  Ya se terminó.\"",
+      "text": "\"Battler. Ya se terminó.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

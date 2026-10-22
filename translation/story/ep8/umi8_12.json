@@ -1738,7 +1738,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"En ese caso,  ¿por qué un hijo del hombre crea una historia en su mente y luego la transcribe completamente de nuevo en un teclado?...",
+          "text": "\"En ese caso, ¿por qué un hijo del hombre crea una historia en su mente y luego la transcribe completamente de nuevo en un teclado?...",
           "inline_tags": []
         },
         {
@@ -1747,7 +1747,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"En ese caso,  ¿por qué un hijo del hombre crea una historia en su mente y luego la transcribe completamente de nuevo en un teclado?...  Qué tonto de su parte hacerlo dos veces.\"",
+      "text": "\"En ese caso, ¿por qué un hijo del hombre crea una historia en su mente y luego la transcribe completamente de nuevo en un teclado?...  Qué tonto de su parte hacerlo dos veces.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

@@ -1061,7 +1061,7 @@
         },
         {
           "index": 1,
-          "text": "  ¿De qué estás hablando?",
+          "text": " ¿De qué estás hablando?",
           "inline_tags": []
         },
         {
@@ -1080,7 +1080,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"...   ¿De qué estás hablando?  ¿No te das cuenta de lo importante que son estos invitados?  Si una bala perdida le da a alguno de ellos,  todas las nuevas Hermanas Siesta serán enviadas directamente desde la fábrica a la guillotina durante los próximos diez años.\"",
+      "text": "\"...  ¿De qué estás hablando?  ¿No te das cuenta de lo importante que son estos invitados?  Si una bala perdida le da a alguno de ellos,  todas las nuevas Hermanas Siesta serán enviadas directamente desde la fábrica a la guillotina durante los próximos diez años.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -1258,7 +1258,7 @@
         },
         {
           "index": 1,
-          "text": "  Jeje.",
+          "text": " Jeje.",
           "inline_tags": []
         },
         {
@@ -1272,7 +1272,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"¿De Gertrude?...   Jeje.  Entonces sigan esa recomendación.  ¡Una fiesta es mucho más entretenida una vez que animas las cosas!...\"",
+      "text": "\"¿De Gertrude?...  Jeje.  Entonces sigan esa recomendación.  ¡Una fiesta es mucho más entretenida una vez que animas las cosas!...\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -30092,11 +30092,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "... Y aunque cada una de esas verdades son \"verdad\"...  son incompletas si son lo único que puedes ver...",
+          "text": "... Y aunque cada una de esas verdades son \"verdad\"... son incompletas si son lo único que puedes ver...",
           "inline_tags": []
         }
       ],
-      "text": "... Y aunque cada una de esas verdades son \"verdad\"...  son incompletas si son lo único que puedes ver...",
+      "text": "... Y aunque cada una de esas verdades son \"verdad\"... son incompletas si son lo único que puedes ver...",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
