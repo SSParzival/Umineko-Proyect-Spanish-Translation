@@ -30,7 +30,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "Te damos la más calida bienvenida, viajero, y felicidades por completar nuestra traducción de {i:Umineko no Naku Koro ni ~Rondó de la Bruja y el Razonamiento~}.",
+          "text": "Te damos la más cálida bienvenida, viajero, y felicidades por completar nuestra traducción de {i:Umineko no Naku Koro ni ~Rondó de la Bruja y el Razonamiento~}.",
           "inline_tags": [
             "{i:Umineko no Naku Koro ni ~Rondó de la Bruja y el Razonamiento~}"
           ]
@@ -41,7 +41,7 @@
           "inline_tags": []
         }
       ],
-      "text": "Te damos la más calida bienvenida, viajero, y felicidades por completar nuestra traducción de {i:Umineko no Naku Koro ni ~Rondó de la Bruja y el Razonamiento~}.  Apreciamos tus esfuerzos por descubrir las partes ocultas del juego.",
+      "text": "Te damos la más cálida bienvenida, viajero, y felicidades por completar nuestra traducción de {i:Umineko no Naku Koro ni ~Rondó de la Bruja y el Razonamiento~}.  Apreciamos tus esfuerzos por descubrir las partes ocultas del juego.",
       "inline_tags": [
         "{i:Umineko no Naku Koro ni ~Rondó de la Bruja y el Razonamiento~}"
       ],
@@ -105,7 +105,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "Como sabran, Umineko es una novela increíblemente larga.",
+          "text": "Como sabrán, Umineko es una novela increíblemente larga.",
           "inline_tags": []
         },
         {
@@ -119,7 +119,7 @@
           "inline_tags": []
         }
       ],
-      "text": "Como sabran, Umineko es una novela increíblemente larga.  Cada día de estos dos años fueron necesarios para refinar la calidad de la traducción hasta el punto en el que está ahora. ¡Y logramos tenerlo listo en el plazo que fijamos hace un año (2024).  Adelante, pueden aplaudir.",
+      "text": "Como sabrán, Umineko es una novela increíblemente larga.  Cada día de estos dos años fueron necesarios para refinar la calidad de la traducción hasta el punto en el que está ahora. ¡Y logramos tenerlo listo en el plazo que fijamos hace un año (2024).  Adelante, pueden aplaudir.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -209,11 +209,11 @@
         },
         {
           "index": 1,
-          "text": " Bueno, eso es todo lo que queriamos decir, al menos por este Omake.",
+          "text": " Bueno, eso es todo lo que queríamos decir, al menos por este Omake.",
           "inline_tags": []
         }
       ],
-      "text": "Así que decidimos deshechar el plan original, retraducir todo lo que no habíamos traspasado aún, y revisar y arreglar las líneas con problemas.  Bueno, eso es todo lo que queriamos decir, al menos por este Omake.",
+      "text": "Así que decidimos deshechar el plan original, retraducir todo lo que no habíamos traspasado aún, y revisar y arreglar las líneas con problemas.  Bueno, eso es todo lo que queríamos decir, al menos por este Omake.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -2220,11 +2220,11 @@
         },
         {
           "index": 1,
-          "text": " Dejar los dialogos modificados y sin censura sin modificar en los archivos nos permitió desarrollar un port mucho más completo.",
+          "text": " Dejar los diálogos modificados y sin censura sin modificar en los archivos nos permitió desarrollar un port mucho más completo.",
           "inline_tags": []
         }
       ],
-      "text": "Estamos realmente agradecidos por todo el material que dejaron en el disco.  Dejar los dialogos modificados y sin censura sin modificar en los archivos nos permitió desarrollar un port mucho más completo.",
+      "text": "Estamos realmente agradecidos por todo el material que dejaron en el disco.  Dejar los diálogos modificados y sin censura sin modificar en los archivos nos permitió desarrollar un port mucho más completo.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -2258,11 +2258,11 @@
         },
         {
           "index": 1,
-          "text": " Si juegas la versión de PSP, notarás que algunos sprites dejan de sonreir antes de tiempo.",
+          "text": " Si juegas la versión de PSP, notarás que algunos sprites dejan de sonreír antes de tiempo.",
           "inline_tags": []
         }
       ],
-      "text": "Ellos probablemente no tenían mucho tiempo.  Si juegas la versión de PSP, notarás que algunos sprites dejan de sonreir antes de tiempo.",
+      "text": "Ellos probablemente no tenían mucho tiempo.  Si juegas la versión de PSP, notarás que algunos sprites dejan de sonreír antes de tiempo.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

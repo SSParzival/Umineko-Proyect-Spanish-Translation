@@ -74,7 +74,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "La lluvía se está haciendo más fuerte.",
+          "text": "La lluvia se está haciendo más fuerte.",
           "inline_tags": []
         },
         {
@@ -83,7 +83,7 @@
           "inline_tags": []
         }
       ],
-      "text": "La lluvía se está haciendo más fuerte.  Mejor debería regresar a la mansión...",
+      "text": "La lluvia se está haciendo más fuerte.  Mejor debería regresar a la mansión...",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
