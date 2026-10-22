@@ -192,6 +192,18 @@ def _detect_eol(raw_line: str) -> str:
     return "NONE"
 
 
+def _has_unbalanced_braces(text: str) -> bool:
+    depth = 0
+    for ch in text:
+        if ch == "{":
+            depth += 1
+        elif ch == "}":
+            depth -= 1
+            if depth < 0:
+                return True
+    return depth != 0
+
+
 def _classify_stralias_catalog(alias_key: str) -> str:
     if alias_key.startswith(("verify_", "verification_")):
         return "define_system"
@@ -458,6 +470,9 @@ def parse_script(plaintext: str) -> ParseResult:
 
                 entry_id = make_unique_id(prefix_id, line_no)
                 joined_text = " ".join(seg.text for seg in segments)
+                concat_text = "".join(seg.text for seg in segments)
+                has_unbal = _has_unbalanced_braces(concat_text)
+                is_empty_seg = any(seg.text == "" for seg in segments)
                 all_inline_tags: list[str] = []
                 for seg in segments:
                     all_inline_tags.extend(seg.inline_tags)
@@ -473,6 +488,15 @@ def parse_script(plaintext: str) -> ParseResult:
                             line_number=line_no,
                             entry_id=entry_id,
                             message=f"Dialogue line contains an extra backtick inside a segment ({entry_id}).",
+                        )
+                    )
+                if has_unbal:
+                    warnings.append(
+                        ParseWarning(
+                            code="UNBALANCED_BRACES_IN_SOURCE",
+                            line_number=line_no,
+                            entry_id=entry_id,
+                            message=f"Dialogue line has pre-existing unbalanced '{{'/'}}' braces ({entry_id}).",
                         )
                     )
 
@@ -494,6 +518,8 @@ def parse_script(plaintext: str) -> ParseResult:
                     text=joined_text,
                     inline_tags=all_inline_tags,
                     has_stray_backtick=has_stray,
+                    has_unbalanced_braces=has_unbal,
+                    allow_empty=is_empty_seg,
                     status="translated",
                     notes=notes,
                 )
@@ -549,6 +575,18 @@ def parse_script(plaintext: str) -> ParseResult:
                             )
                         )
 
+                    has_quote = '"' in text_body
+                    if has_quote:
+                        notes_list.append("Original stralias contains unescaped ASCII double quotes.")
+                        warnings.append(
+                            ParseWarning(
+                                code="EMBEDDED_QUOTE_IN_STRALIAS",
+                                line_number=line_no,
+                                entry_id=entry_id,
+                                message=f"stralias '{alias_key}' contains unescaped ASCII double quotes inside literal.",
+                            )
+                        )
+
                     entry = CatalogEntry(
                         id=entry_id,
                         kind="stralias",
@@ -566,7 +604,9 @@ def parse_script(plaintext: str) -> ParseResult:
                         segments=[],
                         text=text_body,
                         inline_tags=extract_inline_tags(text_body),
-                        has_stray_backtick=False,
+                        has_stray_backtick=has_quote,
+                        has_unbalanced_braces=_has_unbalanced_braces(text_body),
+                        allow_empty=(text_body == ""),
                         status="translated",
                         notes=" ".join(notes_list),
                     )

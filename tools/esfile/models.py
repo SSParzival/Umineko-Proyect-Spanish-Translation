@@ -73,6 +73,8 @@ class CatalogEntry:
     text: str
     inline_tags: list[str]
     has_stray_backtick: bool = False
+    has_unbalanced_braces: bool = False
+    allow_empty: bool = False
     status: str = "translated"
     notes: str = ""
 
@@ -123,6 +125,8 @@ class CatalogEntry:
             "text": self.text,
             "inline_tags": list(self.inline_tags),
             "has_stray_backtick": self.has_stray_backtick,
+            "has_unbalanced_braces": self.has_unbalanced_braces,
+            "allow_empty": self.allow_empty,
             "status": self.status,
             "notes": self.notes,
         }
@@ -164,6 +168,8 @@ class CatalogEntry:
             text=str(data["text"]),
             inline_tags=[str(t) for t in data.get("inline_tags", [])],
             has_stray_backtick=bool(data.get("has_stray_backtick", False)),
+            has_unbalanced_braces=bool(data.get("has_unbalanced_braces", False)),
+            allow_empty=bool(data.get("allow_empty", False)),
             status=str(data.get("status", "translated")),
             notes=str(data.get("notes", "")),
         )

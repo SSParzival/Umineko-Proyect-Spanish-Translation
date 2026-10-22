@@ -11,8 +11,10 @@ from typing import Sequence
 from tools.esfile import __version__
 from tools.esfile.builder import build_esfile
 from tools.esfile.codec import EsFileError
+from tools.esfile.differ import diff_targets, format_diff_report
 from tools.esfile.extractor import extract_esfile
 from tools.esfile.inspector import format_inspection_report, inspect_esfile
+from tools.esfile.validator import validate_workspace
 
 
 def build_arg_parser() -> argparse.ArgumentParser:
@@ -107,7 +109,41 @@ def build_arg_parser() -> argparse.ArgumentParser:
         help="Print detailed extraction statistics and warnings.",
     )
 
-    # 3. build
+    # 3. validate
+    p_validate = subparsers.add_parser(
+        "validate",
+        help="Validate an extracted translation directory for schema, tag, marker, and checksum integrity.",
+    )
+    p_validate.add_argument(
+        "translation_dir",
+        type=Path,
+        help="Path to the extracted translation directory containing manifest.json.",
+    )
+    p_validate.add_argument(
+        "--strict",
+        action="store_true",
+        default=False,
+        help="Treat inline formatting tag prefix changes as errors instead of warnings.",
+    )
+    p_validate.add_argument(
+        "--json",
+        action="store_true",
+        help="Output validation report as JSON.",
+    )
+    p_validate.add_argument(
+        "--report",
+        type=Path,
+        default=None,
+        help="Optional path to write the JSON validation report.",
+    )
+    p_validate.add_argument(
+        "--verbose",
+        "-v",
+        action="store_true",
+        help="Print all warnings in addition to errors.",
+    )
+
+    # 4. build
     p_build = subparsers.add_parser(
         "build",
         help="Compile a structured translation directory back into an ONS2 (.file) archive.",
@@ -157,6 +193,31 @@ def build_arg_parser() -> argparse.ArgumentParser:
         help="Print detailed build checksums and comparison metrics.",
     )
 
+    # 5. diff
+    p_diff = subparsers.add_parser(
+        "diff",
+        help="Compare two ONS2 (.file) archives or two extracted translation directories semantically and binarily.",
+    )
+    p_diff.add_argument("target_a", type=Path, help="First .file archive or translation directory.")
+    p_diff.add_argument("target_b", type=Path, help="Second .file archive or translation directory.")
+    p_diff.add_argument(
+        "--json",
+        action="store_true",
+        help="Output diff report as JSON.",
+    )
+    p_diff.add_argument(
+        "--report",
+        type=Path,
+        default=None,
+        help="Optional path to write the JSON diff report.",
+    )
+    p_diff.add_argument(
+        "--verbose",
+        "-v",
+        action="store_true",
+        help="Show all modified entries without truncation.",
+    )
+
     return parser
 
 
@@ -197,6 +258,32 @@ def main(argv: Sequence[str] | None = None) -> int:
                     print(f"  [WARN L{w['line_number']}] {w['code']} ({w['entry_id']}): {w['message']}")
             return 0
 
+        if args.command == "validate":
+            v_report = validate_workspace(args.translation_dir, strict=args.strict)
+            v_dict = v_report.to_dict()
+            if args.report is not None:
+                args.report.parent.mkdir(parents=True, exist_ok=True)
+                args.report.write_text(
+                    json.dumps(v_dict, ensure_ascii=False, indent=2) + "\n",
+                    encoding="utf-8",
+                )
+            if args.json:
+                print(json.dumps(v_dict, ensure_ascii=False, indent=2))
+            else:
+                status_word = "VALID" if v_report.valid else "INVALID"
+                print(
+                    f"Validation {status_word}: {args.translation_dir} "
+                    f"({v_report.catalogs_checked} catalogs, {v_report.blocks_checked} blocks, "
+                    f"{v_report.entries_checked:,} entries, {len(v_report.errors)} errors, "
+                    f"{len(v_report.warnings)} warnings, {len(v_report.modified_catalogs)} modified catalogs)."
+                )
+                for err in v_report.errors:
+                    print(f"  [ERROR] {err.code} ({err.location} {err.entry_id}): {err.message}")
+                if args.verbose:
+                    for warn in v_report.warnings:
+                        print(f"  [WARN]  {warn.code} ({warn.location} {warn.entry_id}): {warn.message}")
+            return 0 if v_report.valid else 1
+
         if args.command == "build":
             output_file = args.output_opt or args.output_pos
             if output_file is None:
@@ -226,6 +313,14 @@ def main(argv: Sequence[str] | None = None) -> int:
                 print(f"  Plaintext SHA-256 : {report['plaintext_sha256']}")
                 print(f"  ZLIB Adler-32     : {report['zlib_adler32']}")
                 print(f"  Entries compiled  : {report['entries_compiled']:,}")
+            return 0
+
+        if args.command == "diff":
+            diff_data = diff_targets(args.target_a, args.target_b, report_path=args.report)
+            if args.json:
+                print(json.dumps(diff_data, ensure_ascii=False, indent=2))
+            else:
+                print(format_diff_report(diff_data, verbose=args.verbose))
             return 0
 
     except EsFileError as exc:

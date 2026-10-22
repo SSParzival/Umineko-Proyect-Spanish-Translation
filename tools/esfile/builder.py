@@ -93,18 +93,19 @@ def validate_entry_for_build(entry: CatalogEntry, *, strict: bool = True) -> Non
                     f"Dialogue entry {entry.id} segment {expected_idx} contains forbidden '[' or ']' bracket "
                     f"(control markers belong in 'markers', not segment text)."
                 )
-            if strict:
-                _validate_brace_balance(seg.text, entry.id, f"segment {expected_idx}")
             try:
                 seg.text.encode("utf-8", errors="strict")
             except UnicodeEncodeError as exc:
                 raise EsFileValidationError(
                     f"Dialogue entry {entry.id} segment {expected_idx} is not valid UTF-8: {exc}"
                 ) from exc
+        if strict and not entry.has_unbalanced_braces:
+            full_dialogue_text = "".join(seg.text for seg in entry.segments)
+            _validate_brace_balance(full_dialogue_text, entry.id, "dialogue")
     else:
         if "\x00" in entry.text:
             raise EsFileValidationError(f"Entry {entry.id} contains NUL byte.")
-        if '"' in entry.text:
+        if '"' in entry.text and not entry.has_stray_backtick:
             raise EsFileValidationError(
                 f"Entry {entry.id} contains unescaped double quote (\") which breaks ONScripter string literal."
             )
@@ -112,7 +113,7 @@ def validate_entry_for_build(entry: CatalogEntry, *, strict: bool = True) -> Non
             raise EsFileValidationError(
                 f"Entry {entry.id} contains unexpected literal newline (use '{{n}}' inline tag)."
             )
-        if strict:
+        if strict and not entry.has_unbalanced_braces:
             _validate_brace_balance(entry.text, entry.id, "text")
         try:
             entry.text.encode("utf-8", errors="strict")
