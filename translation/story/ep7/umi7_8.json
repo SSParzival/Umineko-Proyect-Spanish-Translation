@@ -352,7 +352,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"Estríctamente hablando, no es una persona.",
+          "text": "\"Estrictamente hablando, no es una persona.",
           "inline_tags": []
         },
         {
@@ -363,7 +363,7 @@
           ]
         }
       ],
-      "text": "\"Estríctamente hablando, no es una persona.  Es un concepto llamado \"la Bruja Dorada {f:5:Beatrice}\".",
+      "text": "\"Estrictamente hablando, no es una persona.  Es un concepto llamado \"la Bruja Dorada {f:5:Beatrice}\".",
       "inline_tags": [
         "{f:5:Beatrice}"
       ],
@@ -6116,7 +6116,7 @@
         },
         {
           "index": 1,
-          "text": " Y, al parecer, provoco algún tipo de incidente.",
+          "text": " Y, al parecer, provocó algún tipo de incidente.",
           "inline_tags": []
         },
         {
@@ -6125,7 +6125,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Yo... parece que en otro mundo soy conocida como una bruja.  Y, al parecer, provoco algún tipo de incidente.  ¿Es ese mi pecado?\"",
+      "text": "\"Yo... parece que en otro mundo soy conocida como una bruja.  Y, al parecer, provocó algún tipo de incidente.  ¿Es ese mi pecado?\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

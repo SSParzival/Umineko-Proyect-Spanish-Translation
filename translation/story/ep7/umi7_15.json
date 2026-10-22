@@ -5475,11 +5475,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Entonces... Repentinamente, alguién mencionó a Battler‐san, y me sobresalté.",
+          "text": "Entonces... Repentinamente, alguien mencionó a Battler‐san, y me sobresalté.",
           "inline_tags": []
         }
       ],
-      "text": "Entonces... Repentinamente, alguién mencionó a Battler‐san, y me sobresalté.",
+      "text": "Entonces... Repentinamente, alguien mencionó a Battler‐san, y me sobresalté.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -5586,7 +5586,7 @@
         },
         {
           "index": 1,
-          "text": " le está yendó muy bien.",
+          "text": " le está yendo muy bien.",
           "inline_tags": []
         },
         {
@@ -5595,7 +5595,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Sí,  le está yendó muy bien.  El otro día fui junto con Ange, y tomamos algo de té con él.\"",
+      "text": "\"Sí,  le está yendo muy bien.  El otro día fui junto con Ange, y tomamos algo de té con él.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -5662,7 +5662,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "Según Kyrie-san, la pelea entre Batller-san y Rudolf-sama se había tranquilizado desde hace un tiempo.",
+          "text": "Según Kyrie-san, la pelea entre Battler-san y Rudolf-sama se había tranquilizado desde hace un tiempo.",
           "inline_tags": []
         },
         {
@@ -5671,7 +5671,7 @@
           "inline_tags": []
         }
       ],
-      "text": "Según Kyrie-san, la pelea entre Batller-san y Rudolf-sama se había tranquilizado desde hace un tiempo.  Pero ambos eran demasiado tercos, y no habían encontrado una buena oportunidad para reconciliarse.",
+      "text": "Según Kyrie-san, la pelea entre Battler-san y Rudolf-sama se había tranquilizado desde hace un tiempo.  Pero ambos eran demasiado tercos, y no habían encontrado una buena oportunidad para reconciliarse.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -5969,11 +5969,11 @@
         },
         {
           "index": 1,
-          "text": " Para entonces, se habrá convertido en alguién admirable.",
+          "text": " Para entonces, se habrá convertido en alguien admirable.",
           "inline_tags": []
         }
       ],
-      "text": "... Seguramente volverá.  Para entonces, se habrá convertido en alguién admirable.",
+      "text": "... Seguramente volverá.  Para entonces, se habrá convertido en alguien admirable.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -8207,7 +8207,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "... Para alguién externo, esta historia podría parecer ridícula.",
+          "text": "... Para alguien externo, esta historia podría parecer ridícula.",
           "inline_tags": []
         },
         {
@@ -8218,7 +8218,7 @@
           ]
         }
       ],
-      "text": "... Para alguién externo, esta historia podría parecer ridícula. {n}La promesa que hizo Battler pudo haber sido una ilusión todo este tiempo.",
+      "text": "... Para alguien externo, esta historia podría parecer ridícula. {n}La promesa que hizo Battler pudo haber sido una ilusión todo este tiempo.",
       "inline_tags": [
         "{n}"
       ],

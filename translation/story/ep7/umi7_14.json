@@ -1985,11 +1985,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"Esa mala suerte... dió nacimiento al motivo de tu crimen.\"",
+          "text": "\"Esa mala suerte... dio nacimiento al motivo de tu crimen.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Esa mala suerte... dió nacimiento al motivo de tu crimen.\"",
+      "text": "\"Esa mala suerte... dio nacimiento al motivo de tu crimen.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -2028,7 +2028,7 @@
         },
         {
           "index": 1,
-          "text": " ‘¿Por qué despues de seis largos años?...",
+          "text": " ‘¿Por qué después de seis largos años?...",
           "inline_tags": []
         },
         {
@@ -2037,7 +2037,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"... Pensé en ello...  ‘¿Por qué despues de seis largos años?...  ¿Por qué vuelves ahora?’\"",
+      "text": "\"... Pensé en ello...  ‘¿Por qué después de seis largos años?...  ¿Por qué vuelves ahora?’\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -10255,11 +10255,11 @@
         },
         {
           "index": 1,
-          "text": " Muchisímas gracias.\"",
+          "text": " Muchísimas gracias.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"*risita*...  Muchisímas gracias.\"",
+      "text": "\"*risita*...  Muchísimas gracias.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -12178,7 +12178,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "Era casi divetido de ver...",
+          "text": "Era casi divertido de ver...",
           "inline_tags": []
         },
         {
@@ -12187,7 +12187,7 @@
           "inline_tags": []
         }
       ],
-      "text": "Era casi divetido de ver...  No pude evitar reírme.",
+      "text": "Era casi divertido de ver...  No pude evitar reírme.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -12317,11 +12317,11 @@
         },
         {
           "index": 3,
-          "text": " ¿Vendrá por mí algun día?",
+          "text": " ¿Vendrá por mí algún día?",
           "inline_tags": []
         }
       ],
-      "text": "¿Cuándo regresará? {n}¿Cuándo vendrá por mí? {n}Cuándo... no es la pregunta...  ¿Vendrá por mí algun día?",
+      "text": "¿Cuándo regresará? {n}¿Cuándo vendrá por mí? {n}Cuándo... no es la pregunta...  ¿Vendrá por mí algún día?",
       "inline_tags": [
         "{n}",
         "{n}"

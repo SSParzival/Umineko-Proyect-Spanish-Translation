@@ -11683,13 +11683,13 @@
       "segments": [
         {
           "index": 0,
-          "text": "Quiza... ese momento marca el nacimiento de la {f:5:Beatrice} de 1986.",
+          "text": "Quizá... ese momento marca el nacimiento de la {f:5:Beatrice} de 1986.",
           "inline_tags": [
             "{f:5:Beatrice}"
           ]
         }
       ],
-      "text": "Quiza... ese momento marca el nacimiento de la {f:5:Beatrice} de 1986.",
+      "text": "Quizá... ese momento marca el nacimiento de la {f:5:Beatrice} de 1986.",
       "inline_tags": [
         "{f:5:Beatrice}"
       ],

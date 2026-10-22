@@ -3151,7 +3151,7 @@
         },
         {
           "index": 2,
-          "text": " Prometeme que no te vas a reír, pase lo que pase.",
+          "text": " Prométeme que no te vas a reír, pase lo que pase.",
           "inline_tags": []
         },
         {
@@ -3160,7 +3160,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"¿Sobre {f:5:Beatrice}, verdad?...  P-Puedo contártelo, pero... ¿me prometes algo?  Prometeme que no te vas a reír, pase lo que pase.  Ahora que lo pienso, creo que... seguramente estaba medio dormida o algo así.\"",
+      "text": "\"¿Sobre {f:5:Beatrice}, verdad?...  P-Puedo contártelo, pero... ¿me prometes algo?  Prométeme que no te vas a reír, pase lo que pase.  Ahora que lo pienso, creo que... seguramente estaba medio dormida o algo así.\"",
       "inline_tags": [
         "{f:5:Beatrice}"
       ],
@@ -8423,7 +8423,7 @@
         },
         {
           "index": 1,
-          "text": " No necesito que George nii-san me diga que no arme un escándalo sobre que Papa Noel no existe...",
+          "text": " No necesito que George nii-san me diga que no arme un escándalo sobre que Papá Noel no existe...",
           "inline_tags": []
         },
         {
@@ -8432,7 +8432,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Por eso no puedo con esas cosas, simplemente me resultan insoportables.  No necesito que George nii-san me diga que no arme un escándalo sobre que Papa Noel no existe...  Pero eso no significa que exista de verdad.\"",
+      "text": "\"Por eso no puedo con esas cosas, simplemente me resultan insoportables.  No necesito que George nii-san me diga que no arme un escándalo sobre que Papá Noel no existe...  Pero eso no significa que exista de verdad.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

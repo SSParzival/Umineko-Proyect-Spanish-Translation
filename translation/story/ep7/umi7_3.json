@@ -387,11 +387,11 @@
         },
         {
           "index": 1,
-          "text": " Dejame expresar mis condolencias.\"",
+          "text": " Déjame expresar mis condolencias.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Soy Willard.  Dejame expresar mis condolencias.\"",
+      "text": "\"Soy Willard.  Déjame expresar mis condolencias.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -1369,11 +1369,11 @@
         },
         {
           "index": 4,
-          "text": " Esa era la niña que fue críada en Kuwadorian.\"",
+          "text": " Esa era la niña que fue criada en Kuwadorian.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Buen punto...  La Beatrice que conozco...  es la mujer que amabas, la que conociste antes de que la mansión en Rokkenjima fuera siquiera construida.  Sin embargo, probablemente se fue de este mundo, dejando atrás una hija.  Esa era la niña que fue críada en Kuwadorian.\"",
+      "text": "\"Buen punto...  La Beatrice que conozco...  es la mujer que amabas, la que conociste antes de que la mansión en Rokkenjima fuera siquiera construida.  Sin embargo, probablemente se fue de este mundo, dejando atrás una hija.  Esa era la niña que fue criada en Kuwadorian.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -1487,7 +1487,7 @@
         },
         {
           "index": 1,
-          "text": " También lo mencionaste cuando estabamos hablando con la tía Rosa...",
+          "text": " También lo mencionaste cuando estábamos hablando con la tía Rosa...",
           "inline_tags": []
         },
         {
@@ -1496,7 +1496,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"... Ese nombre, Kuwadorian...  También lo mencionaste cuando estabamos hablando con la tía Rosa...  ¿Qué demonios significa?\"",
+      "text": "\"... Ese nombre, Kuwadorian...  También lo mencionaste cuando estábamos hablando con la tía Rosa...  ¿Qué demonios significa?\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -2223,7 +2223,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"Sin embargo, debido a los ojos azules del bebé, su hermoso cabello rubió, y sus rasgos faciales que se asemejaban a los de una Beatrice más joven,",
+          "text": "\"Sin embargo, debido a los ojos azules del bebé, su hermoso cabello rubio, y sus rasgos faciales que se asemejaban a los de una Beatrice más joven,",
           "inline_tags": []
         },
         {
@@ -2237,7 +2237,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Sin embargo, debido a los ojos azules del bebé, su hermoso cabello rubió, y sus rasgos faciales que se asemejaban a los de una Beatrice más joven,  si gradualmente hubiera empezado a pensar que ella podría ser en realidad la reencarnación de Beatrice,  no sería una sorpresa.\"",
+      "text": "\"Sin embargo, debido a los ojos azules del bebé, su hermoso cabello rubio, y sus rasgos faciales que se asemejaban a los de una Beatrice más joven,  si gradualmente hubiera empezado a pensar que ella podría ser en realidad la reencarnación de Beatrice,  no sería una sorpresa.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -6112,11 +6112,11 @@
         },
         {
           "index": 1,
-          "text": " No intentes enteder.\"",
+          "text": " No intentes entender.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Es el poder teatral que {f:5:Bernkastel} me dio...  No intentes enteder.\"",
+      "text": "\"Es el poder teatral que {f:5:Bernkastel} me dio...  No intentes entender.\"",
       "inline_tags": [
         "{f:5:Bernkastel}"
       ],
@@ -6282,7 +6282,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"... Dejame presentarme de nuevo...",
+          "text": "\"... Déjame presentarme de nuevo...",
           "inline_tags": []
         },
         {
@@ -6291,7 +6291,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"... Dejame presentarme de nuevo...  Soy Ushiromiya Kinzo.\"",
+      "text": "\"... Déjame presentarme de nuevo...  Soy Ushiromiya Kinzo.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
