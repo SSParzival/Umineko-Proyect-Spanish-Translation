@@ -3047,11 +3047,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"... Me apuesto algo a que alguien lo entrenando infernalmente.\"",
+          "text": "\"... Me apuesto algo a que alguien lo está entrenando infernalmente.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"... Me apuesto algo a que alguien lo entrenando infernalmente.\"",
+      "text": "\"... Me apuesto algo a que alguien lo está entrenando infernalmente.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

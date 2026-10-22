@@ -8471,12 +8471,12 @@
         },
         {
           "index": 1,
-          "text": " {ruby:and they're still keeping a lookout to make sure none of you:y siguen vigilando que ninguno de ustedes} {ruby:approach the submarine,:se acerque al submarino,} {ruby:even though it's nothing more than:aunque ahora no sea más que} {ruby:an unusable scrap heap now.:que un montón de chatarra inservible.}",
+          "text": " {ruby:and they're still keeping a lookout to make sure none of you:y siguen vigilando que ninguno de ustedes} {ruby:approach the submarine,:se acerque al submarino,} {ruby:even though it's nothing more than:aunque ahora no sea más que} {ruby:an unusable scrap heap now.:un montón de chatarra inservible.}",
           "inline_tags": [
             "{ruby:and they're still keeping a lookout to make sure none of you:y siguen vigilando que ninguno de ustedes}",
             "{ruby:approach the submarine,:se acerque al submarino,}",
             "{ruby:even though it's nothing more than:aunque ahora no sea más que}",
-            "{ruby:an unusable scrap heap now.:que un montón de chatarra inservible.}"
+            "{ruby:an unusable scrap heap now.:un montón de chatarra inservible.}"
           ]
         },
         {
@@ -8488,13 +8488,13 @@
           ]
         }
       ],
-      "text": "\"<{ruby:They have a person stand watch every time they sleep,:Tienen a una persona vigilando cada vez que duermen,}  {ruby:and they're still keeping a lookout to make sure none of you:y siguen vigilando que ninguno de ustedes} {ruby:approach the submarine,:se acerque al submarino,} {ruby:even though it's nothing more than:aunque ahora no sea más que} {ruby:an unusable scrap heap now.:que un montón de chatarra inservible.}  {ruby:It almost feels as though they're acting openly hostile:Casi parece como si estuvieran actuando abiertamente de forma hostil} {ruby:towards the Japanese, and that bothers me.:hacia los japoneses, y eso me molesta.}>\"",
+      "text": "\"<{ruby:They have a person stand watch every time they sleep,:Tienen a una persona vigilando cada vez que duermen,}  {ruby:and they're still keeping a lookout to make sure none of you:y siguen vigilando que ninguno de ustedes} {ruby:approach the submarine,:se acerque al submarino,} {ruby:even though it's nothing more than:aunque ahora no sea más que} {ruby:an unusable scrap heap now.:un montón de chatarra inservible.}  {ruby:It almost feels as though they're acting openly hostile:Casi parece como si estuvieran actuando abiertamente de forma hostil} {ruby:towards the Japanese, and that bothers me.:hacia los japoneses, y eso me molesta.}>\"",
       "inline_tags": [
         "{ruby:They have a person stand watch every time they sleep,:Tienen a una persona vigilando cada vez que duermen,}",
         "{ruby:and they're still keeping a lookout to make sure none of you:y siguen vigilando que ninguno de ustedes}",
         "{ruby:approach the submarine,:se acerque al submarino,}",
         "{ruby:even though it's nothing more than:aunque ahora no sea más que}",
-        "{ruby:an unusable scrap heap now.:que un montón de chatarra inservible.}",
+        "{ruby:an unusable scrap heap now.:un montón de chatarra inservible.}",
         "{ruby:It almost feels as though they're acting openly hostile:Casi parece como si estuvieran actuando abiertamente de forma hostil}",
         "{ruby:towards the Japanese, and that bothers me.:hacia los japoneses, y eso me molesta.}"
       ],

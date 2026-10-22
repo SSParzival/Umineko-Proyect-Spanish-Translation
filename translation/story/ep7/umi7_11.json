@@ -2578,9 +2578,9 @@
       "segments": [
         {
           "index": 0,
-          "text": "{i:¡Hurra , ya estoy en casa!}",
+          "text": "{i:¡Hurra, ya estoy en casa!}",
           "inline_tags": [
-            "{i:¡Hurra , ya estoy en casa!}"
+            "{i:¡Hurra, ya estoy en casa!}"
           ]
         },
         {
@@ -2591,9 +2591,9 @@
           ]
         }
       ],
-      "text": "{i:¡Hurra , ya estoy en casa!}  {i:¡Por fin he vuelto!}",
+      "text": "{i:¡Hurra, ya estoy en casa!}  {i:¡Por fin he vuelto!}",
       "inline_tags": [
-        "{i:¡Hurra , ya estoy en casa!}",
+        "{i:¡Hurra, ya estoy en casa!}",
         "{i:¡Por fin he vuelto!}"
       ],
       "has_stray_backtick": false,

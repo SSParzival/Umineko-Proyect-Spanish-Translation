@@ -19155,16 +19155,16 @@
         },
         {
           "index": 1,
-          "text": " Espero con ansias su {f:5:desafio}.\"",
+          "text": " Espero con ansias su {f:5:desafío}.\"",
           "inline_tags": [
-            "{f:5:desafio}"
+            "{f:5:desafío}"
           ]
         }
       ],
-      "text": "\"... Suena {f:5:interesante}.  Espero con ansias su {f:5:desafio}.\"",
+      "text": "\"... Suena {f:5:interesante}.  Espero con ansias su {f:5:desafío}.\"",
       "inline_tags": [
         "{f:5:interesante}",
-        "{f:5:desafio}"
+        "{f:5:desafío}"
       ],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -28552,15 +28552,15 @@
       "segments": [
         {
           "index": 0,
-          "text": "{p:1:Siendo más específicos, no tuvo opotunidad de escapar excepto por el tiempo en el que estuve en el baño}.",
+          "text": "{p:1:Siendo más específicos, no tuvo oportunidad de escapar excepto por el tiempo en el que estuve en el baño}.",
           "inline_tags": [
-            "{p:1:Siendo más específicos, no tuvo opotunidad de escapar excepto por el tiempo en el que estuve en el baño}"
+            "{p:1:Siendo más específicos, no tuvo oportunidad de escapar excepto por el tiempo en el que estuve en el baño}"
           ]
         }
       ],
-      "text": "{p:1:Siendo más específicos, no tuvo opotunidad de escapar excepto por el tiempo en el que estuve en el baño}.",
+      "text": "{p:1:Siendo más específicos, no tuvo oportunidad de escapar excepto por el tiempo en el que estuve en el baño}.",
       "inline_tags": [
-        "{p:1:Siendo más específicos, no tuvo opotunidad de escapar excepto por el tiempo en el que estuve en el baño}"
+        "{p:1:Siendo más específicos, no tuvo oportunidad de escapar excepto por el tiempo en el que estuve en el baño}"
       ],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -32778,10 +32778,10 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"¡¡L‐Lady {f:5:Bernkastel}, dé su aprobación para la {f:5:ressurrección}!!...",
+          "text": "\"¡¡L‐Lady {f:5:Bernkastel}, dé su aprobación para la {f:5:resurrección}!!...",
           "inline_tags": [
             "{f:5:Bernkastel}",
-            "{f:5:ressurrección}"
+            "{f:5:resurrección}"
           ]
         },
         {
@@ -32793,10 +32793,10 @@
           ]
         }
       ],
-      "text": "\"¡¡L‐Lady {f:5:Bernkastel}, dé su aprobación para la {f:5:ressurrección}!!...  ¡¿Lady {f:5:Bernkastel}?!... ¡¿A-A dónde se {f:5:fue}?!...\"",
+      "text": "\"¡¡L‐Lady {f:5:Bernkastel}, dé su aprobación para la {f:5:resurrección}!!...  ¡¿Lady {f:5:Bernkastel}?!... ¡¿A-A dónde se {f:5:fue}?!...\"",
       "inline_tags": [
         "{f:5:Bernkastel}",
-        "{f:5:ressurrección}",
+        "{f:5:resurrección}",
         "{f:5:Bernkastel}",
         "{f:5:fue}"
       ],

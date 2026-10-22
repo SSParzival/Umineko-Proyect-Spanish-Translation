@@ -5144,9 +5144,9 @@
       "segments": [
         {
           "index": 0,
-          "text": "«{ruby:Solo pochi di loro, incluso Yamamoto, sembrano dei combattenti.:Solo unos pocos de ellos, Yamamoto incluído, parecen luchadores.}",
+          "text": "«{ruby:Solo pochi di loro, incluso Yamamoto, sembrano dei combattenti.:Solo unos pocos de ellos, Yamamoto incluido, parecen luchadores.}",
           "inline_tags": [
-            "{ruby:Solo pochi di loro, incluso Yamamoto, sembrano dei combattenti.:Solo unos pocos de ellos, Yamamoto incluído, parecen luchadores.}"
+            "{ruby:Solo pochi di loro, incluso Yamamoto, sembrano dei combattenti.:Solo unos pocos de ellos, Yamamoto incluido, parecen luchadores.}"
           ]
         },
         {
@@ -5165,9 +5165,9 @@
           ]
         }
       ],
-      "text": "«{ruby:Solo pochi di loro, incluso Yamamoto, sembrano dei combattenti.:Solo unos pocos de ellos, Yamamoto incluído, parecen luchadores.}  {ruby:Gli altri sono solo operai assegnati all'esercito.:El resto son simples obreros adscritos al ejército.}  {ruby:Può sembrare che abbiano il vantaggio numerico,:Puede parecer que ellos tienen la ventaja numérica,} {ruby:ma noi abbiamo una forza militare superiore.:pero nosotros tenemos mayor fuerza militar.}»",
+      "text": "«{ruby:Solo pochi di loro, incluso Yamamoto, sembrano dei combattenti.:Solo unos pocos de ellos, Yamamoto incluido, parecen luchadores.}  {ruby:Gli altri sono solo operai assegnati all'esercito.:El resto son simples obreros adscritos al ejército.}  {ruby:Può sembrare che abbiano il vantaggio numerico,:Puede parecer que ellos tienen la ventaja numérica,} {ruby:ma noi abbiamo una forza militare superiore.:pero nosotros tenemos mayor fuerza militar.}»",
       "inline_tags": [
-        "{ruby:Solo pochi di loro, incluso Yamamoto, sembrano dei combattenti.:Solo unos pocos de ellos, Yamamoto incluído, parecen luchadores.}",
+        "{ruby:Solo pochi di loro, incluso Yamamoto, sembrano dei combattenti.:Solo unos pocos de ellos, Yamamoto incluido, parecen luchadores.}",
         "{ruby:Gli altri sono solo operai assegnati all'esercito.:El resto son simples obreros adscritos al ejército.}",
         "{ruby:Può sembrare che abbiano il vantaggio numerico,:Puede parecer que ellos tienen la ventaja numérica,}",
         "{ruby:ma noi abbiamo una forza militare superiore.:pero nosotros tenemos mayor fuerza militar.}"

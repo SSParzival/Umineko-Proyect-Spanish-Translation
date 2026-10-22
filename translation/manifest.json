@@ -921,7 +921,7 @@
       "episode": "ep6",
       "section": "umi6_18",
       "entry_count": 922,
-      "sha256": "65b9bdea12484fa83fdd44c08c78f5182b402325844c751415aa3d16ff11ba5d"
+      "sha256": "5b2a8a66ece6e32db9a98ca5a7548ac2ff811a095f060dfa0d109789f402936f"
     },
     {
       "path": "story/ep6/umi6_2.json",
@@ -1033,7 +1033,7 @@
       "episode": "ep7",
       "section": "umi7_11",
       "entry_count": 243,
-      "sha256": "9ded44ce1a2701ba81b5fb71d5c4defeb1e5127c6235693f8b32d8cdf5476718"
+      "sha256": "730b9e34e7c5998327b5cb50f486fb97f41d55ec4598e5d83c54f407ed4a9eb8"
     },
     {
       "path": "story/ep7/umi7_12.json",
@@ -1113,7 +1113,7 @@
       "episode": "ep7",
       "section": "umi7_4",
       "entry_count": 259,
-      "sha256": "3bc4521eae29a0433ee42e984e10deb7af2a9724fc09b338f43f74a8c3f22c2d"
+      "sha256": "e9a490eca7e55616bf0114c756e79bb295a343a4f5cc18802c26d64e0cfa948d"
     },
     {
       "path": "story/ep7/umi7_5.json",
@@ -1121,7 +1121,7 @@
       "episode": "ep7",
       "section": "umi7_5",
       "entry_count": 461,
-      "sha256": "93fe9d81268bd5a57772b13e6713cd566b035e15d6c5924c4238a72a292d6843"
+      "sha256": "42329b28d11b0407af08ba9cb2517d8ed565d29d9506b24ac3767bb7b1da33fb"
     },
     {
       "path": "story/ep7/umi7_6.json",
@@ -1177,7 +1177,7 @@
       "episode": "ep8",
       "section": "teatime_8",
       "entry_count": 107,
-      "sha256": "cb3e1a271fc20b9f07a7e23c24cf352002a2edc9e9a7ce35b3570245006dcda7"
+      "sha256": "e2dac1d5cfd183ccc9988dd42743309ff02d5e2a4a295bce624bda876fee8ae0"
     },
     {
       "path": "story/ep8/umi8_1.json",
