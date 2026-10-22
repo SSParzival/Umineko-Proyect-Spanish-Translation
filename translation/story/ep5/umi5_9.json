@@ -3648,11 +3648,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "El bebé había visto... un grupo de mariposas doradas desapareciendo entre medio de los arboles.",
+          "text": "El bebé había visto... un grupo de mariposas doradas desapareciendo entre medio de los árboles.",
           "inline_tags": []
         }
       ],
-      "text": "El bebé había visto... un grupo de mariposas doradas desapareciendo entre medio de los arboles.",
+      "text": "El bebé había visto... un grupo de mariposas doradas desapareciendo entre medio de los árboles.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -6626,7 +6626,7 @@
         },
         {
           "index": 2,
-          "text": " Estoy observandote desde muy cerca.",
+          "text": " Estoy observándote desde muy cerca.",
           "inline_tags": []
         },
         {
@@ -6640,7 +6640,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Si sigues mi órdenes, guardaré tu secreto, madre...  No rompas nuestra promesa...  Estoy observandote desde muy cerca.  Puedo saber fácilmente si has apagado o no las luces, o si estás hablando por teléfono...  Y si quisiera, podría incluso besar tu rostro mientras duermes.\"",
+      "text": "\"Si sigues mi órdenes, guardaré tu secreto, madre...  No rompas nuestra promesa...  Estoy observándote desde muy cerca.  Puedo saber fácilmente si has apagado o no las luces, o si estás hablando por teléfono...  Y si quisiera, podría incluso besar tu rostro mientras duermes.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -9423,7 +9423,7 @@
         },
         {
           "index": 2,
-          "text": " ¡Siempre habías tenido a alguien ayudándote, alguien comprensivo contigo, así que me pregunto cuán lejos llegaras por tu cuenta!",
+          "text": " ¡Siempre habías tenido a alguien ayudándote, alguien comprensivo contigo, así que me pregunto cuán lejos llegarás por tu cuenta!",
           "inline_tags": []
         },
         {
@@ -9432,7 +9432,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Oh, ¿es eso cierto?  ¡¿Finalmente estás de pie por tu cuenta?!  ¡Siempre habías tenido a alguien ayudándote, alguien comprensivo contigo, así que me pregunto cuán lejos llegaras por tu cuenta!  ¡Entretenme!\"",
+      "text": "\"Oh, ¿es eso cierto?  ¡¿Finalmente estás de pie por tu cuenta?!  ¡Siempre habías tenido a alguien ayudándote, alguien comprensivo contigo, así que me pregunto cuán lejos llegarás por tu cuenta!  ¡Entretenme!\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

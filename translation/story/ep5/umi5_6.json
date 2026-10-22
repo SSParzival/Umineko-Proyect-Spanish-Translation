@@ -252,11 +252,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"Me temó que las sospechas generadas desde el año pasado no son la única causa.\"",
+          "text": "\"Me temo que las sospechas generadas desde el año pasado no son la única causa.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Me temó que las sospechas generadas desde el año pasado no son la única causa.\"",
+      "text": "\"Me temo que las sospechas generadas desde el año pasado no son la única causa.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -821,7 +821,7 @@
         },
         {
           "index": 1,
-          "text": " La alquimía de Krauss pronto verá grandes resultados.",
+          "text": " La alquimia de Krauss pronto verá grandes resultados.",
           "inline_tags": []
         },
         {
@@ -835,7 +835,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"... Tranquilízate, lo comprendo...  La alquimía de Krauss pronto verá grandes resultados.  Si logramos superar este año, seremos capaces arreglárnoslas.  Así que no te pongas nerviosa.\"",
+      "text": "\"... Tranquilízate, lo comprendo...  La alquimia de Krauss pronto verá grandes resultados.  Si logramos superar este año, seremos capaces arreglárnoslas.  Así que no te pongas nerviosa.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -1276,7 +1276,7 @@
         },
         {
           "index": 1,
-          "text": " Tras aumentar su espesor toda la noche, la toxina prodría ser capaz de corroer la barrera de habitación cerrada con facilidad.",
+          "text": " Tras aumentar su espesor toda la noche, la toxina podría ser capaz de corroer la barrera de habitación cerrada con facilidad.",
           "inline_tags": []
         },
         {
@@ -1290,7 +1290,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Pero debido a eso, la toxina se ha vuelto incluso más densa...  Tras aumentar su espesor toda la noche, la toxina prodría ser capaz de corroer la barrera de habitación cerrada con facilidad.  Ya sea que mantengamos el fuerte o que renunciemos a ese plan,  no seremos capaces de resistir mañana a menos que preparemos una nueva estrategia y una nueva barrera.\"",
+      "text": "\"Pero debido a eso, la toxina se ha vuelto incluso más densa...  Tras aumentar su espesor toda la noche, la toxina podría ser capaz de corroer la barrera de habitación cerrada con facilidad.  Ya sea que mantengamos el fuerte o que renunciemos a ese plan,  no seremos capaces de resistir mañana a menos que preparemos una nueva estrategia y una nueva barrera.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -3256,7 +3256,7 @@
         },
         {
           "index": 3,
-          "text": " ¿Cómo es qué alguién pierde en el tsumeshogi?",
+          "text": " ¿Cómo es que alguien pierde en el tsumeshogi?",
           "inline_tags": []
         },
         {
@@ -3265,7 +3265,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"... Gracias...  Ronove lo dijo hace poco.  Esto es como el tsumeshogi, contigo a la defensiva...  ¿Cómo es qué alguién pierde en el tsumeshogi?  Si le hacen jaque mate a su rey, ¿cierto?\"",
+      "text": "\"... Gracias...  Ronove lo dijo hace poco.  Esto es como el tsumeshogi, contigo a la defensiva...  ¿Cómo es que alguien pierde en el tsumeshogi?  Si le hacen jaque mate a su rey, ¿cierto?\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -3989,7 +3989,7 @@
         },
         {
           "index": 2,
-          "text": " y la reconstruyo en algo tan magnifico, que ahora es algo que desea proteger...",
+          "text": " y la reconstruyó en algo tan magnífico, que ahora es algo que desea proteger...",
           "inline_tags": []
         },
         {
@@ -3998,7 +3998,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"... La familia Ushiromiya debió haberse derrumbado tras el Gran Terremoto de Kanto.  Sin embargo, el genio loco {f:5:Goldsmith} la revivió,  y la reconstruyo en algo tan magnifico, que ahora es algo que desea proteger...  Así que, esta vez, depende de usted y de su esposo, el nuevo líder y su esposa, hacer lo mismo.\"",
+      "text": "\"... La familia Ushiromiya debió haberse derrumbado tras el Gran Terremoto de Kanto.  Sin embargo, el genio loco {f:5:Goldsmith} la revivió,  y la reconstruyó en algo tan magnífico, que ahora es algo que desea proteger...  Así que, esta vez, depende de usted y de su esposo, el nuevo líder y su esposa, hacer lo mismo.\"",
       "inline_tags": [
         "{f:5:Goldsmith}"
       ],
@@ -5746,7 +5746,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"... Esa chica estaba tan segura de que su padre era el próximo líder de la familía...",
+          "text": "\"... Esa chica estaba tan segura de que su padre era el próximo líder de la familia...",
           "inline_tags": []
         },
         {
@@ -5760,7 +5760,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"... Esa chica estaba tan segura de que su padre era el próximo líder de la familía...  Cuando se despierte mañana, y se dé cuenta de que has heredado todo el oro,  y de que su padre ya no es el sucesor, me pregunto, ¿qué tipo de expresión tendrá su rostro?...\"",
+      "text": "\"... Esa chica estaba tan segura de que su padre era el próximo líder de la familia...  Cuando se despierte mañana, y se dé cuenta de que has heredado todo el oro,  y de que su padre ya no es el sucesor, me pregunto, ¿qué tipo de expresión tendrá su rostro?...\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -6552,11 +6552,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Si razono lo qué sucederá después, tal y como sugirió Erika...",
+          "text": "Si razono lo que sucederá después, tal y como sugirió Erika...",
           "inline_tags": []
         }
       ],
-      "text": "Si razono lo qué sucederá después, tal y como sugirió Erika...",
+      "text": "Si razono lo que sucederá después, tal y como sugirió Erika...",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

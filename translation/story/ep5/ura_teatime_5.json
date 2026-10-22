@@ -8855,13 +8855,13 @@
         },
         {
           "index": 2,
-          "text": " pero en cada intento, {f:5:Virgilia} lo notaba inmediatamente y se reia...",
+          "text": " pero en cada intento, {f:5:Virgilia} lo notaba inmediatamente y se reía...",
           "inline_tags": [
             "{f:5:Virgilia}"
           ]
         }
       ],
-      "text": "Intenté un par de veces cambiar de tema...  y torpemente saqué temas más delicados en un intento de devolver el ambiente a algo más apropiado para una fiesta de té en la lluviosa Tierra Dorada,  pero en cada intento, {f:5:Virgilia} lo notaba inmediatamente y se reia...",
+      "text": "Intenté un par de veces cambiar de tema...  y torpemente saqué temas más delicados en un intento de devolver el ambiente a algo más apropiado para una fiesta de té en la lluviosa Tierra Dorada,  pero en cada intento, {f:5:Virgilia} lo notaba inmediatamente y se reía...",
       "inline_tags": [
         "{f:5:Virgilia}"
       ],
@@ -24352,13 +24352,13 @@
         },
         {
           "index": 4,
-          "text": " ¡¡En este caso en especifico, la verdad roja no será {f:5:permitida}!!}...\"",
+          "text": " ¡¡En este caso en específico, la verdad roja no será {f:5:permitida}!!}...\"",
           "inline_tags": [
             "{f:5:permitida}"
           ]
         }
       ],
-      "text": "\"{p:2:¡¿Puede mostrarnos que este {f:5:cuerpo} es de Ushiromiya Kinzo?!  ¡¡Sin importar qué tan similar sea, a menos que pueda probar que es él,  es posible decir que era un cadáver de reemplazo de alguien {f:5:más}!!  ¡¿Puedes demostrar que es el cadáver de Kinzo {f:5:solo} con una verdad humana?!  ¡¡En este caso en especifico, la verdad roja no será {f:5:permitida}!!}...\"",
+      "text": "\"{p:2:¡¿Puede mostrarnos que este {f:5:cuerpo} es de Ushiromiya Kinzo?!  ¡¡Sin importar qué tan similar sea, a menos que pueda probar que es él,  es posible decir que era un cadáver de reemplazo de alguien {f:5:más}!!  ¡¿Puedes demostrar que es el cadáver de Kinzo {f:5:solo} con una verdad humana?!  ¡¡En este caso en específico, la verdad roja no será {f:5:permitida}!!}...\"",
       "inline_tags": [
         "{f:5:cuerpo}",
         "{f:5:más}",
@@ -26769,7 +26769,7 @@
         },
         {
           "index": 1,
-          "text": " solo la involucraba diciendo cosas como \"él estaba aqui hace un segundo\" o \"él está en su estudio solo ahora\",",
+          "text": " solo la involucraba diciendo cosas como \"él estaba aquí hace un segundo\" o \"él está en su estudio solo ahora\",",
           "inline_tags": []
         },
         {
@@ -26778,7 +26778,7 @@
           "inline_tags": []
         }
       ],
-      "text": "El plan que la tía Natsuhi elaboró una vez para que pareciera que el abuelo estaba vivo...  solo la involucraba diciendo cosas como \"él estaba aqui hace un segundo\" o \"él está en su estudio solo ahora\",  aprovechando hábilmente los puntos ciegos de los familiares para fingir que estaba allí.",
+      "text": "El plan que la tía Natsuhi elaboró una vez para que pareciera que el abuelo estaba vivo...  solo la involucraba diciendo cosas como \"él estaba aquí hace un segundo\" o \"él está en su estudio solo ahora\",  aprovechando hábilmente los puntos ciegos de los familiares para fingir que estaba allí.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

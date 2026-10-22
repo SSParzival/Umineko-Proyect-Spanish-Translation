@@ -1405,11 +1405,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Justo despues de eso, Krauss subió por las escaleras, acompañado por Genji.",
+          "text": "Justo después de eso, Krauss subió por las escaleras, acompañado por Genji.",
           "inline_tags": []
         }
       ],
-      "text": "Justo despues de eso, Krauss subió por las escaleras, acompañado por Genji.",
+      "text": "Justo después de eso, Krauss subió por las escaleras, acompañado por Genji.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -9824,11 +9824,11 @@
         },
         {
           "index": 1,
-          "text": " ¿Es relmente correcto?...",
+          "text": " ¿Es realmente correcto?...",
           "inline_tags": []
         }
       ],
-      "text": "Algo tan vago como ‘para asustarnos’...  ¿Es relmente correcto?...",
+      "text": "Algo tan vago como ‘para asustarnos’...  ¿Es realmente correcto?...",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

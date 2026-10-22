@@ -705,11 +705,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "El ambiente se relajo un poco...",
+          "text": "El ambiente se relajó un poco...",
           "inline_tags": []
         }
       ],
-      "text": "El ambiente se relajo un poco...",
+      "text": "El ambiente se relajó un poco...",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -10170,7 +10170,7 @@
         },
         {
           "index": 2,
-          "text": " Estoy observandote desde muy cerca.",
+          "text": " Estoy observándote desde muy cerca.",
           "inline_tags": []
         },
         {
@@ -10184,7 +10184,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Si sigues mi órdenes, guardaré tu secreto, madre...  No rompas nuestra promesa...  Estoy observandote desde muy cerca.  Puedo saber fácilmente si has apagado o no las luces, o si estás hablando por teléfono...  Y si quisiera, podría incluso besar tu rostro mientras duermes.\"",
+      "text": "\"Si sigues mi órdenes, guardaré tu secreto, madre...  No rompas nuestra promesa...  Estoy observándote desde muy cerca.  Puedo saber fácilmente si has apagado o no las luces, o si estás hablando por teléfono...  Y si quisiera, podría incluso besar tu rostro mientras duermes.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
