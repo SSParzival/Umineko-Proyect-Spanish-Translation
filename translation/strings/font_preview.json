@@ -1,0 +1,549 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "strings.font_preview",
+  "category": "strings",
+  "rel_path": "strings/font_preview.json",
+  "episode": null,
+  "section": "font_preview",
+  "chapter": "font_preview",
+  "description": "Font preference preview dialogue lines (*goa_1e..4e, *kak_1e..10e).",
+  "entry_count": 14,
+  "entries": [
+    {
+      "id": "font_preview.goa_1e",
+      "kind": "dialogue",
+      "line_number": 578645,
+      "line_span": 1,
+      "line_ending": "LF",
+      "chapter": "load_font_preference",
+      "label": "*goa_1e",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "\t\td2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_fade_t 0][text_speed_t 10]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¡Me va a comeeeer!",
+          "inline_tags": []
+        }
+      ],
+      "text": "¡Me va a comeeeer!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "font_preview.goa_2e",
+      "kind": "dialogue",
+      "line_number": 578657,
+      "line_span": 1,
+      "line_ending": "LF",
+      "chapter": "load_font_preference",
+      "label": "*goa_2e",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "\t\td2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_fade_t 0][text_speed_t 10]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Yo me encargo de esto, tú sigue adelante!\"{n}\"¡¿Senpai?!\"",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "\"¡Yo me encargo de esto, tú sigue adelante!\"{n}\"¡¿Senpai?!\"",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "font_preview.goa_3e",
+      "kind": "dialogue",
+      "line_number": 578669,
+      "line_span": 1,
+      "line_ending": "LF",
+      "chapter": "load_font_preference",
+      "label": "*goa_3e",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "\t\td2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_fade_t 0][text_speed_t 10]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Perdón por la tardanza!!\"{n}\"Chicos... ¿Por qué están aquí?...\"",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "\"¡¡Perdón por la tardanza!!\"{n}\"Chicos... ¿Por qué están aquí?...\"",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "font_preview.goa_4e",
+      "kind": "dialogue",
+      "line_number": 578681,
+      "line_span": 1,
+      "line_ending": "LF",
+      "chapter": "load_font_preference",
+      "label": "*goa_4e",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "\t\td2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_fade_t 0][text_speed_t 10]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "haah haah",
+          "inline_tags": []
+        }
+      ],
+      "text": "haah haah",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "font_preview.kak_6e",
+      "kind": "dialogue",
+      "line_number": 578697,
+      "line_span": 1,
+      "line_ending": "LF",
+      "chapter": "load_font_preference",
+      "label": "*kak_6e",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "\t\td2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_fade_t 0][text_speed_t 10]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No, eso está mal. ¡Lo correcto sería decir que \"si un asesinato ocurrió = no es una habitación cerrada\"!",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"No, eso está mal. ¡Lo correcto sería decir que \"si un asesinato ocurrió = no es una habitación cerrada\"!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "font_preview.kak_7e",
+      "kind": "dialogue",
+      "line_number": 578709,
+      "line_span": 1,
+      "line_ending": "LF",
+      "chapter": "load_font_preference",
+      "label": "*kak_7e",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "\t\td2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_fade_t 0][text_speed_t 10]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Es inútil intentar resistirse o escapar.",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Es inútil intentar resistirse o escapar.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "font_preview.kak_9e",
+      "kind": "dialogue",
+      "line_number": 578721,
+      "line_span": 1,
+      "line_ending": "LF",
+      "chapter": "load_font_preference",
+      "label": "*kak_9e",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "\t\td2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_fade_t 0][text_speed_t 10]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y no solo Kyrie-san.{n}Jessica también había dicho lo mismo por teléfono.{n}{n}... ¡No, desde el primer momento, desde que hablé con Gohda-san y Kumasawa, y recibimos la llamada del grupo del tío Krauss,",
+          "inline_tags": [
+            "{n}",
+            "{n}",
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Y no solo Kyrie-san.{n}Jessica también había dicho lo mismo por teléfono.{n}{n}... ¡No, desde el primer momento, desde que hablé con Gohda-san y Kumasawa, y recibimos la llamada del grupo del tío Krauss,",
+      "inline_tags": [
+        "{n}",
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "font_preview.kak_1e",
+      "kind": "dialogue",
+      "line_number": 578734,
+      "line_span": 1,
+      "line_ending": "LF",
+      "chapter": "load_font_preference",
+      "label": "*kak_1e",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "\t\td2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_fade_t 0][text_speed_t 10]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Kyaa{p:0:♪}. ¡¡Sakutaro~!! ¡Cuánto tieeempo!\"{n}\"¡¡Luces tan delicio— quiero decir, lindo~ como siempre!!\"{n}\"¡¡Yo primeeero!! ¡Kyaa, hoy está tan esponjoso, suavecito, y lindo~!\"",
+          "inline_tags": [
+            "{p:0:♪}",
+            "{n}",
+            "{n}"
+          ]
+        }
+      ],
+      "text": "\"Kyaa{p:0:♪}. ¡¡Sakutaro~!! ¡Cuánto tieeempo!\"{n}\"¡¡Luces tan delicio— quiero decir, lindo~ como siempre!!\"{n}\"¡¡Yo primeeero!! ¡Kyaa, hoy está tan esponjoso, suavecito, y lindo~!\"",
+      "inline_tags": [
+        "{p:0:♪}",
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "font_preview.kak_2e",
+      "kind": "dialogue",
+      "line_number": 578746,
+      "line_span": 1,
+      "line_ending": "LF",
+      "chapter": "load_font_preference",
+      "label": "*kak_2e",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "\t\td2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_fade_t 0][text_speed_t 10]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Oooooooooooooohh, vaaaaaaamos!!! ¡¡¡Quien quiera comerse estos caramelos de plomo de parte de María, que dé un paso al frente, uwoooo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oooohhh!!!\"",
+          "inline_tags": [
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}"
+          ]
+        }
+      ],
+      "text": "\"¡¡Oooooooooooooohh, vaaaaaaamos!!! ¡¡¡Quien quiera comerse estos caramelos de plomo de parte de María, que dé un paso al frente, uwoooo{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}o{0}oooohhh!!!\"",
+      "inline_tags": [
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "font_preview.kak_3e",
+      "kind": "dialogue",
+      "line_number": 578758,
+      "line_span": 1,
+      "line_ending": "LF",
+      "chapter": "load_font_preference",
+      "label": "*kak_3e",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "\t\td2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_fade_t 0][text_speed_t 10]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\".. Esta no es una de las reglas del amo... y claramente no es una de las tuyas... Yo mismo he creado esta regla... Ya no soy un mueble... ¡Soy el cero de tu ruleta!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\".. Esta no es una de las reglas del amo... y claramente no es una de las tuyas... Yo mismo he creado esta regla... Ya no soy un mueble... ¡Soy el cero de tu ruleta!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "font_preview.kak_4e",
+      "kind": "dialogue",
+      "line_number": 578770,
+      "line_span": 1,
+      "line_ending": "LF",
+      "chapter": "load_font_preference",
+      "label": "*kak_4e",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "\t\td2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_fade_t 0][text_speed_t 10]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Genji‐san. Padre te llama. Hazle compañía.\"{n}\"Como ordene.\"",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "\"Genji‐san. Padre te llama. Hazle compañía.\"{n}\"Como ordene.\"",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "font_preview.kak_5e",
+      "kind": "dialogue",
+      "line_number": 578782,
+      "line_span": 1,
+      "line_ending": "LF",
+      "chapter": "load_font_preference",
+      "label": "*kak_5e",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "\t\td2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_fade_t 0][text_speed_t 10]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Gracias por entenderlo, Battler‐kun. Pero tienes suerte, ¿sabes?\"{n}\"¿Eh? ¿Por qué?\"{n}\"Me gustaría irme si pudiera.\"{n}\"¡Ijijiji! Apuesto a que sí. En ese caso, dejaré que los adultos disfruten de su feliz charla familiar sobre la herencia.\"",
+          "inline_tags": [
+            "{n}",
+            "{n}",
+            "{n}"
+          ]
+        }
+      ],
+      "text": "\"Gracias por entenderlo, Battler‐kun. Pero tienes suerte, ¿sabes?\"{n}\"¿Eh? ¿Por qué?\"{n}\"Me gustaría irme si pudiera.\"{n}\"¡Ijijiji! Apuesto a que sí. En ese caso, dejaré que los adultos disfruten de su feliz charla familiar sobre la herencia.\"",
+      "inline_tags": [
+        "{n}",
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "font_preview.kak_8e",
+      "kind": "dialogue",
+      "line_number": 578794,
+      "line_span": 1,
+      "line_ending": "LF",
+      "chapter": "load_font_preference",
+      "label": "*kak_8e",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "\t\td2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_fade_t 0][text_speed_t 10]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Muy bien, señorita... Sujétese de esa pared y siga caminando... Siga.. y siga.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Muy bien, señorita... Sujétese de esa pared y siga caminando... Siga.. y siga.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "font_preview.kak_10e",
+      "kind": "dialogue",
+      "line_number": 578806,
+      "line_span": 1,
+      "line_ending": "LF",
+      "chapter": "load_font_preference",
+      "label": "*kak_10e",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "\t\td2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_fade_t 0][text_speed_t 10]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Mi maldito abuelo apareció.{n}{n} Je, ¡¿está intentando ser algún tipo de caballero, bloqueando el camino entre Beato y yo?!...",
+          "inline_tags": [
+            "{n}",
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Mi maldito abuelo apareció.{n}{n} Je, ¡¿está intentando ser algún tipo de caballero, bloqueando el camino entre Beato y yo?!...",
+      "inline_tags": [
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

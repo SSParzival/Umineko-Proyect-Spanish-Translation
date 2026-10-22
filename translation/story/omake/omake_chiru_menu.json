@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.omake.omake_chiru_menu",
+  "category": "omake",
+  "rel_path": "story/omake/omake_chiru_menu.json",
+  "episode": null,
+  "section": "omake_chiru_menu",
+  "chapter": "omake_chiru_menu",
+  "description": "Omake / bonus script chapter 'omake_chiru_menu'.",
+  "entry_count": 4,
+  "entries": [
+    {
+      "id": "omake.omake_chiru_menu.omakeeee_mhal_2ar_sofa",
+      "kind": "dialogue",
+      "line_number": 541090,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "omake_chiru_menu",
+      "label": "*omakeeee_mhal_2ar_sofa",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Probablemente sea tiempo de tomar un descanso...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Probablemente sea tiempo de tomar un descanso...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.omake_chiru_menu.omakeeee_mhal_2br_up",
+      "kind": "dialogue",
+      "line_number": 541132,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "omake_chiru_menu",
+      "label": "*omakeeee_mhal_2br_up",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Me pregunto cuándo terminará la tormenta...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Me pregunto cuándo terminará la tormenta...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.omake_chiru_menu.omakeeee_mhal_2br_up.L541140",
+      "kind": "dialogue",
+      "line_number": 541140,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "omake_chiru_menu",
+      "label": "*omakeeee_mhal_2br_up",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El segundo piso no está disponible.",
+          "inline_tags": []
+        }
+      ],
+      "text": "El segundo piso no está disponible.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.omake_chiru_menu.omakeeee_ment_1br_bunnies",
+      "kind": "dialogue",
+      "line_number": 541193,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "omake_chiru_menu",
+      "label": "*omakeeee_ment_1br_bunnies",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Probablemente sea mejor dejarlas tranquilas...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Probablemente sea mejor dejarlas tranquilas...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

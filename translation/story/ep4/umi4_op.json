@@ -1,0 +1,2550 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.ep4.umi4_op",
+  "category": "story",
+  "rel_path": "story/ep4/umi4_op.json",
+  "episode": "ep4",
+  "section": "umi4_op",
+  "chapter": "umi4_op",
+  "description": "Episode 4 story script chapter 'umi4_op'.",
+  "entry_count": 58,
+  "entries": [
+    {
+      "id": "ep4.umi4_op.d21584",
+      "kind": "dialogue",
+      "line_number": 169026,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21584",
+      "speaker": "hid",
+      "voice_files": [
+        "06/41100001",
+        "06/41100002"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"06\"*\"41100001\"]",
+        "[@][lv 0*\"06\"*\"41100002\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Wajajajajajaja, ¡¿'tás bien, Battler-kun?!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Ya 'tamos en el suelo, no puedes caer más abajo que eso, wajajajajajajaja!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Wajajajajajaja, ¡¿'tás bien, Battler-kun?!...  ¡Ya 'tamos en el suelo, no puedes caer más abajo que eso, wajajajajajajaja!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21585",
+      "kind": "dialogue",
+      "line_number": 169035,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21585",
+      "speaker": "mar",
+      "voice_files": [
+        "13/40400001",
+        "13/40400002"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"13\"*\"40400001\"]",
+        "[@][#][*][lv 0*\"13\"*\"40400002\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Uu, jajajajajaja!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡Caeeeer, caeeer... jajajajajajajaja!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Uu, jajajajajaja!  ¡¡Caeeeer, caeeer... jajajajajajajaja!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21586",
+      "kind": "dialogue",
+      "line_number": 169063,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21586",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En el vestíbulo del aeropuerto de Niijima, María corría dando vueltas de la emoción.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}El escándalo de Battler en el avión debió haber sido muy interesante.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "En el vestíbulo del aeropuerto de Niijima, María corría dando vueltas de la emoción. {n}El escándalo de Battler en el avión debió haber sido muy interesante.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21587",
+      "kind": "dialogue",
+      "line_number": 169069,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21587",
+      "speaker": "ros",
+      "voice_files": [
+        "12/41400001",
+        "12/41400002",
+        "12/41400003",
+        "12/41400004"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"12\"*\"41400001\"]",
+        "[@][lv 0*\"12\"*\"41400002\"]",
+        "[@][#][*][lv 0*\"12\"*\"41400003\"]",
+        "[@][lv 0*\"12\"*\"41400004\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Oye, María!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Ya déjalo!...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Lo siento, Battler-kun.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " No te lo tomes a mal.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Oye, María!  ¡Ya déjalo!...  Lo siento, Battler-kun.  No te lo tomes a mal.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21588",
+      "kind": "dialogue",
+      "line_number": 169081,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21588",
+      "speaker": "rud",
+      "voice_files": [
+        "08/41200001",
+        "08/41200002"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"08\"*\"41200001\"]",
+        "[@][lv 0*\"08\"*\"41200002\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Qué chico tan {i:patético}.",
+          "inline_tags": [
+            "{i:patético}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " ¿Aun con ese cuerpo inmenso, no puedes soportar subir en un vehículo?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Qué chico tan {i:patético}.  ¿Aun con ese cuerpo inmenso, no puedes soportar subir en un vehículo?\"",
+      "inline_tags": [
+        "{i:patético}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21589",
+      "kind": "dialogue",
+      "line_number": 169089,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21589",
+      "speaker": "but",
+      "voice_files": [
+        "10/40100001",
+        "10/40100002"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"40100001\"]",
+        "[@][lv 0*\"10\"*\"40100002\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ah, cállate...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "Todos los humanos tienen una o dos cosas que no pueden aguantar...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Ah, cállate... Todos los humanos tienen una o dos cosas que no pueden aguantar...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21590",
+      "kind": "dialogue",
+      "line_number": 169100,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21590",
+      "speaker": "eva",
+      "voice_files": [
+        "05/41000001",
+        "05/41000002",
+        "05/41000003",
+        "05/41000004"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"05\"*\"41000001\"]",
+        "[@][lv 0*\"05\"*\"41000002\"]",
+        "[@][lv 0*\"05\"*\"41000003\"]",
+        "[@][lv 0*\"05\"*\"41000004\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Battler-kun, ¿por qué no vienes con tu tía de viaje al extranjero un día de estos?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Qué tal Europa?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Estoy segura de que tú podrías soportar un viaje de medio día en un avión.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡*risita*risita*risita*!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Battler-kun, ¿por qué no vienes con tu tía de viaje al extranjero un día de estos?  ¿Qué tal Europa?  Estoy segura de que tú podrías soportar un viaje de medio día en un avión.  ¡*risita*risita*risita*!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21591",
+      "kind": "dialogue",
+      "line_number": 169106,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21591",
+      "speaker": "geo",
+      "voice_files": [
+        "07/40300001",
+        "07/40300002"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"07\"*\"40300001\"]",
+        "[@][lv 0*\"07\"*\"40300002\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Ya basta, madre.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Estoy seguro de que la aversión de Battler-kun por los vehículos es heredada.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Ya basta, madre.  Estoy seguro de que la aversión de Battler-kun por los vehículos es heredada.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21592",
+      "kind": "dialogue",
+      "line_number": 169114,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21592",
+      "speaker": "kir",
+      "voice_files": [
+        "09/41300001"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"09\"*\"41300001\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Oh, de Asumu-san?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Oh, de Asumu-san?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21593",
+      "kind": "dialogue",
+      "line_number": 169122,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21593",
+      "speaker": "rud",
+      "voice_files": [
+        "08/41200003",
+        "08/41200004",
+        "08/41200005",
+        "08/41200006"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"08\"*\"41200003\"]",
+        "[@][lv 0*\"08\"*\"41200004\"]",
+        "[@][#][*][lv 0*\"08\"*\"41200005\"]",
+        "[@][lv 0*\"08\"*\"41200006\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Por alguna razón, ella no podía soportar vehículos o lo que se le pareciera.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Casi cualquier cosa distinta de una bicicleta o un auto.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Cuando tratábamos de ir lejos, esa mujer era tan molesta con eso del \"no esto no, no eso no,",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " estoy asustada estoy asustada, me caigo me caigo, gyaah gyaah\".\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Por alguna razón, ella no podía soportar vehículos o lo que se le pareciera.  Casi cualquier cosa distinta de una bicicleta o un auto.  Cuando tratábamos de ir lejos, esa mujer era tan molesta con eso del \"no esto no, no eso no,  estoy asustada estoy asustada, me caigo me caigo, gyaah gyaah\".\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21594",
+      "kind": "dialogue",
+      "line_number": 169133,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21594",
+      "speaker": "geo",
+      "voice_files": [
+        "07/40300003",
+        "07/40300004"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"07\"*\"40300003\"]",
+        "[@][#][*][lv 0*\"07\"*\"40300004\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"A los niños se les enseña que las cosas que al parecer sus padres no pueden soportar son peligrosas.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Estoy seguro de que Battler-kun vio a Asumu-san haciendo algo como eso y aprendió que los vehículos dan miedo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"A los niños se les enseña que las cosas que al parecer sus padres no pueden soportar son peligrosas.  Estoy seguro de que Battler-kun vio a Asumu-san haciendo algo como eso y aprendió que los vehículos dan miedo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21595",
+      "kind": "dialogue",
+      "line_number": 169144,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21595",
+      "speaker": "kir",
+      "voice_files": [
+        "09/41300002",
+        "09/41300003"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"09\"*\"41300002\"]",
+        "[@][lv 0*\"09\"*\"41300003\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"*risita*risita*.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Serán entonces los genes de Asumu-san?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"*risita*risita*.  ¿Serán entonces los genes de Asumu-san?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21596",
+      "kind": "dialogue",
+      "line_number": 169152,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21596",
+      "speaker": "rud",
+      "voice_files": [
+        "08/41200007",
+        "08/41200008",
+        "08/41200009",
+        "08/41200010",
+        "08/41200011"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"08\"*\"41200007\"]",
+        "[@][lv 0*\"08\"*\"41200008\"]",
+        "[@][#][*][lv 0*\"08\"*\"41200009\"]",
+        "[@][lv 0*\"08\"*\"41200010\"]",
+        "[@][lv 0*\"08\"*\"41200011\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ni idea.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Esos serían genes bastante molestos...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Deja de hablar de Asumu.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Ahora, la que está aquí eres tú.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " ¿Cierto?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Ni idea.  Esos serían genes bastante molestos...  Deja de hablar de Asumu.  Ahora, la que está aquí eres tú.  ¿Cierto?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21597",
+      "kind": "dialogue",
+      "line_number": 169163,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21597",
+      "speaker": "kir",
+      "voice_files": [
+        "09/41300004"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"09\"*\"41300004\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Tienes razón, lo siento.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Tienes razón, lo siento.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21598",
+      "kind": "dialogue",
+      "line_number": 169178,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21598",
+      "speaker": "hid",
+      "voice_files": [
+        "06/41100003",
+        "06/41100004",
+        "06/41100005"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"06\"*\"41100003\"]",
+        "[@][lv 0*\"06\"*\"41100004\"]",
+        "[@][lv 0*\"06\"*\"41100005\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Ey~, llegaron los autos!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Exactamente tres de ellos.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡Súbanse, súbanse!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Ey~, llegaron los autos!  Exactamente tres de ellos.  ¡Súbanse, súbanse!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21599",
+      "kind": "dialogue",
+      "line_number": 169186,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21599",
+      "speaker": "mar",
+      "voice_files": [
+        "13/40400003",
+        "13/40400004",
+        "13/40400005"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"13\"*\"40400003\"]",
+        "[@][lv 0*\"13\"*\"40400004\"]",
+        "[@][#][*][lv 0*\"13\"*\"40400005\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Caeeeer, caeeer!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡¿Dónde está el paracaídas~, dónde está el paracaídas~?!!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡Uu-uu, jajajaja!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Caeeeer, caeeer!!  ¡¡¿Dónde está el paracaídas~, dónde está el paracaídas~?!!  ¡¡Uu-uu, jajajaja!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21600",
+      "kind": "dialogue",
+      "line_number": 169204,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21600",
+      "speaker": "but",
+      "voice_files": [
+        "10/40100003",
+        "10/40100004",
+        "10/40100005"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"40100003\"]",
+        "[@][lv 0*\"10\"*\"40100004\"]",
+        "[@][#][*][lv 0*\"10\"*\"40100005\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Pequeña sabandija~!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Espera espera espera~!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡Te condenaré al castigo de las cosquillas para niñas pequeñas~!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Pequeña sabandija~!!  ¡Espera espera espera~!  ¡¡Te condenaré al castigo de las cosquillas para niñas pequeñas~!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21601",
+      "kind": "dialogue",
+      "line_number": 169238,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21601",
+      "speaker": "eva",
+      "voice_files": [
+        "05/41000005",
+        "05/41000006",
+        "05/41000007"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"05\"*\"41000005\"]",
+        "[@][lv 0*\"05\"*\"41000006\"]",
+        "[@][lv 0*\"05\"*\"41000007\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Jejejejeje.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Es bueno que estén de buen ánimo.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Si Battler-kun y María-chan no hubiesen estado ahí, la atmósfera en ese avión habría sido bastante tensa.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Jejejejeje.  Es bueno que estén de buen ánimo.  Si Battler-kun y María-chan no hubiesen estado ahí, la atmósfera en ese avión habría sido bastante tensa.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21602",
+      "kind": "dialogue",
+      "line_number": 169244,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21602",
+      "speaker": "rud",
+      "voice_files": [
+        "08/41200012",
+        "08/41200013",
+        "08/41200014",
+        "08/41200015",
+        "08/41200016"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"08\"*\"41200012\"]",
+        "[@][lv 0*\"08\"*\"41200013\"]",
+        "[@][#][*][lv 0*\"08\"*\"41200014\"]",
+        "[@][lv 0*\"08\"*\"41200015\"]",
+        "[@][lv 0*\"08\"*\"41200016\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Gracias.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Lo tomaré literalmente...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡Oigan, mocosos!",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡Los taxis están aquí!",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Guárdense los juegos para después.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Gracias.  Lo tomaré literalmente...  ¡Oigan, mocosos!  ¡Los taxis están aquí!  Guárdense los juegos para después.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21603",
+      "kind": "dialogue",
+      "line_number": 169265,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21603",
+      "speaker": "mar",
+      "voice_files": [
+        "13/40400006",
+        "13/40400007",
+        "13/40400008",
+        "13/40400009"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"13\"*\"40400006\"]",
+        "[@][lv 0*\"13\"*\"40400007\"]",
+        "[@][lv 0*\"13\"*\"40400008\"]",
+        "[@][lv 0*\"13\"*\"40400009\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Uu-uu!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡Taxiii, taxiii!!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡Maríaaa se sube primero!",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡¡Kyakkya!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Uu-uu!!  ¡¡Taxiii, taxiii!!  ¡Maríaaa se sube primero!  ¡¡Kyakkya!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21604",
+      "kind": "dialogue",
+      "line_number": 169271,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21604",
+      "speaker": "ros",
+      "voice_files": [
+        "12/41400005",
+        "12/41400006",
+        "12/41400007"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"12\"*\"41400005\"]",
+        "[@][lv 0*\"12\"*\"41400006\"]",
+        "[@][lv 0*\"12\"*\"41400007\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Oigan!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡María, y tú también, Battler-kun, dejen de fastidiar!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡Van a golpear a alguien!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Oigan!  ¡María, y tú también, Battler-kun, dejen de fastidiar!  ¡Van a golpear a alguien!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21605",
+      "kind": "dialogue",
+      "line_number": 169274,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21605",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El tono de voz de la tía Rosa se notaba un poco asustado.",
+          "inline_tags": []
+        }
+      ],
+      "text": "El tono de voz de la tía Rosa se notaba un poco asustado.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21606",
+      "kind": "dialogue",
+      "line_number": 169276,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21606",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y Battler, tan pronto se dio cuenta de que ellos de verdad estaban molestando mucho... como era de esperarse, tropezó con alguien.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Y Battler, tan pronto se dio cuenta de que ellos de verdad estaban molestando mucho... como era de esperarse, tropezó con alguien.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21607",
+      "kind": "dialogue",
+      "line_number": 169297,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21607",
+      "speaker": "but",
+      "voice_files": [
+        "10/40100006"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"40100006\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Oh, disculpe...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Oh, disculpe...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21608",
+      "kind": "dialogue",
+      "line_number": 169303,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21608",
+      "speaker": "geo",
+      "voice_files": [
+        "07/40300005",
+        "07/40300006"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"07\"*\"40300005\"]",
+        "[@][lv 0*\"07\"*\"40300006\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Battler-kun, ustedes irán en ese auto.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Los están haciendo esperar.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Battler-kun, ustedes irán en ese auto.  Los están haciendo esperar.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21609",
+      "kind": "dialogue",
+      "line_number": 169306,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21609",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Luego de que George lo apuró, Battler se disculpó con la persona con quien se había tropezado y corrió hacia sus padres, quienes le decían que se subiera rápido.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Luego de que George lo apuró, Battler se disculpó con la persona con quien se había tropezado y corrió hacia sus padres, quienes le decían que se subiera rápido.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21610",
+      "kind": "dialogue",
+      "line_number": 169314,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21610",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Con un sonido de portazo, las puertas de los tres taxis se cerraron una tras otra, y partieron, dirigiéndose al puerto...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Con un sonido de portazo, las puertas de los tres taxis se cerraron una tras otra, y partieron, dirigiéndose al puerto...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21611",
+      "kind": "dialogue",
+      "line_number": 169325,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21611",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... A medida que sus taxis se alejaban...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... A medida que sus taxis se alejaban...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21612",
+      "kind": "dialogue",
+      "line_number": 169327,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21612",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[!w583]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El mundo entero se hizo repentinamente sombrío,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y se desaceleró hasta detenerse.",
+          "inline_tags": []
+        }
+      ],
+      "text": "El mundo entero se hizo repentinamente sombrío,  y se desaceleró hasta detenerse.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21613",
+      "kind": "dialogue",
+      "line_number": 169342,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21613",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Las voces, el viento, e incluso el sonido,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " todo se detuvo, y como si se hubiesen congelado en el instante en que una fotografía es tomada, todo lo que trataba de moverse,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " se detuvo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Las voces, el viento, e incluso el sonido,  todo se detuvo, y como si se hubiesen congelado en el instante en que una fotografía es tomada, todo lo que trataba de moverse,  se detuvo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21614",
+      "kind": "dialogue",
+      "line_number": 169344,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21614",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Las personas, las maquinas y manecillas de reloj, incluso el polvo danzando en el viento, fueron congelados.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Con un pie aún levantado, las personas que estaban caminando fueron congeladas.",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}Residuos de papel danzando en el viento se detuvieron en el aire, congelados.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Las personas, las maquinas y manecillas de reloj, incluso el polvo danzando en el viento, fueron congelados. {n}Con un pie aún levantado, las personas que estaban caminando fueron congeladas. {n}Residuos de papel danzando en el viento se detuvieron en el aire, congelados.",
+      "inline_tags": [
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21615",
+      "kind": "dialogue",
+      "line_number": 169346,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21615",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Y entre las sombras inmóviles de este mundo que se había detenido, una sola se movió.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Y entre las sombras inmóviles de este mundo que se había detenido, una sola se movió.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21616",
+      "kind": "dialogue",
+      "line_number": 169354,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21616",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Era una chica.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " La chica con la que Battler se había tropezado...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Era una chica.  La chica con la que Battler se había tropezado...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21617",
+      "kind": "dialogue",
+      "line_number": 169356,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21617",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "A pesar que ella se había movido, de verdad había sido una cosa sutil.",
+          "inline_tags": []
+        }
+      ],
+      "text": "A pesar que ella se había movido, de verdad había sido una cosa sutil.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21618",
+      "kind": "dialogue",
+      "line_number": 169358,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21618",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Su mirada bajó, sus hombros se encogieron en una cantidad minúscula, y suspiró.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}... Eso fue todo.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Su mirada bajó, sus hombros se encogieron en una cantidad minúscula, y suspiró. {n}... Eso fue todo.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21619",
+      "kind": "dialogue",
+      "line_number": 169360,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21619",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En un mundo normal, eso probablemente no sería tomado como movimiento,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " pero en este mundo inmóvil, parecía muy fuera de lugar.",
+          "inline_tags": []
+        }
+      ],
+      "text": "En un mundo normal, eso probablemente no sería tomado como movimiento,  pero en este mundo inmóvil, parecía muy fuera de lugar.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21620",
+      "kind": "dialogue",
+      "line_number": 169362,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21620",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Después de eso, algo más se movió.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Era un gato negro vagando alrededor de las sombras cerca de la parada de taxis.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "... Después de eso, algo más se movió. {n}Era un gato negro vagando alrededor de las sombras cerca de la parada de taxis.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21621",
+      "kind": "dialogue",
+      "line_number": 169364,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21621",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Vino justo detrás de la chica,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y sin prisa... cambió su forma en la de un {y:0:Humano}{n:0:humano}.",
+          "inline_tags": [
+            "{y:0:Humano}",
+            "{n:0:humano}"
+          ]
+        }
+      ],
+      "text": "Vino justo detrás de la chica,  y sin prisa... cambió su forma en la de un {y:0:Humano}{n:0:humano}.",
+      "inline_tags": [
+        "{y:0:Humano}",
+        "{n:0:humano}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21622",
+      "kind": "dialogue",
+      "line_number": 169377,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21622",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "No era un gato.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Era una bruja.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "{n}Por supuesto, la chica era también una bruja.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "No era un gato.  Era una bruja. {n}Por supuesto, la chica era también una bruja.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21623",
+      "kind": "dialogue",
+      "line_number": 169379,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21623",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Mientras la bruja estaba inmóvil, con su mirada aún baja, ella susurró...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Mientras la bruja estaba inmóvil, con su mirada aún baja, ella susurró...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21624",
+      "kind": "dialogue",
+      "line_number": 169385,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21624",
+      "speaker": "enj",
+      "voice_files": [
+        "11/42000001",
+        "11/42000002"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"11\"*\"42000001\"]",
+        "[|][lv 0*\"11\"*\"42000002\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... No puedo...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " evitar que todos vayan a Rokkenjima, ¿o sí?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... No puedo...  evitar que todos vayan a Rokkenjima, ¿o sí?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21625",
+      "kind": "dialogue",
+      "line_number": 169391,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21625",
+      "speaker": "ber",
+      "voice_files": [
+        "28/42100001",
+        "28/42100002"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"42100001\"]",
+        "[@][lv 0*\"28\"*\"42100002\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No puedes.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " En el 4 de octubre de 1986, no estás aquí.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"No puedes.  En el 4 de octubre de 1986, no estás aquí.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21626",
+      "kind": "dialogue",
+      "line_number": 169397,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21626",
+      "speaker": "enj",
+      "voice_files": [
+        "11/42000003"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"11\"*\"42000003\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Si lo estuviese, detenerlos a todos no habría sido imposible?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Si lo estuviese, detenerlos a todos no habría sido imposible?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21627",
+      "kind": "dialogue",
+      "line_number": 169403,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21627",
+      "speaker": "ber",
+      "voice_files": [
+        "28/42100003",
+        "28/42100004",
+        "28/42100005",
+        "28/42100006",
+        "28/42100007"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"42100003\"]",
+        "[@][lv 0*\"28\"*\"42100004\"]",
+        "[@][lv 0*\"28\"*\"42100005\"]",
+        "[@][lv 0*\"28\"*\"42100006\"]",
+        "[@][lv 0*\"28\"*\"42100007\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Cómo una niña de seis años podría actuar para hacerles regresar,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " eso no lo puedo imaginar...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Pero es cierto.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Si estuvieses en este lugar, la probabilidad no habría sido cero.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Si hay una probabilidad mayor a cero, puedo encontrar un milagro.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Cómo una niña de seis años podría actuar para hacerles regresar,  eso no lo puedo imaginar...  Pero es cierto.  Si estuvieses en este lugar, la probabilidad no habría sido cero.  Si hay una probabilidad mayor a cero, puedo encontrar un milagro.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21628",
+      "kind": "dialogue",
+      "line_number": 169412,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21628",
+      "speaker": "enj",
+      "voice_files": [
+        "11/42000004",
+        "11/42000005"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"11\"*\"42000004\"]",
+        "[|][lv 0*\"11\"*\"42000005\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Si no hubiera estado enferma,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y ellos no me hubiesen dejado atrás...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Si no hubiera estado enferma,  y ellos no me hubiesen dejado atrás...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21629",
+      "kind": "dialogue",
+      "line_number": 169415,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21629",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Con su cabeza mirando hacia abajo, la bruja apretó sus puños...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Estaban temblando ligeramente.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Con su cabeza mirando hacia abajo, la bruja apretó sus puños... {n}Estaban temblando ligeramente.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21630",
+      "kind": "dialogue",
+      "line_number": 169423,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21630",
+      "speaker": "ber",
+      "voice_files": [
+        "28/42100008",
+        "28/42100009",
+        "28/42100010",
+        "28/42100011"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"42100008\"]",
+        "[@][lv 0*\"28\"*\"42100009\"]",
+        "[@][lv 0*\"28\"*\"42100010\"]",
+        "[@][lv 0*\"28\"*\"42100011\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Estuviste enferma en cama empezando el 3 de octubre de 1986.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Y el tablero de Beato comienza a partir del 4 de octubre...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " No se te da la oportunidad de evitar enfermarte...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " En otras palabras, tú eres fundamentalmente una existencia que ciertamente no puede aparecerse en este tablero.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Estuviste enferma en cama empezando el 3 de octubre de 1986.  Y el tablero de Beato comienza a partir del 4 de octubre...  No se te da la oportunidad de evitar enfermarte...  En otras palabras, tú eres fundamentalmente una existencia que ciertamente no puede aparecerse en este tablero.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21631",
+      "kind": "dialogue",
+      "line_number": 169435,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21631",
+      "speaker": "enj",
+      "voice_files": [
+        "11/42000006",
+        "11/42000007",
+        "11/42000008",
+        "11/42000009",
+        "11/42000010",
+        "11/42000011",
+        "11/42000012"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"11\"*\"42000006\"]",
+        "[@][lv 0*\"11\"*\"42000007\"]",
+        "[@][lv 0*\"11\"*\"42000008\"]",
+        "[|][lv 0*\"11\"*\"42000009\"]",
+        "[|][lv 0*\"11\"*\"42000010\"]",
+        "[@][lv 0*\"11\"*\"42000011\"]",
+        "[|][lv 0*\"11\"*\"42000012\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Gracias por ser condescendiente...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Entiendo...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Sé que con solo ver a mi padre, madre,",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " y Onii-chan con buena salud como ahora,",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " solo eso,",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " es un milagro maravilloso...",
+          "inline_tags": []
+        },
+        {
+          "index": 6,
+          "text": " Lo entiendo...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Gracias por ser condescendiente...  Entiendo...  Sé que con solo ver a mi padre, madre,  y Onii-chan con buena salud como ahora,  solo eso,  es un milagro maravilloso...  Lo entiendo...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21632",
+      "kind": "dialogue",
+      "line_number": 169438,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21632",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ange había estado intentando interponiéndose en el camino de su familia, tratando de impedirles salir del aeropuerto... hacia Rokkenjima.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Ange había estado intentando interponiéndose en el camino de su familia, tratando de impedirles salir del aeropuerto... hacia Rokkenjima.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21633",
+      "kind": "dialogue",
+      "line_number": 169440,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21633",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Sin embargo, era imposible para ella existir el 4 de octubre de 1986, y no pudo hacerlo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Sin embargo, era imposible para ella existir el 4 de octubre de 1986, y no pudo hacerlo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21634",
+      "kind": "dialogue",
+      "line_number": 169442,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21634",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Solo el ser empujada por su hermano y recibir sus disculpas por ello...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Solo el ser empujada por su hermano y recibir sus disculpas por ello...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21635",
+      "kind": "dialogue",
+      "line_number": 169444,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21635",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[!w583]",
+        "[!w500]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Aunque él no sabía que ella era su propia hermana menor,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " había sido un milagro tal,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " que ella podría llorar...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Aunque él no sabía que ella era su propia hermana menor,  había sido un milagro tal,  que ella podría llorar...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21636",
+      "kind": "dialogue",
+      "line_number": 169460,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21636",
+      "speaker": "enj",
+      "voice_files": [
+        "11/42000013",
+        "11/42000014"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"11\"*\"42000013\"]",
+        "[@][lv 0*\"11\"*\"42000014\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Disculpa mi sarcasmo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " No malgastaré el milagro que me has concedido.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Disculpa mi sarcasmo.  No malgastaré el milagro que me has concedido.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21637",
+      "kind": "dialogue",
+      "line_number": 169466,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21637",
+      "speaker": "ber",
+      "voice_files": [
+        "28/42100012",
+        "28/42100013",
+        "28/42100014",
+        "28/42100015",
+        "28/42100016",
+        "28/42100017"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"42100012\"]",
+        "[@][lv 0*\"28\"*\"42100013\"]",
+        "[@][lv 0*\"28\"*\"42100014\"]",
+        "[@][lv 0*\"28\"*\"42100015\"]",
+        "[@][lv 0*\"28\"*\"42100016\"]",
+        "[@][lv 0*\"28\"*\"42100017\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Estoy feliz de escuchar eso...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Vamos, vayamos con ellos.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " A Rokkenjima.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Todas las piezas ya están reunidas...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " El telón se alzará para el cuarto juego.",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " Para este momento, Beato y Battler ya están sentados.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Estoy feliz de escuchar eso...  Vamos, vayamos con ellos.  A Rokkenjima.  Todas las piezas ya están reunidas...  El telón se alzará para el cuarto juego.  Para este momento, Beato y Battler ya están sentados.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21638",
+      "kind": "dialogue",
+      "line_number": 169476,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21638",
+      "speaker": "enj",
+      "voice_files": [
+        "11/42000015",
+        "11/42000016",
+        "11/42000017",
+        "11/42000018",
+        "11/42000019"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"11\"*\"42000015\"]",
+        "[@][lv 0*\"11\"*\"42000016\"]",
+        "[|][lv 0*\"11\"*\"42000017\"]",
+        "[|][lv 0*\"11\"*\"42000018\"]",
+        "[|][lv 0*\"11\"*\"42000019\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... A Rokkenjima...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Donde mi...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " no...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " el destino de {i:todos} cambió... el 4 de octubre de 1986...",
+          "inline_tags": [
+            "{i:todos}"
+          ]
+        },
+        {
+          "index": 4,
+          "text": " en Rokkenjima...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... A Rokkenjima...  Donde mi...  no...  el destino de {i:todos} cambió... el 4 de octubre de 1986...  en Rokkenjima...\"",
+      "inline_tags": [
+        "{i:todos}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21639",
+      "kind": "dialogue",
+      "line_number": 169479,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21639",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... ¿Qué pasó ese día?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Expondré eso.",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " Lo entenderé.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡Y lo revertiré!...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... ¿Qué pasó ese día? {n}Expondré eso.  Lo entenderé.  ¡Y lo revertiré!...",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21640",
+      "kind": "dialogue",
+      "line_number": 169491,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21640",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Parada con sus puños aún apretados, ella levantó su rostro hacia los cielos.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Una lágrima proveniente desde las profundidades de sus ojos se precipitó en el aire.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Parada con sus puños aún apretados, ella levantó su rostro hacia los cielos. {n}Una lágrima proveniente desde las profundidades de sus ojos se precipitó en el aire.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.umi4_op.d21641",
+      "kind": "dialogue",
+      "line_number": 169511,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi4_op",
+      "label": "*d21641",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y cuando el tiempo empezó a moverse de nuevo, las figuras de las dos brujas fueron absorbidas en un vendaval y borradas en un instante.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Y cuando el tiempo empezó a moverse de nuevo, las figuras de las dos brujas fueron absorbidas en un vendaval y borradas en un instante.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

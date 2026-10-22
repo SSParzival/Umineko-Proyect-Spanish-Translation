@@ -1,0 +1,1222 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.ep8.umi8_5",
+  "category": "story",
+  "rel_path": "story/ep8/umi8_5.json",
+  "episode": "ep8",
+  "section": "umi8_5",
+  "chapter": "umi8_5",
+  "description": "Episode 8 story script chapter 'umi8_5'.",
+  "entry_count": 31,
+  "entries": [
+    {
+      "id": "ep8.umi8_5.d58260",
+      "kind": "dialogue",
+      "line_number": 467916,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58260",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Me convertí en la princesa de la fiesta de Halloween,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y para mí, el torneo de preguntas y acertijos tan solo comenzaba.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Me convertí en la princesa de la fiesta de Halloween,  y para mí, el torneo de preguntas y acertijos tan solo comenzaba.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58261",
+      "kind": "dialogue",
+      "line_number": 467922,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58261",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Parece ser que obtengo una medalla por cada puzle que resuelva.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Parece ser que obtengo una medalla por cada puzle que resuelva.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58262",
+      "kind": "dialogue",
+      "line_number": 467928,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58262",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Si obtengo un montón, se supone que conseguiré un estupendo premio del abuelo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Si obtengo un montón, se supone que conseguiré un estupendo premio del abuelo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58263",
+      "kind": "dialogue",
+      "line_number": 467939,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58263",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Bien, allá voy.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Bien, allá voy.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58264",
+      "kind": "dialogue",
+      "line_number": 467944,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58264",
+      "speaker": "enj",
+      "voice_files": [
+        "11/82000402"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"11\"*\"82000402\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Por quién debería empezar?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Por quién debería empezar?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58265",
+      "kind": "dialogue",
+      "line_number": 467950,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58265",
+      "speaker": "eva",
+      "voice_files": [
+        "05/81000053",
+        "05/81000054"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"05\"*\"81000053\"]",
+        "[@][lv 0*\"05\"*\"81000054\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No creo que importe.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Empieza por quien quieras.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"No creo que importe.  Empieza por quien quieras.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58266",
+      "kind": "dialogue",
+      "line_number": 467956,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58266",
+      "speaker": "rud",
+      "voice_files": [
+        "08/81200032"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"08\"*\"81200032\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Será mejor que me invente un puzle fatal mientras tenga oportunidad.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Será mejor que me invente un puzle fatal mientras tenga oportunidad.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58267",
+      "kind": "dialogue",
+      "line_number": 467968,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58267",
+      "speaker": "ros",
+      "voice_files": [
+        "12/81400024"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"12\"*\"81400024\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"María, ¿tú no tenías un libro de acertijos en la mochila?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"María, ¿tú no tenías un libro de acertijos en la mochila?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58268",
+      "kind": "dialogue",
+      "line_number": 467974,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58268",
+      "speaker": "mar",
+      "voice_files": [
+        "13/80400077",
+        "13/80400078"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"13\"*\"80400077\"]",
+        "[@][lv 0*\"13\"*\"80400078\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Uu-! ¡Sí!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Kijijijijiji, machacaré a Ange con uno difícil!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Uu-! ¡Sí!  ¡Kijijijijiji, machacaré a Ange con uno difícil!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58269",
+      "kind": "dialogue",
+      "line_number": 467984,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58269",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "María onee-chan rió con una sonrisa maligna.",
+          "inline_tags": []
+        }
+      ],
+      "text": "María onee-chan rió con una sonrisa maligna.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58270",
+      "kind": "dialogue",
+      "line_number": 467986,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58270",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Parece que todos lo van a intentar y tratarán de intimidarme.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Seguro que pensarán en preguntas realmente difíciles.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Parece que todos lo van a intentar y tratarán de intimidarme.  Seguro que pensarán en preguntas realmente difíciles.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58271",
+      "kind": "dialogue",
+      "line_number": 467995,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58271",
+      "speaker": "eva",
+      "voice_files": [
+        "05/81000055"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"05\"*\"81000055\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No te preocupes, yo te echaré una mano.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"No te preocupes, yo te echaré una mano.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58272",
+      "kind": "dialogue",
+      "line_number": 468001,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58272",
+      "speaker": "enj",
+      "voice_files": [
+        "11/82000403"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"11\"*\"82000403\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿De verdad?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿De verdad?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58273",
+      "kind": "dialogue",
+      "line_number": 468006,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58273",
+      "speaker": "eva",
+      "voice_files": [
+        "05/81000056",
+        "05/81000057",
+        "05/81000058"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"05\"*\"81000056\"]",
+        "[@][lv 0*\"05\"*\"81000057\"]",
+        "[@][lv 0*\"05\"*\"81000058\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Claro.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Después de todo, soy la ayudante de la princesa.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Así que, demos lo mejor de nosotras y consigamos un montón de medallas.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Claro.  Después de todo, soy la ayudante de la princesa.  Así que, demos lo mejor de nosotras y consigamos un montón de medallas.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58274",
+      "kind": "dialogue",
+      "line_number": 468012,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58274",
+      "speaker": "enj",
+      "voice_files": [
+        "11/82000404"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"11\"*\"82000404\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Bien!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Bien!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58275",
+      "kind": "dialogue",
+      "line_number": 468027,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58275",
+      "speaker": "goh",
+      "voice_files": [
+        "17/81700036",
+        "17/81700037",
+        "17/81700038"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"17\"*\"81700036\"]",
+        "[@][lv 0*\"17\"*\"81700037\"]",
+        "[@][lv 0*\"17\"*\"81700038\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Bien, Ange-sama.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Empiece por donde guste.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Yo, Gohda, estoy preparado para desafiarla cuando quiera.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Bien, Ange-sama.  Empiece por donde guste.  Yo, Gohda, estoy preparado para desafiarla cuando quiera.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58276",
+      "kind": "dialogue",
+      "line_number": 468033,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58276",
+      "speaker": "kin",
+      "voice_files": [
+        "01/81500180",
+        "01/81500181",
+        "01/81500182"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"01\"*\"81500180\"]",
+        "[@][lv 0*\"01\"*\"81500181\"]",
+        "[@][lv 0*\"01\"*\"81500182\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Eh, no tan rápido.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " El honor de la primera audiencia con la princesa me pertenece.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡Ange, comienza con mi reto!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Eh, no tan rápido.  El honor de la primera audiencia con la princesa me pertenece.  ¡Ange, comienza con mi reto!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58277",
+      "kind": "dialogue",
+      "line_number": 468039,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58277",
+      "speaker": "enj",
+      "voice_files": [
+        "11/82000405"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"11\"*\"82000405\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡B-Bien!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡B-Bien!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58278",
+      "kind": "dialogue",
+      "line_number": 468049,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58278",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "De repente me puse tensa, y me empezó a apretar el estómago.",
+          "inline_tags": []
+        }
+      ],
+      "text": "De repente me puse tensa, y me empezó a apretar el estómago.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58279",
+      "kind": "dialogue",
+      "line_number": 468051,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58279",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Entonces, Eva oba-san me agarró cuidadosamente de la mano.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Entonces, Eva oba-san me agarró cuidadosamente de la mano.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58280",
+      "kind": "dialogue",
+      "line_number": 468062,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58280",
+      "speaker": "eva",
+      "voice_files": [
+        "05/81000059",
+        "05/81000060"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"05\"*\"81000059\"]",
+        "[@][lv 0*\"05\"*\"81000060\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Todo irá bien.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Hagámoslo juntas!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Todo irá bien.  ¡Hagámoslo juntas!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58281",
+      "kind": "dialogue",
+      "line_number": 468068,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58281",
+      "speaker": "enj",
+      "voice_files": [
+        "11/82000406"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"11\"*\"82000406\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡S-Sí!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡S-Sí!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58282",
+      "kind": "dialogue",
+      "line_number": 468074,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58282",
+      "speaker": "kin",
+      "voice_files": [
+        "01/81500183",
+        "01/81500184"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"01\"*\"81500183\"]",
+        "[@][lv 0*\"01\"*\"81500184\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Entonces empecemos, Ange.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Esta es una historia sobre el 25 de diciembre, el día de Navidad.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Entonces empecemos, Ange.  Esta es una historia sobre el 25 de diciembre, el día de Navidad.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58283",
+      "kind": "dialogue",
+      "line_number": 468080,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58283",
+      "speaker": "enj",
+      "voice_files": [
+        "11/82000407"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"11\"*\"82000407\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Navidad?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Navidad?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58284",
+      "kind": "dialogue",
+      "line_number": 468090,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58284",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Incluso a pesar de estar en octubre, de repente había empezado a hablar de la Navidad.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}¿Va a preguntar cuál es el día de Navidad?",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Incluso a pesar de estar en octubre, de repente había empezado a hablar de la Navidad. {n}¿Va a preguntar cuál es el día de Navidad?",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58285",
+      "kind": "dialogue",
+      "line_number": 468092,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58285",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Eso lo sé.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Es el 25 de diciembre.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Eso lo sé.  Es el 25 de diciembre.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58286",
+      "kind": "dialogue",
+      "line_number": 468100,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58286",
+      "speaker": "kin",
+      "voice_files": [
+        "01/81500185",
+        "01/81500186",
+        "01/81500187",
+        "01/81500188",
+        "01/81500189",
+        "01/81500190",
+        "01/81500191",
+        "01/81500192"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"01\"*\"81500185\"]",
+        "[@][lv 0*\"01\"*\"81500186\"]",
+        "[@][lv 0*\"01\"*\"81500187\"]",
+        "[@][lv 0*\"01\"*\"81500188\"]",
+        "[@][lv 0*\"01\"*\"81500189\"]",
+        "[@][lv 0*\"01\"*\"81500190\"]",
+        "[@][lv 0*\"01\"*\"81500191\"]",
+        "[@][lv 0*\"01\"*\"81500192\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Mientras miraba el cielo nocturno en navidad,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " una mujer dijo:",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " \"En algún momento, la noche terminará, y el amanecer llegará.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¿No sería maravilloso si, después de que el sol se ocultase y se hiciera de noche de nuevo, fuera otra vez Navidad?\"",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Y entonces, el hombre a su lado dijo:",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " \"De acuerdo,",
+          "inline_tags": []
+        },
+        {
+          "index": 6,
+          "text": " haré que se cumpla tu sueño.\"",
+          "inline_tags": []
+        },
+        {
+          "index": 7,
+          "text": " ¿Es esto posible?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Mientras miraba el cielo nocturno en navidad,  una mujer dijo:  \"En algún momento, la noche terminará, y el amanecer llegará.  ¿No sería maravilloso si, después de que el sol se ocultase y se hiciera de noche de nuevo, fuera otra vez Navidad?\"  Y entonces, el hombre a su lado dijo:  \"De acuerdo,  haré que se cumpla tu sueño.\"  ¿Es esto posible?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58287",
+      "kind": "dialogue",
+      "line_number": 468115,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58287",
+      "speaker": "enj",
+      "voice_files": [
+        "11/82000408",
+        "11/82000409"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"11\"*\"82000408\"]",
+        "[@][lv 0*\"11\"*\"82000409\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"El día después de Navidad es el 26, un día normal.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Eso es imposible.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"El día después de Navidad es el 26, un día normal.  Eso es imposible.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58288",
+      "kind": "dialogue",
+      "line_number": 468121,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58288",
+      "speaker": "eva",
+      "voice_files": [
+        "05/81000061",
+        "05/81000062"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"05\"*\"81000061\"]",
+        "[@][lv 0*\"05\"*\"81000062\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Aún en Navidad, incluso después de que amanezca...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Oh, lo tengo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Aún en Navidad, incluso después de que amanezca...  Oh, lo tengo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58289",
+      "kind": "dialogue",
+      "line_number": 468126,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58289",
+      "speaker": "enj",
+      "voice_files": [
+        "11/82000410",
+        "11/82000411"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"11\"*\"82000410\"]",
+        "[@][lv 0*\"11\"*\"82000411\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Eh? ¡¿Cómo?!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¿Cómo puede el día después de Navidad volver a ser Navidad?!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Eh? ¡¿Cómo?!  ¡¿Cómo puede el día después de Navidad volver a ser Navidad?!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep8.umi8_5.d58290",
+      "kind": "dialogue",
+      "line_number": 468132,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi8_5",
+      "label": "*d58290",
+      "speaker": "kin",
+      "voice_files": [
+        "01/81500193",
+        "01/81500194"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"01\"*\"81500193\"]",
+        "[@][lv 0*\"01\"*\"81500194\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Wajjajajajaja.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Piénsalo por ti misma, Ange.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Wajjajajajaja.  Piénsalo por ti misma, Ange.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

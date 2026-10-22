@@ -1,0 +1,1365 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.ep1.umi1_9",
+  "category": "story",
+  "rel_path": "story/ep1/umi1_9.json",
+  "episode": "ep1",
+  "section": "umi1_9",
+  "chapter": "umi1_9",
+  "description": "Episode 1 story script chapter 'umi1_9'.",
+  "entry_count": 38,
+  "entries": [
+    {
+      "id": "ep1.umi1_9.d3762",
+      "kind": "dialogue",
+      "line_number": 25368,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3762",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Shannon entró al salón principal de la mansión con paso tambaleante.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Shannon entró al salón principal de la mansión con paso tambaleante.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3763",
+      "kind": "dialogue",
+      "line_number": 25370,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3763",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Una mezcla de exaltación e inseguridad le daban una sensación que no podía describir fácilmente. Llenaba su pecho hasta sentirse como si estuviera a punto de estallar.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Una mezcla de exaltación e inseguridad le daban una sensación que no podía describir fácilmente. Llenaba su pecho hasta sentirse como si estuviera a punto de estallar.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3764",
+      "kind": "dialogue",
+      "line_number": 25372,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3764",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Tras detenerse por un segundo frente a la habitación de los sirvientes para tomar un largo respiro y calmarse, abrió la puerta.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Tras detenerse por un segundo frente a la habitación de los sirvientes para tomar un largo respiro y calmarse, abrió la puerta.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3765",
+      "kind": "dialogue",
+      "line_number": 25379,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3765",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En el interior, Gohda, a quien se le había ordenado tomar el turno nocturno en la mansión esta noche, estaba inmerso en una vieja revista de crucigramas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "En el interior, Gohda, a quien se le había ordenado tomar el turno nocturno en la mansión esta noche, estaba inmerso en una vieja revista de crucigramas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3766",
+      "kind": "dialogue",
+      "line_number": 25381,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3766",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Alejó la mirada por un instante para ver si alguien de la familia había llegado, pero cuando se dio cuenta de que era otro sirviente, regresó a su crucigrama como si nada.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Alejó la mirada por un instante para ver si alguien de la familia había llegado, pero cuando se dio cuenta de que era otro sirviente, regresó a su crucigrama como si nada.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3767",
+      "kind": "dialogue",
+      "line_number": 25387,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3767",
+      "speaker": "sha",
+      "voice_files": [
+        "15/10500238",
+        "15/10500239"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"15\"*\"10500238\"]",
+        "[|][lv 0*\"15\"*\"10500239\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Emm...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Genji‐sama me dijo que viniera a ayudarte.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Emm...  Genji‐sama me dijo que viniera a ayudarte.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3768",
+      "kind": "dialogue",
+      "line_number": 25393,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3768",
+      "speaker": "goh",
+      "voice_files": [
+        "17/11700076",
+        "17/11700077",
+        "17/11700078",
+        "17/11700079"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"17\"*\"11700076\"]",
+        "[@][lv 0*\"17\"*\"11700077\"]",
+        "[@][lv 0*\"17\"*\"11700078\"]",
+        "[@][lv 0*\"17\"*\"11700079\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ah, ya veo... Eso será de ayuda.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Estaba a punto de ir a hacer rondas y cerrar la mansión, pero no podría dejar solo este lugar.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Como sea, la reunión de Krauss‐sama y los demás aparentemente continuará por un buen rato.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Podrían pedir té en cualquier momento.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Ah, ya veo... Eso será de ayuda.  Estaba a punto de ir a hacer rondas y cerrar la mansión, pero no podría dejar solo este lugar.  Como sea, la reunión de Krauss‐sama y los demás aparentemente continuará por un buen rato.  Podrían pedir té en cualquier momento.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3769",
+      "kind": "dialogue",
+      "line_number": 25399,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3769",
+      "speaker": "sha",
+      "voice_files": [
+        "15/10500240",
+        "15/10500241"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"15\"*\"10500240\"]",
+        "[@][lv 0*\"15\"*\"10500241\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Es cierto...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Entonces, qué hacemos?... ¿Debería vigil—?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Es cierto...  ¿Entonces, qué hacemos?... ¿Debería vigil—?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3770",
+      "kind": "dialogue",
+      "line_number": 25405,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3770",
+      "speaker": "goh",
+      "voice_files": [
+        "17/11700080",
+        "17/11700081"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"17\"*\"11700080\"]",
+        "[@][lv 0*\"17\"*\"11700081\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"En ese caso, Shannon‐san, lo siento, ¿pero podrías patrullar el interior de la mansión?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Me quedaré aquí, esperando las órdenes de la familia.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"En ese caso, Shannon‐san, lo siento, ¿pero podrías patrullar el interior de la mansión?  Me quedaré aquí, esperando las órdenes de la familia.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3771",
+      "kind": "dialogue",
+      "line_number": 25411,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3771",
+      "speaker": "sha",
+      "voice_files": [
+        "15/10500242"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"15\"*\"10500242\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"S‐Sí...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"S‐Sí...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3772",
+      "kind": "dialogue",
+      "line_number": 25414,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3772",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Shannon estaba un poco atónita.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Shannon estaba un poco atónita.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3773",
+      "kind": "dialogue",
+      "line_number": 25416,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3773",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "A pesar de que había venido aquí a ayudar como un favor, estaba siendo forzada a realizar el trabajo de la persona que en verdad estaba en turno como si fuera lo natural.",
+          "inline_tags": []
+        }
+      ],
+      "text": "A pesar de que había venido aquí a ayudar como un favor, estaba siendo forzada a realizar el trabajo de la persona que en verdad estaba en turno como si fuera lo natural.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3774",
+      "kind": "dialogue",
+      "line_number": 25420,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3774",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Además, tras unilateralmente obligarle a hacer esa tarea, Gohda había regresado a su revista y estaba inmerso en su crucigrama.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Además, tras unilateralmente obligarle a hacer esa tarea, Gohda había regresado a su revista y estaba inmerso en su crucigrama.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3775",
+      "kind": "dialogue",
+      "line_number": 25433,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3775",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Por el momento, como signo de respeto a su mayor, Shannon agachó la cabeza, y dejó la habitación para patrullar la mansión.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Por el momento, como signo de respeto a su mayor, Shannon agachó la cabeza, y dejó la habitación para patrullar la mansión.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3776",
+      "kind": "dialogue",
+      "line_number": 25435,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3776",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ya que había sido muy repentina, la sensación de ligereza que había sentido hace un momento había disminuido un poco.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Ya que había sido muy repentina, la sensación de ligereza que había sentido hace un momento había disminuido un poco.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3777",
+      "kind": "dialogue",
+      "line_number": 25437,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3777",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y además, no podía mostrarle este tipo de cara a Genji y Kanon.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Hasta que su corazón pudiera calmarse, quería un poco de tiempo para ella sola, y posiblemente ir de patrulla no era una mala forma de hacerlo...",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Y además, no podía mostrarle este tipo de cara a Genji y Kanon. {n}Hasta que su corazón pudiera calmarse, quería un poco de tiempo para ella sola, y posiblemente ir de patrulla no era una mala forma de hacerlo...",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3778",
+      "kind": "dialogue",
+      "line_number": 25446,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3778",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Desde el comedor, comenzó a escuchar las voces tumultosas de la discusión de la familia.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Desde el comedor, comenzó a escuchar las voces tumultosas de la discusión de la familia.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3779",
+      "kind": "dialogue",
+      "line_number": 25448,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3779",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Alguien se pondría a hablar, y luego otro se le volvería en contra.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Esta persona seguiría hablando durante un largo tiempo, hasta ser interrupida por alguien más.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Alguien se pondría a hablar, y luego otro se le volvería en contra.  Esta persona seguiría hablando durante un largo tiempo, hasta ser interrupida por alguien más.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3780",
+      "kind": "dialogue",
+      "line_number": 25450,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3780",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Esto siguió repitiéndose.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Era como si su desagrado se colara a través de sus voces.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Esto siguió repitiéndose. {n}Era como si su desagrado se colara a través de sus voces.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3781",
+      "kind": "dialogue",
+      "line_number": 25452,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3781",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Le habían dicho que fuera a la casa de huéspedes, así que sería malo si Krauss la descubriera.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Le habían dicho que fuera a la casa de huéspedes, así que sería malo si Krauss la descubriera.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3782",
+      "kind": "dialogue",
+      "line_number": 25454,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3782",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Pensando en eso, Shannon rápidamente se alejó de la entrada del comedor.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Pensando en eso, Shannon rápidamente se alejó de la entrada del comedor.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3783",
+      "kind": "dialogue",
+      "line_number": 25456,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3783",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Luego, dentro de la mansión controlada por la oscuridad, comenzó a revisar que toda la casa estuviera cerrada, siguiendo una ruta preestablecida.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Luego, dentro de la mansión controlada por la oscuridad, comenzó a revisar que toda la casa estuviera cerrada, siguiendo una ruta preestablecida.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3784",
+      "kind": "dialogue",
+      "line_number": 25467,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3784",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Caminó por el pasillo, revisando que cada ventana estuviera cerrada.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Caminó por el pasillo, revisando que cada ventana estuviera cerrada.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3785",
+      "kind": "dialogue",
+      "line_number": 25469,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3785",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En Rokkenjima, no había humanos además de la familia, así que en verdad, cerrar todo no era una tarea increíblemente significativa.",
+          "inline_tags": []
+        }
+      ],
+      "text": "En Rokkenjima, no había humanos además de la familia, así que en verdad, cerrar todo no era una tarea increíblemente significativa.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3786",
+      "kind": "dialogue",
+      "line_number": 25471,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3786",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Hasta que Natsuhi los había regañado diciendo que esta actitud era negligente, cerrar todo no había sido costumbre de la familia Ushiromiya.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Hasta que Natsuhi los había regañado diciendo que esta actitud era negligente, cerrar todo no había sido costumbre de la familia Ushiromiya.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3787",
+      "kind": "dialogue",
+      "line_number": 25478,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3787",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Las bisagras metálicas de las ventanas estaban heladas, y cada vez que las revisaba de una en una se sentía como si el brillo en su corazón se apagara un poco.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Las bisagras metálicas de las ventanas estaban heladas, y cada vez que las revisaba de una en una se sentía como si el brillo en su corazón se apagara un poco.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3788",
+      "kind": "dialogue",
+      "line_number": 25481,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3788",
+      "speaker": "sha",
+      "voice_files": [
+        "15/10500243"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"15\"*\"10500243\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿...?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿...?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3789",
+      "kind": "dialogue",
+      "line_number": 25500,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3789",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Entonces, creyó haber visto algo parpadeando del otro lado del corredor.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Entonces, creyó haber visto algo parpadeando del otro lado del corredor.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3790",
+      "kind": "dialogue",
+      "line_number": 25502,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3790",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... ¿Parpadeando?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Algo así no debería ser visible más allá de la oscuridad del pasillo...",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "... ¿Parpadeando? {n}Algo así no debería ser visible más allá de la oscuridad del pasillo...",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3791",
+      "kind": "dialogue",
+      "line_number": 25509,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3791",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Al principio creyó que eran sus ojos engañándola, pero tras un momento, detuvo su respiración.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Tomando una cortina, miró con miedo al centro del corredor...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Al principio creyó que eran sus ojos engañándola, pero tras un momento, detuvo su respiración.  Tomando una cortina, miró con miedo al centro del corredor...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3792",
+      "kind": "dialogue",
+      "line_number": 25511,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3792",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sin embargo, además del ocasional estallido de truenos que iluminaban el corredor, fue incapaz de volver a ver cualquier parpadeo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sin embargo, además del ocasional estallido de truenos que iluminaban el corredor, fue incapaz de volver a ver cualquier parpadeo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3793",
+      "kind": "dialogue",
+      "line_number": 25513,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3793",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Debió haber sido su imaginación después de todo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Quizá porque no podía calmar su corazón, vio algo que ni siquiera existía.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "... Debió haber sido su imaginación después de todo. {n}Quizá porque no podía calmar su corazón, vio algo que ni siquiera existía.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3794",
+      "kind": "dialogue",
+      "line_number": 25515,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3794",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Shannon continuó revisando las ventanas...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Sin embargo, en el fondo de su mente, cierta idea que la ponía nerviosa había regresado...",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Shannon continuó revisando las ventanas... {n}Sin embargo, en el fondo de su mente, cierta idea que la ponía nerviosa había regresado...",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3795",
+      "kind": "dialogue",
+      "line_number": 25522,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3795",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": " Era aquella historia que se había contado por los sirvientes de la familia Ushiromiya, la historia de fantasmas.",
+          "inline_tags": []
+        }
+      ],
+      "text": " Era aquella historia que se había contado por los sirvientes de la familia Ushiromiya, la historia de fantasmas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3796",
+      "kind": "dialogue",
+      "line_number": 25524,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3796",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Aquella en la que la mansión tenía dos amos, uno por el día y uno por la noche...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " En la cual la ama de la noche, {f:5:Beatrice}, a veces volaba por la mansión en forma de mariposas luminosas.",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "Aquella en la que la mansión tenía dos amos, uno por el día y uno por la noche...  En la cual la ama de la noche, {f:5:Beatrice}, a veces volaba por la mansión en forma de mariposas luminosas.",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3797",
+      "kind": "dialogue",
+      "line_number": 25526,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3797",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Pensándolo bien, ¿no dijo Kanon‐kun que una vez la había visto con sus propios ojos?...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Pensándolo bien, ¿no dijo Kanon‐kun que una vez la había visto con sus propios ojos?...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3798",
+      "kind": "dialogue",
+      "line_number": 25528,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3798",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Se puso molesto cuando no le creí y le dije que debió haberse equivocado...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Se puso molesto cuando no le creí y le dije que debió haberse equivocado...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep1.umi1_9.d3799",
+      "kind": "dialogue",
+      "line_number": 25530,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi1_9",
+      "label": "*d3799",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... ¿Podría ser posible que... en verdad?...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}El rugir de los truenos no dio respuesta...",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "... ¿Podría ser posible que... en verdad?... {n}El rugir de los truenos no dio respuesta...",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

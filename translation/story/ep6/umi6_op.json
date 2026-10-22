@@ -1,0 +1,2059 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.ep6.umi6_op",
+  "category": "story",
+  "rel_path": "story/ep6/umi6_op.json",
+  "episode": "ep6",
+  "section": "umi6_op",
+  "chapter": "umi6_op",
+  "description": "Episode 6 story script chapter 'umi6_op'.",
+  "entry_count": 52,
+  "entries": [
+    {
+      "id": "ep6.umi6_op.d42258",
+      "kind": "dialogue",
+      "line_number": 318281,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42258",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Una hermosa luz entraba desde la claraboya sobre la gran catedral.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Una hermosa luz entraba desde la claraboya sobre la gran catedral.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42259",
+      "kind": "dialogue",
+      "line_number": 318283,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42259",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El lugar parecía de alguna manera diferente de como había sido durante el juicio de las brujas.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Las decoraciones habían cambiado.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "El lugar parecía de alguna manera diferente de como había sido durante el juicio de las brujas. {n}Las decoraciones habían cambiado.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42260",
+      "kind": "dialogue",
+      "line_number": 318298,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42260",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Había varias cintas finas de un agradable blanco brillante, colgadas de un modo bonito en el aire.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Había varias cintas finas de un agradable blanco brillante, colgadas de un modo bonito en el aire.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42261",
+      "kind": "dialogue",
+      "line_number": 318300,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42261",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Se dispusieron flores por todas partes, de una manera que haría que cualquier lugar pareciese alegre.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Se dispusieron flores por todas partes, de una manera que haría que cualquier lugar pareciese alegre.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42262",
+      "kind": "dialogue",
+      "line_number": 318302,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42262",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Podrías asemejarlo a cómo una sola gota de agua impura puede echar a perder todo un barril de vino.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Podrías asemejarlo a cómo una sola gota de agua impura puede echar a perder todo un barril de vino.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42263",
+      "kind": "dialogue",
+      "line_number": 318304,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42263",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La simple presencia de las flores, cintas, y la alfombra roja que recorría el centro de la sala...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " hacía difícil creer que este era el mismo lugar en el que Ushiromiya Natsuhi había sido acusada falsamente de un crimen...",
+          "inline_tags": []
+        }
+      ],
+      "text": "La simple presencia de las flores, cintas, y la alfombra roja que recorría el centro de la sala...  hacía difícil creer que este era el mismo lugar en el que Ushiromiya Natsuhi había sido acusada falsamente de un crimen...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42264",
+      "kind": "dialogue",
+      "line_number": 318310,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42264",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Realmente se había convertido... en una capilla para bodas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Realmente se había convertido... en una capilla para bodas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42265",
+      "kind": "dialogue",
+      "line_number": 318334,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42265",
+      "speaker": "narrator",
+      "voice_files": [
+        "51/65100001"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"51\"*\"65100001\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡El amor es generoso, el amor es misericordioso!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡El amor es generoso, el amor es misericordioso!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42266",
+      "kind": "dialogue",
+      "line_number": 318347,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42266",
+      "speaker": "narrator",
+      "voice_files": [
+        "52/65200001"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"52\"*\"65200001\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡El amor no envidia, el amor no presume!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡El amor no envidia, el amor no presume!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42267",
+      "kind": "dialogue",
+      "line_number": 318352,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42267",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Estas palabras, pronunciadas por los dos demonios que parecían estar a cargo de esta reunión, fueron parte de una ceremonia para hacer un juramento de amor ante los ojos de Dios.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Estas palabras, pronunciadas por los dos demonios que parecían estar a cargo de esta reunión, fueron parte de una ceremonia para hacer un juramento de amor ante los ojos de Dios.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42268",
+      "kind": "dialogue",
+      "line_number": 318354,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42268",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Por supuesto, en esta boda celebrada por demonios, no había ningún sacerdote a la vista.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}En cambio, allí estaba la bruja que controla los milagros.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Por supuesto, en esta boda celebrada por demonios, no había ningún sacerdote a la vista. {n}En cambio, allí estaba la bruja que controla los milagros.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42269",
+      "kind": "dialogue",
+      "line_number": 318376,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42269",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100001",
+        "28/62100002",
+        "28/62100003"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100001\"]",
+        "[@][lv 0*\"28\"*\"62100002\"]",
+        "[@][#][*][lv 0*\"28\"*\"62100003\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"En la enfermedad y en la salud...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Sí, el verdadero trabajo de una esposa es ser de apoyo en tiempos de enfermedad.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¿No es cierto, Erika?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"En la enfermedad y en la salud...  Sí, el verdadero trabajo de una esposa es ser de apoyo en tiempos de enfermedad.  ¿No es cierto, Erika?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42270",
+      "kind": "dialogue",
+      "line_number": 318391,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42270",
+      "speaker": "eri",
+      "voice_files": [
+        "46/64500001",
+        "46/64500002"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"64500001\"]",
+        "[@][lv 0*\"46\"*\"64500002\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Sí.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Mi ama...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Sí.  Mi ama...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42271",
+      "kind": "dialogue",
+      "line_number": 318397,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42271",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100004",
+        "28/62100005",
+        "28/62100006"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100004\"]",
+        "[@][lv 0*\"28\"*\"62100005\"]",
+        "[@][lv 0*\"28\"*\"62100006\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Eso te queda bien.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Qué conjunto adecuado para la que ha conquistado al novio.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "*risita*risita*risita*.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Eso te queda bien.  Qué conjunto adecuado para la que ha conquistado al novio. *risita*risita*risita*.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42272",
+      "kind": "dialogue",
+      "line_number": 318403,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42272",
+      "speaker": "eri",
+      "voice_files": [
+        "46/64500003",
+        "46/64500004"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"64500003\"]",
+        "[@][lv 0*\"46\"*\"64500004\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ejejejejejejejejeje.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Me siento halagada, mi ama.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Ejejejejejejejejeje.  Me siento halagada, mi ama.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42273",
+      "kind": "dialogue",
+      "line_number": 318418,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42273",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La novia de pie en el camino alfombrado... era Furudo Erika.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}... El rostro del novio no se podía ver.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "La novia de pie en el camino alfombrado... era Furudo Erika. {n}... El rostro del novio no se podía ver.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42274",
+      "kind": "dialogue",
+      "line_number": 318426,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42274",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El conjunto de la novia era, sin duda, un vestido de novia blanco puro.",
+          "inline_tags": []
+        }
+      ],
+      "text": "El conjunto de la novia era, sin duda, un vestido de novia blanco puro.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42275",
+      "kind": "dialogue",
+      "line_number": 318428,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42275",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El velo de la novia representaba tanto el blanco de las bendiciones de Dios... como el blanco de la crueldad de los demonios.",
+          "inline_tags": []
+        }
+      ],
+      "text": "El velo de la novia representaba tanto el blanco de las bendiciones de Dios... como el blanco de la crueldad de los demonios.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42276",
+      "kind": "dialogue",
+      "line_number": 318440,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42276",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Un gran número de nobles cabras, brujas, y demonios fueron reunidos para esta boda.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Un gran número de nobles cabras, brujas, y demonios fueron reunidos para esta boda.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42277",
+      "kind": "dialogue",
+      "line_number": 318442,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42277",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Si tan solo sus cabezas no hubieran sido de cabras,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " probablemente habría parecido ser un grupo muy refinado digno de esta gran catedral...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Si tan solo sus cabezas no hubieran sido de cabras,  probablemente habría parecido ser un grupo muy refinado digno de esta gran catedral...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42278",
+      "kind": "dialogue",
+      "line_number": 318456,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42278",
+      "speaker": "lam",
+      "voice_files": [
+        "29/62200001",
+        "29/62200002"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"62200001\"]",
+        "[@][lv 0*\"29\"*\"62200002\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... No esperaría menos de ti, Bern.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Cada cosa que se te ocurre siempre termina siendo retorcida.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... No esperaría menos de ti, Bern.  Cada cosa que se te ocurre siempre termina siendo retorcida.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42279",
+      "kind": "dialogue",
+      "line_number": 318469,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42279",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100007",
+        "28/62100008",
+        "28/62100009"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100007\"]",
+        "[@][lv 0*\"28\"*\"62100008\"]",
+        "[@][lv 0*\"28\"*\"62100009\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Una mujer apoyando a su marido en dificultad...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿No es eso maravilloso?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Te pega, Erika.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Una mujer apoyando a su marido en dificultad...  ¿No es eso maravilloso?  Te pega, Erika.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42280",
+      "kind": "dialogue",
+      "line_number": 318474,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42280",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100010",
+        "28/62100011"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100010\"]",
+        "[|][lv 0*\"28\"*\"62100011\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Y... felicidades a usted también,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Sr. Novio.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Y... felicidades a usted también,  Sr. Novio.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42281",
+      "kind": "dialogue",
+      "line_number": 318494,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42281",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En ese momento... {f:5:Bernkastel} miró directamente a los ojos del novio.",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        }
+      ],
+      "text": "En ese momento... {f:5:Bernkastel} miró directamente a los ojos del novio.",
+      "inline_tags": [
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42282",
+      "kind": "dialogue",
+      "line_number": 318502,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42282",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[!w500]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El novio...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " no respondió.",
+          "inline_tags": []
+        }
+      ],
+      "text": "El novio...  no respondió.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42283",
+      "kind": "dialogue",
+      "line_number": 318504,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42283",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sus ojos eran grises.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sus ojos eran grises.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42284",
+      "kind": "dialogue",
+      "line_number": 318506,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42284",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Sus labios murmuraban algo de vez en cuando, pero nadie sabía si las palabras significaban algo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Sus labios murmuraban algo de vez en cuando, pero nadie sabía si las palabras significaban algo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42285",
+      "kind": "dialogue",
+      "line_number": 318515,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42285",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100012",
+        "28/62100013"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[lv 0*\"28\"*\"62100012\"]",
+        "[@][lv 0*\"28\"*\"62100013\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{a:c:",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "\"Oigan... ¿{i:están escuchando}?",
+          "inline_tags": [
+            "{i:están escuchando}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " ¿Todos ustedes?}\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "{a:c: \"Oigan... ¿{i:están escuchando}?  ¿Todos ustedes?}\"",
+      "inline_tags": [
+        "{i:están escuchando}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42286",
+      "kind": "dialogue",
+      "line_number": 318518,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42286",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ella le habló al novio en plural.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}... Por supuesto, solo había un novio.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Ella le habló al novio en plural. {n}... Por supuesto, solo había un novio.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42287",
+      "kind": "dialogue",
+      "line_number": 318520,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42287",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y, desde luego, el novio de ojos grises no respondió...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Y, desde luego, el novio de ojos grises no respondió...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42288",
+      "kind": "dialogue",
+      "line_number": 318530,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42288",
+      "speaker": "eri",
+      "voice_files": [
+        "46/64500005",
+        "46/64500006",
+        "46/64500007",
+        "46/64500008"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"64500005\"]",
+        "[@][lv 0*\"46\"*\"64500006\"]",
+        "[@][#][*][lv 0*\"46\"*\"64500007\"]",
+        "[|][lv 0*\"46\"*\"64500008\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"*risita*risita*risita*.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Probablemente te oiga, pero no puede responder, ¿verdad?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "... No te preocupes, ¿de acuerdo,",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Battler-san?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"*risita*risita*risita*.  Probablemente te oiga, pero no puede responder, ¿verdad? ... No te preocupes, ¿de acuerdo,  Battler-san?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42289",
+      "kind": "dialogue",
+      "line_number": 318540,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42289",
+      "speaker": "but",
+      "voice_files": [
+        "10/60100001"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"60100001\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Nn... gah...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Nn... gah...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42290",
+      "kind": "dialogue",
+      "line_number": 318548,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42290",
+      "speaker": "eri",
+      "voice_files": [
+        "46/64500009",
+        "46/64500010",
+        "46/64500011"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"64500009\"]",
+        "[@][lv 0*\"46\"*\"64500010\"]",
+        "[@][#][*][lv 0*\"46\"*\"64500011\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Voy a tomar todo lo tuyo,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y pisotearlo por todas partes...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡*risita*risita*risita*!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Voy a tomar todo lo tuyo,  y pisotearlo por todas partes...  ¡¡*risita*risita*risita*!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42291",
+      "kind": "dialogue",
+      "line_number": 318568,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42291",
+      "speaker": "eri",
+      "voice_files": [
+        "46/64500012"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"64500012\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¡¡Ajajajajajajajaajajajajajaajajajajaja!!",
+          "inline_tags": []
+        }
+      ],
+      "text": "¡¡Ajajajajajajajaajajajajajaajajajajaja!!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42292",
+      "kind": "dialogue",
+      "line_number": 318571,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42292",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La Bruja de los Milagros se burló con una sonrisa malvada que haría que incluso los demonios desviaran su mirada.",
+          "inline_tags": []
+        }
+      ],
+      "text": "La Bruja de los Milagros se burló con una sonrisa malvada que haría que incluso los demonios desviaran su mirada.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42293",
+      "kind": "dialogue",
+      "line_number": 318573,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42293",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[!w500]",
+        "[!w500]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ni siquiera ese desprecio...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " provocó respuesta alguna...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " de los oscuros ojos de Battler.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Ni siquiera ese desprecio...  provocó respuesta alguna...  de los oscuros ojos de Battler.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42294",
+      "kind": "dialogue",
+      "line_number": 318604,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42294",
+      "speaker": "narrator",
+      "voice_files": [
+        "51/65100002",
+        "51/65100003"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"51\"*\"65100002\"]",
+        "[@][lv 0*\"51\"*\"65100003\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡La gente vive gracias al amor!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Por lo tanto, hoy han cumplido con el propósito de sus vidas.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡La gente vive gracias al amor!  Por lo tanto, hoy han cumplido con el propósito de sus vidas.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42295",
+      "kind": "dialogue",
+      "line_number": 318620,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42295",
+      "speaker": "narrator",
+      "voice_files": [
+        "52/65200002",
+        "52/65200003"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"52\"*\"65200002\"]",
+        "[@][lv 0*\"52\"*\"65200003\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Oh, qué grande es el poder para vivir, el poder del amor!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Rezo para que el brillo de este día bendiga a estos dos por todos los tiempos!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Oh, qué grande es el poder para vivir, el poder del amor!...  ¡Rezo para que el brillo de este día bendiga a estos dos por todos los tiempos!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42296",
+      "kind": "dialogue",
+      "line_number": 318631,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42296",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100014",
+        "28/62100015"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100014\"]",
+        "[@][lv 0*\"28\"*\"62100015\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Ya paren con eso, demonios.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Qué viene ahora?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Ya paren con eso, demonios.  ¿Qué viene ahora?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42297",
+      "kind": "dialogue",
+      "line_number": 318637,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42297",
+      "speaker": "narrator",
+      "voice_files": [
+        "51/65100004"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"51\"*\"65100004\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ahora la pareja hará un juramento de amor eterno.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Ahora la pareja hará un juramento de amor eterno.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42298",
+      "kind": "dialogue",
+      "line_number": 318641,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42298",
+      "speaker": "narrator",
+      "voice_files": [
+        "52/65200004"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"52\"*\"65200004\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Después de eso, intercambiarán los anillos!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Después de eso, intercambiarán los anillos!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42299",
+      "kind": "dialogue",
+      "line_number": 318651,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42299",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En la mano de Battler... había un anillo con el sello del Águila de un Ala, una prueba de que él era el Lord Territorial de este mundo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "En la mano de Battler... había un anillo con el sello del Águila de un Ala, una prueba de que él era el Lord Territorial de este mundo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42300",
+      "kind": "dialogue",
+      "line_number": 318653,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42300",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y en el dedo de Erika había un anillo de diamantes que no podía ser destruido por ningún milagro.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Y en el dedo de Erika había un anillo de diamantes que no podía ser destruido por ningún milagro.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42301",
+      "kind": "dialogue",
+      "line_number": 318655,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42301",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Los diamantes significan un 'vínculo eterno'.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Sin embargo, en griego, la palabra diamante simplemente significa 'irrompible'.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Los diamantes significan un 'vínculo eterno'. {n}Sin embargo, en griego, la palabra diamante simplemente significa 'irrompible'.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42302",
+      "kind": "dialogue",
+      "line_number": 318662,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42302",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Erika no estaba prometiendo amar para siempre a Battler.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Ella solo quería apropiarse de Battler para toda la eternidad.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Erika no estaba prometiendo amar para siempre a Battler. {n}Ella solo quería apropiarse de Battler para toda la eternidad.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42303",
+      "kind": "dialogue",
+      "line_number": 318664,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42303",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Esta boda se estaba realizando... con el único propósito de humillar a Battler.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Esta boda se estaba realizando... con el único propósito de humillar a Battler.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42304",
+      "kind": "dialogue",
+      "line_number": 318670,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42304",
+      "speaker": "eri",
+      "voice_files": [
+        "46/64500013",
+        "46/64500014",
+        "46/64500015",
+        "46/64500016",
+        "46/64500017"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"64500013\"]",
+        "[@][lv 0*\"46\"*\"64500014\"]",
+        "[@][lv 0*\"46\"*\"64500015\"]",
+        "[@][lv 0*\"46\"*\"64500016\"]",
+        "[@][lv 0*\"46\"*\"64500017\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... No te preocupes.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " No te amaré para siempre.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Después de todo, la razón de esta ceremonia es que te sometas a mí...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Tu corazón se quedará encerrado dentro de una habitación cerrada ineludible para siempre... donde yo, Furudo {f:5:Erika}, la detective y la Bruja de la Verdad, lo manipularé.",
+          "inline_tags": [
+            "{f:5:Erika}"
+          ]
+        },
+        {
+          "index": 4,
+          "text": " Tu posición como Lord Territorial y tu anillo serán míos...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... No te preocupes.  No te amaré para siempre.  Después de todo, la razón de esta ceremonia es que te sometas a mí...  Tu corazón se quedará encerrado dentro de una habitación cerrada ineludible para siempre... donde yo, Furudo {f:5:Erika}, la detective y la Bruja de la Verdad, lo manipularé.  Tu posición como Lord Territorial y tu anillo serán míos...\"",
+      "inline_tags": [
+        "{f:5:Erika}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42305",
+      "kind": "dialogue",
+      "line_number": 318674,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42305",
+      "speaker": "but",
+      "voice_files": [
+        "10/60100002",
+        "10/60100003"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"60100002\"]",
+        "[|][lv 0*\"10\"*\"60100003\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... No...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " puedo...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... No...  puedo...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42306",
+      "kind": "dialogue",
+      "line_number": 318679,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42306",
+      "speaker": "eri",
+      "voice_files": [
+        "46/64500018",
+        "46/64500019"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"64500018\"]",
+        "[@][lv 0*\"46\"*\"64500019\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Mmm?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Qué fue eso?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Mmm?  ¿Qué fue eso?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42307",
+      "kind": "dialogue",
+      "line_number": 318689,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42307",
+      "speaker": "but",
+      "voice_files": [
+        "10/60100004",
+        "10/60100005"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"60100004\"]",
+        "[@][lv 0*\"10\"*\"60100005\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Nn... gah...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "... No puedo... escapar...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Nn... gah... ... No puedo... escapar...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42308",
+      "kind": "dialogue",
+      "line_number": 318802,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42308",
+      "speaker": "eri",
+      "voice_files": [
+        "46/64500020",
+        "46/64500021",
+        "46/64500022",
+        "46/64500023",
+        "46/64500024"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"64500020\"]",
+        "[@][lv 0*\"46\"*\"64500021\"]",
+        "[@][lv 0*\"46\"*\"64500022\"]",
+        "[@][#][*][lv 0*\"46\"*\"64500023\"]",
+        "[@][lv 0*\"46\"*\"64500024\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Mmf... ja... ¡jajajajajajajajaja!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Sí, apuesto a que no puedes salir de esa habitación cerrada.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Después de todo, tú fuiste quien la creó.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Sufrirás en esa habitación por toda la eternidad.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Permaneceré a tu lado como tu esposa para siempre... y solo yo disfrutaré de esa cara angustiada que tienes.",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Mmf... ja... ¡jajajajajajajajaja!...  Sí, apuesto a que no puedes salir de esa habitación cerrada.  Después de todo, tú fuiste quien la creó.  Sufrirás en esa habitación por toda la eternidad.  Permaneceré a tu lado como tu esposa para siempre... y solo yo disfrutaré de esa cara angustiada que tienes.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.umi6_op.d42309",
+      "kind": "dialogue",
+      "line_number": 318811,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi6_op",
+      "label": "*d42309",
+      "speaker": "eri",
+      "voice_files": [
+        "46/64500025",
+        "46/64500026",
+        "46/64500027"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"64500025\"]",
+        "[@][lv 0*\"46\"*\"64500026\"]",
+        "[@][lv 0*\"46\"*\"64500027\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": " *risita*risita*, ¡¡ajajajajajajajaja!!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡¡Te voy a deshonrar para siempre...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Ushiromiya Battleeeeeeeeeeeeeeeeer!!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": " *risita*risita*, ¡¡ajajajajajajajaja!!...  ¡¡¡Te voy a deshonrar para siempre...  Ushiromiya Battleeeeeeeeeeeeeeeeer!!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,5076 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.ep5.umi5_15",
+  "category": "story",
+  "rel_path": "story/ep5/umi5_15.json",
+  "episode": "ep5",
+  "section": "umi5_15",
+  "chapter": "umi5_15",
+  "description": "Episode 5 story script chapter 'umi5_15'.",
+  "entry_count": 111,
+  "entries": [
+    {
+      "id": "ep5.umi5_15.d42147",
+      "kind": "dialogue",
+      "line_number": 307367,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42147",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Tras ser obligada a casarse contra su voluntad,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Natsuhi comenzó a odiar a la familia Ushiromiya y estaba llena de deseos de venganza.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "{n}(*Del Registro del Juicio: Página 3)}",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "{e:070:Tras ser obligada a casarse contra su voluntad,  Natsuhi comenzó a odiar a la familia Ushiromiya y estaba llena de deseos de venganza. {n}(*Del Registro del Juicio: Página 3)}",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42148",
+      "kind": "dialogue",
+      "line_number": 307372,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42148",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Natsuhi, deseando además vengarse por la derrota financiera que la familia Ushiromiya había inflingido a su familia,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " planeó apoderarse de su riqueza.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "{n}(*Del Registro del Juicio: Página 4)}",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "{e:070:Natsuhi, deseando además vengarse por la derrota financiera que la familia Ushiromiya había inflingido a su familia,  planeó apoderarse de su riqueza. {n}(*Del Registro del Juicio: Página 4)}",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42149",
+      "kind": "dialogue",
+      "line_number": 307388,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42149",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:A sabiendas de que la fortuna de la familia Ushiromiya estaba, en términos prácticos, administrada personalmente por Kinzo,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " mantuvo relaciones carnales con él para ganar su favor y así lograr engañarlo.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "{n}(*Del Registro del Juicio: Página 7)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": "{n}(*De los Documentos de {f:5:Bernkastel}: Página 682)}",
+          "inline_tags": [
+            "{n}",
+            "{f:5:Bernkastel}"
+          ]
+        }
+      ],
+      "text": "{e:070:A sabiendas de que la fortuna de la familia Ushiromiya estaba, en términos prácticos, administrada personalmente por Kinzo,  mantuvo relaciones carnales con él para ganar su favor y así lograr engañarlo. {n}(*Del Registro del Juicio: Página 7) {n}(*De los Documentos de {f:5:Bernkastel}: Página 682)}",
+      "inline_tags": [
+        "{n}",
+        "{n}",
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42150",
+      "kind": "dialogue",
+      "line_number": 307398,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42150",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Para que Kinzo la obedeciera,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Natsuhi hizo muchas veces de {f:5:Beatrice}, la bruja de los delirios de Kinzo, y tuvo relaciones sexuales con él.",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}Kinzo, al ver a Natsuhi vestida como su amante muerta, fue engañado fácilmente.",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": "{n}Y los testimonios de los sirvientes que la veían con ese atuendo se convirtieron en parte en la base de la leyenda de la bruja.",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 4,
+          "text": "{n}(*Del Registro del Juicio: Página 8)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 5,
+          "text": "{n}(*De la evidencia presentada #17)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 6,
+          "text": "{n}(*De los Documentos de {f:5:Bernkastel}: Página 802)}",
+          "inline_tags": [
+            "{n}",
+            "{f:5:Bernkastel}"
+          ]
+        }
+      ],
+      "text": "{e:070:Para que Kinzo la obedeciera,  Natsuhi hizo muchas veces de {f:5:Beatrice}, la bruja de los delirios de Kinzo, y tuvo relaciones sexuales con él. {n}Kinzo, al ver a Natsuhi vestida como su amante muerta, fue engañado fácilmente. {n}Y los testimonios de los sirvientes que la veían con ese atuendo se convirtieron en parte en la base de la leyenda de la bruja. {n}(*Del Registro del Juicio: Página 8) {n}(*De la evidencia presentada #17) {n}(*De los Documentos de {f:5:Bernkastel}: Página 802)}",
+      "inline_tags": [
+        "{f:5:Beatrice}",
+        "{n}",
+        "{n}",
+        "{n}",
+        "{n}",
+        "{n}",
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42151",
+      "kind": "dialogue",
+      "line_number": 307411,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42151",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Sin embargo, en la noche del 4 de octubre de 1986, Ushiromiya Battler encontró el oro escondido.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Al ver que los familiares decidieron firmemente que Battler fuera el próximo sucesor, Natsuhi planeó el crimen.",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}Asesinó a los niños en la llamada \"habitación de los primos\" e intentó acusar a Battler por el crimen.}",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "{e:070:Sin embargo, en la noche del 4 de octubre de 1986, Ushiromiya Battler encontró el oro escondido. {n}Al ver que los familiares decidieron firmemente que Battler fuera el próximo sucesor, Natsuhi planeó el crimen. {n}Asesinó a los niños en la llamada \"habitación de los primos\" e intentó acusar a Battler por el crimen.}",
+      "inline_tags": [
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42152",
+      "kind": "dialogue",
+      "line_number": 307422,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42152",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Genji fue asesinado porque se opuso a este plan.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Después asesinó también a Hideyoshi.",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}De aquí en adelante, mostró la determinación de asesinar indiscriminadamente a todos los involucrados.",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": "{n}(*Del Registro del Juicio: Página 27)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 4,
+          "text": "{n}(*De los Materiales Suplementarios B: Página 61)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 5,
+          "text": "{n}(*De los Documentos de {f:5:Bernkastel}: Página 1103)}",
+          "inline_tags": [
+            "{n}",
+            "{f:5:Bernkastel}"
+          ]
+        }
+      ],
+      "text": "{e:070:Genji fue asesinado porque se opuso a este plan. {n}Después asesinó también a Hideyoshi. {n}De aquí en adelante, mostró la determinación de asesinar indiscriminadamente a todos los involucrados. {n}(*Del Registro del Juicio: Página 27) {n}(*De los Materiales Suplementarios B: Página 61) {n}(*De los Documentos de {f:5:Bernkastel}: Página 1103)}",
+      "inline_tags": [
+        "{n}",
+        "{n}",
+        "{n}",
+        "{n}",
+        "{n}",
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42153",
+      "kind": "dialogue",
+      "line_number": 307429,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42153",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:A continuación se especifican los detalles del crimen:}",
+          "inline_tags": [
+            "{e:070:A continuación se especifican los detalles del crimen:}"
+          ]
+        }
+      ],
+      "text": "{e:070:A continuación se especifican los detalles del crimen:}",
+      "inline_tags": [
+        "{e:070:A continuación se especifican los detalles del crimen:}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42154",
+      "kind": "dialogue",
+      "line_number": 307445,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42154",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:24:00, 4 de octubre de 1986.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Natsuhi decidió cometer el crimen.}",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "{e:070:24:00, 4 de octubre de 1986. {n}Natsuhi decidió cometer el crimen.}",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42155",
+      "kind": "dialogue",
+      "line_number": 307457,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42155",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Ya que Genji se rehusó a ayudarla cuando se lo pidió, lo asesinó.}",
+          "inline_tags": [
+            "{e:070:Ya que Genji se rehusó a ayudarla cuando se lo pidió, lo asesinó.}"
+          ]
+        }
+      ],
+      "text": "{e:070:Ya que Genji se rehusó a ayudarla cuando se lo pidió, lo asesinó.}",
+      "inline_tags": [
+        "{e:070:Ya que Genji se rehusó a ayudarla cuando se lo pidió, lo asesinó.}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42156",
+      "kind": "dialogue",
+      "line_number": 307470,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42156",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Después asesinó a su esposo Krauss en su propia habitación.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}(*Del Registro del Juicio: Página 40)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}(*De los Materiales Suplementarios S: Página 8)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": "{n}(*De los Documentos de {f:5:Bernkastel}: Página 1105)",
+          "inline_tags": [
+            "{n}",
+            "{f:5:Bernkastel}"
+          ]
+        },
+        {
+          "index": 4,
+          "text": "{n}(*De los Documentos Internos de la Gran Corte: Asuntos Generales A09 #9974)}",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "{e:070:Después asesinó a su esposo Krauss en su propia habitación. {n}(*Del Registro del Juicio: Página 40) {n}(*De los Materiales Suplementarios S: Página 8) {n}(*De los Documentos de {f:5:Bernkastel}: Página 1105) {n}(*De los Documentos Internos de la Gran Corte: Asuntos Generales A09 #9974)}",
+      "inline_tags": [
+        "{n}",
+        "{n}",
+        "{n}",
+        "{f:5:Bernkastel}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42157",
+      "kind": "dialogue",
+      "line_number": 307520,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42157",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Después, fue a la llamada \"habitación de los primos\" en el segundo piso de la casa de huéspedes,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " esperó a que Rosa se uniese a los demás, y asesinó a George, Jessica, María y Rosa.}",
+          "inline_tags": []
+        }
+      ],
+      "text": "{e:070:Después, fue a la llamada \"habitación de los primos\" en el segundo piso de la casa de huéspedes,  esperó a que Rosa se uniese a los demás, y asesinó a George, Jessica, María y Rosa.}",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42158",
+      "kind": "dialogue",
+      "line_number": 307531,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42158",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Lastimó los cuellos de los cadáveres.}",
+          "inline_tags": [
+            "{e:070:Lastimó los cuellos de los cadáveres.}"
+          ]
+        }
+      ],
+      "text": "{e:070:Lastimó los cuellos de los cadáveres.}",
+      "inline_tags": [
+        "{e:070:Lastimó los cuellos de los cadáveres.}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42159",
+      "kind": "dialogue",
+      "line_number": 307545,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42159",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Luego, como había gente en la sala del primer piso, esperó en una habitación vacía del segundo.}",
+          "inline_tags": [
+            "{e:070:Luego, como había gente en la sala del primer piso, esperó en una habitación vacía del segundo.}"
+          ]
+        }
+      ],
+      "text": "{e:070:Luego, como había gente en la sala del primer piso, esperó en una habitación vacía del segundo.}",
+      "inline_tags": [
+        "{e:070:Luego, como había gente en la sala del primer piso, esperó en una habitación vacía del segundo.}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42160",
+      "kind": "dialogue",
+      "line_number": 307547,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42160",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Se ocultó en esta habitación vacía hasta que la gente en la sala se dispersara y fuera a dormir.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}(*Del Registro del Juicio: Página 41)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}(*De los Materiales Suplementarios S: Página 10)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": "{n}(*De los Documentos de {f:5:Bernkastel}: Página 1131)",
+          "inline_tags": [
+            "{n}",
+            "{f:5:Bernkastel}"
+          ]
+        },
+        {
+          "index": 4,
+          "text": "{n}(*De los Documentos Internos de la Gran Corte: Asuntos Generales A09 #9974)}",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "{e:070:Se ocultó en esta habitación vacía hasta que la gente en la sala se dispersara y fuera a dormir. {n}(*Del Registro del Juicio: Página 41) {n}(*De los Materiales Suplementarios S: Página 10) {n}(*De los Documentos de {f:5:Bernkastel}: Página 1131) {n}(*De los Documentos Internos de la Gran Corte: Asuntos Generales A09 #9974)}",
+      "inline_tags": [
+        "{n}",
+        "{n}",
+        "{n}",
+        "{f:5:Bernkastel}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42161",
+      "kind": "dialogue",
+      "line_number": 307550,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42161",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:La gente de la sala se dispersó poco después de las 3:00 AM.}",
+          "inline_tags": [
+            "{e:070:La gente de la sala se dispersó poco después de las 3:00 AM.}"
+          ]
+        }
+      ],
+      "text": "{e:070:La gente de la sala se dispersó poco después de las 3:00 AM.}",
+      "inline_tags": [
+        "{e:070:La gente de la sala se dispersó poco después de las 3:00 AM.}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42162",
+      "kind": "dialogue",
+      "line_number": 307564,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42162",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Natsuhi dejó la habitación vacía y huyó de la casa de huéspedes.}",
+          "inline_tags": [
+            "{e:070:Natsuhi dejó la habitación vacía y huyó de la casa de huéspedes.}"
+          ]
+        }
+      ],
+      "text": "{e:070:Natsuhi dejó la habitación vacía y huyó de la casa de huéspedes.}",
+      "inline_tags": [
+        "{e:070:Natsuhi dejó la habitación vacía y huyó de la casa de huéspedes.}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42163",
+      "kind": "dialogue",
+      "line_number": 307585,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42163",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Volvió a su habitación personal, donde se encontró con Kinzo, quien había estado ocultándose ahí.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Se quedó ahí hasta la mañana.}",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "{e:070:Volvió a su habitación personal, donde se encontró con Kinzo, quien había estado ocultándose ahí. {n}Se quedó ahí hasta la mañana.}",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42164",
+      "kind": "dialogue",
+      "line_number": 307606,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42164",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Kinzo dejó la habitación temprano a la mañana siguiente y se ocultó en algún lugar cercano a la casa de huéspedes.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}(*Del Registro del Juicio: Página 41)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}(*De los Materiales Suplementarios S: Página 29)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": "{n}(*De los Documentos de {f:5:Bernkastel}: Página 1200)",
+          "inline_tags": [
+            "{n}",
+            "{f:5:Bernkastel}"
+          ]
+        },
+        {
+          "index": 4,
+          "text": "{n}(*De los Documentos Internos de la Gran Corte: Asuntos Generales A09 #9974)}",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "{e:070:Kinzo dejó la habitación temprano a la mañana siguiente y se ocultó en algún lugar cercano a la casa de huéspedes. {n}(*Del Registro del Juicio: Página 41) {n}(*De los Materiales Suplementarios S: Página 29) {n}(*De los Documentos de {f:5:Bernkastel}: Página 1200) {n}(*De los Documentos Internos de la Gran Corte: Asuntos Generales A09 #9974)}",
+      "inline_tags": [
+        "{n}",
+        "{n}",
+        "{n}",
+        "{f:5:Bernkastel}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42165",
+      "kind": "dialogue",
+      "line_number": 307614,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42165",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Posteriormente, Kinzo vio su oportunidad y se llevó los cadáveres de las seis víctimas de uno en uno para ocultarlos.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Desafortunadamente, estos cadáveres no han sido encontrados.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "{n}(*Del Registro del Juicio: Página 42)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": "{n}(*De los Materiales Suplementarios S: Página 37)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 4,
+          "text": "{n}(*De los Documentos Internos de la Gran Corte: Asuntos Generales A09 #9974)}",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "{e:070:Posteriormente, Kinzo vio su oportunidad y se llevó los cadáveres de las seis víctimas de uno en uno para ocultarlos.  Desafortunadamente, estos cadáveres no han sido encontrados. {n}(*Del Registro del Juicio: Página 42) {n}(*De los Materiales Suplementarios S: Página 37) {n}(*De los Documentos Internos de la Gran Corte: Asuntos Generales A09 #9974)}",
+      "inline_tags": [
+        "{n}",
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42166",
+      "kind": "dialogue",
+      "line_number": 307617,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42166",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Natsuhi, quien había fracasado en su plan para que sospechasen de Battler, cambió su plan y decidió matar a todos los presentes.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}(*Del Registro del Juicio: Página 58)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}(*De los Materiales Suplementarios T: Página 19)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": "{n}(*De los Documentos de {f:5:Bernkastel}: Página 1348)",
+          "inline_tags": [
+            "{n}",
+            "{f:5:Bernkastel}"
+          ]
+        },
+        {
+          "index": 4,
+          "text": "{n}(*De los Documentos Internos de la Gran Corte: Asuntos Generales A09 #9974)}",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "{e:070:Natsuhi, quien había fracasado en su plan para que sospechasen de Battler, cambió su plan y decidió matar a todos los presentes. {n}(*Del Registro del Juicio: Página 58) {n}(*De los Materiales Suplementarios T: Página 19) {n}(*De los Documentos de {f:5:Bernkastel}: Página 1348) {n}(*De los Documentos Internos de la Gran Corte: Asuntos Generales A09 #9974)}",
+      "inline_tags": [
+        "{n}",
+        "{n}",
+        "{n}",
+        "{f:5:Bernkastel}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42167",
+      "kind": "dialogue",
+      "line_number": 307629,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42167",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Adivinando que una de las personas presentes eventualmente querría descansar en su habitación,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Natsuhi se ocultó en el armario de una de las habitaciones de huéspedes.}",
+          "inline_tags": []
+        }
+      ],
+      "text": "{e:070:Adivinando que una de las personas presentes eventualmente querría descansar en su habitación,  Natsuhi se ocultó en el armario de una de las habitaciones de huéspedes.}",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42168",
+      "kind": "dialogue",
+      "line_number": 307643,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42168",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:A la 1:00 PM, asesinó a Hideyoshi justo después de que este entrase a la habitación.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}(*Del Registro del Juicio: Página 61)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}(*De los Materiales Suplementarios T: Página 26)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": "{n}(*De los Documentos Internos de la Gran Corte: Asuntos Generales A09 #9974)}",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "{e:070:A la 1:00 PM, asesinó a Hideyoshi justo después de que este entrase a la habitación. {n}(*Del Registro del Juicio: Página 61) {n}(*De los Materiales Suplementarios T: Página 26) {n}(*De los Documentos Internos de la Gran Corte: Asuntos Generales A09 #9974)}",
+      "inline_tags": [
+        "{n}",
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42169",
+      "kind": "dialogue",
+      "line_number": 307650,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42169",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Desde el momento en que los otros se dieron cuenta del incidente hasta que se llevaron el cadáver de Hideyoshi, Natsuhi estuvo escondida en el armario.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Como prueba de esto, un botón de la ropa de Natsuhi fue encontrado en el armario.}",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "{e:070:Desde el momento en que los otros se dieron cuenta del incidente hasta que se llevaron el cadáver de Hideyoshi, Natsuhi estuvo escondida en el armario. {n}Como prueba de esto, un botón de la ropa de Natsuhi fue encontrado en el armario.}",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42170",
+      "kind": "dialogue",
+      "line_number": 307667,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42170",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Después, salió e intentó volver a su habitación.}",
+          "inline_tags": [
+            "{e:070:Después, salió e intentó volver a su habitación.}"
+          ]
+        }
+      ],
+      "text": "{e:070:Después, salió e intentó volver a su habitación.}",
+      "inline_tags": [
+        "{e:070:Después, salió e intentó volver a su habitación.}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42171",
+      "kind": "dialogue",
+      "line_number": 307677,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42171",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Pero antes de eso, Furudo Erika la encontró e interrogó, y ella confesó su crimen.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}(*Del Registro del Juicio: Página 63)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}(*De los Materiales Suplementarios T: Pág. 32)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": "{n}(*De la evidencia presentada #26)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 4,
+          "text": "{n}(*De los Documentos de {f:5:Bernkastel}: Pág. 1348)",
+          "inline_tags": [
+            "{n}",
+            "{f:5:Bernkastel}"
+          ]
+        },
+        {
+          "index": 5,
+          "text": "{n}(*De los Documentos de {f:5:Lambdadelta}: Línea 7)",
+          "inline_tags": [
+            "{n}",
+            "{f:5:Lambdadelta}"
+          ]
+        },
+        {
+          "index": 6,
+          "text": "{n}(*De los Documentos Internos de la Gran Corte: Asuntos Generales A09 #9974)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 7,
+          "text": "{n}(*De los Documentos Internos de la Gran Corte: Subsección Primera U99 #0107)",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 8,
+          "text": "{n}(*De los Avisos Oficiales de la Gran Corte: #0172)}",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "{e:070:Pero antes de eso, Furudo Erika la encontró e interrogó, y ella confesó su crimen. {n}(*Del Registro del Juicio: Página 63) {n}(*De los Materiales Suplementarios T: Pág. 32) {n}(*De la evidencia presentada #26) {n}(*De los Documentos de {f:5:Bernkastel}: Pág. 1348) {n}(*De los Documentos de {f:5:Lambdadelta}: Línea 7) {n}(*De los Documentos Internos de la Gran Corte: Asuntos Generales A09 #9974) {n}(*De los Documentos Internos de la Gran Corte: Subsección Primera U99 #0107) {n}(*De los Avisos Oficiales de la Gran Corte: #0172)}",
+      "inline_tags": [
+        "{n}",
+        "{n}",
+        "{n}",
+        "{n}",
+        "{f:5:Bernkastel}",
+        "{n}",
+        "{f:5:Lambdadelta}",
+        "{n}",
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42172",
+      "kind": "dialogue",
+      "line_number": 307697,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42172",
+      "speaker": "ber",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{e:070:Aviso Oficial de la Gran Corte #0172",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Debido al resultado del Juicio de la Ilusión #0147-007982 (24:00, 5 de octubre, 1986), anunciamos que se ha determinado lo siguiente:",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}{n}Ushiromiya Natsuhi ha admitido su crimen.",
+          "inline_tags": [
+            "{n}",
+            "{n}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": "{n}{n}Durante los 13 meses subsecuentes a este aviso, los documentos relacionados pueden ser revisados en el Centro de Administración de los Documentos Legales de la Oficina de la Gran Corte, Subsección Primera.",
+          "inline_tags": [
+            "{n}",
+            "{n}"
+          ]
+        },
+        {
+          "index": 4,
+          "text": "{n}{n}Jefa Adjunta de la Gran Corte",
+          "inline_tags": [
+            "{n}",
+            "{n}"
+          ]
+        },
+        {
+          "index": 5,
+          "text": "{n}Inquisidora General de Herejía",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 6,
+          "text": "{n}Dlanor A. Knox}",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "{e:070:Aviso Oficial de la Gran Corte #0172 {n}Debido al resultado del Juicio de la Ilusión #0147-007982 (24:00, 5 de octubre, 1986), anunciamos que se ha determinado lo siguiente: {n}{n}Ushiromiya Natsuhi ha admitido su crimen. {n}{n}Durante los 13 meses subsecuentes a este aviso, los documentos relacionados pueden ser revisados en el Centro de Administración de los Documentos Legales de la Oficina de la Gran Corte, Subsección Primera. {n}{n}Jefa Adjunta de la Gran Corte {n}Inquisidora General de Herejía {n}Dlanor A. Knox}",
+      "inline_tags": [
+        "{n}",
+        "{n}",
+        "{n}",
+        "{n}",
+        "{n}",
+        "{n}",
+        "{n}",
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42173",
+      "kind": "dialogue",
+      "line_number": 307726,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42173",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901083",
+        "03/50901084",
+        "03/50901085"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901083\"]",
+        "[@][lv 0*\"03\"*\"50901084\"]",
+        "[@][lv 0*\"03\"*\"50901085\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Entonces simplemente digan que yo lo hice, ¿de acuerdo?!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¿No es eso lo que quieren que diga?!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡¡Waaaaaaaaaaaaaahhhhhh...!!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Entonces simplemente digan que yo lo hice, ¿de acuerdo?!  ¡¿No es eso lo que quieren que diga?!  ¡¡¡Waaaaaaaaaaaaaahhhhhh...!!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42174",
+      "kind": "dialogue",
+      "line_number": 307729,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42174",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Como habiéndose rendido y sabiendo que sería inútil intentar salir de esta,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " la tía Natsuhi dijo eso a gritos.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Como habiéndose rendido y sabiendo que sería inútil intentar salir de esta,  la tía Natsuhi dijo eso a gritos.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42175",
+      "kind": "dialogue",
+      "line_number": 307735,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42175",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Era un poco triste.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Era un poco triste.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42176",
+      "kind": "dialogue",
+      "line_number": 307737,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42176",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Quería creer que, a pesar de las circunstancias lamentables que la habían llevado a casarse con alguien de la familia Ushiromiya...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Natsuhi podría haber encontrado un poco de felicidad junto al tío Krauss y Jessica.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Quería creer que, a pesar de las circunstancias lamentables que la habían llevado a casarse con alguien de la familia Ushiromiya...  Natsuhi podría haber encontrado un poco de felicidad junto al tío Krauss y Jessica.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42177",
+      "kind": "dialogue",
+      "line_number": 307743,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42177",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[!w583]",
+        "[!w500]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sin embargo, debido a las acciones de la misma tía Natsuhi, el tío Krauss...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " e incluso su amada hija Jessica...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " habían sido cruelmente asesinados...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sin embargo, debido a las acciones de la misma tía Natsuhi, el tío Krauss...  e incluso su amada hija Jessica...  habían sido cruelmente asesinados...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42178",
+      "kind": "dialogue",
+      "line_number": 307749,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42178",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Era incluso más difícil de creer que el abuelo hubiera sido cómplice y ocultado los cadáveres...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Era incluso más difícil de creer que el abuelo hubiera sido cómplice y ocultado los cadáveres...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42179",
+      "kind": "dialogue",
+      "line_number": 307751,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42179",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sin embargo, a juzgar por el claro testimonio por parte de varias personas que lo conocían...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " el estado mental del abuelo durante estos últimos años ha estado lejos de lo que cualquiera consideraría normal.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sin embargo, a juzgar por el claro testimonio por parte de varias personas que lo conocían...  el estado mental del abuelo durante estos últimos años ha estado lejos de lo que cualquiera consideraría normal.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42180",
+      "kind": "dialogue",
+      "line_number": 307757,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42180",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Quizá, poseído por una increíble devoción hacia la amante que había perdido años atrás...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " el abuelo verdaderamente podría haber creído que la tía Natsuhi era una reencarnación de {f:5:Beatrice}.",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "Quizá, poseído por una increíble devoción hacia la amante que había perdido años atrás...  el abuelo verdaderamente podría haber creído que la tía Natsuhi era una reencarnación de {f:5:Beatrice}.",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42181",
+      "kind": "dialogue",
+      "line_number": 307763,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42181",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿Dónde está el abuelo ahora?",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿Dónde está el abuelo ahora?",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42182",
+      "kind": "dialogue",
+      "line_number": 307765,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42182",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿Realmente,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " como Erika había teorizado, creía que podía revivir a {f:5:Beatrice} llevando a cabo asesinatos de acuerdo al epitafio,",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " y sucumbió a los engaños de Natsuhi?",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿Realmente,  como Erika había teorizado, creía que podía revivir a {f:5:Beatrice} llevando a cabo asesinatos de acuerdo al epitafio,  y sucumbió a los engaños de Natsuhi?",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42183",
+      "kind": "dialogue",
+      "line_number": 307767,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42183",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... ¿Acaso, en este momento, está realizando alguna ceremonia perturbadora con los cuerpos que se llevó?...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... ¿Acaso, en este momento, está realizando alguna ceremonia perturbadora con los cuerpos que se llevó?...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42184",
+      "kind": "dialogue",
+      "line_number": 307776,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42184",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901086",
+        "03/50901087",
+        "03/50901088",
+        "03/50901089"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901086\"]",
+        "[|][lv 0*\"03\"*\"50901087\"]",
+        "[@][lv 0*\"03\"*\"50901088\"]",
+        "[|][lv 0*\"03\"*\"50901089\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Estás...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " satisfecho?...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Esto...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " es lo que querías que dijera, ¿o no?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Estás...  satisfecho?...  Esto...  es lo que querías que dijera, ¿o no?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42185",
+      "kind": "dialogue",
+      "line_number": 307779,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42185",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La tía Natsuhi sollozó mientras hablaba.",
+          "inline_tags": []
+        }
+      ],
+      "text": "La tía Natsuhi sollozó mientras hablaba.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42186",
+      "kind": "dialogue",
+      "line_number": 307784,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42186",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901090",
+        "03/50901091",
+        "03/50901092"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901090\"]",
+        "[|][lv 0*\"03\"*\"50901091\"]",
+        "[@][#][*][lv 0*\"03\"*\"50901092\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Esta es...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " tu venganza, ¿no es así?...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡Tú, el hombre de hace 19 años!!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Esta es...  tu venganza, ¿no es así?...  ¡¡Tú, el hombre de hace 19 años!!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42187",
+      "kind": "dialogue",
+      "line_number": 307797,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42187",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Este \"hombre de hace 19 años\" que la tía Natsuhi mencionaba era supuestamente alguien que le había tendido una trampa.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Este \"hombre de hace 19 años\" que la tía Natsuhi mencionaba era supuestamente alguien que le había tendido una trampa.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42188",
+      "kind": "dialogue",
+      "line_number": 307799,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42188",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sin embargo, solo había mencionado que este hombre de hace 19 años existía,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y ciertamente no había intentado explicar qué había ocurrido hace 19 años...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sin embargo, solo había mencionado que este hombre de hace 19 años existía,  y ciertamente no había intentado explicar qué había ocurrido hace 19 años...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42189",
+      "kind": "dialogue",
+      "line_number": 307809,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42189",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901093",
+        "03/50901094"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901093\"]",
+        "[@][lv 0*\"03\"*\"50901094\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Estoy segura... de que el cómplice de ese hombre se encuentra entre nosotros...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Estoy segura de que en este momento, él me está ridiculizando por medio de uno de ustedes...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Estoy segura... de que el cómplice de ese hombre se encuentra entre nosotros...  Estoy segura de que en este momento, él me está ridiculizando por medio de uno de ustedes...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42190",
+      "kind": "dialogue",
+      "line_number": 307813,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42190",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901095",
+        "03/50901096",
+        "03/50901097",
+        "03/50901098",
+        "03/50901099"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901095\"]",
+        "[@][lv 0*\"03\"*\"50901096\"]",
+        "[@][lv 0*\"03\"*\"50901097\"]",
+        "[@][#][*][lv 0*\"03\"*\"50901098\"]",
+        "[@][lv 0*\"03\"*\"50901099\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Entonces, ¡dímelo!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Estás contento?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¿Ya se ha aliviado algo de ese dolor y sufrimiento que has soportado por 19 años?!...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Por fin lo entiendo...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " La razón por la que me has acorralado... era porque... querías que lo admitiera, ¿no es así?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Entonces, ¡dímelo!...  ¿Estás contento?  ¡¿Ya se ha aliviado algo de ese dolor y sufrimiento que has soportado por 19 años?!...  Por fin lo entiendo...  La razón por la que me has acorralado... era porque... querías que lo admitiera, ¿no es así?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42191",
+      "kind": "dialogue",
+      "line_number": 307824,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42191",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501264",
+        "46/54501265",
+        "46/54501266"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501264\"]",
+        "[@][lv 0*\"46\"*\"54501265\"]",
+        "[@][lv 0*\"46\"*\"54501266\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Natsuhi‐san.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Además de nosotros, no hay nadie más aquí.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Por favor detén este acto desesperado y deja de fingir que existe alguien que no está aquí.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Natsuhi‐san.  Además de nosotros, no hay nadie más aquí.  Por favor detén este acto desesperado y deja de fingir que existe alguien que no está aquí.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42192",
+      "kind": "dialogue",
+      "line_number": 307827,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42192",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Erika se rió burlonamente, pero cuando la tía Natsuhi nos miró...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Erika se rió burlonamente, pero cuando la tía Natsuhi nos miró...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42193",
+      "kind": "dialogue",
+      "line_number": 307829,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42193",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "No, cuando miró a algún ser detrás nuestro... bajó su cabeza y tembló.",
+          "inline_tags": []
+        }
+      ],
+      "text": "No, cuando miró a algún ser detrás nuestro... bajó su cabeza y tembló.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42194",
+      "kind": "dialogue",
+      "line_number": 307831,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42194",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Luego... confesó su pecado.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Luego... confesó su pecado.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42195",
+      "kind": "dialogue",
+      "line_number": 307844,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42195",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901100"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901100\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"He... cometido un asesinato...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"He... cometido un asesinato...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42196",
+      "kind": "dialogue",
+      "line_number": 307854,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42196",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501267"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501267\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Así que al fin has admitido tu crimen directamente.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Así que al fin has admitido tu crimen directamente.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42197",
+      "kind": "dialogue",
+      "line_number": 307860,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42197",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901101",
+        "03/50901102",
+        "03/50901103"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901101\"]",
+        "[@][lv 0*\"03\"*\"50901102\"]",
+        "[@][lv 0*\"03\"*\"50901103\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " no lo digo por lo que ha ocurrido ayer y hoy...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Confesaré un asesinato que ocurrió hace 19 años.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"No,  no lo digo por lo que ha ocurrido ayer y hoy...  Confesaré un asesinato que ocurrió hace 19 años.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42198",
+      "kind": "dialogue",
+      "line_number": 307878,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42198",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Todos los adultos murmuraron, preguntándose de qué se trataba eso.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}... Porque jamás habían escuchado de un caso de asesinato de hace 19 años.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Todos los adultos murmuraron, preguntándose de qué se trataba eso. {n}... Porque jamás habían escuchado de un caso de asesinato de hace 19 años.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42199",
+      "kind": "dialogue",
+      "line_number": 307892,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42199",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901104",
+        "03/50901105",
+        "03/50901106",
+        "03/50901107"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901104\"]",
+        "[@][lv 0*\"03\"*\"50901105\"]",
+        "[@][lv 0*\"03\"*\"50901106\"]",
+        "[@][lv 0*\"03\"*\"50901107\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"H-Hace 19 años...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " C-Cometí un pecado...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " No podía perdonarlo...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡¡Ese... bebé!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"H-Hace 19 años...  C-Cometí un pecado...  No podía perdonarlo...  ¡¡Ese... bebé!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42200",
+      "kind": "dialogue",
+      "line_number": 307898,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42200",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501268",
+        "46/54501269"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501268\"]",
+        "[@][lv 0*\"46\"*\"54501269\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Bebé?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Y ahora de qué estás hablando?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Bebé?  ¿Y ahora de qué estás hablando?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42201",
+      "kind": "dialogue",
+      "line_number": 307904,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42201",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901108",
+        "03/50901109",
+        "03/50901110",
+        "03/50901111"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901108\"]",
+        "[@][lv 0*\"03\"*\"50901109\"]",
+        "[@][lv 0*\"03\"*\"50901110\"]",
+        "[@][lv 0*\"03\"*\"50901111\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Aquel día hace 19 años...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " padre me encomendó un bebé...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Ya que todavía no podía tener descendencia propia, padre me dijo que adoptara un niño...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " y me hizo cuidar de un bebé que dijo que había sido traído de un orfanato...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Aquel día hace 19 años...  padre me encomendó un bebé...  Ya que todavía no podía tener descendencia propia, padre me dijo que adoptara un niño...  y me hizo cuidar de un bebé que dijo que había sido traído de un orfanato...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42202",
+      "kind": "dialogue",
+      "line_number": 307909,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42202",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901112"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901112\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¿Tienen la menor idea... de cuán humillante fue eso para mí como mujer?!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¿Tienen la menor idea... de cuán humillante fue eso para mí como mujer?!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42203",
+      "kind": "dialogue",
+      "line_number": 307919,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42203",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Con una mezcla de emociones conflictivas de enojo, tristeza, arrepentimiento, y un poco desafiante,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " la tía Natsuhi confesó.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Con una mezcla de emociones conflictivas de enojo, tristeza, arrepentimiento, y un poco desafiante,  la tía Natsuhi confesó.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42204",
+      "kind": "dialogue",
+      "line_number": 307921,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42204",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La humillación como mujer de que ya no se le esperara que tuviera un hijo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Y también el sentimiento claramente desagradable de ser obligada a cuidar a un bebé ajeno.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "La humillación como mujer de que ya no se le esperara que tuviera un hijo. {n}Y también el sentimiento claramente desagradable de ser obligada a cuidar a un bebé ajeno.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42205",
+      "kind": "dialogue",
+      "line_number": 307923,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42205",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Le causaba gran tristeza y furia,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y en poco tiempo, logró hacer un agujero en su corazón...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Le causaba gran tristeza y furia,  y en poco tiempo, logró hacer un agujero en su corazón...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42206",
+      "kind": "dialogue",
+      "line_number": 307932,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42206",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901113"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901113\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y entonces... vendí mi alma... a los demonios...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Y entonces... vendí mi alma... a los demonios...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42207",
+      "kind": "dialogue",
+      "line_number": 307934,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42207",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901114"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901114\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Sucedió cuando fui a dar un paseo a través del jardín de rosas, junto con una sirviente que cargaba al bebé...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Sucedió cuando fui a dar un paseo a través del jardín de rosas, junto con una sirviente que cargaba al bebé...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42208",
+      "kind": "dialogue",
+      "line_number": 307936,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42208",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901115",
+        "03/50901116"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901115\"]",
+        "[@][lv 0*\"03\"*\"50901116\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Quería estar a solas...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " pero esa sirviente me seguía diligentemente a todos lados.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Quería estar a solas...  pero esa sirviente me seguía diligentemente a todos lados.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42209",
+      "kind": "dialogue",
+      "line_number": 307942,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42209",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901117"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901117\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Fui incapaz de incluso decirle que dejara de hacerlo... y por lo tanto incapaz de alejarme del llanto del niño...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Fui incapaz de incluso decirle que dejara de hacerlo... y por lo tanto incapaz de alejarme del llanto del niño...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42210",
+      "kind": "dialogue",
+      "line_number": 307944,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42210",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901118",
+        "03/50901119"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901118\"]",
+        "[@][lv 0*\"03\"*\"50901119\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Ese día...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " marcó el comienzo de 19 largos años de dolores de cabeza...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Ese día...  marcó el comienzo de 19 largos años de dolores de cabeza...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42211",
+      "kind": "dialogue",
+      "line_number": 307956,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42211",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901120"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901120\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Entonces nos encontramos frente a un acantilado.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Entonces nos encontramos frente a un acantilado.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42212",
+      "kind": "dialogue",
+      "line_number": 307958,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42212",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901121",
+        "03/50901122",
+        "03/50901123"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901121\"]",
+        "[|][lv 0*\"03\"*\"50901122\"]",
+        "[|][lv 0*\"03\"*\"50901123\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Si tomando a ese niño...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y tirándolo a la lejana playa rocosa de abajo...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " podía terminar con todo...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Si tomando a ese niño...  y tirándolo a la lejana playa rocosa de abajo...  podía terminar con todo...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42213",
+      "kind": "dialogue",
+      "line_number": 307960,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42213",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901124"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901124\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Realmente escuché aquella tentación demoníaca en mi oído.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Realmente escuché aquella tentación demoníaca en mi oído.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42214",
+      "kind": "dialogue",
+      "line_number": 307966,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42214",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901125",
+        "03/50901126",
+        "03/50901127"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901125\"]",
+        "[@][lv 0*\"03\"*\"50901126\"]",
+        "[@][lv 0*\"03\"*\"50901127\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Entonces... por el menor de los instantes, pensé en cuán maravilloso sería si realmente pudiera hacer eso...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y me entregué a esa tentación...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Y entonces—",
+          "inline_tags": []
+        }
+      ],
+      "text": "Entonces... por el menor de los instantes, pensé en cuán maravilloso sería si realmente pudiera hacer eso...  y me entregué a esa tentación...  Y entonces—",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42215",
+      "kind": "dialogue",
+      "line_number": 307968,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42215",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901128"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901128\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La sirviente que cargaba al bebé pisó una gran piedra, se torció el tobillo, y tropezó...",
+          "inline_tags": []
+        }
+      ],
+      "text": "La sirviente que cargaba al bebé pisó una gran piedra, se torció el tobillo, y tropezó...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42216",
+      "kind": "dialogue",
+      "line_number": 307970,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42216",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901129"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901129\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Se apoyó en la valla... y entonces, creo que la escuché crujir fuertemente.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Se apoyó en la valla... y entonces, creo que la escuché crujir fuertemente.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42217",
+      "kind": "dialogue",
+      "line_number": 307972,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42217",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901130"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901130\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Le dije a la sirviente que tuviera cuidado e intenté tomarla del hombro.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Le dije a la sirviente que tuviera cuidado e intenté tomarla del hombro.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42218",
+      "kind": "dialogue",
+      "line_number": 307979,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42218",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901131",
+        "03/50901132",
+        "03/50901133",
+        "03/50901134",
+        "03/50901135",
+        "03/50901136",
+        "03/50901137",
+        "03/50901138",
+        "03/50901139"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901131\"]",
+        "[|][lv 0*\"03\"*\"50901132\"]",
+        "[@][lv 0*\"03\"*\"50901133\"]",
+        "[@][lv 0*\"03\"*\"50901134\"]",
+        "[@][lv 0*\"03\"*\"50901135\"]",
+        "[@][lv 0*\"03\"*\"50901136\"]",
+        "[|][lv 0*\"03\"*\"50901137\"]",
+        "[|][lv 0*\"03\"*\"50901138\"]",
+        "[|][lv 0*\"03\"*\"50901139\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... No...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " debería ser más clara...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Lo admitiré.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Confesaré...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " En ese momento, estoy segura de que... cuando le dije que tuviera cuidado...",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " con ambas manos,",
+          "inline_tags": []
+        },
+        {
+          "index": 6,
+          "text": " tomé el hombro de esa sirviente,",
+          "inline_tags": []
+        },
+        {
+          "index": 7,
+          "text": " y con un golpe,",
+          "inline_tags": []
+        },
+        {
+          "index": 8,
+          "text": " la empujé fuertemente...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... No...  debería ser más clara...  Lo admitiré.  Confesaré...  En ese momento, estoy segura de que... cuando le dije que tuviera cuidado...  con ambas manos,  tomé el hombro de esa sirviente,  y con un golpe,  la empujé fuertemente...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42219",
+      "kind": "dialogue",
+      "line_number": 307981,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42219",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901140",
+        "03/50901141",
+        "03/50901142",
+        "03/50901143"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901140\"]",
+        "[@][lv 0*\"03\"*\"50901141\"]",
+        "[|][lv 0*\"03\"*\"50901142\"]",
+        "[@][lv 0*\"03\"*\"50901143\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La valla se desprendió de la base...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y la sirviente...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " junto con el bebé que llevaba en brazos...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " cayó hacia la lejana playa rocosa...",
+          "inline_tags": []
+        }
+      ],
+      "text": "La valla se desprendió de la base...  y la sirviente...  junto con el bebé que llevaba en brazos...  cayó hacia la lejana playa rocosa...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42220",
+      "kind": "dialogue",
+      "line_number": 307983,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42220",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901144",
+        "03/50901145",
+        "03/50901146",
+        "03/50901147"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901144\"]",
+        "[|][lv 0*\"03\"*\"50901145\"]",
+        "[@][lv 0*\"03\"*\"50901146\"]",
+        "[|][lv 0*\"03\"*\"50901147\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Aunque...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " recuerde vivamente ese momento...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " por alguna razón recuerdo un vago...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " y muy extraño sentimiento.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Aunque...  recuerde vivamente ese momento...  por alguna razón recuerdo un vago...  y muy extraño sentimiento.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42221",
+      "kind": "dialogue",
+      "line_number": 307985,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42221",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901148",
+        "03/50901149"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901148\"]",
+        "[@][lv 0*\"03\"*\"50901149\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Se sintió casi como si en vez de caer...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " hubieran sido silenciosamente tragados por espacio vacío.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Se sintió casi como si en vez de caer...  hubieran sido silenciosamente tragados por espacio vacío.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42222",
+      "kind": "dialogue",
+      "line_number": 307987,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42222",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901150"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901150\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ni siquiera los escuché chocar contra la playa de rocas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Ni siquiera los escuché chocar contra la playa de rocas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42223",
+      "kind": "dialogue",
+      "line_number": 307989,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42223",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901151"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901151\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "No, estoy segura de que los escuché.",
+          "inline_tags": []
+        }
+      ],
+      "text": "No, estoy segura de que los escuché.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42224",
+      "kind": "dialogue",
+      "line_number": 307991,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42224",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901152",
+        "03/50901153"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901152\"]",
+        "[@][lv 0*\"03\"*\"50901153\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Pero como quería creer que habían desaparecido...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " debo haber borrado ese sonido de mis recuerdos...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Pero como quería creer que habían desaparecido...  debo haber borrado ese sonido de mis recuerdos...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42225",
+      "kind": "dialogue",
+      "line_number": 308020,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42225",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101246"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101246\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Y luego?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Y luego?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42226",
+      "kind": "dialogue",
+      "line_number": 308036,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42226",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901154",
+        "03/50901155",
+        "03/50901156"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901154\"]",
+        "[@][lv 0*\"03\"*\"50901155\"]",
+        "[@][lv 0*\"03\"*\"50901156\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Por un instante... creí estar soñando.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Estaba tan en lo alto que no podía verlos con tan solo inclinarme.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Así que no sabía si la caída de ellos... o los breves segundos anteriores... habían ocurrido en verdad o no...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Por un instante... creí estar soñando.  Estaba tan en lo alto que no podía verlos con tan solo inclinarme.  Así que no sabía si la caída de ellos... o los breves segundos anteriores... habían ocurrido en verdad o no...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42227",
+      "kind": "dialogue",
+      "line_number": 308045,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42227",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901157",
+        "03/50901158"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901157\"]",
+        "[@][lv 0*\"03\"*\"50901158\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Debí haber deseado tanto que el niño cayera de ahí...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " que tuve una alucinación...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Debí haber deseado tanto que el niño cayera de ahí...  que tuve una alucinación...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42228",
+      "kind": "dialogue",
+      "line_number": 308047,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42228",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901159",
+        "03/50901160"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901159\"]",
+        "[@][lv 0*\"03\"*\"50901160\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Intentando hacerme creer esto, regresé con prisa al jardín de rosas...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Entonces decidí decir que había dejado que la sirviente se encargara del bebé porque quería descansar sola en el jardín...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Intentando hacerme creer esto, regresé con prisa al jardín de rosas...  Entonces decidí decir que había dejado que la sirviente se encargara del bebé porque quería descansar sola en el jardín...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42229",
+      "kind": "dialogue",
+      "line_number": 308049,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42229",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901161",
+        "03/50901162",
+        "03/50901163",
+        "03/50901164",
+        "03/50901165"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901161\"]",
+        "[|][lv 0*\"03\"*\"50901162\"]",
+        "[|][lv 0*\"03\"*\"50901163\"]",
+        "[@][lv 0*\"03\"*\"50901164\"]",
+        "[|][lv 0*\"03\"*\"50901165\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Entonces...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " padre me preguntó qué había sido del bebé",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " y comenzó un escándalo respecto a la desaparición de la sirviente...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " que lo había estado cuidando...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Entonces...  padre me preguntó qué había sido del bebé ...  y comenzó un escándalo respecto a la desaparición de la sirviente...  que lo había estado cuidando...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42230",
+      "kind": "dialogue",
+      "line_number": 308053,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42230",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Eventualmente, la valla rota fue descubierta...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y los dos cadáveres fueron encontrados al fondo del acantilado...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Eventualmente, la valla rota fue descubierta...  y los dos cadáveres fueron encontrados al fondo del acantilado...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42231",
+      "kind": "dialogue",
+      "line_number": 308059,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42231",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... El niño se encontraba en la isla por razones que no podían darse a conocer, así que se ocultó su existencia...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y la historia oficial fue que la sirviente había sufrido un accidente sola y había muerto.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... El niño se encontraba en la isla por razones que no podían darse a conocer, así que se ocultó su existencia...  y la historia oficial fue que la sirviente había sufrido un accidente sola y había muerto.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42232",
+      "kind": "dialogue",
+      "line_number": 308062,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42232",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901166"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901166\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Así es.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Así es.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42233",
+      "kind": "dialogue",
+      "line_number": 308064,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42233",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901167"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901167\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Le... robé la vida a dos inocentes de una sola vez...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Le... robé la vida a dos inocentes de una sola vez...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42234",
+      "kind": "dialogue",
+      "line_number": 308070,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42234",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901168"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901168\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En cuanto a la pobre sirviente... su familia fue compensada generosamente.",
+          "inline_tags": []
+        }
+      ],
+      "text": "En cuanto a la pobre sirviente... su familia fue compensada generosamente.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42235",
+      "kind": "dialogue",
+      "line_number": 308072,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42235",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901169"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901169\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Su anciano marido, que no sabía la verdad, aceptó esto aunque lamentó lo ocurrido.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Su anciano marido, que no sabía la verdad, aceptó esto aunque lamentó lo ocurrido.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42236",
+      "kind": "dialogue",
+      "line_number": 308074,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42236",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901170"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901170\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Hace unos pocos años, murió de anciano... y confesé la verdad en su tumba, disculpándome.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Hace unos pocos años, murió de anciano... y confesé la verdad en su tumba, disculpándome.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42237",
+      "kind": "dialogue",
+      "line_number": 308087,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42237",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901171",
+        "03/50901172",
+        "03/50901173",
+        "03/50901174"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901171\"]",
+        "[@][lv 0*\"03\"*\"50901172\"]",
+        "[@][lv 0*\"03\"*\"50901173\"]",
+        "[|][lv 0*\"03\"*\"50901174\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Pero hasta este día...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " jamás me he disculpado con ese bebé...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Sí...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " eso es lo que buscas, ¿no es así?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Pero hasta este día...  jamás me he disculpado con ese bebé...  Sí...  eso es lo que buscas, ¿no es así?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42238",
+      "kind": "dialogue",
+      "line_number": 308091,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42238",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901175",
+        "03/50901176",
+        "03/50901177",
+        "03/50901178",
+        "03/50901179"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901175\"]",
+        "[@][lv 0*\"03\"*\"50901176\"]",
+        "[|][lv 0*\"03\"*\"50901177\"]",
+        "[@][lv 0*\"03\"*\"50901178\"]",
+        "[|][lv 0*\"03\"*\"50901179\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Así que aquí mismo, ahora mismo, confieso mi crimen!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Yo, Ushiromiya Natsuhi...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " efectivamente, hace 19 años...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " te empujé de un acantilado...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " e intenté matarte...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Así que aquí mismo, ahora mismo, confieso mi crimen!  Yo, Ushiromiya Natsuhi...  efectivamente, hace 19 años...  te empujé de un acantilado...  e intenté matarte...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42239",
+      "kind": "dialogue",
+      "line_number": 308100,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42239",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901180",
+        "03/50901181"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901180\"]",
+        "[|][lv 0*\"03\"*\"50901181\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": " Pero...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " no moriste, ¿o sí?...",
+          "inline_tags": []
+        }
+      ],
+      "text": " Pero...  no moriste, ¿o sí?...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42240",
+      "kind": "dialogue",
+      "line_number": 308102,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42240",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901182",
+        "03/50901183"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901182\"]",
+        "[|][lv 0*\"03\"*\"50901183\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Sigues con vida,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y todavía me llamas \"madre\"...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Sigues con vida,  y todavía me llamas \"madre\"...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42241",
+      "kind": "dialogue",
+      "line_number": 308104,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42241",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901184",
+        "03/50901185"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901184\"]",
+        "[|][lv 0*\"03\"*\"50901185\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Viniste a esta isla...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y te vengaste de mí, ¿o no?...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Viniste a esta isla...  y te vengaste de mí, ¿o no?...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42242",
+      "kind": "dialogue",
+      "line_number": 308106,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42242",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901186"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901186\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Estos 19 años...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Estos 19 años...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42243",
+      "kind": "dialogue",
+      "line_number": 308108,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42243",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901187",
+        "03/50901188"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901187\"]",
+        "[@][lv 0*\"03\"*\"50901188\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Sabías que la persona a quien deberías haber llamado tu madre te empujó de un acantilado,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y debes haber vivido una vida llena de odio...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Sabías que la persona a quien deberías haber llamado tu madre te empujó de un acantilado,  y debes haber vivido una vida llena de odio...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42244",
+      "kind": "dialogue",
+      "line_number": 308119,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42244",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901189",
+        "03/50901190",
+        "03/50901191",
+        "03/50901192",
+        "03/50901193",
+        "03/50901194"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901189\"]",
+        "[@][lv 0*\"03\"*\"50901190\"]",
+        "[@][lv 0*\"03\"*\"50901191\"]",
+        "[@][lv 0*\"03\"*\"50901192\"]",
+        "[|][lv 0*\"03\"*\"50901193\"]",
+        "[|][lv 0*\"03\"*\"50901194\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Y ahora... has tomado todo lo que yo he obtenido desde que te empujé del acantilado,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " 18 años de mi vida... y lo has roto en pedazos...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Ya no tengo a mi amado esposo e hija...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Y he perdido incluso mi honor,",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " y me llaman asesina...",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " No... en realidad sí lo soy, ¿verdad?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Y ahora... has tomado todo lo que yo he obtenido desde que te empujé del acantilado,  18 años de mi vida... y lo has roto en pedazos...  Ya no tengo a mi amado esposo e hija...  Y he perdido incluso mi honor,  y me llaman asesina...  No... en realidad sí lo soy, ¿verdad?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42245",
+      "kind": "dialogue",
+      "line_number": 308124,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42245",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901195",
+        "03/50901196",
+        "03/50901197"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901195\"]",
+        "[@][lv 0*\"03\"*\"50901196\"]",
+        "[@][lv 0*\"03\"*\"50901197\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Sí, así es...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Todo ocurrió de acuerdo a tus planes.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Ahora todos me ven como a una asesina...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Sí, así es...  Todo ocurrió de acuerdo a tus planes.  Ahora todos me ven como a una asesina...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42246",
+      "kind": "dialogue",
+      "line_number": 308126,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42246",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901198",
+        "03/50901199",
+        "03/50901200"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901198\"]",
+        "[@][lv 0*\"03\"*\"50901199\"]",
+        "[|][lv 0*\"03\"*\"50901200\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Qué tal?...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Es esta...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " venganza suficiente?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Qué tal?...  ¿Es esta...  venganza suficiente?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42247",
+      "kind": "dialogue",
+      "line_number": 308128,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42247",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901201",
+        "03/50901202",
+        "03/50901203",
+        "03/50901204"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901201\"]",
+        "[|][lv 0*\"03\"*\"50901202\"]",
+        "[@][lv 0*\"03\"*\"50901203\"]",
+        "[@][lv 0*\"03\"*\"50901204\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Mi esposo y mi hija han sido asesinados!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Me has hecho ver como una asesina... incluso como adúltera...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Tras verme vivir en desgracia...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡¿estás satisfecho?!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Mi esposo y mi hija han sido asesinados!!  Me has hecho ver como una asesina... incluso como adúltera...  Tras verme vivir en desgracia...  ¡¿estás satisfecho?!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42248",
+      "kind": "dialogue",
+      "line_number": 308130,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42248",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901205",
+        "03/50901206",
+        "03/50901207",
+        "03/50901208",
+        "03/50901209",
+        "03/50901210",
+        "03/50901211"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901205\"]",
+        "[@][lv 0*\"03\"*\"50901206\"]",
+        "[|][lv 0*\"03\"*\"50901207\"]",
+        "[|][lv 0*\"03\"*\"50901208\"]",
+        "[@][lv 0*\"03\"*\"50901209\"]",
+        "[|][lv 0*\"03\"*\"50901210\"]",
+        "[|][lv 0*\"03\"*\"50901211\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Sí, apuesto que lo estás...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Porque mi familia...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " mi honor...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " todo... me ha sido arrebatado...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Ooohh...",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " *hic*...",
+          "inline_tags": []
+        },
+        {
+          "index": 6,
+          "text": " ¡¡gaaaaaaaaaaaaahhhhhh!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Sí, apuesto que lo estás...  Porque mi familia...  mi honor...  todo... me ha sido arrebatado...  Ooohh...  *hic*...  ¡¡gaaaaaaaaaaaaahhhhhh!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42249",
+      "kind": "dialogue",
+      "line_number": 308159,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42249",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501270",
+        "46/54501271"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501270\"]",
+        "[@][#][*][lv 0*\"46\"*\"54501271\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Sigues insistiendo en que fue una trampa?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " En serio, simplemente no sabes cuándo rendirte.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Sigues insistiendo en que fue una trampa?  En serio, simplemente no sabes cuándo rendirte.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42250",
+      "kind": "dialogue",
+      "line_number": 308171,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42250",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901212",
+        "03/50901213",
+        "03/50901214",
+        "03/50901215",
+        "03/50901216",
+        "03/50901217",
+        "03/50901218"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901212\"]",
+        "[@][lv 0*\"03\"*\"50901213\"]",
+        "[@][lv 0*\"03\"*\"50901214\"]",
+        "[@][lv 0*\"03\"*\"50901215\"]",
+        "[@][lv 0*\"03\"*\"50901216\"]",
+        "[|][lv 0*\"03\"*\"50901217\"]",
+        "[|][lv 0*\"03\"*\"50901218\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¿Me escuchas?! ¡¡Tú, el niño maldito de hace 19 años!!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¿Estás satisfecho?!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡Ya me has quitado todo lo que tenía!!",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡¿Qué más podrías querer?!...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Por favor...",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " solo...",
+          "inline_tags": []
+        },
+        {
+          "index": 6,
+          "text": " perdóname...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¿Me escuchas?! ¡¡Tú, el niño maldito de hace 19 años!!...  ¡¿Estás satisfecho?!  ¡¡Ya me has quitado todo lo que tenía!!  ¡¿Qué más podrías querer?!...  Por favor...  solo...  perdóname...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42251",
+      "kind": "dialogue",
+      "line_number": 308193,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42251",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101247"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[lv 0*\"10\"*\"50101247\"][text_fade_t 1667]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{a:c:",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "\"... Es inútil, ¿verdad?...\"}",
+          "inline_tags": []
+        }
+      ],
+      "text": "{a:c: \"... Es inútil, ¿verdad?...\"}",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42252",
+      "kind": "dialogue",
+      "line_number": 308212,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42252",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901219"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901219\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Eh?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Eh?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42253",
+      "kind": "dialogue",
+      "line_number": 308218,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42253",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501272",
+        "46/54501273"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501272\"]",
+        "[@][lv 0*\"46\"*\"54501273\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Battler‐san,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿dijiste algo?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Battler‐san,  ¿dijiste algo?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42254",
+      "kind": "dialogue",
+      "line_number": 308230,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42254",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101248"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[lv 0*\"10\"*\"50101248\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{a:c:",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "\"Es totalmente inútil.\"}",
+          "inline_tags": []
+        }
+      ],
+      "text": "{a:c: \"Es totalmente inútil.\"}",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42255",
+      "kind": "dialogue",
+      "line_number": 308239,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42255",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901220",
+        "03/50901221"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901220\"]",
+        "[|][lv 0*\"03\"*\"50901221\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿B-",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "Battler... kun?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿B- Battler... kun?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42256",
+      "kind": "dialogue",
+      "line_number": 308251,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42256",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101249",
+        "10/50101250",
+        "10/50101251"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101249\"][ak][text_speed_t 5]",
+        "[#][*][|][lv 0*\"10\"*\"50101250\"]",
+        "[#][*][|][lv 0*\"10\"*\"50101251\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Sí...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Es inútil, ¿verdad?...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Totalmente inútil...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Sí...  Es inútil, ¿verdad?...  Totalmente inútil...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.umi5_15.d42257",
+      "kind": "dialogue",
+      "line_number": 308264,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi5_15",
+      "label": "*d42257",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901222",
+        "03/50901223"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"50901222\"][ak][text_speed_t 5]",
+        "[#][*][|][lv 0*\"03\"*\"50901223\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ah...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡aaahhhh...!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Ah...  ¡¡aaahhhh...!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,1444 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.omake.o9_0",
+  "category": "omake",
+  "rel_path": "story/omake/o9_0.json",
+  "episode": null,
+  "section": "o9_0",
+  "chapter": "o9_0",
+  "description": "Omake / bonus script chapter 'o9_0'.",
+  "entry_count": 35,
+  "entries": [
+    {
+      "id": "omake.o9_0.o9_1",
+      "kind": "dialogue",
+      "line_number": 542674,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_1",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Tiempo sin vernos, viajero.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Nos complace felicitarte por completar la segunda mitad de {i:Umineko no Naku Koro ni}, {i:~Nocturno de la Verdad y las Ilusiones~}.",
+          "inline_tags": [
+            "{i:Umineko no Naku Koro ni}",
+            "{i:~Nocturno de la Verdad y las Ilusiones~}"
+          ]
+        }
+      ],
+      "text": "Tiempo sin vernos, viajero.  Nos complace felicitarte por completar la segunda mitad de {i:Umineko no Naku Koro ni}, {i:~Nocturno de la Verdad y las Ilusiones~}.",
+      "inline_tags": [
+        "{i:Umineko no Naku Koro ni}",
+        "{i:~Nocturno de la Verdad y las Ilusiones~}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_2",
+      "kind": "dialogue",
+      "line_number": 542676,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_2",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Esta ha sido una larga travesía para nosotros—para el proyecto—y para la traducción.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Esta ha sido una larga travesía para nosotros—para el proyecto—y para la traducción.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_3",
+      "kind": "dialogue",
+      "line_number": 542678,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_3",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Para algunos, incluso fue su primera oportunidad para adentrarse en el mundo de Umineko, y nuestra intención siempre fue hacer que pudiera disfrutarse el juego de la mejor manera.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Para algunos, incluso fue su primera oportunidad para adentrarse en el mundo de Umineko, y nuestra intención siempre fue hacer que pudiera disfrutarse el juego de la mejor manera.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_4",
+      "kind": "dialogue",
+      "line_number": 542680,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_4",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Decir adiós no es algo fácil, sobre todo después de tanto tiempo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Pero toda historia eventualmente llega a su fin, y ahora hemos llegado al punto en que es solo cuestión de tiempo antes de que estas palabras nos lleven a la última página del epílogo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Decir adiós no es algo fácil, sobre todo después de tanto tiempo.  Pero toda historia eventualmente llega a su fin, y ahora hemos llegado al punto en que es solo cuestión de tiempo antes de que estas palabras nos lleven a la última página del epílogo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_5",
+      "kind": "dialogue",
+      "line_number": 542687,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_5",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Empezar con excusas es aburrido,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " pero queremos disculparnos por hacer otro omake luego de decir en Rondó que no perderíamos más tiempo en esto.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Empezar con excusas es aburrido,  pero queremos disculparnos por hacer otro omake luego de decir en Rondó que no perderíamos más tiempo en esto.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_6",
+      "kind": "dialogue",
+      "line_number": 542689,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_6",
+      "speaker": "narrator",
+      "voice_files": [
+        "13/70400224"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[#][*]",
+        "[!w1000][lv 0*\"13\"*\"70400224\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Además, verdad roja:",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " {p:1:No incumplimos nuestros plazos internos en más de...}",
+          "inline_tags": [
+            "{p:1:No incumplimos nuestros plazos internos en más de...}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}Kijijijijiji. No te diré.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Además, verdad roja:  {p:1:No incumplimos nuestros plazos internos en más de...} {n}Kijijijijiji. No te diré.",
+      "inline_tags": [
+        "{p:1:No incumplimos nuestros plazos internos en más de...}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_7",
+      "kind": "dialogue",
+      "line_number": 542695,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_7",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Una vez que la historia esté disponible para el público, será irrelevante cuánto tiempo tomó el proceso.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Una vez que la historia esté disponible para el público, será irrelevante cuánto tiempo tomó el proceso.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_8",
+      "kind": "dialogue",
+      "line_number": 542702,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_8",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Umineko es una historia con una atención al detalle sorprendentemente profunda.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Esto es cierto en todas las dimensiones de la obra, ya sea textual, visual o auditiva.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Umineko es una historia con una atención al detalle sorprendentemente profunda.  Esto es cierto en todas las dimensiones de la obra, ya sea textual, visual o auditiva.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_9",
+      "kind": "dialogue",
+      "line_number": 542704,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_9",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[#][*]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Por ejemplo, es probable que todos recuerden la cinta adhesiva de Erika.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Para sellar la habitación, tenía una notable inscripción con dos nombres:{n}E.Furudo y {f:5:Frederica Bernkastel}.",
+          "inline_tags": [
+            "{n}",
+            "{f:5:Frederica Bernkastel}"
+          ]
+        }
+      ],
+      "text": "Por ejemplo, es probable que todos recuerden la cinta adhesiva de Erika.  Para sellar la habitación, tenía una notable inscripción con dos nombres:{n}E.Furudo y {f:5:Frederica Bernkastel}.",
+      "inline_tags": [
+        "{n}",
+        "{f:5:Frederica Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_10",
+      "kind": "dialogue",
+      "line_number": 542716,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_10",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Este es fácil de detectar, pero varios otros podrían ser mucho menos visibles.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Este es fácil de detectar, pero varios otros podrían ser mucho menos visibles.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_11",
+      "kind": "dialogue",
+      "line_number": 542729,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_11",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sin duda, las tropas Siesta son una adición audaz al estilo de juego.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Todo ese atuendo militar, instrumentos de orquesta, vendas con la bandera inglesa.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Si revisas su sistema de disparo, incluso notarás algunas letras griegas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sin duda, las tropas Siesta son una adición audaz al estilo de juego.  Todo ese atuendo militar, instrumentos de orquesta, vendas con la bandera inglesa.  Si revisas su sistema de disparo, incluso notarás algunas letras griegas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_12",
+      "kind": "dialogue",
+      "line_number": 542731,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_12",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Pero esto no es griego, sino un idioma diferente escrito utilizando el alfabeto griego.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " En el original, es japonés convertido a \"romaji\", y en nuestro port, es Español.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Por cierto, la serie de anime utilizó texto en ruso por sus propios motivos.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Pero esto no es griego, sino un idioma diferente escrito utilizando el alfabeto griego.  En el original, es japonés convertido a \"romaji\", y en nuestro port, es Español.  Por cierto, la serie de anime utilizó texto en ruso por sus propios motivos.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_13",
+      "kind": "dialogue",
+      "line_number": 542744,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_13",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿Alguna vez has intentado leer ese texto borroso debajo de los títulos de los actos en la obra del Episodio 7?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Los lectores más antiguos del original para PC probablemente recordarán que contenía algunos momentos clave de cada parte.",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿Alguna vez has intentado leer ese texto borroso debajo de los títulos de los actos en la obra del Episodio 7?  Los lectores más antiguos del original para PC probablemente recordarán que contenía algunos momentos clave de cada parte.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_14",
+      "kind": "dialogue",
+      "line_number": 542746,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_14",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Este no es el caso en la versión de PlayStation, ya que el texto contiene frases escritas en romaji:",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}— umineko no nakukoroni tiru (Umineko no Naku Koro ni Chiru){n}— higurasino nakukoroni mo aruyo (También tenemos Higurashi no Naku Koro ni){n}— uminekoha misuteri ka fantaji (¿Es Umineko un misterio o una fantasía?)",
+          "inline_tags": [
+            "{n}",
+            "{n}",
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}Es tu turno de descifrar el resto.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Este no es el caso en la versión de PlayStation, ya que el texto contiene frases escritas en romaji: {n}— umineko no nakukoroni tiru (Umineko no Naku Koro ni Chiru){n}— higurasino nakukoroni mo aruyo (También tenemos Higurashi no Naku Koro ni){n}— uminekoha misuteri ka fantaji (¿Es Umineko un misterio o una fantasía?) {n}Es tu turno de descifrar el resto.",
+      "inline_tags": [
+        "{n}",
+        "{n}",
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_15",
+      "kind": "dialogue",
+      "line_number": 542752,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_15",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Portear un juego es un proceso bastante directo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Observar el original, recrear lo que ves, no cagarla.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Portear un juego es un proceso bastante directo.  Observar el original, recrear lo que ves, no cagarla.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_16",
+      "kind": "dialogue",
+      "line_number": 542754,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_16",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Así es como esperábamos que fuese.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Pero al final, tuvimos que traducir, adaptar a las diferentes plataformas, estar preparados para las limitaciones de cada una, y todo ese tipo de problemas.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Constantemente tuvimos que tomar decisiones sobre qué incluir y qué no.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Así es como esperábamos que fuese.  Pero al final, tuvimos que traducir, adaptar a las diferentes plataformas, estar preparados para las limitaciones de cada una, y todo ese tipo de problemas.  Constantemente tuvimos que tomar decisiones sobre qué incluir y qué no.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_17",
+      "kind": "dialogue",
+      "line_number": 542756,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_17",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿Queremos trofeos? ¿Deberíamos sincronizar los labios con las voces? ¿Cómo se supone que deberían funcionar el registro y la navegación? ¿Cómo hacemos que el juego pueda controlarse desde una pantalla táctil?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Eso es lo que nos preguntábamos los unos a los otros todo el tiempo, y nuestro objetivo siempre fue entregar una experiencia lo más cercana posible al original de PS3 con las pequeñas mejoras que pudiésemos añadir.",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿Queremos trofeos? ¿Deberíamos sincronizar los labios con las voces? ¿Cómo se supone que deberían funcionar el registro y la navegación? ¿Cómo hacemos que el juego pueda controlarse desde una pantalla táctil?  Eso es lo que nos preguntábamos los unos a los otros todo el tiempo, y nuestro objetivo siempre fue entregar una experiencia lo más cercana posible al original de PS3 con las pequeñas mejoras que pudiésemos añadir.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_18",
+      "kind": "dialogue",
+      "line_number": 542763,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_18",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Es triste repetir esto otra vez, pero continuamos luchando contra un enemigo durante todo el proceso de desarrollo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Este enemigo llamado censura que eliminó varias líneas, referencias y partes de la historia.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Es triste repetir esto otra vez, pero continuamos luchando contra un enemigo durante todo el proceso de desarrollo.  Este enemigo llamado censura que eliminó varias líneas, referencias y partes de la historia.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_19",
+      "kind": "dialogue",
+      "line_number": 542765,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_19",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Cuando la narración lo permitió, recuperamos los diálogos originales. Si existían grabaciones originales en el disco, las catalogamos y las reincorporamos.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " A veces añadimos entradas de grimorio.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " No estamos orgullosos de la calidad de nuestro trabajo de audio, pero al final restauramos principalmente los orígenes del hijo de Kinzo en el Episodio 7, y también restauramos la decepción de Battler al final del Episodio 2.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Cuando la narración lo permitió, recuperamos los diálogos originales. Si existían grabaciones originales en el disco, las catalogamos y las reincorporamos.  A veces añadimos entradas de grimorio.  No estamos orgullosos de la calidad de nuestro trabajo de audio, pero al final restauramos principalmente los orígenes del hijo de Kinzo en el Episodio 7, y también restauramos la decepción de Battler al final del Episodio 2.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_20",
+      "kind": "dialogue",
+      "line_number": 542776,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_20",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Cuando prestas plena atención a las escenas, siempre notas algo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Cuando prestas plena atención a las escenas, siempre notas algo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_21",
+      "kind": "dialogue",
+      "line_number": 542778,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_21",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Fue bastante divertido descubrir que literalmente todos los lanzamientos de juegos hasta el momento no incluían una buena cantidad de maldiciones que {f:5:Bernkastel} le da a Erika después de su fracaso.",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        }
+      ],
+      "text": "Fue bastante divertido descubrir que literalmente todos los lanzamientos de juegos hasta el momento no incluían una buena cantidad de maldiciones que {f:5:Bernkastel} le da a Erika después de su fracaso.",
+      "inline_tags": [
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_22",
+      "kind": "dialogue",
+      "line_number": 542780,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_22",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La parte donde la llama cómica y patética fue impresa en el manga, pero por alguna razón no fue habilitada en los juegos.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Afortunadamente para nosotros, esa escena fue grabada.",
+          "inline_tags": []
+        }
+      ],
+      "text": "La parte donde la llama cómica y patética fue impresa en el manga, pero por alguna razón no fue habilitada en los juegos.  Afortunadamente para nosotros, esa escena fue grabada.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_23",
+      "kind": "dialogue",
+      "line_number": 542782,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_23",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Si intentamos recordar, hubo varios momentos en los que el destino fue bastante desafortunado para varios personajes, sobretodo Erika en particular.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Si intentamos recordar, hubo varios momentos en los que el destino fue bastante desafortunado para varios personajes, sobretodo Erika en particular.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_24",
+      "kind": "dialogue",
+      "line_number": 542784,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_24",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Imagínense a todo el mundo hablando de persianas cuando alguien se olvidó de cerrarlas.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Consideremos una secuencia de efectos coloridos en el momento de triunfo cuando alguien olvidó portar la mitad de ellos.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Imagínense a todo el mundo hablando de persianas cuando alguien se olvidó de cerrarlas.  Consideremos una secuencia de efectos coloridos en el momento de triunfo cuando alguien olvidó portar la mitad de ellos.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_25",
+      "kind": "dialogue",
+      "line_number": 542786,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_25",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Realmente esperamos haber localizado todos los lugares con retratos de {f:5:Beatrice} de la época equivocada o relojes con números mal dibujados.",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " Algunos de nuestros testers seguramente recibirán puntos extra por su atención.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Realmente esperamos haber localizado todos los lugares con retratos de {f:5:Beatrice} de la época equivocada o relojes con números mal dibujados.  Algunos de nuestros testers seguramente recibirán puntos extra por su atención.",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_26",
+      "kind": "dialogue",
+      "line_number": 542797,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_26",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "A veces incluso era divertido.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Pasamos aproximadamente una semana para conseguir caminar dentro de la mansión.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Fue entonces cuando nos dimos cuenta de que varios backgrounds no estaban conectados o tenían elementos contradictorios.",
+          "inline_tags": []
+        }
+      ],
+      "text": "A veces incluso era divertido.  Pasamos aproximadamente una semana para conseguir caminar dentro de la mansión.  Fue entonces cuando nos dimos cuenta de que varios backgrounds no estaban conectados o tenían elementos contradictorios.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_27",
+      "kind": "dialogue",
+      "line_number": 542799,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_27",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿Recuerdas el Episodio 6, Amanecer de la Bruja Dorada?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Si estás de humor, intenta encontrar la verdad en 10 segundos:",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿Recuerdas el Episodio 6, Amanecer de la Bruja Dorada?  Si estás de humor, intenta encontrar la verdad en 10 segundos:",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_28",
+      "kind": "dialogue",
+      "line_number": 542801,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_28",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "a. Kanon estaba vivo cuando se suspendió el juego.{n}b. Kanon murió en el primer crepúsculo.{n}c. Kanon murió en el segundo crepúsculo.",
+          "inline_tags": [
+            "{n}",
+            "{n}"
+          ]
+        }
+      ],
+      "text": "a. Kanon estaba vivo cuando se suspendió el juego.{n}b. Kanon murió en el primer crepúsculo.{n}c. Kanon murió en el segundo crepúsculo.",
+      "inline_tags": [
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_29",
+      "kind": "dialogue",
+      "line_number": 542803,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_29",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La respuesta correcta es \"c. Kanon murió en el segundo crepúsculo\".",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Sin embargo, si revisas el pergamino final en PlayStation, verás que se cree que muere en el primer crepúsculo.",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " Al menos lo mataron :)",
+          "inline_tags": []
+        }
+      ],
+      "text": "La respuesta correcta es \"c. Kanon murió en el segundo crepúsculo\". {n}Sin embargo, si revisas el pergamino final en PlayStation, verás que se cree que muere en el primer crepúsculo.  Al menos lo mataron :)",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_30",
+      "kind": "dialogue",
+      "line_number": 542810,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_30",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ahora, con el anuncio del lanzamiento conjunto para las consolas de próxima generación, esperamos dos cosas.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Que al menos algunos de los problemas se solucionen.",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}Que un nuevo equipo continúe nuestro trabajo con el contenido publicado.",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": "{n}Eso fue malo, pero siempre hemos creído en la fantasía.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Ahora, con el anuncio del lanzamiento conjunto para las consolas de próxima generación, esperamos dos cosas. {n}Que al menos algunos de los problemas se solucionen. {n}Que un nuevo equipo continúe nuestro trabajo con el contenido publicado. {n}Eso fue malo, pero siempre hemos creído en la fantasía.",
+      "inline_tags": [
+        "{n}",
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_31",
+      "kind": "dialogue",
+      "line_number": 542812,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_31",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "De hecho, su plan de desarrollo debe haber sido una larga historia.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Casi todos los recursos de Rondó también estaban presentes en Chiru, y desde el guión era obvio que una sola copia del juego estaba destinada a incluir los ocho episodios en un momento determinado.",
+          "inline_tags": []
+        }
+      ],
+      "text": "De hecho, su plan de desarrollo debe haber sido una larga historia.  Casi todos los recursos de Rondó también estaban presentes en Chiru, y desde el guión era obvio que una sola copia del juego estaba destinada a incluir los ocho episodios en un momento determinado.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_32",
+      "kind": "dialogue",
+      "line_number": 542814,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_32",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@][#][*]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "`Incluso rehicieron los créditos del Episodio 1, a pesar de no poder incluirlo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Todo esto fue realmente útil y les deseamos suerte en todos sus proyectos futuros.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "{n}¡{p:1:Pero somos los primeros en capturar la bandera}!",
+          "inline_tags": [
+            "{n}",
+            "{p:1:Pero somos los primeros en capturar la bandera}"
+          ]
+        }
+      ],
+      "text": "`Incluso rehicieron los créditos del Episodio 1, a pesar de no poder incluirlo.  Todo esto fue realmente útil y les deseamos suerte en todos sus proyectos futuros. {n}¡{p:1:Pero somos los primeros en capturar la bandera}!",
+      "inline_tags": [
+        "{n}",
+        "{p:1:Pero somos los primeros en capturar la bandera}"
+      ],
+      "has_stray_backtick": true,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": "Pre-existing stray backtick inside segment; preserved for lossless round-trip."
+    },
+    {
+      "id": "omake.o9_0.o9_33",
+      "kind": "dialogue",
+      "line_number": 542826,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_33",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ya basta de sentimentalismos.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Es realmente el final.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Ya basta de sentimentalismos. {n}Es realmente el final.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_34",
+      "kind": "dialogue",
+      "line_number": 542828,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_34",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Gracias por todo su apoyo, por sus informes, por su paciencia.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Gracias por todo su apoyo, por sus informes, por su paciencia.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o9_0.o9_35",
+      "kind": "dialogue",
+      "line_number": 542830,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o9_0",
+      "label": "*o9_35",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Pronto nos uniremos a nuestras familias para celebrar las vacaciones de invierno.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Pronto este proyecto se convertirá en nuestro pasado, y ya no será \"Umineko Project Mañana\".",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}Esperamos que les guste.",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": " ¡Adiós!",
+          "inline_tags": []
+        }
+      ],
+      "text": "Pronto nos uniremos a nuestras familias para celebrar las vacaciones de invierno. {n}Pronto este proyecto se convertirá en nuestro pasado, y ya no será \"Umineko Project Mañana\". {n}Esperamos que les guste.  ¡Adiós!",
+      "inline_tags": [
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

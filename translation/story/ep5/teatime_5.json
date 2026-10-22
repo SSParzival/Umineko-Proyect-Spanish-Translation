@@ -1,0 +1,4311 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.ep5.teatime_5",
+  "category": "story",
+  "rel_path": "story/ep5/teatime_5.json",
+  "episode": "ep5",
+  "section": "teatime_5",
+  "chapter": "teatime_5",
+  "description": "Episode 5 story script chapter 'teatime_5'.",
+  "entry_count": 98,
+  "entries": [
+    {
+      "id": "ep5.teatime_5.d65707",
+      "kind": "dialogue",
+      "line_number": 308415,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65707",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100771"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100771\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Erika, Dlanor.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Erika, Dlanor.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65708",
+      "kind": "dialogue",
+      "line_number": 308426,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65708",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501274"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501274\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Sí, mi ama.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Sí, mi ama.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65709",
+      "kind": "dialogue",
+      "line_number": 308439,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65709",
+      "speaker": "dla",
+      "voice_files": [
+        "47/54600344"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"47\"*\"54600344\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Ha {f:5:llamado}?\"",
+          "inline_tags": [
+            "{f:5:llamado}"
+          ]
+        }
+      ],
+      "text": "\"¿Ha {f:5:llamado}?\"",
+      "inline_tags": [
+        "{f:5:llamado}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65710",
+      "kind": "dialogue",
+      "line_number": 308450,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65710",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100772",
+        "28/52100773",
+        "28/52100774",
+        "28/52100775"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100772\"]",
+        "[@][lv 0*\"28\"*\"52100773\"]",
+        "[@][#][*][lv 0*\"28\"*\"52100774\"]",
+        "[@][lv 0*\"28\"*\"52100775\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Quiero que se queden en este Fragmento...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y expliquen todo lo de los juegos del primero al cuarto.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Esa lamentable bruja transitoria ya no existe para hacer valer sus ilusiones de bruja.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Expongan la franca verdad por completo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Quiero que se queden en este Fragmento...  y expliquen todo lo de los juegos del primero al cuarto.  Esa lamentable bruja transitoria ya no existe para hacer valer sus ilusiones de bruja.  Expongan la franca verdad por completo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65711",
+      "kind": "dialogue",
+      "line_number": 308462,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65711",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501275",
+        "46/54501276"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501275\"]",
+        "[@][lv 0*\"46\"*\"54501276\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡*risita*! Déjemelo a mí, mi ama.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " No hay acertijo que yo, Furudo Erika, no pueda resolver.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡*risita*! Déjemelo a mí, mi ama.  No hay acertijo que yo, Furudo Erika, no pueda resolver.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65712",
+      "kind": "dialogue",
+      "line_number": 308468,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65712",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100776",
+        "28/52100777",
+        "28/52100778"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100776\"]",
+        "[@][lv 0*\"28\"*\"52100777\"]",
+        "[@][lv 0*\"28\"*\"52100778\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Por supuesto.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Por eso es que eres mi pieza, mi doble.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡*risita*risita*risita*!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Por supuesto.  Por eso es que eres mi pieza, mi doble.  ¡*risita*risita*risita*!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65713",
+      "kind": "dialogue",
+      "line_number": 308471,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65713",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{f:5:Bernkastel} mostraba una enorme... y horrible sonrisa, la cual compartía Erika.",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        }
+      ],
+      "text": "{f:5:Bernkastel} mostraba una enorme... y horrible sonrisa, la cual compartía Erika.",
+      "inline_tags": [
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65714",
+      "kind": "dialogue",
+      "line_number": 308479,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65714",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Las ilusiones de la bruja {f:5:Beatrice} desaparecerían,",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " y los resultados de todos los juegos anteriores quedarían anulados.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Las ilusiones de la bruja {f:5:Beatrice} desaparecerían,  y los resultados de todos los juegos anteriores quedarían anulados.",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65715",
+      "kind": "dialogue",
+      "line_number": 308501,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65715",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Había sido destruida en toda forma posible... y solo quedaba la verdad pura.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Había sido destruida en toda forma posible... y solo quedaba la verdad pura.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65716",
+      "kind": "dialogue",
+      "line_number": 308503,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65716",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Para Erika, tal verdad débil bien podría haber sido pescado en una tabla de picar...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Para Erika, tal verdad débil bien podría haber sido pescado en una tabla de picar...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65717",
+      "kind": "dialogue",
+      "line_number": 308515,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65717",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501277",
+        "46/54501278",
+        "46/54501279",
+        "46/54501280"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501277\"]",
+        "[@][lv 0*\"46\"*\"54501278\"]",
+        "[@][lv 0*\"46\"*\"54501279\"]",
+        "[@][lv 0*\"46\"*\"54501280\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Los cuatro juegos anteriores...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " pueden explicarse como crímenes de Natsuhi o como excepciones extrañas.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " No dejaré que nadie diga que es el crimen de la bruja {f:5:Beatrice} de nuevo.",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": " Comenzaré a entenderlo todo, y luego presentaré una historia de primera clase.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Los cuatro juegos anteriores...  pueden explicarse como crímenes de Natsuhi o como excepciones extrañas.  No dejaré que nadie diga que es el crimen de la bruja {f:5:Beatrice} de nuevo.  Comenzaré a entenderlo todo, y luego presentaré una historia de primera clase.\"",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65718",
+      "kind": "dialogue",
+      "line_number": 308526,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65718",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100779",
+        "28/52100780",
+        "28/52100781",
+        "28/52100782",
+        "28/52100783"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100779\"]",
+        "[@][lv 0*\"28\"*\"52100780\"]",
+        "[@][#][*][lv 0*\"28\"*\"52100781\"]",
+        "[@][lv 0*\"28\"*\"52100782\"]",
+        "[@][lv 0*\"28\"*\"52100783\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"*Risita*...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " No debes dejar siquiera un Fragmento con la Leyenda de la Bruja de Beato.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Los rumores entre los sirvientes, la forma en que la gente hablaba de eventos inexplicables como si la leyenda fuese cierta,",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " la Ilusión de la Bruja que trabajaba en conjunto con la de Kinzo...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Encárgate por completo de ellas.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"*Risita*...  No debes dejar siquiera un Fragmento con la Leyenda de la Bruja de Beato.  Los rumores entre los sirvientes, la forma en que la gente hablaba de eventos inexplicables como si la leyenda fuese cierta,  la Ilusión de la Bruja que trabajaba en conjunto con la de Kinzo...  Encárgate por completo de ellas.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65719",
+      "kind": "dialogue",
+      "line_number": 308538,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65719",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501281",
+        "46/54501282",
+        "46/54501283",
+        "46/54501284"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501281\"]",
+        "[@][lv 0*\"46\"*\"54501282\"]",
+        "[@][lv 0*\"46\"*\"54501283\"]",
+        "[@][lv 0*\"46\"*\"54501284\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Por supuesto.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Comenzaré de inmediato...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Ahora tenemos muebles en custodia.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Estamos intentando identificar sus recipientes.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Por supuesto.  Comenzaré de inmediato...  Ahora tenemos muebles en custodia.  Estamos intentando identificar sus recipientes.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65720",
+      "kind": "dialogue",
+      "line_number": 308548,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65720",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Las Siete Hermanas del Purgatorio ya habían sido tomadas en custodia.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Las Siete Hermanas del Purgatorio ya habían sido tomadas en custodia.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65721",
+      "kind": "dialogue",
+      "line_number": 308550,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65721",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Esas molestas hermanas que habían servido a Beato ahora estaban en un estado de negación absoluta.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Esas molestas hermanas que habían servido a Beato ahora estaban en un estado de negación absoluta.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65722",
+      "kind": "dialogue",
+      "line_number": 308552,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65722",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿En qué tipo de ilusión se basaban para poder \"manifestarse\"?",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿En qué tipo de ilusión se basaban para poder \"manifestarse\"?",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65723",
+      "kind": "dialogue",
+      "line_number": 308554,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65723",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[!w500]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Todo quedaría expuesto...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y sería negado.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Todo quedaría expuesto...  y sería negado.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65724",
+      "kind": "dialogue",
+      "line_number": 308567,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65724",
+      "speaker": "dla",
+      "voice_files": [
+        "47/54600345",
+        "47/54600346",
+        "47/54600347"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"47\"*\"54600345\"]",
+        "[@][#][*][lv 0*\"47\"*\"54600346\"]",
+        "[@][lv 0*\"47\"*\"54600347\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Las Eiserne Jungfrau ya han comenzado su {f:5:investigación}.",
+          "inline_tags": [
+            "{f:5:investigación}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " De acuerdo a los resultados más recientes, hay una probabilidad alta de que fueran creadas durante los sesenta en la {f:5:cercanía} de Nueva York.",
+          "inline_tags": [
+            "{f:5:cercanía}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " Ya se ha enviado asistencia al {f:5:lugar}.\"",
+          "inline_tags": [
+            "{f:5:lugar}"
+          ]
+        }
+      ],
+      "text": "\"Las Eiserne Jungfrau ya han comenzado su {f:5:investigación}.  De acuerdo a los resultados más recientes, hay una probabilidad alta de que fueran creadas durante los sesenta en la {f:5:cercanía} de Nueva York.  Ya se ha enviado asistencia al {f:5:lugar}.\"",
+      "inline_tags": [
+        "{f:5:investigación}",
+        "{f:5:cercanía}",
+        "{f:5:lugar}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65725",
+      "kind": "dialogue",
+      "line_number": 308579,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65725",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100784",
+        "28/52100785",
+        "28/52100786",
+        "28/52100787"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100784\"]",
+        "[@][#][*][lv 0*\"28\"*\"52100785\"]",
+        "[@][lv 0*\"28\"*\"52100786\"]",
+        "[@][lv 0*\"28\"*\"52100787\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Los sesenta? ¿Las Siete Hermanas del Purgatorio son <Made in USA>?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Pfft, *risita*risita*risita*...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Aunque presumían de ser muebles conectados con el Rey Salomón y servir a una bruja de mil años, son una total estafa.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¿Quién fue?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Los sesenta? ¿Las Siete Hermanas del Purgatorio son <Made in USA>?  Pfft, *risita*risita*risita*...  Aunque presumían de ser muebles conectados con el Rey Salomón y servir a una bruja de mil años, son una total estafa.  ¿Quién fue?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65726",
+      "kind": "dialogue",
+      "line_number": 308600,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65726",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501285",
+        "46/54501286"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501285\"]",
+        "[@][lv 0*\"46\"*\"54501286\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"De acuerdo al reporte, hay un grupo de estafadores...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " que ganan dinero haciendo productos falsos para vender a los fanáticos ricos del ocultismo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"De acuerdo al reporte, hay un grupo de estafadores...  que ganan dinero haciendo productos falsos para vender a los fanáticos ricos del ocultismo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65727",
+      "kind": "dialogue",
+      "line_number": 308606,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65727",
+      "speaker": "dla",
+      "voice_files": [
+        "47/54600348",
+        "47/54600349",
+        "47/54600350"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"47\"*\"54600348\"]",
+        "[@][lv 0*\"47\"*\"54600349\"]",
+        "[@][lv 0*\"47\"*\"54600350\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ya que los millonarios decepcionados intentan vender los productos nuevamente como si fuesen reales,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " existe la posibilidad de que hayan sido falsamente deificados por entusiastas del {f:5:tema}.",
+          "inline_tags": [
+            "{f:5:tema}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " Estamos apresurándonos a encontrar confirmación y más {f:5:detalles}.\"",
+          "inline_tags": [
+            "{f:5:detalles}"
+          ]
+        }
+      ],
+      "text": "\"Ya que los millonarios decepcionados intentan vender los productos nuevamente como si fuesen reales,  existe la posibilidad de que hayan sido falsamente deificados por entusiastas del {f:5:tema}.  Estamos apresurándonos a encontrar confirmación y más {f:5:detalles}.\"",
+      "inline_tags": [
+        "{f:5:tema}",
+        "{f:5:detalles}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65728",
+      "kind": "dialogue",
+      "line_number": 308612,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65728",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501287"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501287\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Así que Ushiromiya Kinzo era un loco que podía pagar mucho dinero por cualquier objeto ocultista falso.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Así que Ushiromiya Kinzo era un loco que podía pagar mucho dinero por cualquier objeto ocultista falso.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65729",
+      "kind": "dialogue",
+      "line_number": 308622,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65729",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100788",
+        "28/52100789",
+        "28/52100790",
+        "28/52100791",
+        "28/52100792"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100788\"]",
+        "[@][lv 0*\"28\"*\"52100789\"]",
+        "[@][lv 0*\"28\"*\"52100790\"]",
+        "[|][lv 0*\"28\"*\"52100791\"][#][*]",
+        "[@][lv 0*\"28\"*\"52100792\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... *Risita*risita*, ¡¡ajajajajajajajaja!!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Y eso es lo que las Siete Hermanas del Purgatorio son en realidad?...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡Qué ridículo,",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ajajajajaaajajajajaajajajaaja!!",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Una farsa total, justo lo que esperaría de una de las ilusiones de Beato.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... *Risita*risita*, ¡¡ajajajajajajajaja!!...  ¿Y eso es lo que las Siete Hermanas del Purgatorio son en realidad?...  ¡¡Qué ridículo,  ajajajajaaajajajajaajajajaaja!!  Una farsa total, justo lo que esperaría de una de las ilusiones de Beato.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65730",
+      "kind": "dialogue",
+      "line_number": 308636,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65730",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501288",
+        "46/54501289",
+        "46/54501290"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501288\"]",
+        "[@][#][*][lv 0*\"46\"*\"54501289\"]",
+        "[@][lv 0*\"46\"*\"54501290\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Aunque se hacen llamar los siete pecados capitales, en realidad son souvenirs baratos y falsos...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Bueno,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " desde un principio supuse que no eran más que pisapapeles que se vendían en alguna tienda sospechosa.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Aunque se hacen llamar los siete pecados capitales, en realidad son souvenirs baratos y falsos...  Bueno,  desde un principio supuse que no eran más que pisapapeles que se vendían en alguna tienda sospechosa.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65731",
+      "kind": "dialogue",
+      "line_number": 308649,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65731",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100793",
+        "28/52100794",
+        "28/52100795"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100793\"]",
+        "[@][#][*][lv 0*\"28\"*\"52100794\"]",
+        "[@][lv 0*\"28\"*\"52100795\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡*Risita*risita*!! ¡Pisapapeles!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡Aajaajaajajajajajajajajajajaja!!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¿Les has llevado a luz esa verdad a las Siete Hermanas?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡*Risita*risita*!! ¡Pisapapeles!...  ¡¡Aajaajaajajajajajajajajajajaja!!  ¿Les has llevado a luz esa verdad a las Siete Hermanas?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65732",
+      "kind": "dialogue",
+      "line_number": 308662,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65732",
+      "speaker": "dla",
+      "voice_files": [
+        "47/54600351"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"47\"*\"54600351\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No, todavía {f:5:no}.\"",
+          "inline_tags": [
+            "{f:5:no}"
+          ]
+        }
+      ],
+      "text": "\"No, todavía {f:5:no}.\"",
+      "inline_tags": [
+        "{f:5:no}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65733",
+      "kind": "dialogue",
+      "line_number": 308672,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65733",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501291",
+        "46/54501292",
+        "46/54501293",
+        "46/54501294"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501291\"]",
+        "[@][lv 0*\"46\"*\"54501292\"]",
+        "[@][#][*][lv 0*\"46\"*\"54501293\"]",
+        "[@][lv 0*\"46\"*\"54501294\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Todavía creen que en realidad...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " fueron creadas por un gran hechicero hace más de mil años...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " No puedo esperar para lanzarles la verdad y la evidencia perfecta a la cara...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " y hacerles saber que son solo pisapapeles con un valor menor a 30 dólares estadounidenses.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Todavía creen que en realidad...  fueron creadas por un gran hechicero hace más de mil años...  No puedo esperar para lanzarles la verdad y la evidencia perfecta a la cara...  y hacerles saber que son solo pisapapeles con un valor menor a 30 dólares estadounidenses.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65734",
+      "kind": "dialogue",
+      "line_number": 308686,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65734",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100796",
+        "28/52100797",
+        "28/52100798",
+        "28/52100799"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100796\"]",
+        "[@][lv 0*\"28\"*\"52100797\"]",
+        "[@][lv 0*\"28\"*\"52100798\"]",
+        "[@][lv 0*\"28\"*\"52100799\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Cuando lo hagas, me pregunto cómo se verán sus caras... al perder toda esperanza...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " *risita*, no puedo esperar.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Llámame cuando eso ocurra.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Iré a observar, y llevaré un poco del mejor té negro y ciruelas deshidratadas.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Cuando lo hagas, me pregunto cómo se verán sus caras... al perder toda esperanza...  *risita*, no puedo esperar.  Llámame cuando eso ocurra.  Iré a observar, y llevaré un poco del mejor té negro y ciruelas deshidratadas.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65735",
+      "kind": "dialogue",
+      "line_number": 308695,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65735",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Las ilusiones de Beato ya se habían desvanecido,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y había sido probado que todo era solo el resultado de ilusiones humanas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Las ilusiones de Beato ya se habían desvanecido,  y había sido probado que todo era solo el resultado de ilusiones humanas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65736",
+      "kind": "dialogue",
+      "line_number": 308697,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65736",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿Qué tipo de ilusiones lo había creado, y qué las causaba en primer lugar?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Cuando eso fuera probado a la perfección y restregado en la cara a quienes involucraba...",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "¿Qué tipo de ilusiones lo había creado, y qué las causaba en primer lugar? {n}Cuando eso fuera probado a la perfección y restregado en la cara a quienes involucraba...",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65737",
+      "kind": "dialogue",
+      "line_number": 308699,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65737",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... La ilusión se desvanecería y sería aniquilada por completo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... La ilusión se desvanecería y sería aniquilada por completo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65738",
+      "kind": "dialogue",
+      "line_number": 308701,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65738",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "A esto se referían con... “ejecución”.",
+          "inline_tags": []
+        }
+      ],
+      "text": "A esto se referían con... “ejecución”.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65739",
+      "kind": "dialogue",
+      "line_number": 308711,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65739",
+      "speaker": "dla",
+      "voice_files": [
+        "47/54600352",
+        "47/54600353"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"47\"*\"54600352\"]",
+        "[@][lv 0*\"47\"*\"54600353\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Una ejecución no es un {f:5:espectáculo}.",
+          "inline_tags": [
+            "{f:5:espectáculo}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " Como regla general, no es {f:5:pública}.\"",
+          "inline_tags": [
+            "{f:5:pública}"
+          ]
+        }
+      ],
+      "text": "\"... Una ejecución no es un {f:5:espectáculo}.  Como regla general, no es {f:5:pública}.\"",
+      "inline_tags": [
+        "{f:5:espectáculo}",
+        "{f:5:pública}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65740",
+      "kind": "dialogue",
+      "line_number": 308717,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65740",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501295",
+        "46/54501296",
+        "46/54501297"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501295\"]",
+        "[@][lv 0*\"46\"*\"54501296\"]",
+        "[@][lv 0*\"46\"*\"54501297\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Esta es una inspección realizada por la Gran Bruja Lady {f:5:Bernkastel}, miembro del senado,",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " para que pueda observar que la Gran Corte cumple sus funciones satisfactoriamente.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¿Acaso una simple Inquisidora como tú pretende obstruir esto?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Esta es una inspección realizada por la Gran Bruja Lady {f:5:Bernkastel}, miembro del senado,  para que pueda observar que la Gran Corte cumple sus funciones satisfactoriamente.  ¿Acaso una simple Inquisidora como tú pretende obstruir esto?...\"",
+      "inline_tags": [
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65741",
+      "kind": "dialogue",
+      "line_number": 308733,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65741",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100800",
+        "28/52100801",
+        "28/52100802"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100800\"]",
+        "[@][lv 0*\"28\"*\"52100801\"]",
+        "[@][lv 0*\"28\"*\"52100802\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Sí, así es.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Solo estoy vigilando como representante del senado para asegurarme de que lleven a cabo los procedimientos adecuados al realizar su trabajo...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " *risita*risita*risita*.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Sí, así es.  Solo estoy vigilando como representante del senado para asegurarme de que lleven a cabo los procedimientos adecuados al realizar su trabajo...  *risita*risita*risita*.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65742",
+      "kind": "dialogue",
+      "line_number": 308743,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65742",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501298",
+        "46/54501299"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501298\"]",
+        "[@][lv 0*\"46\"*\"54501299\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Actualmente nos estamos preparando para tomar en custodia también a {f:5:Virgilia}, Ronove y Gaap.",
+          "inline_tags": [
+            "{f:5:Virgilia}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " La Guardia Imperial de las Hermanas Siesta está llevando a cabo esa investigación.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Actualmente nos estamos preparando para tomar en custodia también a {f:5:Virgilia}, Ronove y Gaap.  La Guardia Imperial de las Hermanas Siesta está llevando a cabo esa investigación.\"",
+      "inline_tags": [
+        "{f:5:Virgilia}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65743",
+      "kind": "dialogue",
+      "line_number": 308748,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65743",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501300"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501300\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Por supuesto, una vez hecho eso, detendremos y ejecutaremos a las tres hermanas Siesta, que también están relacionadas con {f:5:Beatrice}.\"",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "\"... Por supuesto, una vez hecho eso, detendremos y ejecutaremos a las tres hermanas Siesta, que también están relacionadas con {f:5:Beatrice}.\"",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65744",
+      "kind": "dialogue",
+      "line_number": 308753,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65744",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100803"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100803\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Dlanor, ¿cuál es la verdadera naturaleza de las Hermanas Siesta?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Dlanor, ¿cuál es la verdadera naturaleza de las Hermanas Siesta?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65745",
+      "kind": "dialogue",
+      "line_number": 308763,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65745",
+      "speaker": "dla",
+      "voice_files": [
+        "47/54600354",
+        "47/54600355",
+        "47/54600356"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"47\"*\"54600354\"]",
+        "[@][#][*][lv 0*\"47\"*\"54600355\"]",
+        "[@][lv 0*\"47\"*\"54600356\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Creemos que hay una alta posibilidad de que sus orígenes estén en las armas utilizadas en el {f:5:crimen}.",
+          "inline_tags": [
+            "{f:5:crimen}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " Mi ayudante principal, Gertrude, ha formado un {f:5:equipo} dedicado.",
+          "inline_tags": [
+            "{f:5:equipo}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " Actualmente estamos investigando sus {f:5:casos} individuales.\"",
+          "inline_tags": [
+            "{f:5:casos}"
+          ]
+        }
+      ],
+      "text": "\"... Creemos que hay una alta posibilidad de que sus orígenes estén en las armas utilizadas en el {f:5:crimen}.  Mi ayudante principal, Gertrude, ha formado un {f:5:equipo} dedicado.  Actualmente estamos investigando sus {f:5:casos} individuales.\"",
+      "inline_tags": [
+        "{f:5:crimen}",
+        "{f:5:equipo}",
+        "{f:5:casos}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65746",
+      "kind": "dialogue",
+      "line_number": 308778,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65746",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501301",
+        "46/54501302",
+        "46/54501303"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501301\"]",
+        "[@][lv 0*\"46\"*\"54501302\"]",
+        "[@][lv 0*\"46\"*\"54501303\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡También espero con ansias la ejecución de las Hermanas Siesta!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿De una en una?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¿O todas a la vez?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡También espero con ansias la ejecución de las Hermanas Siesta!...  ¿De una en una?  ¿O todas a la vez?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65747",
+      "kind": "dialogue",
+      "line_number": 308784,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65747",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100804",
+        "28/52100805"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100804\"]",
+        "[@][lv 0*\"28\"*\"52100805\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Nadie es tan estúpido como para vaciar toda la lata de hojas de té en la olla de una vez.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Debes disfrutarlo lentamente, una cucharada a la vez.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Nadie es tan estúpido como para vaciar toda la lata de hojas de té en la olla de una vez.  Debes disfrutarlo lentamente, una cucharada a la vez.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65748",
+      "kind": "dialogue",
+      "line_number": 308791,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65748",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501304",
+        "46/54501305",
+        "46/54501306",
+        "46/54501307"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501304\"]",
+        "[@][lv 0*\"46\"*\"54501305\"]",
+        "[@][lv 0*\"46\"*\"54501306\"]",
+        "[@][lv 0*\"46\"*\"54501307\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡*risita*risita*! Exacto.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Hagamos que sus ejecuciones sean en días consecutivos.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Para los muebles y las brujas, uno por uno.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Le presentaré un nuevo espectáculo de ejecución cada día.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡*risita*risita*! Exacto.  Hagamos que sus ejecuciones sean en días consecutivos.  Para los muebles y las brujas, uno por uno.  Le presentaré un nuevo espectáculo de ejecución cada día.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65749",
+      "kind": "dialogue",
+      "line_number": 308797,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65749",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100806",
+        "28/52100807",
+        "28/52100808"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100806\"]",
+        "[@][lv 0*\"28\"*\"52100807\"]",
+        "[@][lv 0*\"28\"*\"52100808\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Maravilloso...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Después de todo, sí que son muchos.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Parece que podremos entretenernos por dos semanas enteras.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Maravilloso...  Después de todo, sí que son muchos.  Parece que podremos entretenernos por dos semanas enteras.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65750",
+      "kind": "dialogue",
+      "line_number": 308802,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65750",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100809",
+        "28/52100810",
+        "28/52100811",
+        "28/52100812"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100809\"]",
+        "[@][#][*][lv 0*\"28\"*\"52100810\"]",
+        "[@][lv 0*\"28\"*\"52100811\"]",
+        "[@][lv 0*\"28\"*\"52100812\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Quizás podamos dejarles decidir a quiénes ejecutar primero.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Jejejejejejejejee!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Asegúrate de que se te ocurra algo genial para las temáticas de ejecución...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Me gustaría disfrutar métodos antiguos y modernos, del oriente y occidente cada día.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Quizás podamos dejarles decidir a quiénes ejecutar primero.  ¡Jejejejejejejejee!  Asegúrate de que se te ocurra algo genial para las temáticas de ejecución...  Me gustaría disfrutar métodos antiguos y modernos, del oriente y occidente cada día.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65751",
+      "kind": "dialogue",
+      "line_number": 308816,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65751",
+      "speaker": "dla",
+      "voice_files": [
+        "47/54600357"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"47\"*\"54600357\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Las reglas establecen que el método de ejecución habrá de seguir las {f:5:regulaciones} de la Gran Corte.\"",
+          "inline_tags": [
+            "{f:5:regulaciones}"
+          ]
+        }
+      ],
+      "text": "\"... Las reglas establecen que el método de ejecución habrá de seguir las {f:5:regulaciones} de la Gran Corte.\"",
+      "inline_tags": [
+        "{f:5:regulaciones}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65752",
+      "kind": "dialogue",
+      "line_number": 308822,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65752",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501308",
+        "46/54501309"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501308\"]",
+        "[@][lv 0*\"46\"*\"54501309\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Déjemelo a mí, mi ama.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Ciertamente le prepararé un fascinante espectáculo de ejecución!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Déjemelo a mí, mi ama.  ¡Ciertamente le prepararé un fascinante espectáculo de ejecución!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65753",
+      "kind": "dialogue",
+      "line_number": 308834,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65753",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100813"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100813\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Espero como mínimo el descuartizamiento de uno de ellos.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Espero como mínimo el descuartizamiento de uno de ellos.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65754",
+      "kind": "dialogue",
+      "line_number": 308840,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65754",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501310",
+        "46/54501311",
+        "46/54501312"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501310\"]",
+        "[@][lv 0*\"46\"*\"54501311\"]",
+        "[@][lv 0*\"46\"*\"54501312\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Por supuesto.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Haré una lista de las mejores formas de ejecución de todos los países, desde Europa a Asia,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " y que fueron usados por reinos del oriente y occidente por cuestiones no menores a traición al rey!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Por supuesto.  ¡Haré una lista de las mejores formas de ejecución de todos los países, desde Europa a Asia,  y que fueron usados por reinos del oriente y occidente por cuestiones no menores a traición al rey!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65755",
+      "kind": "dialogue",
+      "line_number": 308846,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65755",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100814",
+        "28/52100815",
+        "28/52100816"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100814\"]",
+        "[@][lv 0*\"28\"*\"52100815\"]",
+        "[@][lv 0*\"28\"*\"52100816\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Quisiera inventar algunos métodos yo misma...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Contemplar eso será la manera perfecta de relajarme en esas noches sin sueño...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " *risita* Perfeccionaré mis ideas y luego te enviaré una carta.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Quisiera inventar algunos métodos yo misma...  Contemplar eso será la manera perfecta de relajarme en esas noches sin sueño...  *risita* Perfeccionaré mis ideas y luego te enviaré una carta.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65756",
+      "kind": "dialogue",
+      "line_number": 308852,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65756",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501313",
+        "46/54501314",
+        "46/54501315",
+        "46/54501316"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501313\"]",
+        "[@][lv 0*\"46\"*\"54501314\"]",
+        "[@][#][*][lv 0*\"46\"*\"54501315\"]",
+        "[@][lv 0*\"46\"*\"54501316\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Como ordene, mi ama.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Y entonces el gran final será al estilo {f:5:Bernkastel}...",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " Al mismo final, cuando todas las ilusiones se hayan desvanecido y el compendio mágico de Beato haya sido completamente aplastado...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " le mostraré a mi ama la grandiosísima ejecución que añora... ¡la ejecución de {f:5:Beatrice}!...\"",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "\"Como ordene, mi ama.  Y entonces el gran final será al estilo {f:5:Bernkastel}...  Al mismo final, cuando todas las ilusiones se hayan desvanecido y el compendio mágico de Beato haya sido completamente aplastado...  le mostraré a mi ama la grandiosísima ejecución que añora... ¡la ejecución de {f:5:Beatrice}!...\"",
+      "inline_tags": [
+        "{f:5:Bernkastel}",
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65757",
+      "kind": "dialogue",
+      "line_number": 308871,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65757",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100817",
+        "28/52100818",
+        "28/52100819",
+        "28/52100820",
+        "28/52100821",
+        "28/52100822"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100817\"]",
+        "[@][lv 0*\"28\"*\"52100818\"]",
+        "[@][#][*][lv 0*\"28\"*\"52100819\"]",
+        "[@][lv 0*\"28\"*\"52100820\"]",
+        "[@][lv 0*\"28\"*\"52100821\"]",
+        "[|][lv 0*\"28\"*\"52100822\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Gracias, Erika...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Gracias a ti, parece que seré capaz de olvidar el dolor de mi enfermedad por un instante...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " *risita*risita*, ¡jejejejejeejajajajajajajajajaja!",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Eres tan perfecta.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Mi pieza, mi doble...",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " y mi linda hija.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Gracias, Erika...  Gracias a ti, parece que seré capaz de olvidar el dolor de mi enfermedad por un instante...  *risita*risita*, ¡jejejejejeejajajajajajajajajaja!  Eres tan perfecta.  Mi pieza, mi doble...  y mi linda hija.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65758",
+      "kind": "dialogue",
+      "line_number": 308879,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65758",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501317"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501317\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡S-Sus palabras son demasiado buenas para mí, mi ama!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡S-Sus palabras son demasiado buenas para mí, mi ama!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65759",
+      "kind": "dialogue",
+      "line_number": 308894,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65759",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100823",
+        "28/52100824",
+        "28/52100825",
+        "28/52100826"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100823\"]",
+        "[@][#][*][lv 0*\"28\"*\"52100824\"]",
+        "[@][lv 0*\"28\"*\"52100825\"]",
+        "[@][lv 0*\"28\"*\"52100826\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Erika, habré de darte honor y una recompensa...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " El mayor símbolo de Beato, el retrato en el vestíbulo.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Quítalo, hazlo leña, haz un pastel con esta y cómetelo.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Después tendrás permitido colgar tu propio retrato en el marco que quede.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Erika, habré de darte honor y una recompensa...  El mayor símbolo de Beato, el retrato en el vestíbulo.  Quítalo, hazlo leña, haz un pastel con esta y cómetelo.  Después tendrás permitido colgar tu propio retrato en el marco que quede.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65760",
+      "kind": "dialogue",
+      "line_number": 308941,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65760",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501318",
+        "46/54501319"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501318\"]",
+        "[@][lv 0*\"46\"*\"54501319\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¡S-Se lo agradezco mucho!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Es un gran honor!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¡S-Se lo agradezco mucho!...  ¡Es un gran honor!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65761",
+      "kind": "dialogue",
+      "line_number": 308954,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65761",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100827",
+        "28/52100828"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100827\"]",
+        "[@][lv 0*\"28\"*\"52100828\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Tienes que erradicar y borrar el nombre de {f:5:Beatrice} y todo rastro de ella.",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " Mientras terminas con eso, ordenaré que se te convierta en la ama de esta aislada Rokkenjima.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Tienes que erradicar y borrar el nombre de {f:5:Beatrice} y todo rastro de ella.  Mientras terminas con eso, ordenaré que se te convierta en la ama de esta aislada Rokkenjima.\"",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65762",
+      "kind": "dialogue",
+      "line_number": 308958,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65762",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100829",
+        "28/52100830",
+        "28/52100831"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100829\"]",
+        "[@][lv 0*\"28\"*\"52100830\"]",
+        "[@][lv 0*\"28\"*\"52100831\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... En nombre de la Bruja de los Milagros, {f:5:Bernkastel},",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " declaro que te será otorgado el rango de bruja hasta aquel día...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " De ahora en adelante, te harás llamar la Bruja de la Verdad, {f:5:Erika}.\"",
+          "inline_tags": [
+            "{f:5:Erika}"
+          ]
+        }
+      ],
+      "text": "\"... En nombre de la Bruja de los Milagros, {f:5:Bernkastel},  declaro que te será otorgado el rango de bruja hasta aquel día...  De ahora en adelante, te harás llamar la Bruja de la Verdad, {f:5:Erika}.\"",
+      "inline_tags": [
+        "{f:5:Bernkastel}",
+        "{f:5:Erika}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65763",
+      "kind": "dialogue",
+      "line_number": 308968,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65763",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501320",
+        "46/54501321",
+        "46/54501322",
+        "46/54501323",
+        "46/54501324"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501320\"]",
+        "[|][lv 0*\"46\"*\"54501321\"]",
+        "[@][lv 0*\"46\"*\"54501322\"]",
+        "[@][#][*][lv 0*\"46\"*\"54501323\"]",
+        "[@][lv 0*\"46\"*\"54501324\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡L‐",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "La... Bruja de la Verdad!...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡S‐",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": "Se lo agradezco mucho, mi ama!!...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " ¡Juro trabajar aún más duro para que este honor no se desperdicie!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡L‐ La... Bruja de la Verdad!...  ¡¡S‐ Se lo agradezco mucho, mi ama!!...  ¡Juro trabajar aún más duro para que este honor no se desperdicie!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65764",
+      "kind": "dialogue",
+      "line_number": 308981,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65764",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Aunque no fuera más que una pieza...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " se le estaba otorgando el honor de llamarse a sí misma una bruja como su ama, aunque fuese solo temporal...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Aunque no fuera más que una pieza...  se le estaba otorgando el honor de llamarse a sí misma una bruja como su ama, aunque fuese solo temporal...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65765",
+      "kind": "dialogue",
+      "line_number": 308983,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65765",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Erika estaba tan conmovida de que sus acciones hubiesen sido reconocidas de una forma tan grandiosa, que temblaba...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Erika estaba tan conmovida de que sus acciones hubiesen sido reconocidas de una forma tan grandiosa, que temblaba...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65766",
+      "kind": "dialogue",
+      "line_number": 308999,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65766",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100832",
+        "28/52100833"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100832\"]",
+        "[@][lv 0*\"28\"*\"52100833\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Dlanor, sigue ayudando a {f:5:Erika}...",
+          "inline_tags": [
+            "{f:5:Erika}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " y dame reportes de su avance.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Dlanor, sigue ayudando a {f:5:Erika}...  y dame reportes de su avance.\"",
+      "inline_tags": [
+        "{f:5:Erika}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65767",
+      "kind": "dialogue",
+      "line_number": 309006,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65767",
+      "speaker": "dla",
+      "voice_files": [
+        "47/54600358"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"47\"*\"54600358\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Como {f:5:desee}.\"",
+          "inline_tags": [
+            "{f:5:desee}"
+          ]
+        }
+      ],
+      "text": "\"... Como {f:5:desee}.\"",
+      "inline_tags": [
+        "{f:5:desee}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65768",
+      "kind": "dialogue",
+      "line_number": 309011,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65768",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100834"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100834\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Por cierto, ¿dónde está Lambda?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Por cierto, ¿dónde está Lambda?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65769",
+      "kind": "dialogue",
+      "line_number": 309017,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65769",
+      "speaker": "dla",
+      "voice_files": [
+        "47/54600359"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"47\"*\"54600359\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Se encuentra {f:5:allá}.\"",
+          "inline_tags": [
+            "{f:5:allá}"
+          ]
+        }
+      ],
+      "text": "\"Se encuentra {f:5:allá}.\"",
+      "inline_tags": [
+        "{f:5:allá}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65770",
+      "kind": "dialogue",
+      "line_number": 309020,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65770",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Desde los asientos de invitados del segundo piso, ella señaló hacia abajo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Desde los asientos de invitados del segundo piso, ella señaló hacia abajo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65771",
+      "kind": "dialogue",
+      "line_number": 309022,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65771",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{f:5:Lambdadelta}... se encontraba debajo de Battler, que colgaba allí muerto, atravesado por la larga espada roja.",
+          "inline_tags": [
+            "{f:5:Lambdadelta}"
+          ]
+        }
+      ],
+      "text": "{f:5:Lambdadelta}... se encontraba debajo de Battler, que colgaba allí muerto, atravesado por la larga espada roja.",
+      "inline_tags": [
+        "{f:5:Lambdadelta}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65772",
+      "kind": "dialogue",
+      "line_number": 309040,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65772",
+      "speaker": "lam",
+      "voice_files": [
+        "29/52200684",
+        "29/52200685",
+        "29/52200686"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"52200684\"]",
+        "[@][lv 0*\"29\"*\"52200685\"]",
+        "[@][lv 0*\"29\"*\"52200686\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Ushiromiya Battler...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Fuiste un chico interesante...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Y podrías haberte vuelto todavía más interesante... qué pena.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Ushiromiya Battler...  Fuiste un chico interesante...  Y podrías haberte vuelto todavía más interesante... qué pena.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65773",
+      "kind": "dialogue",
+      "line_number": 309053,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65773",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100835",
+        "28/52100836",
+        "28/52100837",
+        "28/52100838"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100835\"]",
+        "[@][#][*][lv 0*\"28\"*\"52100836\"]",
+        "[@][lv 0*\"28\"*\"52100837\"]",
+        "[@][lv 0*\"28\"*\"52100838\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Yo opino que fue una forma maravillosa de morir...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡{f:5:Erika}!",
+          "inline_tags": [
+            "{f:5:Erika}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " Puedes exhibir el cadáver de Battler en el vestíbulo de la mansión...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " La próxima vez que visite este Fragmento, dame la bienvenida frente a este.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Yo opino que fue una forma maravillosa de morir...  ¡{f:5:Erika}!  Puedes exhibir el cadáver de Battler en el vestíbulo de la mansión...  La próxima vez que visite este Fragmento, dame la bienvenida frente a este.\"",
+      "inline_tags": [
+        "{f:5:Erika}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65774",
+      "kind": "dialogue",
+      "line_number": 309065,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65774",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501325",
+        "46/54501326"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501325\"]",
+        "[@][lv 0*\"46\"*\"54501326\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Como ordene, mi ama.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Haré de ese tonto hombre un monumento eterno a la victoria de mi ama!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Como ordene, mi ama.  ¡Haré de ese tonto hombre un monumento eterno a la victoria de mi ama!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65775",
+      "kind": "dialogue",
+      "line_number": 309070,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65775",
+      "speaker": "lam",
+      "voice_files": [
+        "29/52200687",
+        "29/52200688",
+        "29/52200689"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"52200687\"]",
+        "[@][lv 0*\"29\"*\"52200688\"]",
+        "[@][#][*][lv 0*\"29\"*\"52200689\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"*Risita* Suena maravilloso, de muy buen gusto.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Tal vez puedas cubrirlo con yeso y hacer una hermosa estatua blanca...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡Y sería aún mejor si lo decoraras todo bonito!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"*Risita* Suena maravilloso, de muy buen gusto.  Tal vez puedas cubrirlo con yeso y hacer una hermosa estatua blanca...  ¡Y sería aún mejor si lo decoraras todo bonito!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65776",
+      "kind": "dialogue",
+      "line_number": 309081,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65776",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501327",
+        "46/54501328"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501327\"]",
+        "[@][lv 0*\"46\"*\"54501328\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Sí, Lady {f:5:Lambdadelta}.",
+          "inline_tags": [
+            "{f:5:Lambdadelta}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " ¡Me esforzaré en responder a sus expectativas!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Sí, Lady {f:5:Lambdadelta}.  ¡Me esforzaré en responder a sus expectativas!...\"",
+      "inline_tags": [
+        "{f:5:Lambdadelta}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65777",
+      "kind": "dialogue",
+      "line_number": 309086,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65777",
+      "speaker": "lam",
+      "voice_files": [
+        "29/52200690",
+        "29/52200691"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"52200690\"]",
+        "[@][lv 0*\"29\"*\"52200691\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Felicitaciones por convertirte en bruja.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Aunque sea solo temporal, te daré la bienvenida como amiga.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Felicitaciones por convertirte en bruja.  Aunque sea solo temporal, te daré la bienvenida como amiga.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65778",
+      "kind": "dialogue",
+      "line_number": 309096,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65778",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Erika estaba tan abrumada por la emoción que surgieron lágrimas en sus ojos.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Erika estaba tan abrumada por la emoción que surgieron lágrimas en sus ojos.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65779",
+      "kind": "dialogue",
+      "line_number": 309098,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65779",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Ya que para una pieza, no existe mayor placer que el que su trabajo sea reconocido por su amo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Ya que para una pieza, no existe mayor placer que el que su trabajo sea reconocido por su amo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65780",
+      "kind": "dialogue",
+      "line_number": 309115,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65780",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100839",
+        "28/52100840"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100839\"]",
+        "[@][lv 0*\"28\"*\"52100840\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Al final, me gustaría que también disecaran a Beato.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Entonces decoraré el vestíbulo con ella.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Al final, me gustaría que también disecaran a Beato.  Entonces decoraré el vestíbulo con ella.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65781",
+      "kind": "dialogue",
+      "line_number": 309121,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65781",
+      "speaker": "lam",
+      "voice_files": [
+        "29/52200691b"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"52200691b\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Lago Shirakaba?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Lago Shirakaba?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65782",
+      "kind": "dialogue",
+      "line_number": 309127,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65782",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100840_b"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100840_b\"]",
+        "[gstg 4][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"El {c:86EF9C:conde cazador de humanos}.\"",
+          "inline_tags": [
+            "{c:86EF9C:conde cazador de humanos}"
+          ]
+        }
+      ],
+      "text": "\"El {c:86EF9C:conde cazador de humanos}.\"",
+      "inline_tags": [
+        "{c:86EF9C:conde cazador de humanos}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65783",
+      "kind": "dialogue",
+      "line_number": 309133,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65783",
+      "speaker": "lam",
+      "voice_files": [
+        "29/52200692",
+        "29/52200692b",
+        "29/52200693",
+        "29/52200694",
+        "29/52200695"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"52200692\"]",
+        "[@][lv 0*\"29\"*\"52200692b\"]",
+        "[@][lv 0*\"29\"*\"52200693\"]",
+        "[@][lv 0*\"29\"*\"52200694\"]",
+        "[@][#][*][lv 0*\"29\"*\"52200695\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Sabes,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " leí eso cuando todavía no era bruja...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Siempre creí que era extraño que los humanos que obtenían la vida eterna fueran tan crueles.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Siempre me preguntaba la razón...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " En ese entonces, francamente no me podía identificar.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Sabes,  leí eso cuando todavía no era bruja...  Siempre creí que era extraño que los humanos que obtenían la vida eterna fueran tan crueles.  Siempre me preguntaba la razón...  En ese entonces, francamente no me podía identificar.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65784",
+      "kind": "dialogue",
+      "line_number": 309145,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65784",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100841",
+        "28/52100842",
+        "28/52100843"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100841\"]",
+        "[@][lv 0*\"28\"*\"52100842\"]",
+        "[@][lv 0*\"28\"*\"52100843\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Tras convertirme en bruja y vivir mil años, lo entiendo por completo...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Ese escritor sí que podía entender nuestra crueldad en el sentido más puro.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡*risita*risita*!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Tras convertirme en bruja y vivir mil años, lo entiendo por completo...  Ese escritor sí que podía entender nuestra crueldad en el sentido más puro.  ¡*risita*risita*!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65785",
+      "kind": "dialogue",
+      "line_number": 309158,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65785",
+      "speaker": "lam",
+      "voice_files": [
+        "29/52200696",
+        "29/52200697"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"52200696\"]",
+        "[@][lv 0*\"29\"*\"52200697\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Y ahora qué?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Supongo que nos despediremos dándonos la espalda, ¿no?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Y ahora qué?  Supongo que nos despediremos dándonos la espalda, ¿no?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65786",
+      "kind": "dialogue",
+      "line_number": 309161,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65786",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100844"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100844\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Eso es porque no quiero dejar que te aburras.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Eso es porque no quiero dejar que te aburras.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65787",
+      "kind": "dialogue",
+      "line_number": 309164,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65787",
+      "speaker": "lam",
+      "voice_files": [
+        "29/52200698",
+        "29/52200699"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"52200698\"]",
+        "[@][lv 0*\"29\"*\"52200699\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Gracias, Bern.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Pero puedes estar segura de que contaré hasta cien y luego comenzaré a buscarte de nuevo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Gracias, Bern.  Pero puedes estar segura de que contaré hasta cien y luego comenzaré a buscarte de nuevo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65788",
+      "kind": "dialogue",
+      "line_number": 309178,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65788",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100845",
+        "28/52100846",
+        "28/52100847",
+        "28/52100848"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100845\"]",
+        "[@][lv 0*\"28\"*\"52100846\"]",
+        "[@][#][*][lv 0*\"28\"*\"52100847\"]",
+        "[@][lv 0*\"28\"*\"52100848\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Sí que no dejas que uno se aburra.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Por eso es que te quiero, te amo...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Veámonos de nuevo en algún lado.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Por supuesto, eso podría ser dentro de cien o tal vez mil años... o quizá nunca más por toda la eternidad.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Sí que no dejas que uno se aburra.  Por eso es que te quiero, te amo...  Veámonos de nuevo en algún lado.  Por supuesto, eso podría ser dentro de cien o tal vez mil años... o quizá nunca más por toda la eternidad.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65789",
+      "kind": "dialogue",
+      "line_number": 309190,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65789",
+      "speaker": "lam",
+      "voice_files": [
+        "29/52200700",
+        "29/52200701"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"52200700\"]",
+        "[@][lv 0*\"29\"*\"52200701\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Está bien.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " El Mar de Fragmentos es diminuto para una pareja que se ama.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Está bien.  El Mar de Fragmentos es diminuto para una pareja que se ama.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65790",
+      "kind": "dialogue",
+      "line_number": 309196,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65790",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100849"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100849\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿El tercer hombre?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿El tercer hombre?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65791",
+      "kind": "dialogue",
+      "line_number": 309202,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65791",
+      "speaker": "lam",
+      "voice_files": [
+        "29/52200702"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"52200702\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No, Les Enfants du paradis, por supuesto.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"No, Les Enfants du paradis, por supuesto.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65792",
+      "kind": "dialogue",
+      "line_number": 309211,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65792",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100850",
+        "28/52100851",
+        "28/52100852"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100850\"]",
+        "[@][lv 0*\"28\"*\"52100851\"]",
+        "[@][lv 0*\"28\"*\"52100852\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Si cada vez que hicieras polvo uno de esos incontables Fragmentos que brillan como noche estrellada,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " pudieras librarte del aburrimiento venenoso de una sola noche,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " incluso querrías contar las estrellas del cielo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Si cada vez que hicieras polvo uno de esos incontables Fragmentos que brillan como noche estrellada,  pudieras librarte del aburrimiento venenoso de una sola noche,  incluso querrías contar las estrellas del cielo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65793",
+      "kind": "dialogue",
+      "line_number": 309214,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65793",
+      "speaker": "lam",
+      "voice_files": [
+        "29/52200703"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"52200703\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ooh, no está mal... pfft, ¡*risita*risita*!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Ooh, no está mal... pfft, ¡*risita*risita*!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65794",
+      "kind": "dialogue",
+      "line_number": 309221,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65794",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Las brujas conocidas como Viajeras recorren los innumerables futuros resplandecientes de posibilidades...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y los devoran, intentando huir de su condición llamada aburrimiento en la mayor medida posible.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Las brujas conocidas como Viajeras recorren los innumerables futuros resplandecientes de posibilidades...  y los devoran, intentando huir de su condición llamada aburrimiento en la mayor medida posible.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65795",
+      "kind": "dialogue",
+      "line_number": 309223,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65795",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El pequeñísimo Fragmento creado por la humana conocida como {f:5:Beatrice}...",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " había sido devorado por las dos brujas...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " y había perdido su brillo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "El pequeñísimo Fragmento creado por la humana conocida como {f:5:Beatrice}...  había sido devorado por las dos brujas...  y había perdido su brillo.",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65796",
+      "kind": "dialogue",
+      "line_number": 309225,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65796",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Las dos que anteriormente se habían llamado rivales ante Beato...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ahora dejaron esa farsa y se rieron juguetonamente.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Las dos que anteriormente se habían llamado rivales ante Beato...  ahora dejaron esa farsa y se rieron juguetonamente.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65797",
+      "kind": "dialogue",
+      "line_number": 309243,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65797",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100853",
+        "28/52100854",
+        "28/52100855",
+        "28/52100856"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100853\"]",
+        "[@][lv 0*\"28\"*\"52100854\"]",
+        "[@][lv 0*\"28\"*\"52100855\"]",
+        "[@][#][*][lv 0*\"28\"*\"52100856\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"{f:5:Erika}.",
+          "inline_tags": [
+            "{f:5:Erika}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " La nueva gobernante de este Fragmento...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Hila la verdad... y crea la historia que lleve al deceso de este mundo...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Umm, el siguiente sería el sexto juego, ¿verdad?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"{f:5:Erika}.  La nueva gobernante de este Fragmento...  Hila la verdad... y crea la historia que lleve al deceso de este mundo...  Umm, el siguiente sería el sexto juego, ¿verdad?\"",
+      "inline_tags": [
+        "{f:5:Erika}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65798",
+      "kind": "dialogue",
+      "line_number": 309254,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65798",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501329"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501329\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Sí, el sexto.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Sí, el sexto.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65799",
+      "kind": "dialogue",
+      "line_number": 309260,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65799",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100857",
+        "28/52100858"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100857\"]",
+        "[@][lv 0*\"28\"*\"52100858\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Decide tú misma el nombre del Episodio 6.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Después de todo, ya eres quien hila esta historia, además de la ama.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Decide tú misma el nombre del Episodio 6.  Después de todo, ya eres quien hila esta historia, además de la ama.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65800",
+      "kind": "dialogue",
+      "line_number": 309266,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65800",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501330",
+        "46/54501331"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501330\"]",
+        "[@][lv 0*\"46\"*\"54501331\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Se lo agradezco mucho...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " De hecho, ya he decidido uno.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Se lo agradezco mucho...  De hecho, ya he decidido uno.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65801",
+      "kind": "dialogue",
+      "line_number": 309272,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65801",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100859",
+        "28/52100860",
+        "28/52100861"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"52100859\"]",
+        "[@][lv 0*\"28\"*\"52100860\"]",
+        "[@][lv 0*\"28\"*\"52100861\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Oh, ¿ya lo has hecho?...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Quisiera oírlo entonces.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¿Cuál es el título?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Oh, ¿ya lo has hecho?...  Quisiera oírlo entonces.  ¿Cuál es el título?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65802",
+      "kind": "dialogue",
+      "line_number": 309277,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65802",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501332",
+        "46/54501333",
+        "46/54501334"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501332\"]",
+        "[@][lv 0*\"46\"*\"54501333\"]",
+        "[@][#][*][lv 0*\"46\"*\"54501334\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Sí...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " «Episodio 6...»",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Jejejejee, me gustaría molestar un poco, pero lo diré.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Sí...  «Episodio 6...»  Jejejejee, me gustaría molestar un poco, pero lo diré.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65803",
+      "kind": "dialogue",
+      "line_number": 309288,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65803",
+      "speaker": "lam",
+      "voice_files": [
+        "29/52200704",
+        "29/52200705",
+        "29/52200706"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"52200704\"]",
+        "[@][lv 0*\"29\"*\"52200705\"]",
+        "[#][*][@][lv 0*\"29\"*\"52200706\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡*Risita*!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Vamos, deja de hacerte la sabelotodo y dinos.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡Una bruja novata como tú no debería molestar a sus superiores!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡*Risita*!  Vamos, deja de hacerte la sabelotodo y dinos.  ¡Una bruja novata como tú no debería molestar a sus superiores!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep5.teatime_5.d65804",
+      "kind": "dialogue",
+      "line_number": 309312,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "teatime_5",
+      "label": "*d65804",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54501335"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"46\"*\"54501335\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"«¡Episodio 6: Jaque Mate de la Bruja Dorada!»\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"«¡Episodio 6: Jaque Mate de la Bruja Dorada!»\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

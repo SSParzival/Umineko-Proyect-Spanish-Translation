@@ -1,0 +1,1555 @@
+{
+  "schema_version": "1.0",
+  "tool_version": "1.0.0",
+  "container": {
+    "format": "ONS2",
+    "magic": "ONS2",
+    "key_flag": 110,
+    "encoding": "utf-8",
+    "zlib_level": 6,
+    "zlib_wbits": 15,
+    "zlib_mem_level": 9,
+    "original_file_size": 4577201,
+    "original_comp_size": 4577185,
+    "original_uncomp_size": 19624486,
+    "original_sha256": "0c00c9cf156b6429e01e6f1d26a6ae655329ef8301b6719a1742834b524300e1",
+    "original_zlib_adler32": "00b2ab8f",
+    "plaintext_sha256": "226fbb7afefc44a42d1c656070f603813f46df58ab6a11dc65f68510282881d7",
+    "trailing_newline": true
+  },
+  "script_metadata": {
+    "mode_directive": ";mode1920@2172,1222,value2500",
+    "gameid": ";gameid UminekoPS3ficationEs",
+    "version": "8.2b",
+    "releasedate": 1759200733,
+    "localisation": "es",
+    "total_lines": 585050,
+    "total_entries": 68651
+  },
+  "catalog_files": [
+    {
+      "path": "story/ep1/teatime_1.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "teatime_1",
+      "entry_count": 266,
+      "sha256": "52498045c1edde8d155e8d1ca99647c9d7a0c38964d9f690e298d3eb9f3ce50a"
+    },
+    {
+      "path": "story/ep1/umi1_1.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "umi1_1",
+      "entry_count": 289,
+      "sha256": "575fadf673c6a79eeb553ff271e841738f614e0921d7a7dd2c5516876c614330"
+    },
+    {
+      "path": "story/ep1/umi1_10.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "umi1_10",
+      "entry_count": 582,
+      "sha256": "c17800e4abacfdbfbb716c3f077e77bba7f2816d2e7a4f127f6976c3c2ec6673"
+    },
+    {
+      "path": "story/ep1/umi1_11.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "umi1_11",
+      "entry_count": 531,
+      "sha256": "ead8df1c8fcecb818e4243a5e891e3149a7b4d3395f77ad23eff3cc49854d4bb"
+    },
+    {
+      "path": "story/ep1/umi1_12.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "umi1_12",
+      "entry_count": 599,
+      "sha256": "e45c87ceeb3928f6994819ea797f883cd70ee4b0beca115b874549a90fb328bc"
+    },
+    {
+      "path": "story/ep1/umi1_13.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "umi1_13",
+      "entry_count": 316,
+      "sha256": "22ebd28724c4a468f0e3605ed147c6d65ff37b4db32803d3e3edefcdb8434f6d"
+    },
+    {
+      "path": "story/ep1/umi1_14.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "umi1_14",
+      "entry_count": 302,
+      "sha256": "dd7eddbbd48013f2a4ee7d3299880472f55cb8ac37c4b71ccf9408763086a4d6"
+    },
+    {
+      "path": "story/ep1/umi1_15.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "umi1_15",
+      "entry_count": 602,
+      "sha256": "938b0c1fb5bd2e499763ec15938429fdf475e3a0650e96d2f349f3442ee4dde6"
+    },
+    {
+      "path": "story/ep1/umi1_16.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "umi1_16",
+      "entry_count": 396,
+      "sha256": "12b7e21dafe713169416262e451383aa6202130ca2f44bb95dade87932073024"
+    },
+    {
+      "path": "story/ep1/umi1_2.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "umi1_2",
+      "entry_count": 481,
+      "sha256": "ce8e13623283a28b6ab130cbca1d0c41e811e76ea7d0e35a574f7de039e44a1d"
+    },
+    {
+      "path": "story/ep1/umi1_3.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "umi1_3",
+      "entry_count": 388,
+      "sha256": "18ed4929a459bdb4a4e25ecce4a10b9509b6ab79d3fd1e37c0da12a77fe0ca3a"
+    },
+    {
+      "path": "story/ep1/umi1_4.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "umi1_4",
+      "entry_count": 439,
+      "sha256": "ff2efe0c7bbfeaaa72078e316e03b2e9fa19ddcfb240dc0faa37092466aaf7f6"
+    },
+    {
+      "path": "story/ep1/umi1_5.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "umi1_5",
+      "entry_count": 446,
+      "sha256": "554e964edcdcb0fc203309ad6fdfe048dddbae42c50477b0a1bfa5983427ec02"
+    },
+    {
+      "path": "story/ep1/umi1_6.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "umi1_6",
+      "entry_count": 340,
+      "sha256": "ac7cf7f7d2256a014329696411550919cad82509edbe289d95f05f277e57b5dd"
+    },
+    {
+      "path": "story/ep1/umi1_7.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "umi1_7",
+      "entry_count": 460,
+      "sha256": "e8320eecff6b77939976a81f752491942a9cfc20ff03a41af4f838e2bd9d9027"
+    },
+    {
+      "path": "story/ep1/umi1_8.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "umi1_8",
+      "entry_count": 600,
+      "sha256": "0e2e6a43bac60122a341038e1b25a506bdd71802622af96a68cb926ebe2cb0b7"
+    },
+    {
+      "path": "story/ep1/umi1_9.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "umi1_9",
+      "entry_count": 38,
+      "sha256": "38692c9c87995f3b7a773092ed6f50399ca4865adc1336a6e7f81bed139b69e2"
+    },
+    {
+      "path": "story/ep1/umi1_op.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "umi1_op",
+      "entry_count": 318,
+      "sha256": "b23e008c1f8699a187dd71dce87d5874e5ebf53ffd050fe389fc0d54677f295f"
+    },
+    {
+      "path": "story/ep1/ura_teatime_1.json",
+      "category": "story",
+      "episode": "ep1",
+      "section": "ura_teatime_1",
+      "entry_count": 51,
+      "sha256": "debece719eb715dd15d052be8f53dae537399444325c21e1124d3298d3bb1e09"
+    },
+    {
+      "path": "story/ep2/teatime_2.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "teatime_2",
+      "entry_count": 185,
+      "sha256": "d99824a8242ab1d3752bd6a2867870dc786a78af72eab973ea1010f7f0cc8863"
+    },
+    {
+      "path": "story/ep2/umi2_1.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_1",
+      "entry_count": 556,
+      "sha256": "4c6776c4841deb02eb273e0bc7db206059fdeffb4eeb9e1d85e4cb1f26c95616"
+    },
+    {
+      "path": "story/ep2/umi2_10.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_10",
+      "entry_count": 363,
+      "sha256": "f9ea830c69fe19286e0e3f276c9eebb71d21601c5a49b5240c39d891eb3e70bd"
+    },
+    {
+      "path": "story/ep2/umi2_11.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_11",
+      "entry_count": 314,
+      "sha256": "7a3f54534c3c9b0eef8176e18924cd14966d88b9a2b228475b59a18e4dc12125"
+    },
+    {
+      "path": "story/ep2/umi2_12.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_12",
+      "entry_count": 555,
+      "sha256": "87e1f6fb21abf8c3236b31cf58843d1c1e2f315679c337ea941a02b2817232a7"
+    },
+    {
+      "path": "story/ep2/umi2_13.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_13",
+      "entry_count": 412,
+      "sha256": "73bacc5996bc77ee81848991cf71690e34e306e8324d1d980bc4ac88f1b20583"
+    },
+    {
+      "path": "story/ep2/umi2_14.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_14",
+      "entry_count": 384,
+      "sha256": "5b8966bf90cd0c9899c9574508458887b70a7427bf1dd0bb61ea92bb16434c18"
+    },
+    {
+      "path": "story/ep2/umi2_15.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_15",
+      "entry_count": 445,
+      "sha256": "fa4b0234783a9a50c41eeb36b3a1c0a084c0e67869549f87212641a3b9edd8c9"
+    },
+    {
+      "path": "story/ep2/umi2_16.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_16",
+      "entry_count": 303,
+      "sha256": "052a1f242343f1f397ed895aed333d1760de8b13fff854563c1256ec90749b43"
+    },
+    {
+      "path": "story/ep2/umi2_17.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_17",
+      "entry_count": 97,
+      "sha256": "84123312975d95bc732209c9399a85eb088dcf1d8080c8c7723649dc17035a45"
+    },
+    {
+      "path": "story/ep2/umi2_18.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_18",
+      "entry_count": 209,
+      "sha256": "5b95f74b221414fb48541f41e346515b14dabbbe9301c61bb0501ef4a2ab45ed"
+    },
+    {
+      "path": "story/ep2/umi2_2.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_2",
+      "entry_count": 319,
+      "sha256": "2435a167638bd3e20c6ddae26f961761aa9156388667b1f3a09d8b5a4a230310"
+    },
+    {
+      "path": "story/ep2/umi2_3.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_3",
+      "entry_count": 451,
+      "sha256": "eac965a5992aa4881954e44cc42c016cef04013e06445868eeb855c154affb89"
+    },
+    {
+      "path": "story/ep2/umi2_4.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_4",
+      "entry_count": 380,
+      "sha256": "87d1c351e701f4eaa8e9e0c23aacb7bf8b1156e88764742eddd572daabfcf73e"
+    },
+    {
+      "path": "story/ep2/umi2_5.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_5",
+      "entry_count": 418,
+      "sha256": "2ac6cab2c9867f91d1c97f12f197164136a0e30973dba4eee8682dfb1ebd5dfa"
+    },
+    {
+      "path": "story/ep2/umi2_6.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_6",
+      "entry_count": 366,
+      "sha256": "72fad90d8c1f65855ed6460ae6b89684d306c667af256d52841a1c6f5bf4db51"
+    },
+    {
+      "path": "story/ep2/umi2_7.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_7",
+      "entry_count": 460,
+      "sha256": "5568f56089c4ff1cd512fb5aa4389722c589217d5decc649a0c40584fd5fecc7"
+    },
+    {
+      "path": "story/ep2/umi2_8.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_8",
+      "entry_count": 259,
+      "sha256": "544bbdd6506712242096ec1c72b1e2f9983f790cf1b9aff17a6859554e3e30a2"
+    },
+    {
+      "path": "story/ep2/umi2_9.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_9",
+      "entry_count": 370,
+      "sha256": "22b3b4c84f8902f1355b3d546ddb4a1048c2a8d6fedbfb1b1995c6e036c173bc"
+    },
+    {
+      "path": "story/ep2/umi2_op.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "umi2_op",
+      "entry_count": 214,
+      "sha256": "423c74d0ed0d819d4245cd61acafb07bf96a9e629498504bac9c89123e566a13"
+    },
+    {
+      "path": "story/ep2/ura_teatime_2.json",
+      "category": "story",
+      "episode": "ep2",
+      "section": "ura_teatime_2",
+      "entry_count": 128,
+      "sha256": "0ab13d9e0140bdd9eb3b7aab82e970260d94c934a8cbfb2a545e6b9ccfc8c792"
+    },
+    {
+      "path": "story/ep3/teatime_3.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "teatime_3",
+      "entry_count": 80,
+      "sha256": "cb34840f013240e36a388e83b831b25978b0828f94088baa7ec463d41522b4e4"
+    },
+    {
+      "path": "story/ep3/umi3_1.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_1",
+      "entry_count": 306,
+      "sha256": "1b46dc7f8fce9872a9230513cf6836ee619bf8b0a5f039269c9f02eba75414f4"
+    },
+    {
+      "path": "story/ep3/umi3_10.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_10",
+      "entry_count": 312,
+      "sha256": "a9c3cec78e0e5476500e1e0c19f908597386082c6d7d8ec4f34c6df24fcba989"
+    },
+    {
+      "path": "story/ep3/umi3_11.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_11",
+      "entry_count": 337,
+      "sha256": "2c0a9b778e8fd108da3d1644aa4ce099f367d9cb95b89cbf4df2241979c6d832"
+    },
+    {
+      "path": "story/ep3/umi3_12.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_12",
+      "entry_count": 474,
+      "sha256": "487eed3df9949b4e53229ec979c357cb543bdc06c46af73ed6d1caf4bc7f2ce9"
+    },
+    {
+      "path": "story/ep3/umi3_13.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_13",
+      "entry_count": 291,
+      "sha256": "0ecb643c3c71f063ec3c53cffa3daef4f7843e27587d5e7418d4201a01213cf8"
+    },
+    {
+      "path": "story/ep3/umi3_14.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_14",
+      "entry_count": 575,
+      "sha256": "63a7ef1230250f49cc8feca0f6002d083c33721668abbebdbfdd41a2c567b226"
+    },
+    {
+      "path": "story/ep3/umi3_15.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_15",
+      "entry_count": 411,
+      "sha256": "7031401dc8e61f514b50ba5a08c552cb566f73beddae0d6843cd2f1bfd59aa69"
+    },
+    {
+      "path": "story/ep3/umi3_16.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_16",
+      "entry_count": 384,
+      "sha256": "7f1f5f902be658a6a50887a162dd1b04366fb1cb5703bdc6b6db5a72892242bb"
+    },
+    {
+      "path": "story/ep3/umi3_17.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_17",
+      "entry_count": 1037,
+      "sha256": "423bc7eaa578302daa22bd523e4de96412e35f96f5b7baa7a43fff328db036cb"
+    },
+    {
+      "path": "story/ep3/umi3_18.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_18",
+      "entry_count": 205,
+      "sha256": "f6c849b0277dff5ecb5e2f98e76c132449778a0c9c86454b0276f4c426240e27"
+    },
+    {
+      "path": "story/ep3/umi3_2.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_2",
+      "entry_count": 387,
+      "sha256": "5f5c794044d0d7acd3c439e7c1470260fb44140d86ad391f507eb5ccf4701471"
+    },
+    {
+      "path": "story/ep3/umi3_3.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_3",
+      "entry_count": 334,
+      "sha256": "75fb1cee55ea0426bc172991b701fc29ae27ce89337e7e0e6a4f498b28d30b4b"
+    },
+    {
+      "path": "story/ep3/umi3_4.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_4",
+      "entry_count": 385,
+      "sha256": "fce061350514611d919172f68431592b95a9a3561241e90370c7bdd50bbbcdb1"
+    },
+    {
+      "path": "story/ep3/umi3_5.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_5",
+      "entry_count": 638,
+      "sha256": "d599ff212cea62559e8d0016f0530d7b3f8f786aa2c01848ffb583171aa9628f"
+    },
+    {
+      "path": "story/ep3/umi3_6.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_6",
+      "entry_count": 453,
+      "sha256": "196c1b2bedf49b4e5b382f2a650ce458daea3784d1c49c3879377014a33e4daa"
+    },
+    {
+      "path": "story/ep3/umi3_7.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_7",
+      "entry_count": 301,
+      "sha256": "9b4c10eadc6757b624f70403970f40c7870a76b743f556dd3703d61358dc4ccc"
+    },
+    {
+      "path": "story/ep3/umi3_8.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_8",
+      "entry_count": 277,
+      "sha256": "18efe853e496eda5038e55c173f95c8a8a7e5aa8cde9477eba9bacca40a372e9"
+    },
+    {
+      "path": "story/ep3/umi3_9.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_9",
+      "entry_count": 302,
+      "sha256": "68d3d501f9d5d37ea5cdda5062ef8e9f9c2cf436a089a41f9b3434fb6b479fc8"
+    },
+    {
+      "path": "story/ep3/umi3_op.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "umi3_op",
+      "entry_count": 172,
+      "sha256": "48fee6d36ef0ea30c7b2bc3330079ce495e882ce9781c4bcbfd605d24d01c979"
+    },
+    {
+      "path": "story/ep3/ura_teatime_3.json",
+      "category": "story",
+      "episode": "ep3",
+      "section": "ura_teatime_3",
+      "entry_count": 233,
+      "sha256": "5d9679e293b4cb3a9f2aa72edd66354ebb3dcfa869b8f2f1d273790509d9aa79"
+    },
+    {
+      "path": "story/ep4/teatime_4.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "teatime_4",
+      "entry_count": 824,
+      "sha256": "e344e66f4abac06033c96d86c3030d10d1f2d21a4612ec6c4146459d0c1c38c9"
+    },
+    {
+      "path": "story/ep4/umi4_1.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_1",
+      "entry_count": 210,
+      "sha256": "61efe2ac3baa22882ebae279122be3a5365e58ffccba8539fadee4989b479600"
+    },
+    {
+      "path": "story/ep4/umi4_10.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_10",
+      "entry_count": 338,
+      "sha256": "e1710f8320b0fe027fe32ee053664c7597c39e7ed4ff79027e65fc3467587ca3"
+    },
+    {
+      "path": "story/ep4/umi4_11.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_11",
+      "entry_count": 599,
+      "sha256": "04df93f632df8f583077602c4a78ec876d4c1962b389b1902279f20d623ee81b"
+    },
+    {
+      "path": "story/ep4/umi4_12.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_12",
+      "entry_count": 374,
+      "sha256": "9cc371a32edf97b0df9d7bd171bc94378e14b944d4537765df8156cf18a79149"
+    },
+    {
+      "path": "story/ep4/umi4_13.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_13",
+      "entry_count": 500,
+      "sha256": "74858e4fdc8ef4b1e23e011a68d46dc29d9e3fca2c2929a1808b08c4e5b9ddcc"
+    },
+    {
+      "path": "story/ep4/umi4_14.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_14",
+      "entry_count": 364,
+      "sha256": "8ba5e679e23bef416f7235241cf388dfeb695d099279e61e6964b210fd3d0ad5"
+    },
+    {
+      "path": "story/ep4/umi4_15.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_15",
+      "entry_count": 241,
+      "sha256": "5053cf6618a1bc2873211de259d0d1f514898810cb50bc86d7060a737d47db61"
+    },
+    {
+      "path": "story/ep4/umi4_16.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_16",
+      "entry_count": 1146,
+      "sha256": "04264220c1513c0023e86e0626274ae3ee11233fee9e8596f18bb3118b71bb12"
+    },
+    {
+      "path": "story/ep4/umi4_17.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_17",
+      "entry_count": 638,
+      "sha256": "02bcd028736956fc3073fc7914acb1678494883b4b8ef08514483aa69386ee1d"
+    },
+    {
+      "path": "story/ep4/umi4_18.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_18",
+      "entry_count": 761,
+      "sha256": "c8c6cab6b22a4687f76f4e8c5cda4f9feba37a54dfa6aa4bf7757621e1b7c3c8"
+    },
+    {
+      "path": "story/ep4/umi4_19.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_19",
+      "entry_count": 390,
+      "sha256": "451efdbe0d7e2272f21a2ba271af17da40db929a6dc84a11be2cf201b7f1528a"
+    },
+    {
+      "path": "story/ep4/umi4_2.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_2",
+      "entry_count": 499,
+      "sha256": "944b9b83968921ae8c8bbad484e2c0a10b3ed4c54e67dabbf79a5c5f7a5b456a"
+    },
+    {
+      "path": "story/ep4/umi4_3.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_3",
+      "entry_count": 382,
+      "sha256": "f3324da5e56aa7a249674e8fba9dede52a20590b3c94edf2c0562fd7d63e3ae9"
+    },
+    {
+      "path": "story/ep4/umi4_4.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_4",
+      "entry_count": 326,
+      "sha256": "c7e1d1242f6a2e0ac172f3a2403ec7bfdcdcceac9c3ac8f39dff4e565a6dd7a2"
+    },
+    {
+      "path": "story/ep4/umi4_5.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_5",
+      "entry_count": 514,
+      "sha256": "03b41de99ac41c8034d2d5fb1ce080600cb5b5d92edf8281b871e5b29b686e9f"
+    },
+    {
+      "path": "story/ep4/umi4_6.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_6",
+      "entry_count": 418,
+      "sha256": "26df9121b550e7d10e388623fdeaddc356984539ebad729b5c2f99b6f17ac4a3"
+    },
+    {
+      "path": "story/ep4/umi4_7.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_7",
+      "entry_count": 489,
+      "sha256": "2c9281ebf01bba4a0c67a3ee3b3573eb454709ad1d0569852eb4e18b4f9cccb1"
+    },
+    {
+      "path": "story/ep4/umi4_8.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_8",
+      "entry_count": 480,
+      "sha256": "50c5de4398f6671a58f3ad6ec290a54c2f27b25c9645565865acbabd5ed9baac"
+    },
+    {
+      "path": "story/ep4/umi4_9.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_9",
+      "entry_count": 378,
+      "sha256": "d25718a151135d331f5daca3cdafc1a91af1cfba234ee64ff65e0842c2e96b6e"
+    },
+    {
+      "path": "story/ep4/umi4_op.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "umi4_op",
+      "entry_count": 58,
+      "sha256": "b885613639c75ae4a246f89ccc57d9fead53880a60b7e2a8f19471fc2c1ee70f"
+    },
+    {
+      "path": "story/ep4/ura_teatime_4.json",
+      "category": "story",
+      "episode": "ep4",
+      "section": "ura_teatime_4",
+      "entry_count": 83,
+      "sha256": "51f3b7b06def8342178cf0e6691e3031e7fa223f2910e795529b8a09f64bb1db"
+    },
+    {
+      "path": "story/ep5/teatime_5.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "teatime_5",
+      "entry_count": 98,
+      "sha256": "99104ad6cf4c8defe5e20e41e517166a584a745e75e38e01d6e82f853e07fd33"
+    },
+    {
+      "path": "story/ep5/umi5_1.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "umi5_1",
+      "entry_count": 421,
+      "sha256": "2ca7940a57fe65d5481ec39fc2c0492d311b54dae8d1f210c386fbe7de5fbe02"
+    },
+    {
+      "path": "story/ep5/umi5_10.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "umi5_10",
+      "entry_count": 490,
+      "sha256": "00fa9ac78861caa2b54085d438205804f60a2cd233f76a84ab2392c4bed5bc1b"
+    },
+    {
+      "path": "story/ep5/umi5_11.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "umi5_11",
+      "entry_count": 963,
+      "sha256": "39e33f83d2529f14d17947efde6fa4e170b3a4b2f179607fe1a6e7c5f4ac95b3"
+    },
+    {
+      "path": "story/ep5/umi5_12.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "umi5_12",
+      "entry_count": 400,
+      "sha256": "815362204cff10fc47244df6414da21900913fe34f5e8d5d6d13c8730c63af73"
+    },
+    {
+      "path": "story/ep5/umi5_13.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "umi5_13",
+      "entry_count": 580,
+      "sha256": "b9d5daa679d741de0916d8b13460fbcdd48a034565c322631c2fb8f18fd0322f"
+    },
+    {
+      "path": "story/ep5/umi5_14.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "umi5_14",
+      "entry_count": 1182,
+      "sha256": "a6a5000597b1f8fbf03b8b951f6a153bd5a8a37643820e79027050f506cacf0e"
+    },
+    {
+      "path": "story/ep5/umi5_15.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "umi5_15",
+      "entry_count": 111,
+      "sha256": "2db4d5a7aebb4d68b99438c8e1923e9fae1d44c83dc10095b5f58944d05d3a19"
+    },
+    {
+      "path": "story/ep5/umi5_2.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "umi5_2",
+      "entry_count": 407,
+      "sha256": "98ce38910862f601b0aab5660c8cb31239c22531e481a84fbbc4478351feb4cb"
+    },
+    {
+      "path": "story/ep5/umi5_3.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "umi5_3",
+      "entry_count": 306,
+      "sha256": "199d311774c03771c6b20ab88e2a21066e4f1e2363e2cd5e91b32e829afc6fd6"
+    },
+    {
+      "path": "story/ep5/umi5_4.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "umi5_4",
+      "entry_count": 258,
+      "sha256": "3264f9d896f3af4997da4222542cf95670205b96dbe9155819c117744f495df1"
+    },
+    {
+      "path": "story/ep5/umi5_5.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "umi5_5",
+      "entry_count": 427,
+      "sha256": "93707d21b63bd92f8854b1035891f064307597a414410a639c72694daaedd1b7"
+    },
+    {
+      "path": "story/ep5/umi5_6.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "umi5_6",
+      "entry_count": 259,
+      "sha256": "6b7d03d8d31ce0add2592c8c65924e509ff10bda871118fe95a67c48d01bdc94"
+    },
+    {
+      "path": "story/ep5/umi5_7.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "umi5_7",
+      "entry_count": 313,
+      "sha256": "e3538e3c012163e161e4a58efb90162cdfc2f6a88266ab1ae7ae6474e982f8f6"
+    },
+    {
+      "path": "story/ep5/umi5_8.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "umi5_8",
+      "entry_count": 411,
+      "sha256": "52e3e883b790d806bfd0a1dabb5e43f2460be88769c753ca09672fe860b2a0c9"
+    },
+    {
+      "path": "story/ep5/umi5_9.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "umi5_9",
+      "entry_count": 230,
+      "sha256": "515606e336a722885ed999247ef0e9300dad67fd1b4b9a8f418d6c0440636f69"
+    },
+    {
+      "path": "story/ep5/umi5_op.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "umi5_op",
+      "entry_count": 243,
+      "sha256": "430dd69bed4aef9a77d589f3176ac8a1d8595fde38729059320cfa5a17fd6956"
+    },
+    {
+      "path": "story/ep5/ura_teatime_5.json",
+      "category": "story",
+      "episode": "ep5",
+      "section": "ura_teatime_5",
+      "entry_count": 739,
+      "sha256": "894e13fcb4db5fca90e4261a4b4b08e176cf3bc89eac5bd47e8a8204586be262"
+    },
+    {
+      "path": "story/ep6/teatime_6.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "teatime_6",
+      "entry_count": 182,
+      "sha256": "bf08ec4c0f09ad2e4ebaf207eae322d648d09d57024eecb3befb121759ddf2f4"
+    },
+    {
+      "path": "story/ep6/umi6_1.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_1",
+      "entry_count": 301,
+      "sha256": "d117c8b0b7569d75b3a7b6185ebb376af8068bab2319b613258f8a9002fe4db9"
+    },
+    {
+      "path": "story/ep6/umi6_10.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_10",
+      "entry_count": 452,
+      "sha256": "593e6c3be1aa11840304af855dbd28d3f16b5e89cdf8e5d65a1587f52c0c1859"
+    },
+    {
+      "path": "story/ep6/umi6_11.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_11",
+      "entry_count": 435,
+      "sha256": "a64a467cac1223c6a0236c33af37e4ff4c0ebc541433cf6f6e5a49f2ce5030ab"
+    },
+    {
+      "path": "story/ep6/umi6_12.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_12",
+      "entry_count": 416,
+      "sha256": "a998b153db5d2f1fde79fde5eade7ea8c87e3fd3526c1f3ba6dd36ad79bd4cf5"
+    },
+    {
+      "path": "story/ep6/umi6_13.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_13",
+      "entry_count": 396,
+      "sha256": "8ed68802f5abcb600dcf200080cf9c85a19961c2323a5a35de265970d4fb7b0e"
+    },
+    {
+      "path": "story/ep6/umi6_14.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_14",
+      "entry_count": 437,
+      "sha256": "9fee91bc51cdce3e9002f22fae6ecbe0067e18caaa7dd052a0f37973dba15103"
+    },
+    {
+      "path": "story/ep6/umi6_15.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_15",
+      "entry_count": 707,
+      "sha256": "213ffbd22df5b93565d1ddc358aec1c0e04cf249fd49714409f04b94c861167d"
+    },
+    {
+      "path": "story/ep6/umi6_16.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_16",
+      "entry_count": 739,
+      "sha256": "76ccea0ce2561052fd29c36ad90ce164ed60df3d27f77a4c238429bbbf6926a3"
+    },
+    {
+      "path": "story/ep6/umi6_17.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_17",
+      "entry_count": 305,
+      "sha256": "77e60f5a0419cfb36d45b7103db16a4acf2dfa495ff5f4a379ed164d4a018400"
+    },
+    {
+      "path": "story/ep6/umi6_18.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_18",
+      "entry_count": 922,
+      "sha256": "253481294053a015ea27ee3f9d73506b282cf2c3247254f26838627f7e7625bb"
+    },
+    {
+      "path": "story/ep6/umi6_2.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_2",
+      "entry_count": 412,
+      "sha256": "5e70d6b91c7e67ced0d83df72b023d19a2ed392f11957aa14b6ee02b75c62067"
+    },
+    {
+      "path": "story/ep6/umi6_3.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_3",
+      "entry_count": 346,
+      "sha256": "204c9767b36680427ab02da76b1b013c2f9a1451f8594f023fb28e8413ea6114"
+    },
+    {
+      "path": "story/ep6/umi6_4.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_4",
+      "entry_count": 418,
+      "sha256": "3d74fd3c20f066f4a9761509d8a21bfccaf116f3109b1843a753b95fb4780230"
+    },
+    {
+      "path": "story/ep6/umi6_5.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_5",
+      "entry_count": 296,
+      "sha256": "dd9ad1ed4946d38f264724b71edf6a2a5bc339bf63f407dc5a21a6c62c49cf2a"
+    },
+    {
+      "path": "story/ep6/umi6_6.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_6",
+      "entry_count": 321,
+      "sha256": "47062cd0efe9e198c34963b0a0c086aea3620e9ef588e730ff9ab5e101700564"
+    },
+    {
+      "path": "story/ep6/umi6_7.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_7",
+      "entry_count": 426,
+      "sha256": "8ad83289b04ca65e9d322b3d9799562b617ecb16031f73e2300d5805043cb314"
+    },
+    {
+      "path": "story/ep6/umi6_8.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_8",
+      "entry_count": 449,
+      "sha256": "6ccb4299726dfce5a167c18bd0a2c2d518cb0ea330cbbcd2b94a938cc929d433"
+    },
+    {
+      "path": "story/ep6/umi6_9.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_9",
+      "entry_count": 414,
+      "sha256": "1b73977779aa83404f8c808c38af355bae7f1a5936e608a0c721d7eba79a42d9"
+    },
+    {
+      "path": "story/ep6/umi6_op.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "umi6_op",
+      "entry_count": 52,
+      "sha256": "e7a291e0fcbf53b34c7905c7c159e7b9eec94461e96bbe3000af46f50dc4a6cc"
+    },
+    {
+      "path": "story/ep6/ura_teatime_6.json",
+      "category": "story",
+      "episode": "ep6",
+      "section": "ura_teatime_6",
+      "entry_count": 141,
+      "sha256": "e0312ff5fc5c885561635418eddd5b5f9671426c7cd7cd8cdeec89d8c1166293"
+    },
+    {
+      "path": "story/ep7/teatime_7.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "teatime_7",
+      "entry_count": 1685,
+      "sha256": "2771f1fa147461eaed37f5db7228255ea8896c53064b8d68a91d414121644e20"
+    },
+    {
+      "path": "story/ep7/umi7_1.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_1",
+      "entry_count": 240,
+      "sha256": "8ebc7a43882b62ca159bb6b52b79cc71bd15cacd9e0bca52ca40502a314d54fb"
+    },
+    {
+      "path": "story/ep7/umi7_10.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_10",
+      "entry_count": 229,
+      "sha256": "b8d4bf0bdc3a7d5c9ab11af544fce75fda925234dfa6d0d22cff52f4191bb9dd"
+    },
+    {
+      "path": "story/ep7/umi7_11.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_11",
+      "entry_count": 243,
+      "sha256": "7261fac8c9bade16151e0cf45ebb329317f9c0fead381b8e5affaf20b5b2fc5d"
+    },
+    {
+      "path": "story/ep7/umi7_12.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_12",
+      "entry_count": 456,
+      "sha256": "6c0aed2390f858362c9e4243c2113df75e184c0c138582f1c6e3e80e0821e894"
+    },
+    {
+      "path": "story/ep7/umi7_13.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_13",
+      "entry_count": 425,
+      "sha256": "ce2e05972fa16861be755f6a50ed8fc82d0d2d4dcb9e21a6802ac3575dc75bf3"
+    },
+    {
+      "path": "story/ep7/umi7_14.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_14",
+      "entry_count": 340,
+      "sha256": "b94df60265bc58a55028ace95ac2b3dee1ee136a2dd94e70eed93211188d3168"
+    },
+    {
+      "path": "story/ep7/umi7_15.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_15",
+      "entry_count": 365,
+      "sha256": "3a77f70fac08b5b05c6d2bf65af1182d5524c19e8b29b64ab8fbcd1b19db0c54"
+    },
+    {
+      "path": "story/ep7/umi7_16.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_16",
+      "entry_count": 541,
+      "sha256": "a5360a644ab03f8b9c31d02957361d18334849cfd6530354500110c01450c7b2"
+    },
+    {
+      "path": "story/ep7/umi7_17.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_17",
+      "entry_count": 381,
+      "sha256": "0dbdfea2ed733ca8104aabd80b2162ddea18c5aa4ef71a83fddb760a6a07779d"
+    },
+    {
+      "path": "story/ep7/umi7_18.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_18",
+      "entry_count": 233,
+      "sha256": "e6041ae4b421b3851b4e494047c228aa009254dd922d71de9edad2cc28f67302"
+    },
+    {
+      "path": "story/ep7/umi7_2.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_2",
+      "entry_count": 340,
+      "sha256": "8c9622e954adeadb6459d8f41d0e11f166f17dfb220d2138ba4fd42856526dad"
+    },
+    {
+      "path": "story/ep7/umi7_3.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_3",
+      "entry_count": 255,
+      "sha256": "7ea01fb70a5c443b1b21f6dbe814b6fd7ce37bd1402f3f278493e1c0762759e2"
+    },
+    {
+      "path": "story/ep7/umi7_4.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_4",
+      "entry_count": 259,
+      "sha256": "3bc4521eae29a0433ee42e984e10deb7af2a9724fc09b338f43f74a8c3f22c2d"
+    },
+    {
+      "path": "story/ep7/umi7_5.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_5",
+      "entry_count": 461,
+      "sha256": "1e354d8acf8c0be17d9e3c446f86dbcc3205f3e6be9995d87749dc555bc88e91"
+    },
+    {
+      "path": "story/ep7/umi7_6.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_6",
+      "entry_count": 311,
+      "sha256": "13b2400e05dd8198a61683e8439c1e022ac0a52d5af20fea8fd758248e6011d2"
+    },
+    {
+      "path": "story/ep7/umi7_7.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_7",
+      "entry_count": 522,
+      "sha256": "77d5da3cd535a2e4319b5f82f5209f5d5cdbfcd6dfc6ab67e74911eaf7647404"
+    },
+    {
+      "path": "story/ep7/umi7_8.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_8",
+      "entry_count": 228,
+      "sha256": "1d09f92331da3c523c86b84a404a5fbf15c53a21f6d74033555d71f1a47e18cc"
+    },
+    {
+      "path": "story/ep7/umi7_9.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_9",
+      "entry_count": 264,
+      "sha256": "4f59490799df2464f52401d0644f60890175fe9a765a94ce420030c5d0fd8e17"
+    },
+    {
+      "path": "story/ep7/umi7_op.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "umi7_op",
+      "entry_count": 135,
+      "sha256": "57a9e0abdb48150f95853ee1866621d0f085017ac5cba8e665a6a60ffc1240e0"
+    },
+    {
+      "path": "story/ep7/ura_teatime_7.json",
+      "category": "story",
+      "episode": "ep7",
+      "section": "ura_teatime_7",
+      "entry_count": 63,
+      "sha256": "b9be85b85c5956bbd2082b24001b41dd627394ecad7b402e88b2cb4a4d4f4514"
+    },
+    {
+      "path": "story/ep8/teatime_8.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "teatime_8",
+      "entry_count": 107,
+      "sha256": "74db29c9c4fa900c038a3653f45f25630b116792dc32b54631071e52a76be6e3"
+    },
+    {
+      "path": "story/ep8/umi8_1.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "umi8_1",
+      "entry_count": 296,
+      "sha256": "e2666f5d482221b6c70f9abad6deec21cac4c7f2adb74fd8a8b99569acd1a416"
+    },
+    {
+      "path": "story/ep8/umi8_10.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "umi8_10",
+      "entry_count": 673,
+      "sha256": "a6a61c7635e6a9938f2169bf3f22d6ae9141fceabf412d6263c0e752fe918e51"
+    },
+    {
+      "path": "story/ep8/umi8_11.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "umi8_11",
+      "entry_count": 732,
+      "sha256": "7893f929199b4845778e68993812c4f20f570a849e8260770fb1b5c0b8619cf5"
+    },
+    {
+      "path": "story/ep8/umi8_12.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "umi8_12",
+      "entry_count": 437,
+      "sha256": "b13a8ad533ae36fde48524631ac219fdfc582b76e610c4e00839b15a71654352"
+    },
+    {
+      "path": "story/ep8/umi8_13.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "umi8_13",
+      "entry_count": 645,
+      "sha256": "dbe1dd750788330cf64cd7c18ba6c70e840ceb982ac0d6f347c99b6fb368bb7b"
+    },
+    {
+      "path": "story/ep8/umi8_14.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "umi8_14",
+      "entry_count": 415,
+      "sha256": "4015043676848cbc5174433fa6e288ee56f459502a632e6a317594177e88dcf8"
+    },
+    {
+      "path": "story/ep8/umi8_15.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "umi8_15",
+      "entry_count": 632,
+      "sha256": "dde2cbd2cf19a32af2a1ef6b4ac2ad76f3f1a583c5b21accc65ff64650353f05"
+    },
+    {
+      "path": "story/ep8/umi8_16.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "umi8_16",
+      "entry_count": 1372,
+      "sha256": "d83c4e6b1bc5ba2d14dd1aea33a993afe50308d967cf53f80049a17fa9127674"
+    },
+    {
+      "path": "story/ep8/umi8_2.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "umi8_2",
+      "entry_count": 356,
+      "sha256": "e6a08e59f4aef6bdbdfbf1295b3c2c418486e5fcfd40f041fe4eaf93834bdb0b"
+    },
+    {
+      "path": "story/ep8/umi8_3.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "umi8_3",
+      "entry_count": 342,
+      "sha256": "d47bec85cfc8ffcdd9e606ef6ab858e04dcdc38c806812764dc8f765774e4f98"
+    },
+    {
+      "path": "story/ep8/umi8_4.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "umi8_4",
+      "entry_count": 414,
+      "sha256": "aca6ab57280138227b23b01d9180eaa06ea81f46317ea0eb36aa94ff2cff3521"
+    },
+    {
+      "path": "story/ep8/umi8_5.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "umi8_5",
+      "entry_count": 31,
+      "sha256": "a484d6de046e81945dd1a045625ae7e7b8fa4f85fd9db8b7d58c601a9b1ab24d"
+    },
+    {
+      "path": "story/ep8/umi8_6.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "umi8_6",
+      "entry_count": 591,
+      "sha256": "ae511f815fe558153acda6300ccc38034616b9b3fbe23c7c216373df050d2a92"
+    },
+    {
+      "path": "story/ep8/umi8_7.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "umi8_7",
+      "entry_count": 689,
+      "sha256": "c3c6bac9587dea1b46eddc239ebdd1c343b4a3ca0d771218d490b7121022c357"
+    },
+    {
+      "path": "story/ep8/umi8_8.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "umi8_8",
+      "entry_count": 606,
+      "sha256": "613860815912ef459fe2352f3330ae51daf5dfa1a53ac31df0892e2c6ae51fe3"
+    },
+    {
+      "path": "story/ep8/umi8_9.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "umi8_9",
+      "entry_count": 449,
+      "sha256": "e87bbaf39d5b104476b87299335b6a1889024fe0e0f780cb066d1baaa8a8953b"
+    },
+    {
+      "path": "story/ep8/umi8_op.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "umi8_op",
+      "entry_count": 119,
+      "sha256": "6911129a5523227b9274c0576a7c725b4d111dcba0c0a97aed3c2c1f9c6ff975"
+    },
+    {
+      "path": "story/ep8/ura_teatime_8.json",
+      "category": "story",
+      "episode": "ep8",
+      "section": "ura_teatime_8",
+      "entry_count": 404,
+      "sha256": "8befc01621536d17cd8a45ba3392caf266729f88ca7ad4accb91dc7981718c03"
+    },
+    {
+      "path": "story/omake/chiru_trailer.json",
+      "category": "omake",
+      "episode": null,
+      "section": "chiru_trailer",
+      "entry_count": 79,
+      "sha256": "4726ea4c92f23089b2ba097a7651d317dd979b02925551eb4ef0d252307409a1"
+    },
+    {
+      "path": "story/omake/o1_0.json",
+      "category": "omake",
+      "episode": null,
+      "section": "o1_0",
+      "entry_count": 32,
+      "sha256": "c6a2204b762021b3608246aec23577720c984b0e653ad49ade61f9ebf370ae18"
+    },
+    {
+      "path": "story/omake/o2_0.json",
+      "category": "omake",
+      "episode": null,
+      "section": "o2_0",
+      "entry_count": 37,
+      "sha256": "dfecd215fe805df8138cdda9903ad41e289e5bfec5334c4162b3f71e36826aac"
+    },
+    {
+      "path": "story/omake/o3_start.json",
+      "category": "omake",
+      "episode": null,
+      "section": "o3_start",
+      "entry_count": 15,
+      "sha256": "594602d20e762093ae90f1e3b42635a11e924992bbeb9765c19aa53f4b4d1b9a"
+    },
+    {
+      "path": "story/omake/o4_0.json",
+      "category": "omake",
+      "episode": null,
+      "section": "o4_0",
+      "entry_count": 59,
+      "sha256": "73e4934f61ea36533b35722ef3eeacd5c794b0677b55d87ed4781ef37005e71e"
+    },
+    {
+      "path": "story/omake/o8_0.json",
+      "category": "omake",
+      "episode": null,
+      "section": "o8_0",
+      "entry_count": 66,
+      "sha256": "3a1c48699e5fe757ce03493362c87541db511bfe509da1da76c8b05533ab1cd6"
+    },
+    {
+      "path": "story/omake/o9_0.json",
+      "category": "omake",
+      "episode": null,
+      "section": "o9_0",
+      "entry_count": 35,
+      "sha256": "dbaa4a91ff5214b95cea80d1106ba93aa03ad542acf89f72fc21d2d5cf4540c1"
+    },
+    {
+      "path": "story/omake/o_chiru_start.json",
+      "category": "omake",
+      "episode": null,
+      "section": "o_chiru_start",
+      "entry_count": 6,
+      "sha256": "bbcc4203b079af9c0316cbb71c95bce048dcac436b49283636136779f00f5835"
+    },
+    {
+      "path": "story/omake/omake_chiru_menu.json",
+      "category": "omake",
+      "episode": null,
+      "section": "omake_chiru_menu",
+      "entry_count": 4,
+      "sha256": "2ed619c3b78ea46191b344e944235bee2b6c205f1ba3cc55b850f0418c954627"
+    },
+    {
+      "path": "strings/bgm_titles.json",
+      "category": "strings",
+      "episode": null,
+      "section": "bgm_titles",
+      "entry_count": 202,
+      "sha256": "3b3ca3cecffd66eabda5837419b34a12a619a4632e8e562c8036f4718ec76d51"
+    },
+    {
+      "path": "strings/characters.json",
+      "category": "strings",
+      "episode": null,
+      "section": "characters",
+      "entry_count": 519,
+      "sha256": "226d551fb7caa39e1ff0d9990d64b41f69dccc71023e0d40a62ff2b7e22478d4"
+    },
+    {
+      "path": "strings/credits.json",
+      "category": "strings",
+      "episode": null,
+      "section": "credits",
+      "entry_count": 172,
+      "sha256": "e56ff3846662d840d429d9a98ea6ceb542029f2eb3fe8076bfdb3ce7f585e7df"
+    },
+    {
+      "path": "strings/define_system.json",
+      "category": "strings",
+      "episode": null,
+      "section": "define_system",
+      "entry_count": 21,
+      "sha256": "67d9c4f1d7fbe86d6f77623477f8761d371453c2ad8f5d5d26010541699b1fa9"
+    },
+    {
+      "path": "strings/ep8_mystery.json",
+      "category": "strings",
+      "episode": null,
+      "section": "ep8_mystery",
+      "entry_count": 85,
+      "sha256": "c3f67b1aa0478916453a4bb79d11d16bfaf9523b3fced3320d1c6a2c735bfbcd"
+    },
+    {
+      "path": "strings/font_preview.json",
+      "category": "strings",
+      "episode": null,
+      "section": "font_preview",
+      "entry_count": 14,
+      "sha256": "21756b6730e4495d59db11c82496618ba4efe8b02ab7e46dd21af4454c61035c"
+    },
+    {
+      "path": "strings/grimoire_texts.json",
+      "category": "strings",
+      "episode": null,
+      "section": "grimoire_texts",
+      "entry_count": 160,
+      "sha256": "169da5c13cc8875cdf60a4ca444699b3492e11f1a3dce719a2aa1e923134b35b"
+    },
+    {
+      "path": "strings/menu_and_ui.json",
+      "category": "strings",
+      "episode": null,
+      "section": "menu_and_ui",
+      "entry_count": 764,
+      "sha256": "ba3d82530de0f6a877e67767dd5aa6c090aa0e461b23f7efb39b3a101b62759c"
+    },
+    {
+      "path": "strings/tips_texts.json",
+      "category": "strings",
+      "episode": null,
+      "section": "tips_texts",
+      "entry_count": 38,
+      "sha256": "bbc2c9bd37d44628ec86d7d170422b1ef9342333ba1f0c150577cc6be85c771b"
+    },
+    {
+      "path": "strings/tips_titles.json",
+      "category": "strings",
+      "episode": null,
+      "section": "tips_titles",
+      "entry_count": 37,
+      "sha256": "1d4354b00c972a1ff98ec87950b0739b53f5dc9614faf1834fb4fecd38a1014e"
+    },
+    {
+      "path": "strings/trophies.json",
+      "category": "strings",
+      "episode": null,
+      "section": "trophies",
+      "entry_count": 77,
+      "sha256": "0f3e2ff6d2c56b0ac11924e5457f9917ff9d6fdbfd911e6ef5214aff46cd8f6f"
+    }
+  ],
+  "block_files": [
+    {
+      "path": "blocks/00_define_and_start.json",
+      "section": "00_define_and_start",
+      "line_count": 3354,
+      "sha256": "367fd26f40a937903a38ae6a709016f8688b67d0ad6380c6a1c38ccab3a1bbef"
+    },
+    {
+      "path": "blocks/01_story_ep1.json",
+      "section": "01_story_ep1",
+      "line_count": 45561,
+      "sha256": "a0d99e2f916bfd909476b87e99cb6bb900bb6bf9e764ed88e574f74aa1e68475"
+    },
+    {
+      "path": "blocks/02_story_ep2.json",
+      "section": "02_story_ep2",
+      "line_count": 53001,
+      "sha256": "2b3f6f5b12cc53fadffde7c3793e93f200cf9d3ae7cd081e1728b1ab70093b09"
+    },
+    {
+      "path": "blocks/03_story_ep3.json",
+      "section": "03_story_ep3",
+      "line_count": 67007,
+      "sha256": "b192b929eb8dffa7bdc5d1de85f760d244ebe41d064cc1cb84b08a58aab4c7e8"
+    },
+    {
+      "path": "blocks/04_story_ep4.json",
+      "section": "04_story_ep4",
+      "line_count": 78291,
+      "sha256": "d31ce0d303c1c3e123f78e48719b56d9f5ac10854a079dbf9ef007d7828ef974"
+    },
+    {
+      "path": "blocks/05_story_ep5.json",
+      "section": "05_story_ep5",
+      "line_count": 71017,
+      "sha256": "592e90a96481d718b3f1a572a98c1c221d1707cff256330b2da9ccdc8ca1d341"
+    },
+    {
+      "path": "blocks/06_story_ep6.json",
+      "section": "06_story_ep6",
+      "line_count": 77453,
+      "sha256": "97e858d6703992ae262babd9ed658ff06ea682765902898eb6a68fcac822387e"
+    },
+    {
+      "path": "blocks/07_story_ep7.json",
+      "section": "07_story_ep7",
+      "line_count": 61117,
+      "sha256": "be0ed5fda88fc76d1ab27ff987b5677bf4bfe540abddd044eb099e092b75573f"
+    },
+    {
+      "path": "blocks/08_story_ep8.json",
+      "section": "08_story_ep8",
+      "line_count": 80336,
+      "sha256": "1d76a4f9568c8d6ec7a2d62e3a328e319545f2a6578ce3d814ab6830b6a6d5d8"
+    },
+    {
+      "path": "blocks/09_story_omake.json",
+      "section": "09_story_omake",
+      "line_count": 5717,
+      "sha256": "b3ba3ecec3a02061b269e47674ac709ec1a727cd4a1223312f8fd65a0169c075"
+    },
+    {
+      "path": "blocks/10_post_story.json",
+      "section": "10_post_story",
+      "line_count": 42194,
+      "sha256": "dd2ef2e2e27e33f2f2c077264cef9adaf66b3cda0a688ab1c74f737e4a5e41a6"
+    }
+  ]
+}

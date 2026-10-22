@@ -45,7 +45,7 @@
 # =============================================================================
 # Extracted Translation Data, Rebuilt Outputs, Reports & Backups
 # =============================================================================
-/translation/
+/translation/raw/
 /translation-*/
 /extracted/
 /extracted-*/
@@ -54,10 +54,10 @@
 /rebuilt/
 /backups/
 /dumps/
-/reports/
 /logs/
 *.log
 *report*.json
+!/translation/report.json
 
 # =============================================================================
 # Python / Tooling / OS Caches & Virtual Environments

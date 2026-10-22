@@ -1,0 +1,2923 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.omake.o8_0",
+  "category": "omake",
+  "rel_path": "story/omake/o8_0.json",
+  "episode": null,
+  "section": "o8_0",
+  "chapter": "o8_0",
+  "description": "Omake / bonus script chapter 'o8_0'.",
+  "entry_count": 66,
+  "entries": [
+    {
+      "id": "omake.o8_0.o8_1",
+      "kind": "dialogue",
+      "line_number": 541692,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_1",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "The tales up until now...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "......one after another...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "......after another.........",
+          "inline_tags": []
+        }
+      ],
+      "text": "The tales up until now... ......one after another... ......after another.........",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_2",
+      "kind": "dialogue",
+      "line_number": 541704,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_2",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Vergilius guided Dante to Mount Purgatory,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ......and led him to Beatrice, the eternal lady who waited at the top.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Vergilius guided Dante to Mount Purgatory,  ......and led him to Beatrice, the eternal lady who waited at the top.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_3",
+      "kind": "dialogue",
+      "line_number": 541714,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_3",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Therefore,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " .........the innermost depths lay not at the bottom,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " .........but at the peak of Mount Purgatory.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Therefore,  .........the innermost depths lay not at the bottom,  .........but at the peak of Mount Purgatory.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_4",
+      "kind": "dialogue",
+      "line_number": 541726,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_4",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "The eternal lady...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "...had been waiting there for Dante...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "...the whole time......",
+          "inline_tags": []
+        }
+      ],
+      "text": "The eternal lady... ...had been waiting there for Dante... ...the whole time......",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_5",
+      "kind": "dialogue",
+      "line_number": 541741,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_5",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][#][text_speed_t -222][text_fade_t 833]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{a:c:And then.........I knew.}",
+          "inline_tags": [
+            "{a:c:And then.........I knew.}"
+          ]
+        }
+      ],
+      "text": "{a:c:And then.........I knew.}",
+      "inline_tags": [
+        "{a:c:And then.........I knew.}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_6",
+      "kind": "dialogue",
+      "line_number": 541842,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_6",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "......I finally...reached the truth.........",
+          "inline_tags": []
+        }
+      ],
+      "text": "......I finally...reached the truth.........",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_7",
+      "kind": "dialogue",
+      "line_number": 541849,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_7",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": ".........In the depths, ...no,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " .........at the peak...of Mount Purgatory...............",
+          "inline_tags": []
+        }
+      ],
+      "text": ".........In the depths, ...no,  .........at the peak...of Mount Purgatory...............",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_8",
+      "kind": "dialogue",
+      "line_number": 541865,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_8",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "............Idiot............",
+          "inline_tags": []
+        }
+      ],
+      "text": "............Idiot............",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_9",
+      "kind": "dialogue",
+      "line_number": 541871,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_9",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "......You...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "......really are...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "...an idiot......",
+          "inline_tags": []
+        }
+      ],
+      "text": "......You... ......really are... ...an idiot......",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_10",
+      "kind": "dialogue",
+      "line_number": 541889,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_10",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101369",
+        "10/50101370",
+        "10/50101371"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101369\"][ak][text_speed_t 5]",
+        "[#][*][|][lv 0*\"10\"*\"50101370\"]",
+        "[#][*][|][lv 0*\"10\"*\"50101371\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...Ah,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ......gwah...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": ".........that hurts.........\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...Ah,  ......gwah... .........that hurts.........\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_11",
+      "kind": "dialogue",
+      "line_number": 541906,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_11",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "He woke from the sleep of death,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ......and bit by bit......his sense of pain came back to him......",
+          "inline_tags": []
+        }
+      ],
+      "text": "He woke from the sleep of death,  ......and bit by bit......his sense of pain came back to him......",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_12",
+      "kind": "dialogue",
+      "line_number": 541915,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_12",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "As Battler hung there pierced by the longsword, his head still tilted towards the heavens,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ......life gradually returned to his face...through an expression of suffering......",
+          "inline_tags": []
+        }
+      ],
+      "text": "As Battler hung there pierced by the longsword, his head still tilted towards the heavens,  ......life gradually returned to his face...through an expression of suffering......",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_13",
+      "kind": "dialogue",
+      "line_number": 541930,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_13",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101372",
+        "10/50101373",
+        "10/50101374",
+        "10/50101375"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101372\"][ak][text_speed_t 5]",
+        "[#][*][|][lv 0*\"10\"*\"50101373\"]",
+        "[#][*][|][lv 0*\"10\"*\"50101374\"]",
+        "[#][*][lv 0*\"10\"*\"50101375\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"You...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "......really are...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "...an idiot......",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ......A huge idiot.........\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"You... ......really are... ...an idiot......  ......A huge idiot.........\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_14",
+      "kind": "dialogue",
+      "line_number": 541946,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_14",
+      "speaker": "but",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Battler...noticed.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Battler...noticed.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_15",
+      "kind": "dialogue",
+      "line_number": 541957,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_15",
+      "speaker": "but",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "......The whole time,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " .........Beato had been snuggling up against him......sleeping.",
+          "inline_tags": []
+        }
+      ],
+      "text": "......The whole time,  .........Beato had been snuggling up against him......sleeping.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_16",
+      "kind": "dialogue",
+      "line_number": 541966,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_16",
+      "speaker": "but",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "And when he held her,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " .........he found...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "......that it was not Beato...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": "......but her crumbling...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": "...remains.",
+          "inline_tags": []
+        }
+      ],
+      "text": "And when he held her,  .........he found... ......that it was not Beato... ......but her crumbling... ...remains.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_17",
+      "kind": "dialogue",
+      "line_number": 541996,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_17",
+      "speaker": "but",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "And because her form was as fragile as ash,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " when Battler tried to hold it,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " .........just like a sand castle made on a beach...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": "...being washed away by a small wave,",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " ......it fell apart and lost its form......",
+          "inline_tags": []
+        }
+      ],
+      "text": "And because her form was as fragile as ash,  when Battler tried to hold it,  .........just like a sand castle made on a beach... ...being washed away by a small wave,  ......it fell apart and lost its form......",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_18",
+      "kind": "dialogue",
+      "line_number": 542018,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_18",
+      "speaker": "but",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "At Battler's feet......lay nothing but the ragged remnants of Beato's dress......and a pile of ash.",
+          "inline_tags": []
+        }
+      ],
+      "text": "At Battler's feet......lay nothing but the ragged remnants of Beato's dress......and a pile of ash.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_19",
+      "kind": "dialogue",
+      "line_number": 542024,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_19",
+      "speaker": "but",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "No, ......on top of that pile of ash......he could see something sparkling gold.",
+          "inline_tags": []
+        }
+      ],
+      "text": "No, ......on top of that pile of ash......he could see something sparkling gold.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_20",
+      "kind": "dialogue",
+      "line_number": 542030,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_20",
+      "speaker": "but",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "......It was...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": ".........the husk...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "...of a single gold butterfly...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": "...which had been torn to bits......",
+          "inline_tags": []
+        }
+      ],
+      "text": "......It was... .........the husk... ...of a single gold butterfly... ...which had been torn to bits......",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_21",
+      "kind": "dialogue",
+      "line_number": 542049,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_21",
+      "speaker": "but",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "And so, .........Battler...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "knew......",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "{n}I......did reach the truth...",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "And so, .........Battler... knew...... {n}I......did reach the truth...",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_22",
+      "kind": "dialogue",
+      "line_number": 542061,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_22",
+      "speaker": "but",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "......But......I wasn't able to do it...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "......while Beato...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "......still remained in this world............",
+          "inline_tags": []
+        }
+      ],
+      "text": "......But......I wasn't able to do it... ......while Beato... ......still remained in this world............",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_23",
+      "kind": "dialogue",
+      "line_number": 542082,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_23",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101376",
+        "10/50101377",
+        "10/50101378",
+        "10/50101379"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101376\"][ak][text_speed_t 5]",
+        "[#][*][|][lv 0*\"10\"*\"50101377\"]",
+        "[#][*][|][lv 0*\"10\"*\"50101378\"]",
+        "[#][*][|][lv 0*\"10\"*\"50101379\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"......Beato......",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "......you...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "......really are...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": "......an idiot......\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"......Beato...... ......you... ......really are... ......an idiot......\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_24",
+      "kind": "dialogue",
+      "line_number": 542098,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_24",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101380",
+        "10/50101381",
+        "10/50101382"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101380\"][ak][text_speed_t 5]",
+        "[#][*][lv 0*\"10\"*\"50101381\"]",
+        "[#][*][|][lv 0*\"10\"*\"50101382\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "I finally reached the truth...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "...of this ridiculous riddle...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "...you created......",
+          "inline_tags": []
+        }
+      ],
+      "text": "I finally reached the truth... ...of this ridiculous riddle... ...you created......",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_25",
+      "kind": "dialogue",
+      "line_number": 542110,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_25",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101383",
+        "10/50101384"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101383\"][ak][text_speed_t 5]",
+        "[#][*][|][lv 0*\"10\"*\"50101384\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "......Just...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "...like you wanted......!",
+          "inline_tags": []
+        }
+      ],
+      "text": "......Just... ...like you wanted......!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_26",
+      "kind": "dialogue",
+      "line_number": 542119,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_26",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101385",
+        "10/50101386",
+        "10/50101387"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101385\"][ak][text_speed_t 5]",
+        "[#][*][|][lv 0*\"10\"*\"50101386\"]",
+        "[#][*][|][lv 0*\"10\"*\"50101387\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "I didn't lose heart...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "...and I finally...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "...made it all the way to the end.........",
+          "inline_tags": []
+        }
+      ],
+      "text": "I didn't lose heart... ...and I finally... ...made it all the way to the end.........",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_27",
+      "kind": "dialogue",
+      "line_number": 542139,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_27",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101388",
+        "10/50101389",
+        "10/50101390",
+        "10/50101391",
+        "10/50101392"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101388\"][ak][text_speed_t 5]",
+        "[#][*][lv 0*\"10\"*\"50101389\"]",
+        "[#][*][|][lv 0*\"10\"*\"50101390\"]",
+        "[#][*]",
+        "[|][lv 0*\"10\"*\"50101391\"]",
+        "[#][*]",
+        "[|][lv 0*\"10\"*\"50101392\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "So why...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "......did you lose heart...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": ".........without waiting for me......?",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 4,
+          "text": "......You believed so strongly, didn't you......?",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 6,
+          "text": " That I'd......definitely reach the truth......",
+          "inline_tags": []
+        }
+      ],
+      "text": "So why... ......did you lose heart... .........without waiting for me......? {n} ......You believed so strongly, didn't you......? {n}  That I'd......definitely reach the truth......",
+      "inline_tags": [
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_28",
+      "kind": "dialogue",
+      "line_number": 542161,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_28",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101393"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101393\"][ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "So, .........why.........?",
+          "inline_tags": []
+        }
+      ],
+      "text": "So, .........why.........?",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_29",
+      "kind": "dialogue",
+      "line_number": 542167,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_29",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101394",
+        "10/50101395",
+        "10/50101396"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101394\"][ak][text_speed_t 5]",
+        "[#][*][|][lv 0*\"10\"*\"50101395\"]",
+        "[#][*][|][lv 0*\"10\"*\"50101396\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Why...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "............couldn't you believe with me...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": ".........and wait............?",
+          "inline_tags": []
+        }
+      ],
+      "text": "Why... ............couldn't you believe with me... .........and wait............?",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_30",
+      "kind": "dialogue",
+      "line_number": 542179,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_30",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101397"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101397\"][ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "It wasn't you who was forcing an endless torture on someone.",
+          "inline_tags": []
+        }
+      ],
+      "text": "It wasn't you who was forcing an endless torture on someone.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_31",
+      "kind": "dialogue",
+      "line_number": 542190,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_31",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101398",
+        "10/50101399"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101398\"][ak][text_speed_t 5]",
+        "[#][*][lv 0*\"10\"*\"50101399\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "It was me...!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " I've been the one putting you through a cruel torture...!",
+          "inline_tags": []
+        }
+      ],
+      "text": "It was me...!  I've been the one putting you through a cruel torture...!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_32",
+      "kind": "dialogue",
+      "line_number": 542199,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_32",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101400",
+        "10/50101401",
+        "10/50101402",
+        "10/50101403"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101400\"][ak][text_speed_t 5]",
+        "[#][*]",
+        "[|][lv 0*\"10\"*\"50101401\"]",
+        "[#][*][lv 0*\"10\"*\"50101402\"]",
+        "[#][*][lv 0*\"10\"*\"50101403\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "You resisted until the very end and kept on appealing to me......",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " ........And now...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": "...even though I finally...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": "......reached the truth...",
+          "inline_tags": []
+        }
+      ],
+      "text": "You resisted until the very end and kept on appealing to me...... {n}  ........And now... ...even though I finally... ......reached the truth...",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_33",
+      "kind": "dialogue",
+      "line_number": 542214,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_33",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101404",
+        "10/50101405",
+        "10/50101406"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101404\"][ak][text_speed_t 5]",
+        "[#][*][lv 0*\"10\"*\"50101405\"]",
+        "[#][*][lv 0*\"10\"*\"50101406\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "You...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "......couldn't wait any longer...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "......and it's all too late.........",
+          "inline_tags": []
+        }
+      ],
+      "text": "You... ......couldn't wait any longer... ......and it's all too late.........",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_34",
+      "kind": "dialogue",
+      "line_number": 542230,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_34",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101407",
+        "10/50101408",
+        "10/50101409",
+        "10/50101410"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101407\"][ak][text_speed_t 5]",
+        "[#][*][|][lv 0*\"10\"*\"50101408\"]",
+        "[#][*][lv 0*\"10\"*\"50101409\"]",
+        "[#][*][|][lv 0*\"10\"*\"50101410\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Y-.........",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "...............you idiooooot.........",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ......Why......did you give in...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": "......before meeeeeee...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Y-......... ...............you idiooooot.........  ......Why......did you give in... ......before meeeeeee...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_35",
+      "kind": "dialogue",
+      "line_number": 542251,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_35",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "It's my......fault......",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " I forced her to endure this torture.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "{n}In fact, I'm amazed she endured for so long......",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "It's my......fault......  I forced her to endure this torture. {n}In fact, I'm amazed she endured for so long......",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_36",
+      "kind": "dialogue",
+      "line_number": 542263,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_36",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "She kept on appealing to me, over and over and over again,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " .........and because I was so incompetent......I couldn't even begin to understand the truth.",
+          "inline_tags": []
+        }
+      ],
+      "text": "She kept on appealing to me, over and over and over again,  .........and because I was so incompetent......I couldn't even begin to understand the truth.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_37",
+      "kind": "dialogue",
+      "line_number": 542281,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_37",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101411",
+        "10/50101412",
+        "10/50101413",
+        "10/50101414",
+        "10/50101415",
+        "10/50101416",
+        "10/50101417",
+        "10/50101418",
+        "10/50101419"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101411\"][ak][text_speed_t 5]",
+        "[#][*][|][lv 0*\"10\"*\"50101412\"]",
+        "[#][*][lv 0*\"10\"*\"50101413\"]",
+        "[#][*][|][lv 0*\"10\"*\"50101414\"]",
+        "[#][*][lv 0*\"10\"*\"50101415\"]",
+        "[#][*][|][lv 0*\"10\"*\"50101416\"]",
+        "[#][*][|][lv 0*\"10\"*\"50101417\"]",
+        "[#][*][lv 0*\"10\"*\"50101418\"]",
+        "[#][*][lv 0*\"10\"*\"50101419\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Idiot......",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "......idiot.........",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ......Your riddles...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": "...were too damn twisted......!!",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " ......Why couldn't...",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": "...you say it...",
+          "inline_tags": []
+        },
+        {
+          "index": 6,
+          "text": ".........more simply......?",
+          "inline_tags": []
+        },
+        {
+          "index": 7,
+          "text": " ...You foo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ool!!",
+          "inline_tags": [
+            "{-}",
+            "{-}",
+            "{-}",
+            "{-}",
+            "{-}",
+            "{-}",
+            "{-}",
+            "{-}",
+            "{-}",
+            "{-}",
+            "{-}",
+            "{-}",
+            "{-}",
+            "{-}",
+            "{-}"
+          ]
+        },
+        {
+          "index": 8,
+          "text": " Aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}agg{0}gh{0}h{0}hhh!!\"",
+          "inline_tags": [
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}"
+          ]
+        }
+      ],
+      "text": "\"Idiot...... ......idiot.........  ......Your riddles... ...were too damn twisted......!!  ......Why couldn't... ...you say it... .........more simply......?  ...You foo{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}o{-}ool!!  Aaa{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}a{0}agg{0}gh{0}h{0}hhh!!\"",
+      "inline_tags": [
+        "{-}",
+        "{-}",
+        "{-}",
+        "{-}",
+        "{-}",
+        "{-}",
+        "{-}",
+        "{-}",
+        "{-}",
+        "{-}",
+        "{-}",
+        "{-}",
+        "{-}",
+        "{-}",
+        "{-}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_38",
+      "kind": "dialogue",
+      "line_number": 542328,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_38",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "His scream of pain...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "...filled...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "......this cathedral of sorrow...",
+          "inline_tags": []
+        }
+      ],
+      "text": "His scream of pain... ...filled... ......this cathedral of sorrow...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_39",
+      "kind": "dialogue",
+      "line_number": 542340,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_39",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "The sad witch who wasn't able to let Battler know of the truth.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}The sad man who wasn't able to understand the witch's truth.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "The sad witch who wasn't able to let Battler know of the truth. {n}The sad man who wasn't able to understand the witch's truth.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_40",
+      "kind": "dialogue",
+      "line_number": 542349,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_40",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Battler howled in anger and sadness for both of them......",
+          "inline_tags": []
+        }
+      ],
+      "text": "Battler howled in anger and sadness for both of them......",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_40_1",
+      "kind": "dialogue",
+      "line_number": 542360,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_40_1",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "The clock hung in the cathedral showed that it was midnight on October 5th, 1986.",
+          "inline_tags": []
+        }
+      ],
+      "text": "The clock hung in the cathedral showed that it was midnight on October 5th, 1986.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_41",
+      "kind": "dialogue",
+      "line_number": 542366,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_41",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Time was up...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "......for everything.........",
+          "inline_tags": []
+        }
+      ],
+      "text": "Time was up... ......for everything.........",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_42",
+      "kind": "dialogue",
+      "line_number": 542375,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_42",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "If you're going to create a riddle as hard as this and be so proud of it,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ...don't go and set a goddamned time limit on it......",
+          "inline_tags": []
+        }
+      ],
+      "text": "If you're going to create a riddle as hard as this and be so proud of it,  ...don't go and set a goddamned time limit on it......",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_43",
+      "kind": "dialogue",
+      "line_number": 542388,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_43",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101420",
+        "10/50101421",
+        "10/50101422",
+        "10/50101423",
+        "10/50101424",
+        "10/50101425"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101420\"][ak][text_speed_t 5]",
+        "[#][*][|][lv 0*\"10\"*\"50101421\"]",
+        "[#][*][lv 0*\"10\"*\"50101422\"]",
+        "[#][*][|][lv 0*\"10\"*\"50101423\"]",
+        "[#][*][lv 0*\"10\"*\"50101424\"]",
+        "[#][*][|][lv 0*\"10\"*\"50101425\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\".........No,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ......I understand......",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Even though there was such a faint chance of that miracle happening,",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " .........you prayed for it to happen......",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " ......You're...",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": "......just like Grandfather.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\".........No,  ......I understand......  Even though there was such a faint chance of that miracle happening,  .........you prayed for it to happen......  ......You're... ......just like Grandfather.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_44",
+      "kind": "dialogue",
+      "line_number": 542410,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_44",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "You prayed for and bet on the power of a miracle...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "......one so unlikely that it was totally impossible, less likely than finding a bead you've dropped on a sandy beach.........",
+          "inline_tags": []
+        }
+      ],
+      "text": "You prayed for and bet on the power of a miracle... ......one so unlikely that it was totally impossible, less likely than finding a bead you've dropped on a sandy beach.........",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_45",
+      "kind": "dialogue",
+      "line_number": 542419,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_45",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "And because you did...I {i:have} now arrived at that miracle.",
+          "inline_tags": [
+            "{i:have}"
+          ]
+        }
+      ],
+      "text": "And because you did...I {i:have} now arrived at that miracle.",
+      "inline_tags": [
+        "{i:have}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_46",
+      "kind": "dialogue",
+      "line_number": 542425,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_46",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "But......your time...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "...didn't last long enough............",
+          "inline_tags": []
+        }
+      ],
+      "text": "But......your time... ...didn't last long enough............",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_47",
+      "kind": "dialogue",
+      "line_number": 542434,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_47",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "If I had reached this point even a little sooner...",
+          "inline_tags": []
+        }
+      ],
+      "text": "If I had reached this point even a little sooner...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_48",
+      "kind": "dialogue",
+      "line_number": 542440,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_48",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "If I could have {y:1:‘seen’}{n:1:seen} the truth......!!",
+          "inline_tags": [
+            "{y:1:‘seen’}",
+            "{n:1:seen}"
+          ]
+        }
+      ],
+      "text": "If I could have {y:1:‘seen’}{n:1:seen} the truth......!!",
+      "inline_tags": [
+        "{y:1:‘seen’}",
+        "{n:1:seen}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_49",
+      "kind": "dialogue",
+      "line_number": 542446,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_49",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Even if it had been right before time was up,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " .........I might...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "......have been able to save you...!!",
+          "inline_tags": []
+        }
+      ],
+      "text": "Even if it had been right before time was up,  .........I might... ......have been able to save you...!!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_50",
+      "kind": "dialogue",
+      "line_number": 542462,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_50",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "But now, ......I've been run through pathetically,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ......and I can't......even hold what remains of you......!",
+          "inline_tags": []
+        }
+      ],
+      "text": "But now, ......I've been run through pathetically,  ......and I can't......even hold what remains of you......!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_51",
+      "kind": "dialogue",
+      "line_number": 542471,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_51",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "......I struggled, attempting to pull the longsword out,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ......or at least touch her remains by stretching out my arms......but neither worked.",
+          "inline_tags": []
+        }
+      ],
+      "text": "......I struggled, attempting to pull the longsword out,  ......or at least touch her remains by stretching out my arms......but neither worked.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_52",
+      "kind": "dialogue",
+      "line_number": 542489,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_52",
+      "speaker": "but",
+      "voice_files": [
+        "10/50101426",
+        "10/50101427"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"50101426\"][ak][text_speed_t 5]",
+        "[#][*][|][lv 0*\"10\"*\"50101427\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"......Shiiiiiit......",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "dammiiiiiiiiiittt.........!!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"......Shiiiiiit...... dammiiiiiiiiiittt.........!!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_53",
+      "kind": "dialogue",
+      "line_number": 542511,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_53",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": ".........At that time, I noticed a golden glint on the palm of my hand.",
+          "inline_tags": []
+        }
+      ],
+      "text": ".........At that time, I noticed a golden glint on the palm of my hand.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_54",
+      "kind": "dialogue",
+      "line_number": 542521,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_54",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "It was............a single wing from a gold butterfly.",
+          "inline_tags": []
+        }
+      ],
+      "text": "It was............a single wing from a gold butterfly.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_55",
+      "kind": "dialogue",
+      "line_number": 542527,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_55",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "That small fragment of gold...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "......was the only piece of Beato...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "...that I was permitted to touch.........",
+          "inline_tags": []
+        }
+      ],
+      "text": "That small fragment of gold... ......was the only piece of Beato... ...that I was permitted to touch.........",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_56",
+      "kind": "dialogue",
+      "line_number": 542539,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_56",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "I cried with all my strength, .........gripped that fragment...and pressed it against my head, apologizing.",
+          "inline_tags": []
+        }
+      ],
+      "text": "I cried with all my strength, .........gripped that fragment...and pressed it against my head, apologizing.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_57",
+      "kind": "dialogue",
+      "line_number": 542545,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_57",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "......Why couldn't I reach the truth earlier......?",
+          "inline_tags": []
+        }
+      ],
+      "text": "......Why couldn't I reach the truth earlier......?",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_58",
+      "kind": "dialogue",
+      "line_number": 542551,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_58",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Then I pressed it to my chest,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ............promising that even though things had come to this,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ......I would never again...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": "...lose...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": "...the truth......",
+          "inline_tags": []
+        }
+      ],
+      "text": "Then I pressed it to my chest,  ............promising that even though things had come to this,  ......I would never again... ...lose... ...the truth......",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_59",
+      "kind": "dialogue",
+      "line_number": 542569,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_59",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "When I pressed my hand against my chest, ......the sword piercing my chest cut my wrist, and blood dribbled out.",
+          "inline_tags": []
+        }
+      ],
+      "text": "When I pressed my hand against my chest, ......the sword piercing my chest cut my wrist, and blood dribbled out.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_60",
+      "kind": "dialogue",
+      "line_number": 542580,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_60",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "That blood spread throughout my fist...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "......and it must have...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "...soaked that gold fragment with my red blood.",
+          "inline_tags": []
+        }
+      ],
+      "text": "That blood spread throughout my fist... ......and it must have... ...soaked that gold fragment with my red blood.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_61",
+      "kind": "dialogue",
+      "line_number": 542592,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_61",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "It must have been......the only way of telling her...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "...that I'd found the truth she had wanted to tell me......",
+          "inline_tags": []
+        }
+      ],
+      "text": "It must have been......the only way of telling her... ...that I'd found the truth she had wanted to tell me......",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_62",
+      "kind": "dialogue",
+      "line_number": 542606,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_62",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "I clutched the wing of the gold butterfly...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "...with my freshly bleeding hand...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "......and pressed it against the red sword that impaled me......",
+          "inline_tags": []
+        }
+      ],
+      "text": "I clutched the wing of the gold butterfly... ...with my freshly bleeding hand... ......and pressed it against the red sword that impaled me......",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_63",
+      "kind": "dialogue",
+      "line_number": 542623,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_63",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "In this moment,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ......Ushiromiya Battler...knew.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " And understood.",
+          "inline_tags": []
+        }
+      ],
+      "text": "In this moment,  ......Ushiromiya Battler...knew.  And understood.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_64",
+      "kind": "dialogue",
+      "line_number": 542635,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_64",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "......He had arrived...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "......at the entirety...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "...of this tale......",
+          "inline_tags": []
+        }
+      ],
+      "text": "......He had arrived... ......at the entirety... ...of this tale......",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o8_0.o8_65",
+      "kind": "dialogue",
+      "line_number": 542651,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o8_0",
+      "label": "*o8_65",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "At that moment, ......it seemed as though a faint golden light...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "...leaked out of the gaps in his clenched fist.",
+          "inline_tags": []
+        }
+      ],
+      "text": "At that moment, ......it seemed as though a faint golden light... ...leaked out of the gaps in his clenched fist.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

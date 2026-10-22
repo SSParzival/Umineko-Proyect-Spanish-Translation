@@ -1,0 +1,1355 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.omake.o2_0",
+  "category": "omake",
+  "rel_path": "story/omake/o2_0.json",
+  "episode": null,
+  "section": "o2_0",
+  "chapter": "o2_0",
+  "description": "Omake / bonus script chapter 'o2_0'.",
+  "entry_count": 37,
+  "entries": [
+    {
+      "id": "omake.o2_0.o2_1",
+      "kind": "dialogue",
+      "line_number": 537372,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_1",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "De ninguna manera pienso volver a venir a un lugar como este.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Kanon suspiró por centésima vez.",
+          "inline_tags": []
+        }
+      ],
+      "text": "De ninguna manera pienso volver a venir a un lugar como este.  Kanon suspiró por centésima vez.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_2",
+      "kind": "dialogue",
+      "line_number": 537385,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_2",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Cuando lo hizo, la iluminación cambió y el público de pie empezó a aplaudir.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Cuando lo hizo, la iluminación cambió y el público de pie empezó a aplaudir.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_3",
+      "kind": "dialogue",
+      "line_number": 537387,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_3",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Mirando a mi alrededor, me di cuenta de que de repente había un gran número de personas aquí.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Y a diferencia de antes, todos eran hombres.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Mirando a mi alrededor, me di cuenta de que de repente había un gran número de personas aquí. {n}Y a diferencia de antes, todos eran hombres.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_4",
+      "kind": "dialogue",
+      "line_number": 537389,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_4",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Con esta gran multitud, ni siquiera podía ver el escenario.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Afortunadamente, había una caja de cerveza cerca, así que intenté usarla como plataforma.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Con esta gran multitud, ni siquiera podía ver el escenario.  Afortunadamente, había una caja de cerveza cerca, así que intenté usarla como plataforma.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_5",
+      "kind": "dialogue",
+      "line_number": 537391,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_5",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y me di cuenta de que ahora había un nuevo grupo en el escenario.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Y me di cuenta de que ahora había un nuevo grupo en el escenario.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_6",
+      "kind": "dialogue",
+      "line_number": 537398,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_6",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La líder era la señorita.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Se había cambiado de ropa, e incluso llevaba una guitarra.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " No tenía idea de que ella podía tocar.",
+          "inline_tags": []
+        }
+      ],
+      "text": "La líder era la señorita.  Se había cambiado de ropa, e incluso llevaba una guitarra.  No tenía idea de que ella podía tocar.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_7",
+      "kind": "dialogue",
+      "line_number": 537400,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_7",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "No, tal vez ella podía.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}La he visto practicando con una guitarra de aire antes.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "No, tal vez ella podía. {n}La he visto practicando con una guitarra de aire antes.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_8",
+      "kind": "dialogue",
+      "line_number": 537402,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_8",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Natsuhi-sama no aprobaría ninguna afición fuera del estudio.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Natsuhi-sama no aprobaría ninguna afición fuera del estudio.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_9",
+      "kind": "dialogue",
+      "line_number": 537404,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_9",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Tal vez ella siempre estuvo practicando en secreto.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Tal vez ella siempre estuvo practicando en secreto.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_10",
+      "kind": "dialogue",
+      "line_number": 537406,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_10",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ahora que lo pienso, últimamente ella vuelve muy tarde de la escuela.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Ahora que lo pienso, últimamente ella vuelve muy tarde de la escuela.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_11",
+      "kind": "dialogue",
+      "line_number": 537408,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_11",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Tal vez ha estado practicando en la escuela, lejos de los ojos entrometidos de Natsuhi-sama.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Tal vez ha estado practicando en la escuela, lejos de los ojos entrometidos de Natsuhi-sama.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_12",
+      "kind": "dialogue",
+      "line_number": 537410,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_12",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En verdad, sí que fue lo mejor que Natsuhi-sama no viniera.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Si la señorita fuese regañada por Natsuhi-sama después de dedicar tantas horas de práctica, probablemente se sentiría muy abatida...",
+          "inline_tags": []
+        }
+      ],
+      "text": "En verdad, sí que fue lo mejor que Natsuhi-sama no viniera.  Si la señorita fuese regañada por Natsuhi-sama después de dedicar tantas horas de práctica, probablemente se sentiría muy abatida...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_13",
+      "kind": "dialogue",
+      "line_number": 537412,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_13",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/awase0010"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"awase0010\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"\"\"¡¡Jessie‐samaaaaaaaaaaaaaaa!!\"\"\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"\"\"¡¡Jessie‐samaaaaaaaaaaaaaaa!!\"\"\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_14",
+      "kind": "dialogue",
+      "line_number": 537432,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_14",
+      "speaker": "jes",
+      "voice_files": [
+        "04/20200204"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"04\"*\"20200204\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Gracias a todos por venir aquí el día de hoooyyyyyyyy!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Gracias a todos por venir aquí el día de hoooyyyyyyyy!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_15",
+      "kind": "dialogue",
+      "line_number": 537435,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_15",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Pude escuchar la contundente voz de Jessica-sama a través de los altavoces.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Pude escuchar la contundente voz de Jessica-sama a través de los altavoces.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_16",
+      "kind": "dialogue",
+      "line_number": 537442,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_16",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿Jessie‐sama?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Tal vez ese es su apodo en la escuela.",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿Jessie‐sama?  Tal vez ese es su apodo en la escuela.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_17",
+      "kind": "dialogue",
+      "line_number": 537444,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_17",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Los estudiantes en el público no paraban de gritar ese nombre.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Me molestó un poco ese apodo, ya que era inapropiado para la señorita.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Los estudiantes en el público no paraban de gritar ese nombre. {n}Me molestó un poco ese apodo, ya que era inapropiado para la señorita.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_18",
+      "kind": "dialogue",
+      "line_number": 537446,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_18",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Jessica-sama estaba de muy buen humor mientras la llamaban Jessie-sama.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Jessica-sama estaba de muy buen humor mientras la llamaban Jessie-sama.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_19",
+      "kind": "dialogue",
+      "line_number": 537448,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_19",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Probablemente todos ellos eran sus fans.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Con su presentación ante el micrófono, respondió a sus fans animando todo el lugar.",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}Era casi como un programa de canciones en la televisión.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Probablemente todos ellos eran sus fans. {n}Con su presentación ante el micrófono, respondió a sus fans animando todo el lugar. {n}Era casi como un programa de canciones en la televisión.",
+      "inline_tags": [
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_20",
+      "kind": "dialogue",
+      "line_number": 537450,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_20",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Al principio había pensado que todo esto era una frivolidad, pero ese sentimiento se ha transformado en aprecio. Esto era bastante increíble a su manera.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Al principio había pensado que todo esto era una frivolidad, pero ese sentimiento se ha transformado en aprecio. Esto era bastante increíble a su manera.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_21",
+      "kind": "dialogue",
+      "line_number": 537457,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_21",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Kanon nunca había escuchado música por voluntad propia, pero a menudo escuchaba el tipo de música que le gustaba a los miembros de la familia Ushiromiya.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Kanon nunca había escuchado música por voluntad propia, pero a menudo escuchaba el tipo de música que le gustaba a los miembros de la familia Ushiromiya.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_22",
+      "kind": "dialogue",
+      "line_number": 537459,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_22",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Como eso era casi todo música clásica, naturalmente a Kanon le había empezado a gustar la música clásica también.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Como eso era casi todo música clásica, naturalmente a Kanon le había empezado a gustar la música clásica también.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_23",
+      "kind": "dialogue",
+      "line_number": 537461,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_23",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Así que para Kanon, las canciones que Jessica y los demás cantaban eran, cómo decirlo,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " muy modernas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Así que para Kanon, las canciones que Jessica y los demás cantaban eran, cómo decirlo,  muy modernas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_24",
+      "kind": "dialogue",
+      "line_number": 537463,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_24",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En cualquier caso, él pensó que si Natsuhi-sama la escuchara, probablemente se desmayaría.",
+          "inline_tags": []
+        }
+      ],
+      "text": "En cualquier caso, él pensó que si Natsuhi-sama la escuchara, probablemente se desmayaría.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_25",
+      "kind": "dialogue",
+      "line_number": 537480,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_25",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Pero todo el mundo parecía estar pasándoselo muy bien.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Pero todo el mundo parecía estar pasándoselo muy bien.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_26",
+      "kind": "dialogue",
+      "line_number": 537482,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_26",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Los fans más acérrimos, que incluso habían traído varas luminosas, cantaron al unísono,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " bailando enloquecidamente con los mismos movimientos, casi como si hubiera sido planeado de antemano.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Los fans más acérrimos, que incluso habían traído varas luminosas, cantaron al unísono,  bailando enloquecidamente con los mismos movimientos, casi como si hubiera sido planeado de antemano.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_27",
+      "kind": "dialogue",
+      "line_number": 537484,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_27",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En el escenario, Jessica-sama también cantó con entusiasmo, derramando sudor.",
+          "inline_tags": []
+        }
+      ],
+      "text": "En el escenario, Jessica-sama también cantó con entusiasmo, derramando sudor.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_28",
+      "kind": "dialogue",
+      "line_number": 537486,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_28",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[!w417]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Él no pudo encontrar un solo elemento que fuese apropiado para una hija de la familia Ushiromiya,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " pero parecía que ella se estaba divirtiendo mucho.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Él no pudo encontrar un solo elemento que fuese apropiado para una hija de la familia Ushiromiya,  pero parecía que ella se estaba divirtiendo mucho.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_29",
+      "kind": "dialogue",
+      "line_number": 537489,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_29",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/awase0011",
+        "99/awase0012"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"awase0011\"]",
+        "[#][*][@][lv 0*\"99\"*\"awase0012\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"\"\"¡¡Jessie‐samaaaaaaaa!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡¡Jessiiiiie, Jessiiiiiiiiiiie!!!\"\"\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"\"\"¡¡Jessie‐samaaaaaaaa!!  ¡¡¡Jessiiiiie, Jessiiiiiiiiiiie!!!\"\"\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_30",
+      "kind": "dialogue",
+      "line_number": 537510,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_30",
+      "speaker": "jes",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[!w800]",
+        "[!w800]",
+        "[!w500]",
+        "[!w500]",
+        "[!w500]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡De nuevo, hoy, a mi espalda, el sonido de pasos!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Oyashiro-sama me está acosando!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Maldiciones, desapariciones,",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " sacrificios, tortura,",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Onikakushi, ¡¿se come?!",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " ¡¡¡No digas Marisaaaaaaaaaaaaa!!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡De nuevo, hoy, a mi espalda, el sonido de pasos!  ¡Oyashiro-sama me está acosando!  Maldiciones, desapariciones,  sacrificios, tortura,  Onikakushi, ¡¿se come?!  ¡¡¡No digas Marisaaaaaaaaaaaaa!!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_31",
+      "kind": "dialogue",
+      "line_number": 537520,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_31",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "No pude soportar el ambiente, pero...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " de todos modos, la señorita estaba llena de vida y parecía que se lo estaba pasando muy bien.",
+          "inline_tags": []
+        }
+      ],
+      "text": "No pude soportar el ambiente, pero...  de todos modos, la señorita estaba llena de vida y parecía que se lo estaba pasando muy bien.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_32",
+      "kind": "dialogue",
+      "line_number": 537528,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_32",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Mientras miraba a la señorita pasándoselo bien, pensé...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Mientras miraba a la señorita pasándoselo bien, pensé...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_33",
+      "kind": "dialogue",
+      "line_number": 537530,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_33",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿No es así como es realmente Ushiromiya Jessica?",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿No es así como es realmente Ushiromiya Jessica?",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_34",
+      "kind": "dialogue",
+      "line_number": 537532,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_34",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿No sé mejor que nadie lo mal que la vida en Rokkenjima mata tu propio sentido de identidad?",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿No sé mejor que nadie lo mal que la vida en Rokkenjima mata tu propio sentido de identidad?",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_35",
+      "kind": "dialogue",
+      "line_number": 537534,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_35",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Entonces el tiempo que pasa, no como la sucesora de la familia Ushiromiya,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " sino como una simple chica llamada Jessica viviendo la vida al máximo, debe de ser algo muy importante para ella.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Entonces el tiempo que pasa, no como la sucesora de la familia Ushiromiya,  sino como una simple chica llamada Jessica viviendo la vida al máximo, debe de ser algo muy importante para ella.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_36",
+      "kind": "dialogue",
+      "line_number": 537536,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_36",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Yo trabajaba cerca de la señorita, la veía en todas las estaciones, y creía que lo sabía todo sobre ella.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Yo trabajaba cerca de la señorita, la veía en todas las estaciones, y creía que lo sabía todo sobre ella.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o2_0.o2_37",
+      "kind": "dialogue",
+      "line_number": 537538,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o2_0",
+      "label": "*o2_37",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Pero eso era solo un lado de ella, la señorita que vivía en Rokkenjima.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Pero eso era solo un lado de ella, la señorita que vivía en Rokkenjima.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

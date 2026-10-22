@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.omake.o_chiru_start",
+  "category": "omake",
+  "rel_path": "story/omake/o_chiru_start.json",
+  "episode": null,
+  "section": "o_chiru_start",
+  "chapter": "o_chiru_start",
+  "description": "Omake / bonus script chapter 'o_chiru_start'.",
+  "entry_count": 6,
+  "entries": [
+    {
+      "id": "omake.o_chiru_start.o6_0",
+      "kind": "dialogue",
+      "line_number": 540969,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o_chiru_start",
+      "label": "*o6_0",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Mmm...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Parece que no hay absolutamente nada aquí...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Para nada.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Mmm...  Parece que no hay absolutamente nada aquí...  Para nada.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o_chiru_start.o6_1",
+      "kind": "dialogue",
+      "line_number": 540996,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o_chiru_start",
+      "label": "*o6_1",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La lluvía se está haciendo más fuerte.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Mejor debería regresar a la mansión...",
+          "inline_tags": []
+        }
+      ],
+      "text": "La lluvía se está haciendo más fuerte.  Mejor debería regresar a la mansión...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o_chiru_start.o6_2",
+      "kind": "dialogue",
+      "line_number": 541002,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o_chiru_start",
+      "label": "*o6_2",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿...?",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿...?",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o_chiru_start.o6_3",
+      "kind": "dialogue",
+      "line_number": 541019,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o_chiru_start",
+      "label": "*o6_3",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[#][*]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿Eh?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Qué es eso?...",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿Eh?  ¿Qué es eso?...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o_chiru_start.o6_4",
+      "kind": "dialogue",
+      "line_number": 541026,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o_chiru_start",
+      "label": "*o6_4",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[#][*][@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Perforación de Blindaje de Alto Poder Explosivo {p:41:{f:5:Balas Doradas}}.",
+          "inline_tags": [
+            "{f:5:Balas Doradas}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": "{n}Profanan la ciencia, pero son eficaces para hacer conejo a la pimienta.",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}Utiliza estos juguetes inteligentemente cuando los necesites\"...",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "\"Perforación de Blindaje de Alto Poder Explosivo {p:41:{f:5:Balas Doradas}}. {n}Profanan la ciencia, pero son eficaces para hacer conejo a la pimienta. {n}Utiliza estos juguetes inteligentemente cuando los necesites\"...",
+      "inline_tags": [
+        "{f:5:Balas Doradas}",
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o_chiru_start.o6_5",
+      "kind": "dialogue",
+      "line_number": 541034,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o_chiru_start",
+      "label": "*o6_5",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Puedo pensar en un uso para esto.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Es hora de bailar un rondó con algunas conejitas...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Puedo pensar en un uso para esto.  Es hora de bailar un rondó con algunas conejitas...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

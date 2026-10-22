@@ -1,0 +1,3741 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.ep4.ura_teatime_4",
+  "category": "story",
+  "rel_path": "story/ep4/ura_teatime_4.json",
+  "episode": "ep4",
+  "section": "ura_teatime_4",
+  "chapter": "ura_teatime_4",
+  "description": "Episode 4 story script chapter 'ura_teatime_4'.",
+  "entry_count": 83,
+  "entries": [
+    {
+      "id": "ep4.ura_teatime_4.d32456",
+      "kind": "dialogue",
+      "line_number": 246425,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32456",
+      "speaker": "bea",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En una gran cama se encontraban esparcidas gominolas de diferentes colores,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y chocolates con forma de moneda.",
+          "inline_tags": []
+        }
+      ],
+      "text": "En una gran cama se encontraban esparcidas gominolas de diferentes colores,  y chocolates con forma de moneda.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32457",
+      "kind": "dialogue",
+      "line_number": 246431,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32457",
+      "speaker": "bea",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Un tenedor estaba clavado en un pastel que se asomaba de una caja de regalo,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y había jarras con bebidas de varios colores alineadas en la mesa de al lado.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Un tenedor estaba clavado en un pastel que se asomaba de una caja de regalo,  y había jarras con bebidas de varios colores alineadas en la mesa de al lado.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32458",
+      "kind": "dialogue",
+      "line_number": 246433,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32458",
+      "speaker": "bea",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Pero el color venenoso de la bebida vertida en el vaso no coincidía con ninguna de las jarras.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Pero el color venenoso de la bebida vertida en el vaso no coincidía con ninguna de las jarras.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32459",
+      "kind": "dialogue",
+      "line_number": 246435,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32459",
+      "speaker": "bea",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Alguien probablemente había estado jugueteando, mezclando varias cosas juntas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Alguien probablemente había estado jugueteando, mezclando varias cosas juntas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32460",
+      "kind": "dialogue",
+      "line_number": 246437,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32460",
+      "speaker": "bea",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Era muy divertido de hacer, a pesar del sabor.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Era muy divertido de hacer, a pesar del sabor.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32461",
+      "kind": "dialogue",
+      "line_number": 246439,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32461",
+      "speaker": "bea",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Encima de la suave cama había varias almohadas coloridas que parecían sacadas de un sueño.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Encima de la suave cama había varias almohadas coloridas que parecían sacadas de un sueño.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32462",
+      "kind": "dialogue",
+      "line_number": 246451,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32462",
+      "speaker": "bea",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y en esta cama que parecía sacada de los sueños de un niño,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " estaba {f:5:Bernkastel} tumbada boca abajo,",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " y {f:5:Lambdadelta} tumbaba boca arriba, abrazando una almohada y relajándose...",
+          "inline_tags": [
+            "{f:5:Lambdadelta}"
+          ]
+        }
+      ],
+      "text": "Y en esta cama que parecía sacada de los sueños de un niño,  estaba {f:5:Bernkastel} tumbada boca abajo,  y {f:5:Lambdadelta} tumbaba boca arriba, abrazando una almohada y relajándose...",
+      "inline_tags": [
+        "{f:5:Bernkastel}",
+        "{f:5:Lambdadelta}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32463",
+      "kind": "dialogue",
+      "line_number": 246464,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32463",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200224",
+        "29/92200225"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200224\"]",
+        "[@][lv 0*\"29\"*\"92200225\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ajajajajajajaa, esta vez ha estado bastante emocionante, ¿no?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Me preocupé de verdaaad cuando Beato dijo que detendría el juego.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Ajajajajajajaa, esta vez ha estado bastante emocionante, ¿no?  Me preocupé de verdaaad cuando Beato dijo que detendría el juego.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32464",
+      "kind": "dialogue",
+      "line_number": 246474,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32464",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100259"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100259\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Qué bruja más maleducada, mira que empezar un juego como este y luego intentar terminarlo tirándolo a la basura.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Qué bruja más maleducada, mira que empezar un juego como este y luego intentar terminarlo tirándolo a la basura.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32465",
+      "kind": "dialogue",
+      "line_number": 246477,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32465",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200226",
+        "29/92200227",
+        "29/92200228"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200226\"]",
+        "[@][lv 0*\"29\"*\"92200227\"]",
+        "[@][lv 0*\"29\"*\"92200228\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ange fue una buena pieza, ¿no?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Después de que Beato huyera, Ange la arrastró de vuelta e hizo que reanudara el juego.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Aunque es una pena que haya entusiasmado demasiado a Battler.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Ange fue una buena pieza, ¿no?  Después de que Beato huyera, Ange la arrastró de vuelta e hizo que reanudara el juego.  Aunque es una pena que haya entusiasmado demasiado a Battler.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32466",
+      "kind": "dialogue",
+      "line_number": 246490,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32466",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100260"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100260\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Battler es débil con los temas emocionales.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Battler es débil con los temas emocionales.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32467",
+      "kind": "dialogue",
+      "line_number": 246493,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32467",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200229",
+        "29/92200230"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200229\"]",
+        "[@][lv 0*\"29\"*\"92200230\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Es cierto.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Parecía que incluso podría dejarse ganar por Beato.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Es cierto.  Parecía que incluso podría dejarse ganar por Beato.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32468",
+      "kind": "dialogue",
+      "line_number": 246496,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32468",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100261",
+        "28/92100262"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100261\"]",
+        "[@][lv 0*\"28\"*\"92100262\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Basándome en el juego anterior, me inquietaba que empezara a sentir compasión por Beato y llevara el juego en una dirección extraña...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Ange era una carta de triunfo para volver a encarrilar a Battler cuando se equivocara de objetivo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Basándome en el juego anterior, me inquietaba que empezara a sentir compasión por Beato y llevara el juego en una dirección extraña...  Ange era una carta de triunfo para volver a encarrilar a Battler cuando se equivocara de objetivo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32469",
+      "kind": "dialogue",
+      "line_number": 246498,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32469",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100263",
+        "28/92100264",
+        "28/92100265"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100263\"]",
+        "[@][lv 0*\"28\"*\"92100264\"]",
+        "[@][lv 0*\"28\"*\"92100265\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Aunque me hubiera gustado que lo hubiese apoyado un poco más antes de lo que le pasó.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Realmente tuvo una corta participación.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Qué desperdicio para una pieza que requería tanta preparación.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Aunque me hubiera gustado que lo hubiese apoyado un poco más antes de lo que le pasó.  Realmente tuvo una corta participación.  Qué desperdicio para una pieza que requería tanta preparación.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32470",
+      "kind": "dialogue",
+      "line_number": 246511,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32470",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200231",
+        "29/92200232",
+        "29/92200233"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200231\"]",
+        "[@][lv 0*\"29\"*\"92200232\"]",
+        "[@][lv 0*\"29\"*\"92200233\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Ejejjejeje!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Menos mal que estaba atada con la norma que le prohibía decir su nombre!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " De no ser por eso, el duo combinado de hermanos se habrían devorado a Beato en un abrir y cerrar de ojos.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Ejejjejeje!  ¡Menos mal que estaba atada con la norma que le prohibía decir su nombre!  De no ser por eso, el duo combinado de hermanos se habrían devorado a Beato en un abrir y cerrar de ojos.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32471",
+      "kind": "dialogue",
+      "line_number": 246514,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32471",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100266",
+        "28/92100267",
+        "28/92100268"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100266\"]",
+        "[@][lv 0*\"28\"*\"92100267\"]",
+        "[@][lv 0*\"28\"*\"92100268\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Pensé que era una buena oportunidad para presionarla de golpe,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " pero tu norma era tan restrictiva que no pude aprovecharla al máximo...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Aaah, que desperdicio fue esa pieza.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Pensé que era una buena oportunidad para presionarla de golpe,  pero tu norma era tan restrictiva que no pude aprovecharla al máximo...  Aaah, que desperdicio fue esa pieza.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32472",
+      "kind": "dialogue",
+      "line_number": 246524,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32472",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200234",
+        "29/92200235",
+        "29/92200236"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200234\"]",
+        "[@][lv 0*\"29\"*\"92200235\"]",
+        "[@][lv 0*\"29\"*\"92200236\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿No era obvio que una pieza tan injusta como esa tendría que haber sido retirada de inmediato?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Bueno, al final, hizo un buen trabajo evitando la suspensión del juego, y eso también me favorece a mí.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " La forma en la que actuó para hacer que coincidieran nuestros intereses es lo que la hace una pieza realmente maravillosa.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿No era obvio que una pieza tan injusta como esa tendría que haber sido retirada de inmediato?  Bueno, al final, hizo un buen trabajo evitando la suspensión del juego, y eso también me favorece a mí.  La forma en la que actuó para hacer que coincidieran nuestros intereses es lo que la hace una pieza realmente maravillosa.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32473",
+      "kind": "dialogue",
+      "line_number": 246527,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32473",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100269",
+        "28/92100270",
+        "28/92100271"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100269\"]",
+        "[@][lv 0*\"28\"*\"92100270\"]",
+        "[@][lv 0*\"28\"*\"92100271\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Era una chica inocente como Battler, así que fue fácil conseguir que hiciera lo que yo le dijese...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Las personas idiotas y las impulsivas son las mejores piezas...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Aaah, realmente me causa tristeza haberla perdido.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Era una chica inocente como Battler, así que fue fácil conseguir que hiciera lo que yo le dijese...  Las personas idiotas y las impulsivas son las mejores piezas...  Aaah, realmente me causa tristeza haberla perdido.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32474",
+      "kind": "dialogue",
+      "line_number": 246530,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32474",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200237",
+        "29/92200238",
+        "29/92200239",
+        "29/92200240"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200237\"]",
+        "[@][lv 0*\"29\"*\"92200238\"]",
+        "[@][lv 0*\"29\"*\"92200239\"]",
+        "[@][lv 0*\"29\"*\"92200240\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡En estos momentos, esa niña es carne picada!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Oye, hagamos hamburguesas de Ange más tarde{p:0:☆}.",
+          "inline_tags": [
+            "{p:0:☆}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " Oh espera, ¿no te gustaban más las gyozas?",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡Me pregunto a qué sabrá una hermana pequeña, *risita*, qué divertido!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡En estos momentos, esa niña es carne picada!  Oye, hagamos hamburguesas de Ange más tarde{p:0:☆}.  Oh espera, ¿no te gustaban más las gyozas?  ¡Me pregunto a qué sabrá una hermana pequeña, *risita*, qué divertido!\"",
+      "inline_tags": [
+        "{p:0:☆}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32475",
+      "kind": "dialogue",
+      "line_number": 246543,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32475",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100272",
+        "28/92100273",
+        "28/92100274",
+        "28/92100275"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100272\"]",
+        "[@][lv 0*\"28\"*\"92100273\"]",
+        "[@][lv 0*\"28\"*\"92100274\"]",
+        "[@][lv 0*\"28\"*\"92100275\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿De verdad está bien que estés tan relajada?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Gracias a Ange, Battler está completamente a la ofensiva.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Él empezó a atacar a Beato desquiciadamente, y ahora, el juego ha dado un gran giro a mi favor, diría yo...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Inclusive, ¿no ha resuelto Battler casi todos los misterios de los juegos anteriores?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿De verdad está bien que estés tan relajada?  Gracias a Ange, Battler está completamente a la ofensiva.  Él empezó a atacar a Beato desquiciadamente, y ahora, el juego ha dado un gran giro a mi favor, diría yo...  Inclusive, ¿no ha resuelto Battler casi todos los misterios de los juegos anteriores?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32476",
+      "kind": "dialogue",
+      "line_number": 246561,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32476",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200241",
+        "29/92200242",
+        "29/92200243",
+        "29/92200244",
+        "29/92200245"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200241\"]",
+        "[@][#][*][lv 0*\"29\"*\"92200242\"]",
+        "[@][lv 0*\"29\"*\"92200243\"]",
+        "[@][lv 0*\"29\"*\"92200244\"]",
+        "[@][lv 0*\"29\"*\"92200245\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Eeh?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Para naaada!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡Casi todas las verdades azules de Battler son incorrectas!",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Los rojos sin entusiasmo de Beato están llenos de agujeros.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Cualquiera con medio cerebro podría pasar sin problemas simplemente soltando tonterías al azar.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Eeh?  ¡Para naaada!  ¡Casi todas las verdades azules de Battler son incorrectas!  Los rojos sin entusiasmo de Beato están llenos de agujeros.  Cualquiera con medio cerebro podría pasar sin problemas simplemente soltando tonterías al azar.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32477",
+      "kind": "dialogue",
+      "line_number": 246568,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32477",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200246",
+        "29/92200247"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200246\"]",
+        "[@][lv 0*\"29\"*\"92200247\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Sí, me molesta de verdad.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Si hubiera sido yo, me habría asegurado de cortar cada una de ellas con el rojo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Sí, me molesta de verdad.  Si hubiera sido yo, me habría asegurado de cortar cada una de ellas con el rojo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32478",
+      "kind": "dialogue",
+      "line_number": 246573,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32478",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100276",
+        "28/92100277",
+        "28/92100278"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100276\"]",
+        "[@][lv 0*\"28\"*\"92100277\"]",
+        "[@][lv 0*\"28\"*\"92100278\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Oh, ¿de verdad?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Y yo que estaba segura de que eran todas correctas...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Aunque, bueno, no estoy tan segura con la parte de las minibombas.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Oh, ¿de verdad?  Y yo que estaba segura de que eran todas correctas...  Aunque, bueno, no estoy tan segura con la parte de las minibombas.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32479",
+      "kind": "dialogue",
+      "line_number": 246590,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32479",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200248",
+        "29/92200249",
+        "29/92200250",
+        "29/92200251"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200248\"]",
+        "[@][lv 0*\"29\"*\"92200249\"]",
+        "[|][lv 0*\"29\"*\"92200250\"][#][*]",
+        "[@][lv 0*\"29\"*\"92200251\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Y ni siquiera todas sus verdades azules eran válidas...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Beato declaró claramente que, en el primer juego, ella",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " {p:1:garantiza las identidades de todos los cadáveres no identificables}!",
+          "inline_tags": [
+            "{p:1:garantiza las identidades de todos los cadáveres no identificables}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": " Esto rompe el razonamiento de Battler sobre que el culpable de la habitación cerrada del asesinato de Eva y Hideyoshi fuese alguien que había falsificado un cadáver.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Y ni siquiera todas sus verdades azules eran válidas...  ¡Beato declaró claramente que, en el primer juego, ella  {p:1:garantiza las identidades de todos los cadáveres no identificables}!  Esto rompe el razonamiento de Battler sobre que el culpable de la habitación cerrada del asesinato de Eva y Hideyoshi fuese alguien que había falsificado un cadáver.\"",
+      "inline_tags": [
+        "{p:1:garantiza las identidades de todos los cadáveres no identificables}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32480",
+      "kind": "dialogue",
+      "line_number": 246614,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32480",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200252",
+        "29/92200253",
+        "29/92200254",
+        "29/92200255"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200252\"]",
+        "[@][lv 0*\"29\"*\"92200253\"]",
+        "[@][#][*][lv 0*\"29\"*\"92200254\"]",
+        "[@][lv 0*\"29\"*\"92200255\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Después, puede que Kanon haya muerto en un accidente en la sala de calderas, pero... ¡*risitas*!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Qué tipo de accidente podría acabar con él clavándose una estaca en su propio pecho?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¿Qué tontería es esa?",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Lo cortaré con esa preciada espada roja o lo que sea.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Después, puede que Kanon haya muerto en un accidente en la sala de calderas, pero... ¡*risitas*!  ¿Qué tipo de accidente podría acabar con él clavándose una estaca en su propio pecho?  ¿Qué tontería es esa?  Lo cortaré con esa preciada espada roja o lo que sea.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32481",
+      "kind": "dialogue",
+      "line_number": 246633,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32481",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200256",
+        "29/92200257",
+        "29/92200258"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200256\"][#][*]",
+        "[@][lv 0*\"29\"*\"92200257\"]",
+        "[@][lv 0*\"29\"*\"92200258\"][#][*]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡{p:1:Kanon no murió en un accidente}!",
+          "inline_tags": [
+            "{p:1:Kanon no murió en un accidente}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " Para el siguiente, los asesinatos de los tres incluyendo a Genji en el salón, el pensar que fue un asesinato simultáneo donde se dispararon entre ellos en el sentido de las agujas del reloj al mismo tiempo es ridículo.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡{p:1:Genji, Kumasawa y Nanjo no son asesinos}!\"",
+          "inline_tags": [
+            "{p:1:Genji, Kumasawa y Nanjo no son asesinos}"
+          ]
+        }
+      ],
+      "text": "\"¡{p:1:Kanon no murió en un accidente}!  Para el siguiente, los asesinatos de los tres incluyendo a Genji en el salón, el pensar que fue un asesinato simultáneo donde se dispararon entre ellos en el sentido de las agujas del reloj al mismo tiempo es ridículo.  ¡{p:1:Genji, Kumasawa y Nanjo no son asesinos}!\"",
+      "inline_tags": [
+        "{p:1:Kanon no murió en un accidente}",
+        "{p:1:Genji, Kumasawa y Nanjo no son asesinos}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32482",
+      "kind": "dialogue",
+      "line_number": 246644,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32482",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200259",
+        "29/92200260",
+        "29/92200261"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200259\"]",
+        "[@][lv 0*\"29\"*\"92200260\"][#][*]",
+        "[@][lv 0*\"29\"*\"92200261\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Esa última trampa X para matar a Natsuhi también es ridícula.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡{p:1:Lo que le disparó a Natsuhi no fue una trampa, fue un verdadero asesinato a tiro limpio con un arma levantada y el gatillo apretado}!",
+          "inline_tags": [
+            "{p:1:Lo que le disparó a Natsuhi no fue una trampa, fue un verdadero asesinato a tiro limpio con un arma levantada y el gatillo apretado}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " *risita* ¡Mis condolencias!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Esa última trampa X para matar a Natsuhi también es ridícula.  ¡{p:1:Lo que le disparó a Natsuhi no fue una trampa, fue un verdadero asesinato a tiro limpio con un arma levantada y el gatillo apretado}!  *risita* ¡Mis condolencias!\"",
+      "inline_tags": [
+        "{p:1:Lo que le disparó a Natsuhi no fue una trampa, fue un verdadero asesinato a tiro limpio con un arma levantada y el gatillo apretado}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32483",
+      "kind": "dialogue",
+      "line_number": 246665,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32483",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100279",
+        "28/92100280",
+        "28/92100281"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100279\"]",
+        "[@][lv 0*\"28\"*\"92100280\"]",
+        "[@][lv 0*\"28\"*\"92100281\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... No puedes hacer eso.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Por qué dices eso en rojo?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Esa niña estaba intentando hacer creer que mató a Natsuhi haciendo rebotar la bala con magia.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... No puedes hacer eso.  ¿Por qué dices eso en rojo?  Esa niña estaba intentando hacer creer que mató a Natsuhi haciendo rebotar la bala con magia.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32484",
+      "kind": "dialogue",
+      "line_number": 246671,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32484",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200262",
+        "29/92200263"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200262\"]",
+        "[@][lv 0*\"29\"*\"92200263\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ohohoho, ups, cómo he podido, ¡es verdad!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Incluso sus verdades azules para el segundo juego eran demasiado ingenuas.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Ohohoho, ups, cómo he podido, ¡es verdad!...  Incluso sus verdades azules para el segundo juego eran demasiado ingenuas.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32485",
+      "kind": "dialogue",
+      "line_number": 246685,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32485",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200264",
+        "29/92200265",
+        "29/92200266"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200264\"]",
+        "[#][*]",
+        "[@][lv 0*\"29\"*\"92200265\"]",
+        "[@][lv 0*\"29\"*\"92200266\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "¡{p:1:Cuando los seis fueron asesinados en la capilla, el culpable estaba dentro de la capilla}!",
+          "inline_tags": [
+            "{p:1:Cuando los seis fueron asesinados en la capilla, el culpable estaba dentro de la capilla}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " Ese tipo trata de explicar cada pequeña cosa con una trampa X.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¿Qué demonios es la trampa X, algún extraño cliché de las novelas de misterio?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\" ¡{p:1:Cuando los seis fueron asesinados en la capilla, el culpable estaba dentro de la capilla}!  Ese tipo trata de explicar cada pequeña cosa con una trampa X.  ¿Qué demonios es la trampa X, algún extraño cliché de las novelas de misterio?\"",
+      "inline_tags": [
+        "{p:1:Cuando los seis fueron asesinados en la capilla, el culpable estaba dentro de la capilla}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32486",
+      "kind": "dialogue",
+      "line_number": 246694,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32486",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200267",
+        "29/92200268",
+        "29/92200269"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200267\"]",
+        "[@][lv 0*\"29\"*\"92200268\"][#][*]",
+        "[@][lv 0*\"29\"*\"92200269\"][#][*]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Y en el incidente en el que Nanjo y Kumasawa fueron asesinados en la habitación de los sirvientes, es ridículo decir que alguien heredó el nombre de Kanon.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡{p:1:El único que puede llevar el nombre de Kanon es la propia persona}!",
+          "inline_tags": [
+            "{p:1:El único que puede llevar el nombre de Kanon es la propia persona}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " ¡{p:1:Ningún otro humano puede adoptar ese nombre}!\"",
+          "inline_tags": [
+            "{p:1:Ningún otro humano puede adoptar ese nombre}"
+          ]
+        }
+      ],
+      "text": "\"Y en el incidente en el que Nanjo y Kumasawa fueron asesinados en la habitación de los sirvientes, es ridículo decir que alguien heredó el nombre de Kanon.  ¡{p:1:El único que puede llevar el nombre de Kanon es la propia persona}!  ¡{p:1:Ningún otro humano puede adoptar ese nombre}!\"",
+      "inline_tags": [
+        "{p:1:El único que puede llevar el nombre de Kanon es la propia persona}",
+        "{p:1:Ningún otro humano puede adoptar ese nombre}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32487",
+      "kind": "dialogue",
+      "line_number": 246734,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32487",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200270"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200270\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Y esa teoría de tomar prestada la llave maestra de Rosa para la habitación de Natsuhi tampoco vale nada!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Y esa teoría de tomar prestada la llave maestra de Rosa para la habitación de Natsuhi tampoco vale nada!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32488",
+      "kind": "dialogue",
+      "line_number": 246751,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32488",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200271",
+        "29/92200272",
+        "29/92200273"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200271\"][#][*]",
+        "[@][lv 0*\"29\"*\"92200272\"][#][*]",
+        "[@][lv 0*\"29\"*\"92200273\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡{p:1:Después de que las llaves maestras pasaran al control de Rosa, ella las mantuvo consigo en todo momento}!",
+          "inline_tags": [
+            "{p:1:Después de que las llaves maestras pasaran al control de Rosa, ella las mantuvo consigo en todo momento}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " {p:1:Excepto por aquella vez en que le dio una a Battler para abrir la puerta de la habitación de Natsuhi}.",
+          "inline_tags": [
+            "{p:1:Excepto por aquella vez en que le dio una a Battler para abrir la puerta de la habitación de Natsuhi}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " Podría seguir, pero con esto basta para darse cuenta, supongo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡{p:1:Después de que las llaves maestras pasaran al control de Rosa, ella las mantuvo consigo en todo momento}!  {p:1:Excepto por aquella vez en que le dio una a Battler para abrir la puerta de la habitación de Natsuhi}.  Podría seguir, pero con esto basta para darse cuenta, supongo.\"",
+      "inline_tags": [
+        "{p:1:Después de que las llaves maestras pasaran al control de Rosa, ella las mantuvo consigo en todo momento}",
+        "{p:1:Excepto por aquella vez en que le dio una a Battler para abrir la puerta de la habitación de Natsuhi}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32489",
+      "kind": "dialogue",
+      "line_number": 246764,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32489",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100281_1",
+        "28/92100281_2",
+        "28/92100281_3"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100281_1\"]",
+        "[@][lv 0*\"28\"*\"92100281_2\"]",
+        "[@][lv 0*\"28\"*\"92100281_3\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Con esto basta?... Acabas de negar las verdades azules de Battler para los dos primeros juegos...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Vaya, vaya, qué cosas.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Si Battler te oyera, se desmayaría.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Con esto basta?... Acabas de negar las verdades azules de Battler para los dos primeros juegos...  Vaya, vaya, qué cosas.  Si Battler te oyera, se desmayaría.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32490",
+      "kind": "dialogue",
+      "line_number": 246770,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32490",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200277",
+        "29/92200278",
+        "29/92200279"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200277\"]",
+        "[@][lv 0*\"29\"*\"92200278\"]",
+        "[@][lv 0*\"29\"*\"92200279\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Ves?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Beato no estaba acorralada en absoluto...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Siempre pensé que era una actriz bastante buena.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Ves?  Beato no estaba acorralada en absoluto...  Siempre pensé que era una actriz bastante buena.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32491",
+      "kind": "dialogue",
+      "line_number": 246772,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32491",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200280",
+        "29/92200281"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200280\"]",
+        "[@][lv 0*\"29\"*\"92200281\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Estoy segura de que estaba planeando hacer como que la estaban acorralando en este juego,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y en algún momento del siguiente juego, *bang*, lo cortará en pedacitos con un único movimiento con el rojo y hará que Battler se quede estupefacto.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Estoy segura de que estaba planeando hacer como que la estaban acorralando en este juego,  y en algún momento del siguiente juego, *bang*, lo cortará en pedacitos con un único movimiento con el rojo y hará que Battler se quede estupefacto.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32492",
+      "kind": "dialogue",
+      "line_number": 246777,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32492",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200282",
+        "29/92200283",
+        "29/92200284"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200282\"]",
+        "[@][lv 0*\"29\"*\"92200283\"]",
+        "[@][lv 0*\"29\"*\"92200284\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"*risita*, y entonces estoy segura de que lo dirá con una gran sonrisa.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡‘Las brujas nunca estamos en apuros~’!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Pff, ¡¡*risita*risita*risita*!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"*risita*, y entonces estoy segura de que lo dirá con una gran sonrisa.  ¡‘Las brujas nunca estamos en apuros~’!  Pff, ¡¡*risita*risita*risita*!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32493",
+      "kind": "dialogue",
+      "line_number": 246786,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32493",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100282"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100282\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Entonces todo ese sentimiento trágico como si Beato estuviese siendo acorralada no era más que una mentira?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Entonces todo ese sentimiento trágico como si Beato estuviese siendo acorralada no era más que una mentira?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32494",
+      "kind": "dialogue",
+      "line_number": 246790,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32494",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200285",
+        "29/92200286",
+        "29/92200287"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200285\"]",
+        "[@][lv 0*\"29\"*\"92200286\"]",
+        "[@][lv 0*\"29\"*\"92200287\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¿Acaso no es obvio?!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Esa niña es una gran actriz!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡Aunque no estaba acorralada en absoluto, daba la sensación de que era el clímax del último episodio!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¿Acaso no es obvio?!  ¡Esa niña es una gran actriz!  ¡Aunque no estaba acorralada en absoluto, daba la sensación de que era el clímax del último episodio!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32495",
+      "kind": "dialogue",
+      "line_number": 246792,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32495",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200288",
+        "29/92200289",
+        "29/92200290"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200288\"]",
+        "[@][lv 0*\"29\"*\"92200289\"]",
+        "[@][lv 0*\"29\"*\"92200290\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Es sin duda la ganadora al premio de mejor actriz del elenco de este año!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Oh, ¡pero por supuesto yo soy la estrella!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡O podrías serlo tú, Bern!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Es sin duda la ganadora al premio de mejor actriz del elenco de este año!!  Oh, ¡pero por supuesto yo soy la estrella!  ¡O podrías serlo tú, Bern!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32496",
+      "kind": "dialogue",
+      "line_number": 246802,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32496",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100283",
+        "28/92100284"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100283\"]",
+        "[@][lv 0*\"28\"*\"92100284\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Al final, ella dijo algo así como \"mátame\" y soltó un gran acertijo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿No era eso su último truco, estando Beato acabada si ese acertijo era resuelto?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Al final, ella dijo algo así como \"mátame\" y soltó un gran acertijo.  ¿No era eso su último truco, estando Beato acabada si ese acertijo era resuelto?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32497",
+      "kind": "dialogue",
+      "line_number": 246808,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32497",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200291",
+        "29/92200292"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200291\"]",
+        "[@][lv 0*\"29\"*\"92200292\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡*risita*risita*!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " No me lo creo, ¿a ti también te engañó, Bern?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡*risita*risita*!...  No me lo creo, ¿a ti también te engañó, Bern?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32498",
+      "kind": "dialogue",
+      "line_number": 246810,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32498",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200293",
+        "29/92200294",
+        "29/92200295"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200293\"]",
+        "[@][lv 0*\"29\"*\"92200294\"]",
+        "[@][lv 0*\"29\"*\"92200295\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Ese para nada fue su último truco!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Beato todavía tiene algunos movimientos infernalmente brutales que mantiene ocultos...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Cuando levantó ambos brazos para dar el último acertijo, ¿no te diste cuenta de cómo bajó el brazo derecho?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Ese para nada fue su último truco!  Beato todavía tiene algunos movimientos infernalmente brutales que mantiene ocultos...  Cuando levantó ambos brazos para dar el último acertijo, ¿no te diste cuenta de cómo bajó el brazo derecho?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32499",
+      "kind": "dialogue",
+      "line_number": 246816,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32499",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100285",
+        "28/92100286"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100285\"]",
+        "[@][lv 0*\"28\"*\"92100286\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Sí, ahora que lo mencionas...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Así que eso es lo que significaba.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Sí, ahora que lo mencionas...  Así que eso es lo que significaba.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32500",
+      "kind": "dialogue",
+      "line_number": 246822,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32500",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200296",
+        "29/92200297",
+        "29/92200298"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200296\"]",
+        "[@][lv 0*\"29\"*\"92200297\"]",
+        "[@][lv 0*\"29\"*\"92200298\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Desde luego!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Todavía le quedaban muchos movimientos ocultos!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡Y ninguno de los misterios han sido resueltos!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Desde luego!  ¡Todavía le quedaban muchos movimientos ocultos!  ¡Y ninguno de los misterios han sido resueltos!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32501",
+      "kind": "dialogue",
+      "line_number": 246824,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32501",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200299",
+        "29/92200300",
+        "29/92200301"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200299\"]",
+        "[@][lv 0*\"29\"*\"92200300\"]",
+        "[@][lv 0*\"29\"*\"92200301\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Esa tensión, como si la hubieran desenmascarado por completo y el próximo episodio fuese a ser el último...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Ella verdaderamente es una genio actuando.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡Aah, no puedo esperar a verla derrotar a Battler!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Esa tensión, como si la hubieran desenmascarado por completo y el próximo episodio fuese a ser el último...  Ella verdaderamente es una genio actuando.  ¡Aah, no puedo esperar a verla derrotar a Battler!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32502",
+      "kind": "dialogue",
+      "line_number": 246829,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32502",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200302",
+        "29/92200303",
+        "29/92200304"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200302\"]",
+        "[@][lv 0*\"29\"*\"92200303\"]",
+        "[@][lv 0*\"29\"*\"92200304\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Creo que le ha gustado mucho la estrategia del \"Viento del Norte y Sol\" del juego anterior.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Estoy segura de que Battler simpatizará con Beato de nuevo y de que caerá por completo!...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡La simple lágrima de una mujer puede engañar a un hombre, después de todo, ¿no crees?!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Creo que le ha gustado mucho la estrategia del \"Viento del Norte y Sol\" del juego anterior.  ¡Estoy segura de que Battler simpatizará con Beato de nuevo y de que caerá por completo!...  ¡¡La simple lágrima de una mujer puede engañar a un hombre, después de todo, ¿no crees?!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32503",
+      "kind": "dialogue",
+      "line_number": 246838,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32503",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100287",
+        "28/92100288",
+        "28/92100289"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100287\"]",
+        "[@][lv 0*\"28\"*\"92100288\"]",
+        "[@][lv 0*\"28\"*\"92100289\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Me pregunto si Battler caerá de nuevo en lo mismo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Yo también tengo que incitar a Battler para que no vuelva a sentir simpatía...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Aunque reducir a Ange a carne picada parece haber hecho eso bastante bien.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Me pregunto si Battler caerá de nuevo en lo mismo.  Yo también tengo que incitar a Battler para que no vuelva a sentir simpatía...  Aunque reducir a Ange a carne picada parece haber hecho eso bastante bien.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32504",
+      "kind": "dialogue",
+      "line_number": 246841,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32504",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200305",
+        "29/92200306",
+        "29/92200307",
+        "29/92200308"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200305\"]",
+        "[@][lv 0*\"29\"*\"92200306\"]",
+        "[@][lv 0*\"29\"*\"92200307\"]",
+        "[@][lv 0*\"29\"*\"92200308\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Un <power up> obtenido de una <Ange-burger>?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Ohohohohohoho!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Por supuesto, yo tampoco perderé.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " De ahora en adelante, le daré todo mi apoyo a Beato para que pueda remontar lo suficiente como para que compita contra Battler.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Un <power up> obtenido de una <Ange-burger>?  ¡Ohohohohohoho!  Por supuesto, yo tampoco perderé.  De ahora en adelante, le daré todo mi apoyo a Beato para que pueda remontar lo suficiente como para que compita contra Battler.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32505",
+      "kind": "dialogue",
+      "line_number": 246843,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32505",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200309",
+        "29/92200310"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200309\"]",
+        "[@][lv 0*\"29\"*\"92200310\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Beato no perderá.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Quiero decir, la he amenazado con un juego de castigo maravilloso si lo hace{p:0:♪}.\"",
+          "inline_tags": [
+            "{p:0:♪}"
+          ]
+        }
+      ],
+      "text": "\"... Beato no perderá.  Quiero decir, la he amenazado con un juego de castigo maravilloso si lo hace{p:0:♪}.\"",
+      "inline_tags": [
+        "{p:0:♪}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32506",
+      "kind": "dialogue",
+      "line_number": 246859,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32506",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100290"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100290\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Tus juegos de castigo no me hacen ninguna gracia, te lo deberías tomar con un poco más de calma.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Tus juegos de castigo no me hacen ninguna gracia, te lo deberías tomar con un poco más de calma.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32507",
+      "kind": "dialogue",
+      "line_number": 246870,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32507",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200311",
+        "29/92200312"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200311\"]",
+        "[@][lv 0*\"29\"*\"92200312\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"He decidido qué voy a hacer para tu próximo juego de castigo, Bern.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Quieres oírlo? ¿Quieres oírlo?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"He decidido qué voy a hacer para tu próximo juego de castigo, Bern.  ¿Quieres oírlo? ¿Quieres oírlo?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32508",
+      "kind": "dialogue",
+      "line_number": 246876,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32508",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100291"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100291\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"No.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32509",
+      "kind": "dialogue",
+      "line_number": 246888,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32509",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200313",
+        "29/92200314",
+        "29/92200315"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200313\"]",
+        "[@][#][*][lv 0*\"29\"*\"92200314\"]",
+        "[@][lv 0*\"29\"*\"92200315\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Vaaamos, pregúntame{p:0:☆}.",
+          "inline_tags": [
+            "{p:0:☆}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " ¿Sabes qué, sabes qué?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Te encerraré en un castillo maravillosamente maravilloso.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Vaaamos, pregúntame{p:0:☆}.  ¿Sabes qué, sabes qué?  Te encerraré en un castillo maravillosamente maravilloso.\"",
+      "inline_tags": [
+        "{p:0:☆}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32510",
+      "kind": "dialogue",
+      "line_number": 246896,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32510",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200316",
+        "29/92200317",
+        "29/92200318",
+        "29/92200319"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200316\"]",
+        "[@][lv 0*\"29\"*\"92200317\"]",
+        "[@][lv 0*\"29\"*\"92200318\"]",
+        "[@][lv 0*\"29\"*\"92200319\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"El castillo estará rodeado de murallas de color blanco puro, siendo cada lado de unos {nobr:12 km}.",
+          "inline_tags": [
+            "{nobr:12 km}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " Con una altura de {nobr:10 m}.",
+          "inline_tags": [
+            "{nobr:10 m}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " ¡La magia y los trucos están prohibidos!",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Realmente sería imposible que lo saltaras, ¿verdad?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"El castillo estará rodeado de murallas de color blanco puro, siendo cada lado de unos {nobr:12 km}.  Con una altura de {nobr:10 m}.  ¡La magia y los trucos están prohibidos!  Realmente sería imposible que lo saltaras, ¿verdad?\"",
+      "inline_tags": [
+        "{nobr:12 km}",
+        "{nobr:10 m}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32511",
+      "kind": "dialogue",
+      "line_number": 246902,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32511",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100292",
+        "28/92100293"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100292\"]",
+        "[@][#][*][lv 0*\"28\"*\"92100293\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿1 440 000 000 m³?...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Puedes parar ahí, ya sé lo que vas a decir.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿1 440 000 000 m³?...  Puedes parar ahí, ya sé lo que vas a decir.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32512",
+      "kind": "dialogue",
+      "line_number": 246927,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32512",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200320",
+        "29/92200321",
+        "29/92200322",
+        "29/92200323"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200320\"]",
+        "[@][lv 0*\"29\"*\"92200321\"]",
+        "[@][lv 0*\"29\"*\"92200322\"]",
+        "[@][lv 0*\"29\"*\"92200323\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Ejejeje!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Y ese lugar empezará a llenarse de gemas, una por día!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Y te encerraré ahí hasta que las paredes del castillo estén llenas, y hayas muerto enterrada por las gemas.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¿Acaso no es un maravilloso juego romántico de castigo?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Ejejeje!  ¡Y ese lugar empezará a llenarse de gemas, una por día!  Y te encerraré ahí hasta que las paredes del castillo estén llenas, y hayas muerto enterrada por las gemas.  ¿Acaso no es un maravilloso juego romántico de castigo?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32513",
+      "kind": "dialogue",
+      "line_number": 246937,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32513",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100294"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100294\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Si multiplicas la longitud de las paredes por 5, y haces que la altura sea un décimo de la actual, no me importaría que me encerrases en ella ahora mismo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Si multiplicas la longitud de las paredes por 5, y haces que la altura sea un décimo de la actual, no me importaría que me encerrases en ella ahora mismo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32514",
+      "kind": "dialogue",
+      "line_number": 246949,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32514",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200324",
+        "29/92200325",
+        "29/92200326",
+        "29/92200327",
+        "29/92200328"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200324\"]",
+        "[@][lv 0*\"29\"*\"92200325\"]",
+        "[@][lv 0*\"29\"*\"92200326\"]",
+        "[@][#][*][lv 0*\"29\"*\"92200327\"]",
+        "[@][lv 0*\"29\"*\"92200328\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¿De verdad?!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Eso serían 3 600 000 000 m³, ¿sabes?!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡La duración del juego de castigo sería más del doble!",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡Aaahh, ¿te puedo tener de prisionera durante tanto tiempo?!",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Te quiero de verdad Bern, te aaaamo{p:0:♪}.\"",
+          "inline_tags": [
+            "{p:0:♪}"
+          ]
+        }
+      ],
+      "text": "\"¡¿De verdad?!  ¡Eso serían 3 600 000 000 m³, ¿sabes?!  ¡La duración del juego de castigo sería más del doble!  ¡Aaahh, ¿te puedo tener de prisionera durante tanto tiempo?!  Te quiero de verdad Bern, te aaaamo{p:0:♪}.\"",
+      "inline_tags": [
+        "{p:0:♪}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32515",
+      "kind": "dialogue",
+      "line_number": 246974,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32515",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{f:5:Lambdadelta} se aferró juguetonamente a {f:5:Bernkastel}, quien bostezó, con aspecto aburrido, mientras acariciaba a {f:5:Lambdadelta} bajo la barbilla como si jugara con un gato...",
+          "inline_tags": [
+            "{f:5:Lambdadelta}",
+            "{f:5:Bernkastel}",
+            "{f:5:Lambdadelta}"
+          ]
+        }
+      ],
+      "text": "{f:5:Lambdadelta} se aferró juguetonamente a {f:5:Bernkastel}, quien bostezó, con aspecto aburrido, mientras acariciaba a {f:5:Lambdadelta} bajo la barbilla como si jugara con un gato...",
+      "inline_tags": [
+        "{f:5:Lambdadelta}",
+        "{f:5:Bernkastel}",
+        "{f:5:Lambdadelta}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32516",
+      "kind": "dialogue",
+      "line_number": 246985,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32516",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200329",
+        "29/92200330",
+        "29/92200331"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200329\"]",
+        "[@][lv 0*\"29\"*\"92200330\"]",
+        "[@][lv 0*\"29\"*\"92200331\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Así que tú estás apostando por la victoria de Battler.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Y yo estoy apostando por un empate eterno para ambos...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¿No significa eso que nadie está apostando por la victoria de Beato?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Así que tú estás apostando por la victoria de Battler.  Y yo estoy apostando por un empate eterno para ambos...  ¿No significa eso que nadie está apostando por la victoria de Beato?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32517",
+      "kind": "dialogue",
+      "line_number": 246991,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32517",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100295",
+        "28/92100296"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100295\"]",
+        "[@][lv 0*\"28\"*\"92100296\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Yo no lo haría.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Su probabilidad de ganar es cero.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Yo no lo haría.  Su probabilidad de ganar es cero.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32518",
+      "kind": "dialogue",
+      "line_number": 246996,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32518",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200332",
+        "29/92200333",
+        "29/92200334",
+        "29/92200335"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200332\"]",
+        "[@][lv 0*\"29\"*\"92200333\"]",
+        "[@][lv 0*\"29\"*\"92200334\"]",
+        "[@][#][*][lv 0*\"29\"*\"92200335\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Ohohoho!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Debe ser triste que la Bruja de los Milagros te diga que no hay ninguna posibilidad de un milagro!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Por supuesto, yo tampoco apostaría por ella.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡Con certeza!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Ohohoho!  ¡Debe ser triste que la Bruja de los Milagros te diga que no hay ninguna posibilidad de un milagro!  Por supuesto, yo tampoco apostaría por ella.  ¡Con certeza!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32519",
+      "kind": "dialogue",
+      "line_number": 247007,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32519",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100297"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100297\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... También es triste que la Bruja de la Certeza te diga que es inútil con certeza.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... También es triste que la Bruja de la Certeza te diga que es inútil con certeza.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32520",
+      "kind": "dialogue",
+      "line_number": 247018,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32520",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sorprendentemente para ellas, se rieron juntas...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sorprendentemente para ellas, se rieron juntas...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32521",
+      "kind": "dialogue",
+      "line_number": 247021,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32521",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200336"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200336\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Me pregunto qué tipo de conclusión va a tener este juego...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Me pregunto qué tipo de conclusión va a tener este juego...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32522",
+      "kind": "dialogue",
+      "line_number": 247024,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32522",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100298",
+        "28/92100299"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100298\"]",
+        "[@][lv 0*\"28\"*\"92100299\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Cierto, eso al menos no podemos predecirlo...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Es por eso que es divertido.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Cierto, eso al menos no podemos predecirlo...  Es por eso que es divertido.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32523",
+      "kind": "dialogue",
+      "line_number": 247027,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32523",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200337",
+        "29/92200338",
+        "29/92200339",
+        "29/92200340"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200337\"]",
+        "[@][lv 0*\"29\"*\"92200338\"]",
+        "[@][lv 0*\"29\"*\"92200339\"]",
+        "[@][lv 0*\"29\"*\"92200340\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No permitiré más huídas ni suspensiones del juego.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Con certeza haré que continúen el juego, y no dejaré que escapen!...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " No me puedo ni imaginar cómo terminarán las cosas ahora,",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " pero sé una cosa en la que con certeza no va a terminar.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"No permitiré más huídas ni suspensiones del juego.  ¡Con certeza haré que continúen el juego, y no dejaré que escapen!...  No me puedo ni imaginar cómo terminarán las cosas ahora,  pero sé una cosa en la que con certeza no va a terminar.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32524",
+      "kind": "dialogue",
+      "line_number": 247034,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32524",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100300"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100300\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Al menos, sabemos que no terminará con la victoria de Beato.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Al menos, sabemos que no terminará con la victoria de Beato.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32525",
+      "kind": "dialogue",
+      "line_number": 247045,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32525",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200341",
+        "29/92200342",
+        "29/92200343",
+        "29/92200344"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200341\"]",
+        "[@][lv 0*\"29\"*\"92200342\"]",
+        "[@][lv 0*\"29\"*\"92200343\"]",
+        "[@][lv 0*\"29\"*\"92200344\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Quiero decir, piénsalo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Ni tú, ni yo...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " estamos apostando por la victoria de  Beato!",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡Lo que significa que, si parece que Beato va a ganar, será enemiga de dos Grandes Brujas!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Quiero decir, piénsalo.  ¡Ni tú, ni yo...  estamos apostando por la victoria de  Beato!  ¡Lo que significa que, si parece que Beato va a ganar, será enemiga de dos Grandes Brujas!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32526",
+      "kind": "dialogue",
+      "line_number": 247051,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32526",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100301",
+        "28/92100302",
+        "28/92100303"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100301\"]",
+        "[@][lv 0*\"28\"*\"92100302\"]",
+        "[@][lv 0*\"28\"*\"92100303\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Así es como funciona.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Nuestros poderes solo alcanzan el máximo equilibrio cuando se mantiene el balance entre el empate y la ventaja de Battler.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Si se inclina demasiado a favor de Beato, las dos nos alinearemos en el mismo vector, y arrastraremos a Beato de vuelta.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Así es como funciona.  Nuestros poderes solo alcanzan el máximo equilibrio cuando se mantiene el balance entre el empate y la ventaja de Battler.  Si se inclina demasiado a favor de Beato, las dos nos alinearemos en el mismo vector, y arrastraremos a Beato de vuelta.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32527",
+      "kind": "dialogue",
+      "line_number": 247057,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32527",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200345",
+        "29/92200346",
+        "29/92200347"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200345\"]",
+        "[@][#][*][lv 0*\"29\"*\"92200346\"]",
+        "[@][lv 0*\"29\"*\"92200347\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"En otras palabras, el instante en que Beato se encuentre en una posición superior... nos tendrá a nosotras dos como enemigas...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Ejejejejejeje!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Un frente en común con Bern, suena diiiiivertido{p:0:♪}.\"",
+          "inline_tags": [
+            "{p:0:♪}"
+          ]
+        }
+      ],
+      "text": "\"En otras palabras, el instante en que Beato se encuentre en una posición superior... nos tendrá a nosotras dos como enemigas...  ¡Ejejejejejeje!  Un frente en común con Bern, suena diiiiivertido{p:0:♪}.\"",
+      "inline_tags": [
+        "{p:0:♪}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32528",
+      "kind": "dialogue",
+      "line_number": 247069,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32528",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100304",
+        "28/92100305"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100304\"]",
+        "[@][lv 0*\"28\"*\"92100305\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Gracias...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Pero no me voy a bañar en caramelos konpeitou contigo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Gracias...  Pero no me voy a bañar en caramelos konpeitou contigo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32529",
+      "kind": "dialogue",
+      "line_number": 247075,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32529",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200348",
+        "29/92200349"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200348\"]",
+        "[@][lv 0*\"29\"*\"92200349\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Aaa~w, y yo que iba a cubrirte de malvaviscos derretidos,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " mientras nos duchábamos con konpeitou...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Aaa~w, y yo que iba a cubrirte de malvaviscos derretidos,  mientras nos duchábamos con konpeitou...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32530",
+      "kind": "dialogue",
+      "line_number": 247081,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32530",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100306",
+        "28/92100307"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100306\"]",
+        "[@][lv 0*\"28\"*\"92100307\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Qué pena me da.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Esa niña es un juguete viviente, una muñeca que capturaste para que pudieras jugar conmigo, Lambda.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Qué pena me da.  Esa niña es un juguete viviente, una muñeca que capturaste para que pudieras jugar conmigo, Lambda.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32531",
+      "kind": "dialogue",
+      "line_number": 247090,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32531",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200350",
+        "29/92200351",
+        "29/92200352"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200350\"]",
+        "[@][lv 0*\"29\"*\"92200351\"]",
+        "[@][lv 0*\"29\"*\"92200352\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Se me da bien jugar con muñecas...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Realmente puedo jugar muy bien con ellas, ¿sabes?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Me enorgullezco de ser capaz de jugar con un único juguete durante cientos de años sin que me canse de él.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Se me da bien jugar con muñecas...  Realmente puedo jugar muy bien con ellas, ¿sabes?  Me enorgullezco de ser capaz de jugar con un único juguete durante cientos de años sin que me canse de él.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32532",
+      "kind": "dialogue",
+      "line_number": 247093,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32532",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100308",
+        "28/92100309",
+        "28/92100310"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100308\"]",
+        "[@][lv 0*\"28\"*\"92100309\"]",
+        "[@][lv 0*\"28\"*\"92100310\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Tú eres su aliada en algunos momentos, y te opones a ella en otros,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " jugueteando con ella por toda la eternidad...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Pobrecita. Esa niña es ahora nuestra muñeca.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Tú eres su aliada en algunos momentos, y te opones a ella en otros,  jugueteando con ella por toda la eternidad...  Pobrecita. Esa niña es ahora nuestra muñeca.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32533",
+      "kind": "dialogue",
+      "line_number": 247114,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32533",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200353",
+        "29/92200354"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200353\"]",
+        "[@][lv 0*\"29\"*\"92200354\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ejejeje, así es, esa niña es nuestra muñeca.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " No hay ningún final preparado para ella excepto el que nosotras dos deseemos.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Ejejeje, así es, esa niña es nuestra muñeca.  No hay ningún final preparado para ella excepto el que nosotras dos deseemos.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32534",
+      "kind": "dialogue",
+      "line_number": 247116,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32534",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200355",
+        "29/92200356",
+        "29/92200357"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200355\"]",
+        "[@][lv 0*\"29\"*\"92200356\"]",
+        "[@][lv 0*\"29\"*\"92200357\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Así que puedo decir con certeza que esto solo puede acabar o con un empate eterno por mi culpa,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " o con Beato perdiendo y siendo destruida por tu culpa, Bern...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Jejeje... con lo que respecta a este juego terminando con la victoria de Beato...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Así que puedo decir con certeza que esto solo puede acabar o con un empate eterno por mi culpa,  o con Beato perdiendo y siendo destruida por tu culpa, Bern...  Jejeje... con lo que respecta a este juego terminando con la victoria de Beato...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32535",
+      "kind": "dialogue",
+      "line_number": 247122,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32535",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100311"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100311\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Yo lo proclamaré como la Bruja de los Milagros.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Yo lo proclamaré como la Bruja de los Milagros.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32536",
+      "kind": "dialogue",
+      "line_number": 247127,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32536",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200358"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200358\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Entonces yo lo proclamaré como la Bruja de la Certeza.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Entonces yo lo proclamaré como la Bruja de la Certeza.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32537",
+      "kind": "dialogue",
+      "line_number": 247138,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32537",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/awase0031",
+        "99/awase0032"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"awase0031\"]",
+        "[@][lv 0*\"99\"*\"awase0032\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"\"Beato con certeza no ganará.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Y un milagro con certeza no ocurrirá.\"\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"\"Beato con certeza no ganará.  Y un milagro con certeza no ocurrirá.\"\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep4.ura_teatime_4.d32538",
+      "kind": "dialogue",
+      "line_number": 247144,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_4",
+      "label": "*d32538",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/awase0033"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"awase0033\"][ak][text_speed_t 5]",
+        "[*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"\"¡¡Jajajajajajajajajajajajajaja!!...\"\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"\"¡¡Jajajajajajajajajajajajajaja!!...\"\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

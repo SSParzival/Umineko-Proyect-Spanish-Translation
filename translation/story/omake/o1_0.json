@@ -1,0 +1,1271 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.omake.o1_0",
+  "category": "omake",
+  "rel_path": "story/omake/o1_0.json",
+  "episode": null,
+  "section": "o1_0",
+  "chapter": "o1_0",
+  "description": "Omake / bonus script chapter 'o1_0'.",
+  "entry_count": 32,
+  "entries": [
+    {
+      "id": "omake.o1_0.o1_1",
+      "kind": "dialogue",
+      "line_number": 537146,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_1",
+      "speaker": "jes",
+      "voice_files": [
+        "04/10200442"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"04\"*\"10200442\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡¡KyaaaaaAAAAAAaaaaaAAaa!!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡¡KyaaaaaAAAAAAaaaaaAAaa!!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_2",
+      "kind": "dialogue",
+      "line_number": 537149,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_2",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sonó el desgarrador grito de Jessica.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sonó el desgarrador grito de Jessica.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_3",
+      "kind": "dialogue",
+      "line_number": 537151,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_3",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Pero solo porque el grito de Kamiloito había sido el más ruidoso...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " No significa que Battler y Keini no hubiesen hecho lo mismo...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Pero solo porque el grito de Kamiloito había sido el más ruidoso...  No significa que Battler y Keini no hubiesen hecho lo mismo...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_4",
+      "kind": "dialogue",
+      "line_number": 537166,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_4",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Al igual que Shimako, Vexa también extendió los brazos y gritó a los traductores de UniversoWTC con una expresión terrible.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Al igual que Shimako, Vexa también extendió los brazos y gritó a los traductores de UniversoWTC con una expresión terrible.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_5",
+      "kind": "dialogue",
+      "line_number": 537172,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_5",
+      "speaker": "eva",
+      "voice_files": [
+        "05/11000358",
+        "05/11000359",
+        "05/11000360"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"05\"*\"11000358\"]",
+        "[@][lv 0*\"05\"*\"11000359\"]",
+        "[@][lv 0*\"05\"*\"11000360\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Keini, ve a la mansión con los demás!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡Rápido!!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡Ahora mismo!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Keini, ve a la mansión con los demás!!  ¡¡Rápido!!  ¡¡Ahora mismo!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_6",
+      "kind": "dialogue",
+      "line_number": 537175,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_6",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Cuando Shimako había extendido los brazos, alguien podría haber pensado que intentaba prevenir que ellos siguiesen avanzando.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Cuando Shimako había extendido los brazos, alguien podría haber pensado que intentaba prevenir que ellos siguiesen avanzando.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_7",
+      "kind": "dialogue",
+      "line_number": 537177,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_7",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Pero ese no era el motivo por el que Vexa estaba extendiendo sus brazos.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Pero ese no era el motivo por el que Vexa estaba extendiendo sus brazos.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_8",
+      "kind": "dialogue",
+      "line_number": 537179,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_8",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Ella obviamente estaba haciendo algo con su brazo derecho detrás de su espalda...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Ella obviamente estaba haciendo algo con su brazo derecho detrás de su espalda...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_9",
+      "kind": "dialogue",
+      "line_number": 537181,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_9",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¡¿Qué está escondiendo allí?!",
+          "inline_tags": []
+        }
+      ],
+      "text": "¡¿Qué está escondiendo allí?!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_10",
+      "kind": "dialogue",
+      "line_number": 537193,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_10",
+      "speaker": "but",
+      "voice_files": [
+        "10/10100727"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"10100727\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Es esto alguna clase de broma? ¡¿Lo es?!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Es esto alguna clase de broma? ¡¿Lo es?!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_11",
+      "kind": "dialogue",
+      "line_number": 537197,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_11",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{p:1:Sí}.",
+          "inline_tags": [
+            "{p:1:Sí}"
+          ]
+        }
+      ],
+      "text": "{p:1:Sí}.",
+      "inline_tags": [
+        "{p:1:Sí}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_12",
+      "kind": "dialogue",
+      "line_number": 537205,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_12",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[!w300]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... He visto esta clase de escena barata con demasiada frecuencia.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}En manga, televisión, anime, películas...",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " y novelas visuales sobre {ruby:Cigueñas:Ciconias} que probablemente no serán terminadas (Ni traducidas) en 20 años, la he visto una y otra vez...",
+          "inline_tags": [
+            "{ruby:Cigueñas:Ciconias}"
+          ]
+        }
+      ],
+      "text": "... He visto esta clase de escena barata con demasiada frecuencia. {n}En manga, televisión, anime, películas...  y novelas visuales sobre {ruby:Cigueñas:Ciconias} que probablemente no serán terminadas (Ni traducidas) en 20 años, la he visto una y otra vez...",
+      "inline_tags": [
+        "{n}",
+        "{ruby:Cigueñas:Ciconias}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_13",
+      "kind": "dialogue",
+      "line_number": 537207,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_13",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¡¡Esto solo... solo era ver en la vida real algo que había visto tantas veces en aquellas películas sensacionales, ¿verdad?!!...",
+          "inline_tags": []
+        }
+      ],
+      "text": "¡¡Esto solo... solo era ver en la vida real algo que había visto tantas veces en aquellas películas sensacionales, ¿verdad?!!...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_14",
+      "kind": "dialogue",
+      "line_number": 537209,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_14",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[!w417]",
+        "[!w500]",
+        "[!w333]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Por eso no debería...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡¡Aaaaah,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " pero ese... ese traje,",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " es el del Jaime de LlaveCF, ¿no?...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Ya lo entiendo, entonces ese es JokerÁcido...",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " ¡¡¡Y Dam, y Remia, uwooOOOOOOoooooOOo!!!",
+          "inline_tags": []
+        }
+      ],
+      "text": "Por eso no debería...  ¡¡¡Aaaaah,  pero ese... ese traje,  es el del Jaime de LlaveCF, ¿no?...  Ya lo entiendo, entonces ese es JokerÁcido...  ¡¡¡Y Dam, y Remia, uwooOOOOOOoooooOOo!!!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_15",
+      "kind": "dialogue",
+      "line_number": 537224,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_15",
+      "speaker": "jes",
+      "voice_files": [
+        "04/10200443"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"04\"*\"10200443\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡¡Papá, PAPÁ!!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡¡Papá, PAPÁ!!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_16",
+      "kind": "dialogue",
+      "line_number": 537231,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_16",
+      "speaker": "nat",
+      "voice_files": [
+        "03/10900263",
+        "03/10900264",
+        "03/10900265"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"10900263\"]",
+        "[@][lv 0*\"03\"*\"10900264\"]",
+        "[@][lv 0*\"03\"*\"10900265\"]",
+        "[@][#][*]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡No debes, Jessica!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡No debes entrar!!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡¡No debes mirar!!!\"",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Especialmente no el excel de Jaime, él REALMENTE no tenía nada traducido.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡No debes, Jessica!!  ¡¡No debes entrar!!  ¡¡¡No debes mirar!!!\"  Especialmente no el excel de Jaime, él REALMENTE no tenía nada traducido.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_17",
+      "kind": "dialogue",
+      "line_number": 537240,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_17",
+      "speaker": "jes",
+      "voice_files": [
+        "04/10200444",
+        "04/10200445"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"04\"*\"10200444\"]",
+        "[@][#][*][lv 0*\"04\"*\"10200445\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Papá, papá!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡¡HyyaaaaaAAAAAAa!!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Papá, papá!!  ¡¡¡HyyaaaaaAAAAAAa!!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_18",
+      "kind": "dialogue",
+      "line_number": 537271,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_18",
+      "speaker": "nan",
+      "voice_files": [
+        "19/11900111",
+        "19/11900112",
+        "19/11900113"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"19\"*\"11900111\"]",
+        "[@][lv 0*\"19\"*\"11900112\"]",
+        "[|][lv 0*\"19\"*\"11900113\"]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... La onikakushion ya ha invadido totalmente los cuerpos...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Diría que,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " al menos seis horas han pasado tras sus muertes...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Mirando la zona dañada, diría que fueron asesinados por intentar traducir Higurashi...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... La onikakushion ya ha invadido totalmente los cuerpos...  Diría que,  al menos seis horas han pasado tras sus muertes...  Mirando la zona dañada, diría que fueron asesinados por intentar traducir Higurashi...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_19",
+      "kind": "dialogue",
+      "line_number": 537279,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_19",
+      "speaker": "nan",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¡No, debo tener cuidado con lo que digo!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Me vi el anime después de todo, las traducciones están fuera de mi área de experiencia!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¡No, debo tener cuidado con lo que digo!...  ¡Me vi el anime después de todo, las traducciones están fuera de mi área de experiencia!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_20",
+      "kind": "dialogue",
+      "line_number": 537285,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_20",
+      "speaker": "hid",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Mejor porteen Saku.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Mejor porteen Saku.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_21",
+      "kind": "dialogue",
+      "line_number": 537310,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_21",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Shimako sujetó a Kamiloito en sus brazos y Vexa sujetó a Keini‐aniki...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " por lo que yo era el único que pudo acercarse al repositorio de Jaime.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Shimako sujetó a Kamiloito en sus brazos y Vexa sujetó a Keini‐aniki...  por lo que yo era el único que pudo acercarse al repositorio de Jaime.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_22",
+      "kind": "dialogue",
+      "line_number": 537312,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_22",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[!w500]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Aah,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " si tan solo hubiera habido alguien aquí para sujetarme a mí también...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " no habría tenido que grabar esta terrible y malvada escena en mis ojos...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Aah,  si tan solo hubiera habido alguien aquí para sujetarme a mí también...  no habría tenido que grabar esta terrible y malvada escena en mis ojos...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_23",
+      "kind": "dialogue",
+      "line_number": 537319,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_23",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... No, no es eso.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... No, no es eso.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_24",
+      "kind": "dialogue",
+      "line_number": 537321,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_24",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... ¡¡Estoy aquí, no porque las personas que traducirían Higurashi no están aquí...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " {i:sino porque ellos solo estaban farmeando donaciones!!}",
+          "inline_tags": [
+            "{i:sino porque ellos solo estaban farmeando donaciones!!}"
+          ]
+        }
+      ],
+      "text": "... ¡¡Estoy aquí, no porque las personas que traducirían Higurashi no están aquí...  {i:sino porque ellos solo estaban farmeando donaciones!!}",
+      "inline_tags": [
+        "{i:sino porque ellos solo estaban farmeando donaciones!!}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_25",
+      "kind": "dialogue",
+      "line_number": 537323,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_25",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Tal y como había dicho Kamiloito, parecía un repositorio usado para guardar herramientas de traducción.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Tal y como había dicho Kamiloito, parecía un repositorio usado para guardar herramientas de traducción.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_26",
+      "kind": "dialogue",
+      "line_number": 537330,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_26",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Un archivo de comedia de Takoyaki traducido a la mitad,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " un falso avance del capítulo 5 y un CG mal editado,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " y el archivo con el brazo izquierdo de Houjo Teppei...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Archivos mal traducidos en inglés por MangaBodrio...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Un archivo de comedia de Takoyaki traducido a la mitad,  un falso avance del capítulo 5 y un CG mal editado,  y el archivo con el brazo izquierdo de Houjo Teppei...  Archivos mal traducidos en inglés por MangaBodrio...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_27",
+      "kind": "dialogue",
+      "line_number": 537332,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_27",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y tratados de la misma forma, los cadáveres de varias personas habían sido dejados en el lugar.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡No, habían sido arrojados allí!",
+          "inline_tags": []
+        }
+      ],
+      "text": "Y tratados de la misma forma, los cadáveres de varias personas habían sido dejados en el lugar.  ¡No, habían sido arrojados allí!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_28",
+      "kind": "dialogue",
+      "line_number": 537338,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_28",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Pude reconocerles por sus ropas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Pude reconocerles por sus ropas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_29",
+      "kind": "dialogue",
+      "line_number": 537340,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_29",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[#][*][@]",
+        "[@]",
+        "[@]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Jaime de LlaveCF y Dam...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " JokerÁcido y Remia...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Más allá... el Excel de Jaime y...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¿todavía hay más?",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " ¿Cuánta gente ha muerto?...",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " ¡No puede ser en serio! ¡Ni siquiera puedo contarlos con una mano! ¡¡¡Maldita seaaaaaaaaaaaaaaaaa!!!",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Jaime de LlaveCF y Dam...  JokerÁcido y Remia...  Más allá... el Excel de Jaime y...  ¿todavía hay más?  ¿Cuánta gente ha muerto?...  ¡No puede ser en serio! ¡Ni siquiera puedo contarlos con una mano! ¡¡¡Maldita seaaaaaaaaaaaaaaaaa!!!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_30",
+      "kind": "dialogue",
+      "line_number": 537358,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_30",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Aunque el abuelo sí podría hacerlo con su pie, ¿no?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Maldito...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Aunque el abuelo sí podría hacerlo con su pie, ¿no?  Maldito...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_31",
+      "kind": "dialogue",
+      "line_number": 537362,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_31",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "No sabía si había sido con una de esas herramientas de traducción, que si se usaran para un propósito diferente al adecuado podrían producir semejantes bodrios...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Espera, nada de esto suena bien...",
+          "inline_tags": []
+        }
+      ],
+      "text": "No sabía si había sido con una de esas herramientas de traducción, que si se usaran para un propósito diferente al adecuado podrían producir semejantes bodrios...  Espera, nada de esto suena bien...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o1_0.o1_32",
+      "kind": "dialogue",
+      "line_number": 537364,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o1_0",
+      "label": "*o1_32",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Será mejor que no deje que Beato me oiga diciendo cosas tan estúpidas como esas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Será mejor que no deje que Beato me oiga diciendo cosas tan estúpidas como esas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

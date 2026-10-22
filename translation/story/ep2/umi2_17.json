@@ -1,0 +1,4054 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.ep2.umi2_17",
+  "category": "story",
+  "rel_path": "story/ep2/umi2_17.json",
+  "episode": "ep2",
+  "section": "umi2_17",
+  "chapter": "umi2_17",
+  "description": "Episode 2 story script chapter 'umi2_17'.",
+  "entry_count": 97,
+  "entries": [
+    {
+      "id": "ep2.umi2_17.d13697",
+      "kind": "dialogue",
+      "line_number": 96490,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13697",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Battler se encontraba en el comedor.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Battler se encontraba en el comedor.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13698",
+      "kind": "dialogue",
+      "line_number": 96492,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13698",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Incapaz de reunir la voluntad necesaria para volver a la casa de huéspedes en medio de esta lluvia,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " él había vagado sin entusiasmo por la mansión en busca de un lugar al azar donde sentarse, y se había acomodado en el comedor.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Incapaz de reunir la voluntad necesaria para volver a la casa de huéspedes en medio de esta lluvia,  él había vagado sin entusiasmo por la mansión en busca de un lugar al azar donde sentarse, y se había acomodado en el comedor.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13699",
+      "kind": "dialogue",
+      "line_number": 96494,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13699",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "No se había molestado en cerrar el seguro de la puerta.",
+          "inline_tags": []
+        }
+      ],
+      "text": "No se había molestado en cerrar el seguro de la puerta.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13700",
+      "kind": "dialogue",
+      "line_number": 96496,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13700",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Pensó que tal vez el asesino sin forma, o la Bruja Dorada, podría aparecer para matarlo ahora que estaba aislado,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " pero ya no pensaba resistirse a eso.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Pensó que tal vez el asesino sin forma, o la Bruja Dorada, podría aparecer para matarlo ahora que estaba aislado,  pero ya no pensaba resistirse a eso.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13701",
+      "kind": "dialogue",
+      "line_number": 96502,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13701",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Al contrario, no tenía intención de obstaculizar al culpable con una cerradura.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Quería que esa persona se le acercara abiertamente, de frente.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Al contrario, no tenía intención de obstaculizar al culpable con una cerradura. {n}Quería que esa persona se le acercara abiertamente, de frente.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13702",
+      "kind": "dialogue",
+      "line_number": 96504,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13702",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Si se trataba de un asesino, pensó en pedirle que le contara alguno de esos maravillosos trucos de las habitaciones cerradas como recuerdo de despedida.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Si se trataba de un asesino, pensó en pedirle que le contara alguno de esos maravillosos trucos de las habitaciones cerradas como recuerdo de despedida.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13703",
+      "kind": "dialogue",
+      "line_number": 96506,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13703",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y se trataba de una bruja, pensó en pedirle que al menos le quitara la vida con alguna magia maravillosa.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Y se trataba de una bruja, pensó en pedirle que al menos le quitara la vida con alguna magia maravillosa.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13704",
+      "kind": "dialogue",
+      "line_number": 96509,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13704",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sin embargo, irónicamente, ninguno de estos dos vino a buscar a Battler...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sin embargo, irónicamente, ninguno de estos dos vino a buscar a Battler...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13705",
+      "kind": "dialogue",
+      "line_number": 96515,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13705",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Battler abrió el armario de los licores por su cuenta y disfrutó de ellos a su antojo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Ya no había nadie en ninguna parte que tuviera problemas con que bebiera alcohol.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Battler abrió el armario de los licores por su cuenta y disfrutó de ellos a su antojo. {n}Ya no había nadie en ninguna parte que tuviera problemas con que bebiera alcohol.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13706",
+      "kind": "dialogue",
+      "line_number": 96517,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13706",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Él colocó ambas piernas sobre el elegante mantel y degustó el licor de alta calidad, que seguro costó una fortuna, directamente del cuello de la botella...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Él colocó ambas piernas sobre el elegante mantel y degustó el licor de alta calidad, que seguro costó una fortuna, directamente del cuello de la botella...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13707",
+      "kind": "dialogue",
+      "line_number": 96524,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13707",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En ese momento, alguien tocó la puerta.",
+          "inline_tags": []
+        }
+      ],
+      "text": "En ese momento, alguien tocó la puerta.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13708",
+      "kind": "dialogue",
+      "line_number": 96530,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13708",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Battler se dio cuenta de que por fin habían venido a buscarlo...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Battler se dio cuenta de que por fin habían venido a buscarlo...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13709",
+      "kind": "dialogue",
+      "line_number": 96540,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13709",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101206",
+        "10/20101207",
+        "10/20101208",
+        "10/20101209",
+        "10/20101210"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101206\"]",
+        "[@][lv 0*\"10\"*\"20101207\"]",
+        "[@][lv 0*\"10\"*\"20101208\"]",
+        "[@][lv 0*\"10\"*\"20101209\"]",
+        "[@][lv 0*\"10\"*\"20101210\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Eeee~yy, no está cerrado.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Entra, quienquiera que seas.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Y por favor preséntate.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Si eres humano, dime tu nombre.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Y si eres {f:5:Beatrice}, dime tus medidas.\"",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "\"Eeee~yy, no está cerrado.  Entra, quienquiera que seas.  Y por favor preséntate.  Si eres humano, dime tu nombre.  Y si eres {f:5:Beatrice}, dime tus medidas.\"",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13710",
+      "kind": "dialogue",
+      "line_number": 96545,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13710",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101211"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101211\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Puede que no te lo creas, pero soy un sommelier de pechos bastante conocido.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Puede que no te lo creas, pero soy un sommelier de pechos bastante conocido.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13711",
+      "kind": "dialogue",
+      "line_number": 96548,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13711",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600223"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600223\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Es Genji, Battler‐sama.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Es Genji, Battler‐sama.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13712",
+      "kind": "dialogue",
+      "line_number": 96554,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13712",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101213",
+        "10/20101214",
+        "10/20101215"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101213\"]",
+        "[@][lv 0*\"10\"*\"20101214\"]",
+        "[@][lv 0*\"10\"*\"20101215\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Genji‐san, eeh.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Lo siento, pero no estoy interesado en el tamaño de tus pechos.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Por favor, entra. Está abierto.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Genji‐san, eeh.  Lo siento, pero no estoy interesado en el tamaño de tus pechos.  Por favor, entra. Está abierto.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13713",
+      "kind": "dialogue",
+      "line_number": 96564,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13713",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600224"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600224\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Con su permiso.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Con su permiso.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13714",
+      "kind": "dialogue",
+      "line_number": 96567,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13714",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Genji‐san abrió la puerta e hizo una reverencia.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Genji‐san abrió la puerta e hizo una reverencia.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13715",
+      "kind": "dialogue",
+      "line_number": 96569,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13715",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿Así que Genji-san era el culpable después de todo, o quizás un cómplice?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Esa teoría probablemente explicaría la mayoría de los trucos...",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿Así que Genji-san era el culpable después de todo, o quizás un cómplice?  Esa teoría probablemente explicaría la mayoría de los trucos...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13716",
+      "kind": "dialogue",
+      "line_number": 96580,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13716",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101216"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101216\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Has venido a darme la extremaunción?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Has venido a darme la extremaunción?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13717",
+      "kind": "dialogue",
+      "line_number": 96586,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13717",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600225",
+        "14/21600226"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600225\"]",
+        "[@][lv 0*\"14\"*\"21600226\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Nada de eso.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Pido disculpas si le estoy molestando.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Nada de eso.  Pido disculpas si le estoy molestando.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13718",
+      "kind": "dialogue",
+      "line_number": 96592,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13718",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101217",
+        "10/20101218",
+        "10/20101221"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101217\"]",
+        "[@][lv 0*\"10\"*\"20101218\"]",
+        "[@][lv 0*\"10\"*\"20101221\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Espera, espera, disculparte sin decirme lo que realmente quieres me da bastante miedo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Qué es lo que quieres?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Por favor, déjame hacer lo que me plazca, al menos antes de que todo acabe.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Espera, espera, disculparte sin decirme lo que realmente quieres me da bastante miedo.  ¿Qué es lo que quieres?  Por favor, déjame hacer lo que me plazca, al menos antes de que todo acabe.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13719",
+      "kind": "dialogue",
+      "line_number": 96598,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13719",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600227_1",
+        "14/21600228_1"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600227_1\"]",
+        "[@][lv 0*\"14\"*\"21600228_1\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Battler‐sama, ¿es realmente su deseo...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " pasar el poco tiempo que le queda de una manera tan indolente?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Battler‐sama, ¿es realmente su deseo...  pasar el poco tiempo que le queda de una manera tan indolente?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13720",
+      "kind": "dialogue",
+      "line_number": 96601,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13720",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sus palabras... me afectaron...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Por supuesto que no.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Sus palabras... me afectaron... {n}Por supuesto que no.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13721",
+      "kind": "dialogue",
+      "line_number": 96611,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13721",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101222",
+        "10/20101223",
+        "10/20101224"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101222\"]",
+        "[@][lv 0*\"10\"*\"20101223\"]",
+        "[@][lv 0*\"10\"*\"20101224\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Qué más puedo hacer en este punto?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Ya estoy listo para morir en cualquier momento...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...  ¿Qué más puedo hacer en este punto?  Ya estoy listo para morir en cualquier momento...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13722",
+      "kind": "dialogue",
+      "line_number": 96614,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13722",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600229",
+        "14/21600230"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600229\"]",
+        "[@][lv 0*\"14\"*\"21600230\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Usted es igual que el amo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Ciertamente, ha heredado bastante de la sangre del amo...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Usted es igual que el amo.  Ciertamente, ha heredado bastante de la sangre del amo...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13723",
+      "kind": "dialogue",
+      "line_number": 96617,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13723",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101225",
+        "10/20101226"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101225\"]",
+        "[@][lv 0*\"10\"*\"20101226\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Me estás diciendo que el abuelo, ese hombre más viejo que la vida misma, estaba dispuesto a morir en cualquier momento?...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Es la primera vez que oigo eso.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Me estás diciendo que el abuelo, ese hombre más viejo que la vida misma, estaba dispuesto a morir en cualquier momento?...  Es la primera vez que oigo eso.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13724",
+      "kind": "dialogue",
+      "line_number": 96625,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13724",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600231",
+        "14/21600232",
+        "14/21600233"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600231\"]",
+        "[|][lv 0*\"14\"*\"21600232\"]",
+        "[|][lv 0*\"14\"*\"21600233\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"La vida del amo,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " tras una serie de tristes incidentes,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " quedó completamente reducida a la expiación.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"La vida del amo,  tras una serie de tristes incidentes,  quedó completamente reducida a la expiación.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13725",
+      "kind": "dialogue",
+      "line_number": 96636,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13725",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101227"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101227\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Qué es lo que sabes?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Qué es lo que sabes?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13726",
+      "kind": "dialogue",
+      "line_number": 96651,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13726",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600234",
+        "14/21600235"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600234\"]",
+        "[@][#][*][lv 0*\"14\"*\"21600235\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"{f:5:Beatrice}‐sama ha completado su ritual hasta el octavo crepúsculo.",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " Creo... que ahora puedo contárselo todo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"{f:5:Beatrice}‐sama ha completado su ritual hasta el octavo crepúsculo.  Creo... que ahora puedo contárselo todo.\"",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13727",
+      "kind": "dialogue",
+      "line_number": 96665,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13727",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101228"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101228\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Q-Qué dijiste?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Q-Qué dijiste?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13728",
+      "kind": "dialogue",
+      "line_number": 96668,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13728",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Mi borrachera se esfumó por completo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Bajé los pies de la mesa y escuché atentamente qué tipo de palabras diría Genji-san a continuación...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Mi borrachera se esfumó por completo.  Bajé los pies de la mesa y escuché atentamente qué tipo de palabras diría Genji-san a continuación...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13729",
+      "kind": "dialogue",
+      "line_number": 96676,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13729",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600236",
+        "14/21600237",
+        "14/21600238"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600236\"]",
+        "[@][lv 0*\"14\"*\"21600237\"]",
+        "[@][lv 0*\"14\"*\"21600238\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Battler‐sama.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Le guiaré al estudio del amo.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Probablemente sería mejor escucharlo directamente de ellos.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Battler‐sama.  Le guiaré al estudio del amo.  Probablemente sería mejor escucharlo directamente de ellos.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13730",
+      "kind": "dialogue",
+      "line_number": 96682,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13730",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101229",
+        "10/20101230"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101229\"]",
+        "[@][lv 0*\"10\"*\"20101230\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿De... ellos?...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡O-Oye, ¿qué rayos quieres decir con eso?!!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿De... ellos?...  ¡¡O-Oye, ¿qué rayos quieres decir con eso?!!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13731",
+      "kind": "dialogue",
+      "line_number": 96699,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13731",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600239",
+        "14/21600240",
+        "14/21600241"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600239\"]",
+        "[@][lv 0*\"14\"*\"21600240\"]",
+        "[@][lv 0*\"14\"*\"21600241\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Venga, por aquí.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Le guiaré.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Battler‐sama.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Venga, por aquí.  Le guiaré.  Battler‐sama.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13732",
+      "kind": "dialogue",
+      "line_number": 96704,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13732",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Después de que Genji-san me dijera que le siguiera, empezó a caminar por el pasillo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Después de que Genji-san me dijera que le siguiera, empezó a caminar por el pasillo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13733",
+      "kind": "dialogue",
+      "line_number": 96706,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13733",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Me recompuse completamente y fui tras él...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Me recompuse completamente y fui tras él...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13734",
+      "kind": "dialogue",
+      "line_number": 96727,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13734",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Subimos por la gran escalera, hacia el tercer piso.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Genji‐san dejó de caminar a mitad de camino.",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}Se dio la vuelta y habló.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Subimos por la gran escalera, hacia el tercer piso. {n}Genji‐san dejó de caminar a mitad de camino. {n}Se dio la vuelta y habló.",
+      "inline_tags": [
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13735",
+      "kind": "dialogue",
+      "line_number": 96733,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13735",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600242",
+        "14/21600243",
+        "14/21600244"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600242\"]",
+        "[@][lv 0*\"14\"*\"21600243\"]",
+        "[|][lv 0*\"14\"*\"21600244\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Battler‐sama.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " De aquí en adelante, usted...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " probablemente vea cosas que no será capaz de entender.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Battler‐sama.  De aquí en adelante, usted...  probablemente vea cosas que no será capaz de entender.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13736",
+      "kind": "dialogue",
+      "line_number": 96739,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13736",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101231",
+        "10/20101232"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101231\"]",
+        "[@][lv 0*\"10\"*\"20101232\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No trates de intimidarme.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Hoy ya he visto muchas cosas que no soy capaz de entender.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"No trates de intimidarme.  Hoy ya he visto muchas cosas que no soy capaz de entender.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13737",
+      "kind": "dialogue",
+      "line_number": 96745,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13737",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600245",
+        "14/21600246"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600245\"]",
+        "[@][lv 0*\"14\"*\"21600246\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Por favor, acepte lo que ve como lo que ve,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y lo que oye como lo que oye.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Por favor, acepte lo que ve como lo que ve,  y lo que oye como lo que oye.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13738",
+      "kind": "dialogue",
+      "line_number": 96750,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13738",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600247",
+        "14/21600248",
+        "14/21600249",
+        "14/21600250",
+        "14/21600251",
+        "14/21600252"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600247\"]",
+        "[@][lv 0*\"14\"*\"21600248\"]",
+        "[@][lv 0*\"14\"*\"21600249\"]",
+        "[@][lv 0*\"14\"*\"21600250\"]",
+        "[@][lv 0*\"14\"*\"21600251\"]",
+        "[@][lv 0*\"14\"*\"21600252\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Preguntas como ‘¿Por qué?’,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " o ‘¿Qué?’,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ya no son necesarias.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Battler‐sama, usted probablemente acabe conociendo la verdad.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Lo acepte o no, que lo crea,",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " o que lo niegue, depende de usted.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Preguntas como ‘¿Por qué?’,  o ‘¿Qué?’,  ya no son necesarias.  Battler‐sama, usted probablemente acabe conociendo la verdad.  Lo acepte o no, que lo crea,  o que lo niegue, depende de usted.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13739",
+      "kind": "dialogue",
+      "line_number": 96756,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13739",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101233"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101233\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13740",
+      "kind": "dialogue",
+      "line_number": 96759,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13740",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Genji-san comprobó por última vez si yo estaba preparado para saber la verdad.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Genji-san comprobó por última vez si yo estaba preparado para saber la verdad.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13741",
+      "kind": "dialogue",
+      "line_number": 96761,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13741",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El octavo crepúsculo ya había terminado.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Y en el noveno crepúsculo, la bruja revivirá... y nadie podrá quedar con vida.",
+          "inline_tags": []
+        }
+      ],
+      "text": "El octavo crepúsculo ya había terminado.  Y en el noveno crepúsculo, la bruja revivirá... y nadie podrá quedar con vida.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13742",
+      "kind": "dialogue",
+      "line_number": 96763,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13742",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Eso significa que {f:5:Beatrice} ya debe haber revivido.",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": "{n}Y probablemente, a ninguno de nosotros se nos permitirá regresar con vida.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Eso significa que {f:5:Beatrice} ya debe haber revivido. {n}Y probablemente, a ninguno de nosotros se nos permitirá regresar con vida.",
+      "inline_tags": [
+        "{f:5:Beatrice}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13743",
+      "kind": "dialogue",
+      "line_number": 96765,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13743",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Si iba a perder la vida de todos modos, quiero saber la verdad al final de todo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}No importaba lo difícil que fuera aceptarlo.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Si iba a perder la vida de todos modos, quiero saber la verdad al final de todo. {n}No importaba lo difícil que fuera aceptarlo.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13744",
+      "kind": "dialogue",
+      "line_number": 96774,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13744",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101234",
+        "10/20101235"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101234\"]",
+        "[@][lv 0*\"10\"*\"20101235\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Sí.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Incluso si aparece un demonio o una bruja, estoy preparado.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Sí.  Incluso si aparece un demonio o una bruja, estoy preparado.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13745",
+      "kind": "dialogue",
+      "line_number": 96780,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13745",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600253",
+        "14/21600254",
+        "14/21600255",
+        "14/21600256"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600253\"]",
+        "[@][lv 0*\"14\"*\"21600254\"]",
+        "[@][lv 0*\"14\"*\"21600255\"]",
+        "[@][lv 0*\"14\"*\"21600256\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Realmente es igual que el amo en su juventud.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Battler‐sama, por favor, sea diligente en sus estudios.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " En el futuro, seguro que tendrá grandes aspiraciones.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Y asegúrese de que, en ese momento, no se vea forzado a una vida de arrepentimiento por falta de conocimientos académicos.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Realmente es igual que el amo en su juventud.  Battler‐sama, por favor, sea diligente en sus estudios.  En el futuro, seguro que tendrá grandes aspiraciones.  Y asegúrese de que, en ese momento, no se vea forzado a una vida de arrepentimiento por falta de conocimientos académicos.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13746",
+      "kind": "dialogue",
+      "line_number": 96786,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13746",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101236"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101236\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Si tengo la oportunidad de esforzarme en mis estudios, entonces no hay problema.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Si tengo la oportunidad de esforzarme en mis estudios, entonces no hay problema.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13747",
+      "kind": "dialogue",
+      "line_number": 96792,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13747",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600257"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600257\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13748",
+      "kind": "dialogue",
+      "line_number": 96795,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13748",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El silencio de Genji-san me obligó a considerar mi resignación aún más profundamente...",
+          "inline_tags": []
+        }
+      ],
+      "text": "El silencio de Genji-san me obligó a considerar mi resignación aún más profundamente...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13749",
+      "kind": "dialogue",
+      "line_number": 96813,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13749",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y entonces, pudimos ver la puerta del estudio del abuelo, impregnada de un olor agridulce.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Y entonces, pudimos ver la puerta del estudio del abuelo, impregnada de un olor agridulce.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13750",
+      "kind": "dialogue",
+      "line_number": 96817,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13750",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "De su bolsillo, Genji-san sacó una llave dorada con un elegante diseño.",
+          "inline_tags": []
+        }
+      ],
+      "text": "De su bolsillo, Genji-san sacó una llave dorada con un elegante diseño.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13751",
+      "kind": "dialogue",
+      "line_number": 96820,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13751",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Las llaves maestras fueron confiscadas por la tía Rosa, pero él se quedó con la llave del estudio.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Las llaves maestras fueron confiscadas por la tía Rosa, pero él se quedó con la llave del estudio.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13752",
+      "kind": "dialogue",
+      "line_number": 96822,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13752",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La introdujo en el agujero de la cerradura, e hizo un fuerte ruido metálico.",
+          "inline_tags": []
+        }
+      ],
+      "text": "La introdujo en el agujero de la cerradura, e hizo un fuerte ruido metálico.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13753",
+      "kind": "dialogue",
+      "line_number": 96830,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13753",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600258",
+        "14/21600259",
+        "14/21600260"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600258\"]",
+        "[@][lv 0*\"14\"*\"21600259\"]",
+        "[@][lv 0*\"14\"*\"21600260\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Amo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Es Genji.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " He traído a Battler‐sama conmigo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Amo.  Es Genji.  He traído a Battler‐sama conmigo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13754",
+      "kind": "dialogue",
+      "line_number": 96833,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13754",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "No hubo respuesta, pero parece que se había dado permiso para entrar...",
+          "inline_tags": []
+        }
+      ],
+      "text": "No hubo respuesta, pero parece que se había dado permiso para entrar...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13755",
+      "kind": "dialogue",
+      "line_number": 96841,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13755",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600261",
+        "14/21600262"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600261\"]",
+        "[@][lv 0*\"14\"*\"21600262\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Adelante, Battler‐sama.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Por favor, entre.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Adelante, Battler‐sama.  Por favor, entre.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13756",
+      "kind": "dialogue",
+      "line_number": 96847,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13756",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101237",
+        "10/20101238"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101237\"]",
+        "[@][lv 0*\"10\"*\"20101238\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Sí.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Voy a entrar.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Sí.  Voy a entrar.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13757",
+      "kind": "dialogue",
+      "line_number": 96850,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13757",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Me preparé, y abrí la puerta de golpe...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Me preparé, y abrí la puerta de golpe...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13758",
+      "kind": "dialogue",
+      "line_number": 96883,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13758",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En ese momento, me desorienté un poco por el deslumbrante resplandor dorado...",
+          "inline_tags": []
+        }
+      ],
+      "text": "En ese momento, me desorienté un poco por el deslumbrante resplandor dorado...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13759",
+      "kind": "dialogue",
+      "line_number": 96885,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13759",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[!w583]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Era como, de alguna forma,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " un enjambre de mariposas, doradas y brillantes.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Era como, de alguna forma,  un enjambre de mariposas, doradas y brillantes.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13760",
+      "kind": "dialogue",
+      "line_number": 96887,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13760",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Las mariposas doradas que ocupaban por completo el interior del estudio salieron todas a la vez...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Las mariposas doradas que ocupaban por completo el interior del estudio salieron todas a la vez...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13761",
+      "kind": "dialogue",
+      "line_number": 96906,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13761",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101239",
+        "10/20101240",
+        "10/20101241"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101239\"]",
+        "[|][lv 0*\"10\"*\"20101240\"]",
+        "[|][lv 0*\"10\"*\"20101241\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Q-",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "Qué diablos...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " es eeeesto?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Q- Qué diablos...  es eeeesto?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13762",
+      "kind": "dialogue",
+      "line_number": 96909,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13762",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Era casi como confeti dorado.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}El interior del estudio del abuelo estaba lleno de un resplandor dorado...",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Era casi como confeti dorado. {n}El interior del estudio del abuelo estaba lleno de un resplandor dorado...",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13763",
+      "kind": "dialogue",
+      "line_number": 96924,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13763",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y... había sofás y una mesa para recibir a los invitados delante del escritorio del estudio,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y pude ver la espalda del abuelo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Y... había sofás y una mesa para recibir a los invitados delante del escritorio del estudio,  y pude ver la espalda del abuelo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13764",
+      "kind": "dialogue",
+      "line_number": 96926,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13764",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Había alguien en el lado opuesto al abuelo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Estaba en la sombra, así que no pude verlo bien...",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Había alguien en el lado opuesto al abuelo. {n}Estaba en la sombra, así que no pude verlo bien...",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13765",
+      "kind": "dialogue",
+      "line_number": 96932,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13765",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600263",
+        "14/21600264"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600263\"]",
+        "[@][lv 0*\"14\"*\"21600264\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Amo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " He traído a Battler‐sama.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Amo.  He traído a Battler‐sama.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13766",
+      "kind": "dialogue",
+      "line_number": 96938,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13766",
+      "speaker": "kin",
+      "voice_files": [
+        "01/21500232",
+        "01/21500233",
+        "01/21500234"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"01\"*\"21500232\"]",
+        "[@][lv 0*\"01\"*\"21500233\"]",
+        "[@][lv 0*\"01\"*\"21500234\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Battler, ¿no?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Ahora estoy ocupado pensando...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Guarda silencio por un momento...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Battler, ¿no?  Ahora estoy ocupado pensando...  Guarda silencio por un momento...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13767",
+      "kind": "dialogue",
+      "line_number": 96941,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13767",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Kinzo declaró eso disgustado, aún de espaldas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Kinzo declaró eso disgustado, aún de espaldas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13768",
+      "kind": "dialogue",
+      "line_number": 96943,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13768",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Parecía que estaba disfrutando de su partida de ajedrez con un visitante...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Parecía que estaba disfrutando de su partida de ajedrez con un visitante...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13769",
+      "kind": "dialogue",
+      "line_number": 96945,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13769",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Aparentemente, el oponente había contraatacado con un movimiento excelente.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Kinzo parecía divertirse al pensar profundamente, mientras de vez en cuando reía y gemía...",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Aparentemente, el oponente había contraatacado con un movimiento excelente. {n}Kinzo parecía divertirse al pensar profundamente, mientras de vez en cuando reía y gemía...",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13770",
+      "kind": "dialogue",
+      "line_number": 96959,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13770",
+      "speaker": "bea",
+      "voice_files": [
+        "27/20701498",
+        "27/20701499",
+        "27/20701500"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"20701498\"]",
+        "[@][lv 0*\"27\"*\"20701499\"]",
+        "[@][lv 0*\"27\"*\"20701500\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Pensé durante treinta años.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Pensé durante treinta años en cómo contraatacar este movimiento...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Diviértete, diviértete con el movimiento que fermenté durante treinta años.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Pensé durante treinta años.  Pensé durante treinta años en cómo contraatacar este movimiento...  Diviértete, diviértete con el movimiento que fermenté durante treinta años.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13771",
+      "kind": "dialogue",
+      "line_number": 96965,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13771",
+      "speaker": "kin",
+      "voice_files": [
+        "01/21500235",
+        "01/21500235_1",
+        "01/21500236",
+        "01/21500237"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"01\"*\"21500235\"]",
+        "[@][lv 0*\"01\"*\"21500235_1\"]",
+        "[@][#][*][lv 0*\"01\"*\"21500236\"]",
+        "[@][lv 0*\"01\"*\"21500237\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Jejejejejejeje.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " En efecto, se trata de un movimiento profundamente maduro.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡Qué divertido, qué divertido... *carcajada*carcajada*carcajada*carcajada*, jajajajajaja!!...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Inigualable, inigualable.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Jejejejejejeje.  En efecto, se trata de un movimiento profundamente maduro.  ¡¡Qué divertido, qué divertido... *carcajada*carcajada*carcajada*carcajada*, jajajajajaja!!...  Inigualable, inigualable.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13772",
+      "kind": "dialogue",
+      "line_number": 96984,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13772",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101242",
+        "10/20101243",
+        "10/20101244"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101242\"]",
+        "[|][lv 0*\"10\"*\"20101243\"]",
+        "[|][lv 0*\"10\"*\"20101244\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Q‐",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "Qué es...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " esto?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Q‐ Qué es...  esto?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13773",
+      "kind": "dialogue",
+      "line_number": 96990,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13773",
+      "speaker": "bea",
+      "voice_files": [
+        "27/20701501",
+        "27/20701502",
+        "27/20701503",
+        "27/20701504",
+        "27/20701505",
+        "27/20701506"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"20701501\"]",
+        "[@][lv 0*\"27\"*\"20701502\"]",
+        "[@][lv 0*\"27\"*\"20701503\"]",
+        "[@][#][*][lv 0*\"27\"*\"20701504\"]",
+        "[@][lv 0*\"27\"*\"20701505\"]",
+        "[@][lv 0*\"27\"*\"20701506\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Así que viniste, Battler.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Espera un momento.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Guarda silencio por el bien de Kinzo.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¿No es demasiado pronto para resignarse, Kinzo?",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Yo ya puedo contraatacar con varios movimientos.",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " ¡*carcajada*carcajada*carcajada*!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Así que viniste, Battler.  Espera un momento.  Guarda silencio por el bien de Kinzo.  ¿No es demasiado pronto para resignarse, Kinzo?  Yo ya puedo contraatacar con varios movimientos.  ¡*carcajada*carcajada*carcajada*!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13774",
+      "kind": "dialogue",
+      "line_number": 97007,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13774",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[!w250]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": " Este debería haber sido...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " mi primer encuentro con esa bruja.",
+          "inline_tags": []
+        }
+      ],
+      "text": " Este debería haber sido...  mi primer encuentro con esa bruja.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13775",
+      "kind": "dialogue",
+      "line_number": 97009,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13775",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[!w500]",
+        "[!w500]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sin embargo, yo conocía a esta bruja.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}A pesar de que era nuestro primer encuentro,",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " yo la conocía,",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " del retrato...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sin embargo, yo conocía a esta bruja. {n}A pesar de que era nuestro primer encuentro,  yo la conocía,  del retrato...",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13776",
+      "kind": "dialogue",
+      "line_number": 97025,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13776",
+      "speaker": "bea",
+      "voice_files": [
+        "27/20701507",
+        "27/20701508",
+        "27/20701509"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"20701507\"]",
+        "[@][lv 0*\"27\"*\"20701508\"]",
+        "[@][lv 0*\"27\"*\"20701509\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Genji.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Sírvele algo a Battler.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¿Qué sería lo más apropiado para este hombre?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Genji.  Sírvele algo a Battler.  ¿Qué sería lo más apropiado para este hombre?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13777",
+      "kind": "dialogue",
+      "line_number": 97031,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13777",
+      "speaker": "gen",
+      "voice_files": [
+        "14/21600265"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"14\"*\"21600265\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Lo mismo que el amo ha amado desde los días de su juventud.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Lo mismo que el amo ha amado desde los días de su juventud.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13778",
+      "kind": "dialogue",
+      "line_number": 97037,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13778",
+      "speaker": "bea",
+      "voice_files": [
+        "27/20701510",
+        "27/20701511",
+        "27/20701512"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"20701510\"]",
+        "[@][lv 0*\"27\"*\"20701511\"]",
+        "[@][lv 0*\"27\"*\"20701512\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Eso es perfecto; sírveselo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Hiciste bien en venir aquí, Ushiromiya Battler.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Primero, toma asiento.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Eso es perfecto; sírveselo.  Hiciste bien en venir aquí, Ushiromiya Battler.  Primero, toma asiento.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13779",
+      "kind": "dialogue",
+      "line_number": 97042,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13779",
+      "speaker": "bea",
+      "voice_files": [
+        "27/20701513",
+        "27/20701514",
+        "27/20701515",
+        "27/20701516"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"20701513\"]",
+        "[@][lv 0*\"27\"*\"20701514\"]",
+        "[@][lv 0*\"27\"*\"20701515\"]",
+        "[@][lv 0*\"27\"*\"20701516\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Me has llamado varias veces, ¿no es así?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " En deferencia a eso, te permití reunirte conmigo.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Entonces, ¿qué me vas a preguntar?",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¿Qué vas a inquirir?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Me has llamado varias veces, ¿no es así?  En deferencia a eso, te permití reunirte conmigo.  Entonces, ¿qué me vas a preguntar?  ¿Qué vas a inquirir?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13780",
+      "kind": "dialogue",
+      "line_number": 97044,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13780",
+      "speaker": "bea",
+      "voice_files": [
+        "27/20701517",
+        "27/20701518",
+        "27/20701519"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"20701517\"]",
+        "[@][lv 0*\"27\"*\"20701518\"]",
+        "[@][lv 0*\"27\"*\"20701519\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"La puerta a la Tierra Dorada se abrirá pronto.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Pronto, tendremos un banquete para celebrar mi resurrección, en el que daré la bienvenida a las brujas.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Mientras tanto, responderé a tus preguntas, a todas las que quieras.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"La puerta a la Tierra Dorada se abrirá pronto.  Pronto, tendremos un banquete para celebrar mi resurrección, en el que daré la bienvenida a las brujas.  Mientras tanto, responderé a tus preguntas, a todas las que quieras.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13781",
+      "kind": "dialogue",
+      "line_number": 97057,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13781",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101245",
+        "10/20101246",
+        "10/20101247"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101245\"]",
+        "[@][lv 0*\"10\"*\"20101246\"]",
+        "[@][lv 0*\"10\"*\"20101247\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Tengo un montón de cosas sobre las que quiero preguntar!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¿Qué ocurrió en esta isla?!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¿Y por qué ocurrieron estos incidentes?!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Tengo un montón de cosas sobre las que quiero preguntar!!  ¡¿Qué ocurrió en esta isla?!  ¡¿Y por qué ocurrieron estos incidentes?!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13782",
+      "kind": "dialogue",
+      "line_number": 97059,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13782",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101248",
+        "10/20101249",
+        "10/20101250",
+        "10/20101251",
+        "10/20101252",
+        "10/20101253"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101248\"]",
+        "[@][lv 0*\"10\"*\"20101249\"]",
+        "[@][lv 0*\"10\"*\"20101250\"]",
+        "[@][lv 0*\"10\"*\"20101251\"]",
+        "[@][lv 0*\"10\"*\"20101252\"]",
+        "[@][lv 0*\"10\"*\"20101253\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡También quiero preguntar sobre las habitaciones cerradas!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¿Qué hay de la capilla?!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¿Qué hay de la habitación de Jessica?!",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡¿Y de la habitación de los sirvientes?!",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " ¡¿Y de la habitación de la tía Natsuhi?!",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " ¡¿Y del salón?!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡También quiero preguntar sobre las habitaciones cerradas!!  ¡¿Qué hay de la capilla?!  ¡¿Qué hay de la habitación de Jessica?!  ¡¿Y de la habitación de los sirvientes?!  ¡¿Y de la habitación de la tía Natsuhi?!  ¡¿Y del salón?!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13783",
+      "kind": "dialogue",
+      "line_number": 97064,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13783",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101254",
+        "10/20101255",
+        "10/20101256",
+        "10/20101257",
+        "10/20101258"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101254\"]",
+        "[#][*][@][lv 0*\"10\"*\"20101255\"]",
+        "[@][lv 0*\"10\"*\"20101256\"]",
+        "[@][lv 0*\"10\"*\"20101257\"]",
+        "[@][lv 0*\"10\"*\"20101258\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Todavía hay más cosas que quiero preguntar!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡Con lo que respecta a la verdadera naturaleza de la bruja!!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡¿De verdad eres una bruja?!!",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡¡¿Cuál es tu propósito, qué quieres que hagamos y por qué me has llamado?!!",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " ¡¡¡Respóndeme a todo!!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Todavía hay más cosas que quiero preguntar!!  ¡¡Con lo que respecta a la verdadera naturaleza de la bruja!!  ¡¡¿De verdad eres una bruja?!!  ¡¡¿Cuál es tu propósito, qué quieres que hagamos y por qué me has llamado?!!  ¡¡¡Respóndeme a todo!!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13784",
+      "kind": "dialogue",
+      "line_number": 97088,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13784",
+      "speaker": "kin",
+      "voice_files": [
+        "01/21500238",
+        "01/21500239"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"01\"*\"21500238\"]",
+        "[#][*][@][lv 0*\"01\"*\"21500239\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Arrrrghhh, cállate!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¿¡¿Crees que solo preguntando obtendrás respuestas?!?!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Arrrrghhh, cállate!!  ¡¿¡¿Crees que solo preguntando obtendrás respuestas?!?!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13785",
+      "kind": "dialogue",
+      "line_number": 97109,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13785",
+      "speaker": "bea",
+      "voice_files": [
+        "27/20701520",
+        "27/20701521",
+        "27/20701522"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"20701520\"]",
+        "[@][lv 0*\"27\"*\"20701521\"]",
+        "[@][lv 0*\"27\"*\"20701522\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No digas eso, Kinzo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Una frágil y endeble telaraña protegió una vez del rey Herodes.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Así como no hay cosas inútiles en este mundo, tampoco hay preguntas inútiles.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"No digas eso, Kinzo.  Una frágil y endeble telaraña protegió una vez del rey Herodes.  Así como no hay cosas inútiles en este mundo, tampoco hay preguntas inútiles.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13786",
+      "kind": "dialogue",
+      "line_number": 97114,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13786",
+      "speaker": "bea",
+      "voice_files": [
+        "27/20701523",
+        "27/20701524"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"20701523\"]",
+        "[@][lv 0*\"27\"*\"20701524\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Muy bien, responderé a todas tus preguntas.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Pero con una condición.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Muy bien, responderé a todas tus preguntas.  Pero con una condición.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13787",
+      "kind": "dialogue",
+      "line_number": 97120,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13787",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101259"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101259\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Qué cosa?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Qué cosa?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13788",
+      "kind": "dialogue",
+      "line_number": 97126,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13788",
+      "speaker": "bea",
+      "voice_files": [
+        "27/20701525",
+        "27/20701526",
+        "27/20701527"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"20701525\"]",
+        "[@][lv 0*\"27\"*\"20701526\"]",
+        "[@][lv 0*\"27\"*\"20701527\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Una vez que ya hayas escuchado todo, si estás satisfecho con mi existencia,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " arrodíllate, y besa mis zapatos.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Te llamé aquí porque quería que te sometieras a mí.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Una vez que ya hayas escuchado todo, si estás satisfecho con mi existencia,  arrodíllate, y besa mis zapatos.  Te llamé aquí porque quería que te sometieras a mí.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13789",
+      "kind": "dialogue",
+      "line_number": 97131,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13789",
+      "speaker": "bea",
+      "voice_files": [
+        "27/20701528",
+        "27/20701529",
+        "27/20701530",
+        "27/20701531"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"20701528\"]",
+        "[@][lv 0*\"27\"*\"20701529\"]",
+        "[@][lv 0*\"27\"*\"20701530\"]",
+        "[@][lv 0*\"27\"*\"20701531\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Kinzo y yo hicimos una apuesta.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Apostamos sobre qué sucedería primero, que Kinzo piense en un nuevo movimiento, o que yo te forzara a someterte.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Y no me veo perdiendo esa apuesta.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡*carcajada*carcajada*carcajada*carcajada*!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Kinzo y yo hicimos una apuesta.  Apostamos sobre qué sucedería primero, que Kinzo piense en un nuevo movimiento, o que yo te forzara a someterte.  Y no me veo perdiendo esa apuesta.  ¡*carcajada*carcajada*carcajada*carcajada*!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13790",
+      "kind": "dialogue",
+      "line_number": 97137,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13790",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101260",
+        "10/20101261",
+        "10/20101262",
+        "10/20101263"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101260\"]",
+        "[@][lv 0*\"10\"*\"20101261\"]",
+        "[@][lv 0*\"10\"*\"20101262\"]",
+        "[@][lv 0*\"10\"*\"20101263\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡M-Maldita, actúas tan arrogante!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Sí, está bien.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Intenta que lo admita.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡¡Intenta hacerme admitir que eres una bruja y que puedes usar una extraña, asombrosa y gran magia!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡M-Maldita, actúas tan arrogante!!  Sí, está bien.  Intenta que lo admita.  ¡¡Intenta hacerme admitir que eres una bruja y que puedes usar una extraña, asombrosa y gran magia!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13791",
+      "kind": "dialogue",
+      "line_number": 97142,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13791",
+      "speaker": "but",
+      "voice_files": [
+        "10/20101264"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"20101264\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡¡Si me someto, te besaré los zapatos o lo que sea!!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡¡Si me someto, te besaré los zapatos o lo que sea!!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13792",
+      "kind": "dialogue",
+      "line_number": 97148,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13792",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La bruja se rio a carcajadas, regodeándose.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Entonces, ella lo miró desagradablemente con ojos que decían que un hombre no puede faltar a su palabra...",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "La bruja se rio a carcajadas, regodeándose. {n}Entonces, ella lo miró desagradablemente con ojos que decían que un hombre no puede faltar a su palabra...",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.umi2_17.d13793",
+      "kind": "dialogue",
+      "line_number": 97154,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi2_17",
+      "label": "*d13793",
+      "speaker": "bea",
+      "voice_files": [
+        "27/20701532",
+        "27/20701533",
+        "27/20701534",
+        "27/20701535"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"20701532\"]",
+        "[@][lv 0*\"27\"*\"20701533\"]",
+        "[@][lv 0*\"27\"*\"20701534\"]",
+        "[@][lv 0*\"27\"*\"20701535\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Bien dicho!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Entonces, ¡¿por dónde empiezo?!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡Responderé a todo!!",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡Vamos, ¿cuál será la primera?!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Bien dicho!!  Entonces, ¡¿por dónde empiezo?!  ¡¡Responderé a todo!!  ¡Vamos, ¿cuál será la primera?!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "status": "ok",
+  "tool_version": "1.0.0",
+  "container": {
+    "format": "ONS2",
+    "magic": "ONS2",
+    "key_flag": 110,
+    "encoding": "utf-8",
+    "zlib_level": 6,
+    "zlib_wbits": 15,
+    "zlib_mem_level": 9,
+    "original_file_size": 4577201,
+    "original_comp_size": 4577185,
+    "original_uncomp_size": 19624486,
+    "original_sha256": "0c00c9cf156b6429e01e6f1d26a6ae655329ef8301b6719a1742834b524300e1",
+    "original_zlib_adler32": "00b2ab8f",
+    "plaintext_sha256": "226fbb7afefc44a42d1c656070f603813f46df58ab6a11dc65f68510282881d7",
+    "trailing_newline": true
+  },
+  "script_metadata": {
+    "mode_directive": ";mode1920@2172,1222,value2500",
+    "gameid": ";gameid UminekoPS3ficationEs",
+    "version": "8.2b",
+    "releasedate": 1759200733,
+    "localisation": "es",
+    "total_lines": 585050,
+    "total_entries": 68651
+  },
+  "counts": {
+    "catalog_files": 182,
+    "block_files": 11,
+    "total_entries": 68651,
+    "dialogue_entries": 66576,
+    "string_entries": 2075,
+    "warnings": 29
+  },
+  "warnings": [
+    {
+      "code": "STRAY_BACKTICK_IN_DIALOGUE",
+      "line_number": 35501,
+      "entry_id": "ep1.umi1_12.d5406",
+      "message": "Dialogue line contains an extra backtick inside a segment (ep1.umi1_12.d5406)."
+    },
+    {
+      "code": "STRAY_BACKTICK_IN_DIALOGUE",
+      "line_number": 41228,
+      "entry_id": "ep1.umi1_15.d6323",
+      "message": "Dialogue line contains an extra backtick inside a segment (ep1.umi1_15.d6323)."
+    },
+    {
+      "code": "STRAY_BACKTICK_IN_DIALOGUE",
+      "line_number": 54149,
+      "entry_id": "ep2.umi2_2.d8074",
+      "message": "Dialogue line contains an extra backtick inside a segment (ep2.umi2_2.d8074)."
+    },
+    {
+      "code": "STRAY_BACKTICK_IN_DIALOGUE",
+      "line_number": 103938,
+      "entry_id": "ep3.umi3_1.d14285",
+      "message": "Dialogue line contains an extra backtick inside a segment (ep3.umi3_1.d14285)."
+    },
+    {
+      "code": "STRAY_BACKTICK_IN_DIALOGUE",
+      "line_number": 113336,
+      "entry_id": "ep3.umi3_4.d15575",
+      "message": "Dialogue line contains an extra backtick inside a segment (ep3.umi3_4.d15575)."
+    },
+    {
+      "code": "STRAY_BACKTICK_IN_DIALOGUE",
+      "line_number": 216309,
+      "entry_id": "ep4.umi4_16.d28204",
+      "message": "Dialogue line contains an extra backtick inside a segment (ep4.umi4_16.d28204)."
+    },
+    {
+      "code": "STRAY_BACKTICK_IN_DIALOGUE",
+      "line_number": 225711,
+      "entry_id": "ep4.umi4_17.d28976",
+      "message": "Dialogue line contains an extra backtick inside a segment (ep4.umi4_17.d28976)."
+    },
+    {
+      "code": "UNBALANCED_BRACES_IN_SOURCE",
+      "line_number": 281976,
+      "entry_id": "ep5.umi5_11.d39634",
+      "message": "Dialogue line has pre-existing unbalanced '{'/'}' braces (ep5.umi5_11.d39634)."
+    },
+    {
+      "code": "UNBALANCED_BRACES_IN_SOURCE",
+      "line_number": 285998,
+      "entry_id": "ep5.umi5_12.d40006",
+      "message": "Dialogue line has pre-existing unbalanced '{'/'}' braces (ep5.umi5_12.d40006)."
+    },
+    {
+      "code": "UNBALANCED_BRACES_IN_SOURCE",
+      "line_number": 304542,
+      "entry_id": "ep5.umi5_14.d41871",
+      "message": "Dialogue line has pre-existing unbalanced '{'/'}' braces (ep5.umi5_14.d41871)."
+    },
+    {
+      "code": "UNBALANCED_BRACES_IN_SOURCE",
+      "line_number": 304591,
+      "entry_id": "ep5.umi5_14.d41872",
+      "message": "Dialogue line has pre-existing unbalanced '{'/'}' braces (ep5.umi5_14.d41872)."
+    },
+    {
+      "code": "STRAY_BACKTICK_IN_DIALOGUE",
+      "line_number": 340322,
+      "entry_id": "ep6.umi6_8.d45080",
+      "message": "Dialogue line contains an extra backtick inside a segment (ep6.umi6_8.d45080)."
+    },
+    {
+      "code": "STRAY_BACKTICK_IN_DIALOGUE",
+      "line_number": 340356,
+      "entry_id": "ep6.umi6_8.d45083",
+      "message": "Dialogue line contains an extra backtick inside a segment (ep6.umi6_8.d45083)."
+    },
+    {
+      "code": "STRAY_BACKTICK_IN_DIALOGUE",
+      "line_number": 358578,
+      "entry_id": "ep6.umi6_12.d46804",
+      "message": "Dialogue line contains an extra backtick inside a segment (ep6.umi6_12.d46804)."
+    },
+    {
+      "code": "UNBALANCED_BRACES_IN_SOURCE",
+      "line_number": 391123,
+      "entry_id": "ep6.umi6_18.d50337",
+      "message": "Dialogue line has pre-existing unbalanced '{'/'}' braces (ep6.umi6_18.d50337)."
+    },
+    {
+      "code": "UNBALANCED_BRACES_IN_SOURCE",
+      "line_number": 517061,
+      "entry_id": "ep8.umi8_15.d63997",
+      "message": "Dialogue line has pre-existing unbalanced '{'/'}' braces (ep8.umi8_15.d63997)."
+    },
+    {
+      "code": "UNBALANCED_BRACES_IN_SOURCE",
+      "line_number": 539689,
+      "entry_id": "omake.chiru_trailer.trailer21",
+      "message": "Dialogue line has pre-existing unbalanced '{'/'}' braces (omake.chiru_trailer.trailer21)."
+    },
+    {
+      "code": "STRAY_BACKTICK_IN_DIALOGUE",
+      "line_number": 540645,
+      "entry_id": "omake.chiru_trailer.trailer67",
+      "message": "Dialogue line contains an extra backtick inside a segment (omake.chiru_trailer.trailer67)."
+    },
+    {
+      "code": "STRAY_BACKTICK_IN_DIALOGUE",
+      "line_number": 542814,
+      "entry_id": "omake.o9_0.o9_32",
+      "message": "Dialogue line contains an extra backtick inside a segment (omake.o9_0.o9_32)."
+    },
+    {
+      "code": "MULTILINE_STRALIAS",
+      "line_number": 545028,
+      "entry_id": "stralias.chars_3_hid_2",
+      "message": "stralias 'chars_3_hid_2' spans 2 physical lines."
+    },
+    {
+      "code": "EMBEDDED_QUOTE_IN_STRALIAS",
+      "line_number": 545143,
+      "entry_id": "stralias.chars_4_3_eva_1",
+      "message": "stralias 'chars_4_3_eva_1' contains unescaped ASCII double quotes inside literal."
+    },
+    {
+      "code": "EMBEDDED_QUOTE_IN_STRALIAS",
+      "line_number": 545158,
+      "entry_id": "stralias.chars_4_3_sak_1",
+      "message": "stralias 'chars_4_3_sak_1' contains unescaped ASCII double quotes inside literal."
+    },
+    {
+      "code": "MULTILINE_STRALIAS",
+      "line_number": 545382,
+      "entry_id": "stralias.chars_bernquiz_mar_1",
+      "message": "stralias 'chars_bernquiz_mar_1' spans 2 physical lines."
+    },
+    {
+      "code": "MISSING_COMMA_IN_STRALIAS",
+      "line_number": 546044,
+      "entry_id": "stralias.clock_scenario_6_10",
+      "message": "stralias 'clock_scenario_6_10' omits comma separator before string literal."
+    },
+    {
+      "code": "MISSING_COMMA_IN_STRALIAS",
+      "line_number": 546045,
+      "entry_id": "stralias.clock_scenario_6_11",
+      "message": "stralias 'clock_scenario_6_11' omits comma separator before string literal."
+    },
+    {
+      "code": "MISSING_COMMA_IN_STRALIAS",
+      "line_number": 546046,
+      "entry_id": "stralias.clock_scenario_6_12",
+      "message": "stralias 'clock_scenario_6_12' omits comma separator before string literal."
+    },
+    {
+      "code": "MISSING_COMMA_IN_STRALIAS",
+      "line_number": 546047,
+      "entry_id": "stralias.clock_scenario_6_13",
+      "message": "stralias 'clock_scenario_6_13' omits comma separator before string literal."
+    },
+    {
+      "code": "MISSING_COMMA_IN_STRALIAS",
+      "line_number": 546048,
+      "entry_id": "stralias.clock_scenario_6_14",
+      "message": "stralias 'clock_scenario_6_14' omits comma separator before string literal."
+    },
+    {
+      "code": "MISSING_COMMA_IN_STRALIAS",
+      "line_number": 546049,
+      "entry_id": "stralias.clock_scenario_6_15",
+      "message": "stralias 'clock_scenario_6_15' omits comma separator before string literal."
+    }
+  ]
+}

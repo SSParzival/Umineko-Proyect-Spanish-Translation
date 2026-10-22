@@ -1,0 +1,5637 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.ep6.ura_teatime_6",
+  "category": "story",
+  "rel_path": "story/ep6/ura_teatime_6.json",
+  "episode": "ep6",
+  "section": "ura_teatime_6",
+  "chapter": "ura_teatime_6",
+  "description": "Episode 6 story script chapter 'ura_teatime_6'.",
+  "entry_count": 141,
+  "entries": [
+    {
+      "id": "ep6.ura_teatime_6.d68518",
+      "kind": "dialogue",
+      "line_number": 394342,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68518",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100363"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100363\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Lambda... ¿dónde estás?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Lambda... ¿dónde estás?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68519",
+      "kind": "dialogue",
+      "line_number": 394350,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68519",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Solo el haber sido forzada a decir eso fue como admitir mi derrota... y no me agradó.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Solo el haber sido forzada a decir eso fue como admitir mi derrota... y no me agradó.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68520",
+      "kind": "dialogue",
+      "line_number": 394352,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68520",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿Por qué siempre es tan molesta y pegajosa cuando no la necesito...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " pero cuando la llamo no se digna a aparecer?",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿Por qué siempre es tan molesta y pegajosa cuando no la necesito...  pero cuando la llamo no se digna a aparecer?",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68521",
+      "kind": "dialogue",
+      "line_number": 394358,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68521",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿Dónde... estoy?...",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿Dónde... estoy?...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68522",
+      "kind": "dialogue",
+      "line_number": 394377,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68522",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Había abandonado la catedral, enfadada porque el final había sido completamente predecible.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Había abandonado la catedral, enfadada porque el final había sido completamente predecible.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68523",
+      "kind": "dialogue",
+      "line_number": 394379,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68523",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Había planeado encontrar una terraza con una fresca brisa nocturna...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " para matar el tiempo hasta que terminara aquel absurdo banquete de bodas..",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Había planeado encontrar una terraza con una fresca brisa nocturna...  para matar el tiempo hasta que terminara aquel absurdo banquete de bodas..",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68524",
+      "kind": "dialogue",
+      "line_number": 394390,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68524",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100364",
+        "28/62100365"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100364\"]",
+        "[@][lv 0*\"28\"*\"62100365\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Es cierto que intenté encontrar algún lugar desolado para no tener que ver a la gente...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " pero esto ya es algo ridículo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Es cierto que intenté encontrar algún lugar desolado para no tener que ver a la gente...  pero esto ya es algo ridículo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68525",
+      "kind": "dialogue",
+      "line_number": 394397,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68525",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Yo, la gran {f:5:Bernkastel}, estoy... ¿perdida?",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        }
+      ],
+      "text": "Yo, la gran {f:5:Bernkastel}, estoy... ¿perdida?",
+      "inline_tags": [
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68526",
+      "kind": "dialogue",
+      "line_number": 394399,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68526",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sí... los milagros no existen en este mundo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sí... los milagros no existen en este mundo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68527",
+      "kind": "dialogue",
+      "line_number": 394401,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68527",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Para crear un milagro, necesitas \"una cantidad de tiempo que jamás puede ser alcanzada\",",
+          "inline_tags": []
+        }
+      ],
+      "text": "Para crear un milagro, necesitas \"una cantidad de tiempo que jamás puede ser alcanzada\",",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68528",
+      "kind": "dialogue",
+      "line_number": 394403,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68528",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": " un período de tiempo que no se diferencia de lo infinito.",
+          "inline_tags": []
+        }
+      ],
+      "text": " un período de tiempo que no se diferencia de lo infinito.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68529",
+      "kind": "dialogue",
+      "line_number": 394405,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68529",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Por eso, cuando algo que parece ser un milagro sucede en un lapso de tiempo menor a ese...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " no es un milagro...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " sino algo que sucedió por... las intenciones de alguien más.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Por eso, cuando algo que parece ser un milagro sucede en un lapso de tiempo menor a ese...  no es un milagro...  sino algo que sucedió por... las intenciones de alguien más.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68530",
+      "kind": "dialogue",
+      "line_number": 394411,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68530",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En otras palabras, la razón por la que estoy en este pasillo...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " es porque alguien tuvo la intención de forzarme a estar aquí...",
+          "inline_tags": []
+        }
+      ],
+      "text": "En otras palabras, la razón por la que estoy en este pasillo...  es porque alguien tuvo la intención de forzarme a estar aquí...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68531",
+      "kind": "dialogue",
+      "line_number": 394417,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68531",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100366",
+        "28/62100367",
+        "28/62100368",
+        "28/62100369"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100366\"]",
+        "[@][lv 0*\"28\"*\"62100367\"]",
+        "[@][lv 0*\"28\"*\"62100368\"]",
+        "[@][lv 0*\"28\"*\"62100369\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Quién?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Quién podría haber logrado hacerme una broma tan compleja?...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Parece que eres una persona bastante tímida...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " llamándome a un lugar tan desolado como este.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Quién?  ¿Quién podría haber logrado hacerme una broma tan compleja?...  Parece que eres una persona bastante tímida...  llamándome a un lugar tan desolado como este.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68532",
+      "kind": "dialogue",
+      "line_number": 394430,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68532",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Entonces... desde el otro extremo del oscuro pasillo... escuché un sonido.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Entonces... desde el otro extremo del oscuro pasillo... escuché un sonido.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68533",
+      "kind": "dialogue",
+      "line_number": 394435,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68533",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{a:c:*pisada*... *pisada*pisada*pisada*...}",
+          "inline_tags": [
+            "{a:c:*pisada*... *pisada*pisada*pisada*...}"
+          ]
+        }
+      ],
+      "text": "{a:c:*pisada*... *pisada*pisada*pisada*...}",
+      "inline_tags": [
+        "{a:c:*pisada*... *pisada*pisada*pisada*...}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68534",
+      "kind": "dialogue",
+      "line_number": 394442,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68534",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sonaba como si un animal pequeño, como un perro o un gato, estuviese caminando a paso ligero.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sonaba como si un animal pequeño, como un perro o un gato, estuviese caminando a paso ligero.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68535",
+      "kind": "dialogue",
+      "line_number": 394444,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68535",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ningún milagro podría provocar que un perro o un gato estuviese en un lugar como este.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Tal milagro no estaría \"permitido\".",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Ningún milagro podría provocar que un perro o un gato estuviese en un lugar como este. {n}Tal milagro no estaría \"permitido\".",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68536",
+      "kind": "dialogue",
+      "line_number": 394450,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68536",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Dado que esto no es un milagro,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " significa que estoy siendo guiada en esa dirección.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Dado que esto no es un milagro,  significa que estoy siendo guiada en esa dirección.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68537",
+      "kind": "dialogue",
+      "line_number": 394453,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68537",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Muy bien.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Puede que esto sea una nueva idea para mantenerme entretenida.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Muy bien.  Puede que esto sea una nueva idea para mantenerme entretenida.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68538",
+      "kind": "dialogue",
+      "line_number": 394455,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68538",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Si esto es una nueva broma de Lambda, voy a recompensarla cubriendo su cuerpo con miel utilizando mi lengua.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Si esto es una nueva broma de Lambda, voy a recompensarla cubriendo su cuerpo con miel utilizando mi lengua.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68539",
+      "kind": "dialogue",
+      "line_number": 394457,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68539",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Y luego voy a clavarle sombrillitas de chocolate en los ojos mientras le digo que no vuelva a hacerlo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Y luego voy a clavarle sombrillitas de chocolate en los ojos mientras le digo que no vuelva a hacerlo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68540",
+      "kind": "dialogue",
+      "line_number": 394464,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68540",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La dirección por la que había escuchado el ruido... no solo estaba poco iluminada, sino estaba sumergida en la oscuridad.",
+          "inline_tags": []
+        }
+      ],
+      "text": "La dirección por la que había escuchado el ruido... no solo estaba poco iluminada, sino estaba sumergida en la oscuridad.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68541",
+      "kind": "dialogue",
+      "line_number": 394466,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68541",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sin embargo... pude sentir algo en esa oscuridad.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sin embargo... pude sentir algo en esa oscuridad.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68542",
+      "kind": "dialogue",
+      "line_number": 394480,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68542",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Había dos destellos verde esmeralda... probablemente los ojos de un gato.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Los ojos de un gato negro que espiaba desde la oscuridad.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Había dos destellos verde esmeralda... probablemente los ojos de un gato.  Los ojos de un gato negro que espiaba desde la oscuridad.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68543",
+      "kind": "dialogue",
+      "line_number": 394489,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68543",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100370",
+        "28/62100371"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100370\"]",
+        "[@][lv 0*\"28\"*\"62100371\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Eres el que me ha llamado aquí?...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿O... solo eres el mensajero?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Eres el que me ha llamado aquí?...  ¿O... solo eres el mensajero?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68544",
+      "kind": "dialogue",
+      "line_number": 394547,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68544",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Cuando miré hacia mis pies... vi rojas huellas de gato que continuaban hacia donde estaban esos ojos felinos.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Cuando miré hacia mis pies... vi rojas huellas de gato que continuaban hacia donde estaban esos ojos felinos.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68545",
+      "kind": "dialogue",
+      "line_number": 394554,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68545",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Era perturbador, como si hubiese corrido hasta ese sitio con sus patas manchadas de sangre.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Era perturbador, como si hubiese corrido hasta ese sitio con sus patas manchadas de sangre.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68546",
+      "kind": "dialogue",
+      "line_number": 394560,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68546",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Cuando mis ojos se ajustaron a la oscuridad, incluso con la falta de luz, fui vagamente capaz de distinguir estas huellas rojas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Cuando mis ojos se ajustaron a la oscuridad, incluso con la falta de luz, fui vagamente capaz de distinguir estas huellas rojas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68547",
+      "kind": "dialogue",
+      "line_number": 394562,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68547",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... No es que brillaran ni nada...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " pero cumplieron su cometido de guiarme hacia delante perfectamente.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... No es que brillaran ni nada...  pero cumplieron su cometido de guiarme hacia delante perfectamente.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68548",
+      "kind": "dialogue",
+      "line_number": 394584,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68548",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{a:c:*pisada*pisada*pisada*pisada*...}",
+          "inline_tags": [
+            "{a:c:*pisada*pisada*pisada*pisada*...}"
+          ]
+        }
+      ],
+      "text": "{a:c:*pisada*pisada*pisada*pisada*...}",
+      "inline_tags": [
+        "{a:c:*pisada*pisada*pisada*pisada*...}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68549",
+      "kind": "dialogue",
+      "line_number": 394591,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68549",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Como si me estuviese diciendo que lo siguiera...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " el gato se dio la vuelta y corrió hacia la oscuridad.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Como si me estuviese diciendo que lo siguiera...  el gato se dio la vuelta y corrió hacia la oscuridad.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68550",
+      "kind": "dialogue",
+      "line_number": 394597,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68550",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... ¿Qué es esto?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "... Algo me parece... muy extraño.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... ¿Qué es esto? ... Algo me parece... muy extraño.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68551",
+      "kind": "dialogue",
+      "line_number": 394599,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68551",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Es una sensación que no tengo desde que comencé a llamarme la bruja más cruel del mundo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Es una sensación que no tengo desde que comencé a llamarme la bruja más cruel del mundo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68552",
+      "kind": "dialogue",
+      "line_number": 394601,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68552",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... No puedo recordar exactamente qué es este sentimiento.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... No puedo recordar exactamente qué es este sentimiento.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68553",
+      "kind": "dialogue",
+      "line_number": 394603,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68553",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "De todas formas, para alguien tan cansada del aburrimiento como yo, es más divertido de esta forma.",
+          "inline_tags": []
+        }
+      ],
+      "text": "De todas formas, para alguien tan cansada del aburrimiento como yo, es más divertido de esta forma.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68554",
+      "kind": "dialogue",
+      "line_number": 394609,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68554",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Seguí el sangriento rastro de las huellas del gato, quien a veces se detenía para mirarme...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y luego continuaba caminando por el oscuro pasillo...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Seguí el sangriento rastro de las huellas del gato, quien a veces se detenía para mirarme...  y luego continuaba caminando por el oscuro pasillo...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68555",
+      "kind": "dialogue",
+      "line_number": 394611,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68555",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Adelante, giro,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " de vez en cuando bajo por lo que parecen ser unas escaleras.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Adelante, giro,  de vez en cuando bajo por lo que parecen ser unas escaleras.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68556",
+      "kind": "dialogue",
+      "line_number": 394613,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68556",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y entonces, aunque realmente no podía verlo por la oscuridad, me encontré a mí misma parada frente a una puerta.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Y entonces, aunque realmente no podía verlo por la oscuridad, me encontré a mí misma parada frente a una puerta.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68557",
+      "kind": "dialogue",
+      "line_number": 394622,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68557",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100372"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100372\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Aquí?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Aquí?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68558",
+      "kind": "dialogue",
+      "line_number": 394632,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68558",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Abrí la puerta con un lento empujón, pero dentro solo había oscuridad, tal y como en el pasillo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Abrí la puerta con un lento empujón, pero dentro solo había oscuridad, tal y como en el pasillo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68559",
+      "kind": "dialogue",
+      "line_number": 394634,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68559",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sin embargo, el aire y el sutil cambio en el eco de mis pisadas...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " me hizo comprender que esto era una habitación, no otro pasillo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sin embargo, el aire y el sutil cambio en el eco de mis pisadas...  me hizo comprender que esto era una habitación, no otro pasillo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68560",
+      "kind": "dialogue",
+      "line_number": 394636,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68560",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Los sonidos de las pisadas del gato habían desaparecido.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Los sonidos de las pisadas del gato habían desaparecido.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68561",
+      "kind": "dialogue",
+      "line_number": 394638,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68561",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Sin embargo, las sangrientas huellas seguían allí.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Sin embargo, las sangrientas huellas seguían allí.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68562",
+      "kind": "dialogue",
+      "line_number": 394648,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68562",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Del otro lado de una especie de biombo de madera, debajo de lo que parecía un pequeño reflector...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Del otro lado de una especie de biombo de madera, debajo de lo que parecía un pequeño reflector...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68563",
+      "kind": "dialogue",
+      "line_number": 394650,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68563",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Se encontraba el mismo gato negro,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " devorando comida para gato manchada de sangre.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Se encontraba el mismo gato negro,  devorando comida para gato manchada de sangre.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68564",
+      "kind": "dialogue",
+      "line_number": 394652,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68564",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Ya veo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Esa es su recompensa por traerme hasta aquí...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Ya veo.  Esa es su recompensa por traerme hasta aquí...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68565",
+      "kind": "dialogue",
+      "line_number": 394659,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68565",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100373",
+        "28/62100374",
+        "28/62100375",
+        "28/62100376"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100373\"]",
+        "[@][lv 0*\"28\"*\"62100374\"]",
+        "[@][lv 0*\"28\"*\"62100375\"]",
+        "[@][lv 0*\"28\"*\"62100376\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Gato...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Lamento molestarte durante tu comida...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " pero me gustaría que llamaras a tu amo...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " A menos que tú seas quien me convocó a este lugar...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Gato...  Lamento molestarte durante tu comida...  pero me gustaría que llamaras a tu amo...  A menos que tú seas quien me convocó a este lugar...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68566",
+      "kind": "dialogue",
+      "line_number": 394662,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68566",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Hablarle no hizo que se diera la vuelta.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Hablarle no hizo que se diera la vuelta.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68567",
+      "kind": "dialogue",
+      "line_number": 394664,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68567",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Bueno, supongo que solo es un gato comiendo su comida...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Si le doy una patada, posiblemente corra hacia su dueño.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Bueno, supongo que solo es un gato comiendo su comida...  Si le doy una patada, posiblemente corra hacia su dueño.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68568",
+      "kind": "dialogue",
+      "line_number": 394740,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68568",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100377"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100377\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Hmpf.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Hmpf.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68569",
+      "kind": "dialogue",
+      "line_number": 394743,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68569",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Cuando pateé al gato...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " voló como si fuese un animal de peluche,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " se dio contra la pared y cayó al suelo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Cuando pateé al gato...  voló como si fuese un animal de peluche,  se dio contra la pared y cayó al suelo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68570",
+      "kind": "dialogue",
+      "line_number": 394750,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68570",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Tras eso se desvaneció, como si se hubiese integrado con la oscuridad...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Tras eso se desvaneció, como si se hubiese integrado con la oscuridad...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68571",
+      "kind": "dialogue",
+      "line_number": 394752,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68571",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... ¿Qué es este gato?...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Será una ilusión?...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... ¿Qué es este gato?...  ¿Será una ilusión?...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68572",
+      "kind": "dialogue",
+      "line_number": 394760,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68572",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100378"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100378\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡...!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡...!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68573",
+      "kind": "dialogue",
+      "line_number": 394763,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68573",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Cuando miré su plato de comida, vi que estaba lleno de lo que parecía ser una sangrienta carne molida.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Cuando miré su plato de comida, vi que estaba lleno de lo que parecía ser una sangrienta carne molida.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68574",
+      "kind": "dialogue",
+      "line_number": 394765,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68574",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Como si alguien hubiese destrozado y",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " apilado carne viva en ese plato.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Como si alguien hubiese destrozado y  apilado carne viva en ese plato.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68575",
+      "kind": "dialogue",
+      "line_number": 394772,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68575",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100379"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100379\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Vamos, ¿qué es esta escalofriante recepción?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Vamos, ¿qué es esta escalofriante recepción?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68576",
+      "kind": "dialogue",
+      "line_number": 394780,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68576",
+      "speaker": "narrator",
+      "voice_files": [
+        "50/65000393"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[lv 0*\"50\"*\"65000393\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{a:c:",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{m:-5:―}Patear al gato ha sido muy cruel de tu parte}.",
+          "inline_tags": [
+            "{m:-5:―}"
+          ]
+        }
+      ],
+      "text": "{a:c: {m:-5:―}Patear al gato ha sido muy cruel de tu parte}.",
+      "inline_tags": [
+        "{m:-5:―}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68577",
+      "kind": "dialogue",
+      "line_number": 394784,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68577",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En el instante en el que escuché esa voz, el vello de mi nuca se erizó.",
+          "inline_tags": []
+        }
+      ],
+      "text": "En el instante en el que escuché esa voz, el vello de mi nuca se erizó.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68578",
+      "kind": "dialogue",
+      "line_number": 394786,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68578",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y entonces, los alrededores finalmente se iluminaron...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Y entonces, los alrededores finalmente se iluminaron...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68579",
+      "kind": "dialogue",
+      "line_number": 394788,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68579",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sin embargo, {f:5:Bernkastel} ya había adivinado de quién se trataba antes de que la luz se encendiera...",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        }
+      ],
+      "text": "Sin embargo, {f:5:Bernkastel} ya había adivinado de quién se trataba antes de que la luz se encendiera...",
+      "inline_tags": [
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68580",
+      "kind": "dialogue",
+      "line_number": 394823,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68580",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000394",
+        "50/65000395"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000394\"]",
+        "[@][lv 0*\"50\"*\"65000395\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Eras tú, verdad?...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Ese gato.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Eras tú, verdad?...  Ese gato.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68581",
+      "kind": "dialogue",
+      "line_number": 394829,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68581",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100380"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100380\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68582",
+      "kind": "dialogue",
+      "line_number": 394835,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68582",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000396",
+        "50/65000397"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000396\"]",
+        "[@][lv 0*\"50\"*\"65000397\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Un gato que ha aprendido a comer carne y a elegir su propio camino...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Ha pasado mucho tiempo...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Un gato que ha aprendido a comer carne y a elegir su propio camino...  Ha pasado mucho tiempo...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68583",
+      "kind": "dialogue",
+      "line_number": 394841,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68583",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100381",
+        "28/62100382",
+        "28/62100383",
+        "28/62100384"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100381\"]",
+        "[@][lv 0*\"28\"*\"62100382\"]",
+        "[@][lv 0*\"28\"*\"62100383\"]",
+        "[@][lv 0*\"28\"*\"62100384\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Es un camino del cual nunca habría sabido si no me lo hubieras mostrado...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Tú eres el monstruo que me enseñó el sabor de la carne...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Así que has vuelto a la vida...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " {f:5:Featherine Auaurora}...\"",
+          "inline_tags": [
+            "{f:5:Featherine Auaurora}"
+          ]
+        }
+      ],
+      "text": "\"Es un camino del cual nunca habría sabido si no me lo hubieras mostrado...  Tú eres el monstruo que me enseñó el sabor de la carne...  Así que has vuelto a la vida...  {f:5:Featherine Auaurora}...\"",
+      "inline_tags": [
+        "{f:5:Featherine Auaurora}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68584",
+      "kind": "dialogue",
+      "line_number": 394856,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68584",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000398",
+        "50/65000399",
+        "50/65000400",
+        "50/65000401",
+        "50/65000402",
+        "50/65000403"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000398\"]",
+        "[@][lv 0*\"50\"*\"65000399\"]",
+        "[@][#][*][lv 0*\"50\"*\"65000400\"]",
+        "[@][lv 0*\"50\"*\"65000401\"]",
+        "[@][lv 0*\"50\"*\"65000402\"]",
+        "[@][lv 0*\"50\"*\"65000403\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... {f:5:Augustus Aurora}...",
+          "inline_tags": [
+            "{f:5:Augustus Aurora}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " Nunca te lo aprenderás sin importarte cuántas veces te lo diga...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Muy bien.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Incluso eso me trae recuerdos...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " He oído los rumores...",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " Parece que has adoptado el nombre de la Bruja de los Milagros, {f:5:Bernkastel}, y que has estado participando de un deplorable juego de Fragmentos...\"",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        }
+      ],
+      "text": "\"... {f:5:Augustus Aurora}...  Nunca te lo aprenderás sin importarte cuántas veces te lo diga...  Muy bien.  Incluso eso me trae recuerdos...  He oído los rumores...  Parece que has adoptado el nombre de la Bruja de los Milagros, {f:5:Bernkastel}, y que has estado participando de un deplorable juego de Fragmentos...\"",
+      "inline_tags": [
+        "{f:5:Augustus Aurora}",
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68585",
+      "kind": "dialogue",
+      "line_number": 394885,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68585",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100385",
+        "28/62100386",
+        "28/62100387"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100385\"]",
+        "[@][lv 0*\"28\"*\"62100386\"]",
+        "[@][lv 0*\"28\"*\"62100387\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Solo estoy imitándote.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Aunque a duras penas puedo competir con tu nivel...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Si los rumores que oíste acerca de mí son malos, en ti se aplican multiplicados por cien.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Solo estoy imitándote.  Aunque a duras penas puedo competir con tu nivel...  Si los rumores que oíste acerca de mí son malos, en ti se aplican multiplicados por cien.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68586",
+      "kind": "dialogue",
+      "line_number": 394888,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68586",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{f:5:Bernkastel} se sentó sin reservas en una silla antigua...",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " como si el lugar ya le fuera familiar.",
+          "inline_tags": []
+        }
+      ],
+      "text": "{f:5:Bernkastel} se sentó sin reservas en una silla antigua...  como si el lugar ya le fuera familiar.",
+      "inline_tags": [
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68587",
+      "kind": "dialogue",
+      "line_number": 394894,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68587",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000404",
+        "50/65000405",
+        "50/65000406"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000404\"]",
+        "[@][lv 0*\"50\"*\"65000405\"]",
+        "[@][lv 0*\"50\"*\"65000406\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿A qué le tienes miedo?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Solo estoy celebrando mi reunión con mi miko más antigua hasta el momento...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¿Tan desagradable encontraste a mi gato mensajero?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿A qué le tienes miedo?  Solo estoy celebrando mi reunión con mi miko más antigua hasta el momento...  ¿Tan desagradable encontraste a mi gato mensajero?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68588",
+      "kind": "dialogue",
+      "line_number": 394897,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68588",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El lenguaje corporal de {f:5:Bernkastel} parecía reflejar que estaba completamente relajada...",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        }
+      ],
+      "text": "El lenguaje corporal de {f:5:Bernkastel} parecía reflejar que estaba completamente relajada...",
+      "inline_tags": [
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68589",
+      "kind": "dialogue",
+      "line_number": 394899,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68589",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sin embargo, {f:5:Featherine} la reprendió, diciéndole que no tuviese miedo.",
+          "inline_tags": [
+            "{f:5:Featherine}"
+          ]
+        }
+      ],
+      "text": "Sin embargo, {f:5:Featherine} la reprendió, diciéndole que no tuviese miedo.",
+      "inline_tags": [
+        "{f:5:Featherine}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68590",
+      "kind": "dialogue",
+      "line_number": 394904,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68590",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Y, juzgando la expresión que apareció en el rostro de Bern...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " {f:5:Featherine} había estado en lo cierto...",
+          "inline_tags": [
+            "{f:5:Featherine}"
+          ]
+        }
+      ],
+      "text": "... Y, juzgando la expresión que apareció en el rostro de Bern...  {f:5:Featherine} había estado en lo cierto...",
+      "inline_tags": [
+        "{f:5:Featherine}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68591",
+      "kind": "dialogue",
+      "line_number": 394910,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68591",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100388",
+        "28/62100389"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100388\"]",
+        "[@][lv 0*\"28\"*\"62100389\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿De verdad tenías que hacer insinuaciones tan bruscas hacia mí?...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Un gato dejando huellas de sangre y llenándose la boca de carne sanguinolenta...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿De verdad tenías que hacer insinuaciones tan bruscas hacia mí?...  Un gato dejando huellas de sangre y llenándose la boca de carne sanguinolenta...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68592",
+      "kind": "dialogue",
+      "line_number": 394918,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68592",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000407",
+        "50/65000408",
+        "50/65000409",
+        "50/65000410",
+        "50/65000411"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000407\"]",
+        "[@][lv 0*\"50\"*\"65000408\"]",
+        "[@][lv 0*\"50\"*\"65000409\"]",
+        "[@][lv 0*\"50\"*\"65000410\"]",
+        "[@][lv 0*\"50\"*\"65000411\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " No temas...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Mira bien...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¿Ves algún gato llenándose la boca de carne?...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Solo le di un plato de galletas por haberte ido a buscar...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...  No temas...  Mira bien...  ¿Ves algún gato llenándose la boca de carne?...  Solo le di un plato de galletas por haberte ido a buscar...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68593",
+      "kind": "dialogue",
+      "line_number": 394930,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68593",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100390"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100390\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68594",
+      "kind": "dialogue",
+      "line_number": 394949,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68594",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Algo similar al hollín cubría el plato y se esfumó, aunque no hubiese viento.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Algo similar al hollín cubría el plato y se esfumó, aunque no hubiese viento.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68595",
+      "kind": "dialogue",
+      "line_number": 394951,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68595",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Allí yacía un platito de gato... adorable... y perfectamente normal...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " con una pila de galletas en él...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Allí yacía un platito de gato... adorable... y perfectamente normal...  con una pila de galletas en él...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68596",
+      "kind": "dialogue",
+      "line_number": 394959,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68596",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100391"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100391\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Tch...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Tch...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68597",
+      "kind": "dialogue",
+      "line_number": 394962,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68597",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{f:5:Bernkastel} ni siquiera ocultó su mueca de disgusto.",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        }
+      ],
+      "text": "{f:5:Bernkastel} ni siquiera ocultó su mueca de disgusto.",
+      "inline_tags": [
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68598",
+      "kind": "dialogue",
+      "line_number": 394964,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68598",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{f:5:Featherine} se encogió de hombros y masculló \"No has cambiado, hija del hombre\" mientras se balanceaba en su silla mecedora.",
+          "inline_tags": [
+            "{f:5:Featherine}"
+          ]
+        }
+      ],
+      "text": "{f:5:Featherine} se encogió de hombros y masculló \"No has cambiado, hija del hombre\" mientras se balanceaba en su silla mecedora.",
+      "inline_tags": [
+        "{f:5:Featherine}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68599",
+      "kind": "dialogue",
+      "line_number": 394983,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68599",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100392",
+        "28/62100393",
+        "28/62100394"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100392\"]",
+        "[@][lv 0*\"28\"*\"62100393\"]",
+        "[@][lv 0*\"28\"*\"62100394\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Veo que eres tan desagradable como siempre...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Pero ahora estoy feliz.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Imitarte ha distado de ser aburrido.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Veo que eres tan desagradable como siempre...  Pero ahora estoy feliz.  Imitarte ha distado de ser aburrido.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68600",
+      "kind": "dialogue",
+      "line_number": 394989,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68600",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000412",
+        "50/65000413"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000412\"]",
+        "[@][lv 0*\"50\"*\"65000413\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Regáñame todo lo que quieras.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Fue el regalo de despedida que te di la última vez que te vi.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Regáñame todo lo que quieras.  Fue el regalo de despedida que te di la última vez que te vi.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68601",
+      "kind": "dialogue",
+      "line_number": 394995,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68601",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100395",
+        "28/62100396",
+        "28/62100397",
+        "28/62100398"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100395\"]",
+        "[@][lv 0*\"28\"*\"62100396\"]",
+        "[@][lv 0*\"28\"*\"62100397\"]",
+        "[@][lv 0*\"28\"*\"62100398\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Te agradaban las mikos groseras porque te entretenían, ¿verdad?...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Tch, ridículo...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Si mi conversación solo te complace, entonces me callaré...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Entonces, ¿qué es lo que quieres conmigo?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Te agradaban las mikos groseras porque te entretenían, ¿verdad?...  Tch, ridículo...  Si mi conversación solo te complace, entonces me callaré...  Entonces, ¿qué es lo que quieres conmigo?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68602",
+      "kind": "dialogue",
+      "line_number": 395009,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68602",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000414",
+        "50/65000415",
+        "50/65000416"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000414\"]",
+        "[@][lv 0*\"50\"*\"65000415\"]",
+        "[@][lv 0*\"50\"*\"65000416\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Parece que el juego de {f:5:Beatrice} ha terminado con la victoria de Battler...",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " Estuve observándolo.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Fue bastante entretenido.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Parece que el juego de {f:5:Beatrice} ha terminado con la victoria de Battler...  Estuve observándolo.  Fue bastante entretenido.\"",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68603",
+      "kind": "dialogue",
+      "line_number": 395021,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68603",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100399"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100399\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Estoy segura que te agradó verme fracasar miserablemente.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Estoy segura que te agradó verme fracasar miserablemente.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68604",
+      "kind": "dialogue",
+      "line_number": 395027,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68604",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000417",
+        "50/65000418"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000417\"]",
+        "[@][lv 0*\"50\"*\"65000418\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Tonterías, tu actuación fue magnífica...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Estoy segura de que Beato está muy agradecida contigo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Tonterías, tu actuación fue magnífica...  Estoy segura de que Beato está muy agradecida contigo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68605",
+      "kind": "dialogue",
+      "line_number": 395033,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68605",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100400",
+        "28/62100401",
+        "28/62100402",
+        "28/62100403"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100400\"]",
+        "[@][lv 0*\"28\"*\"62100401\"]",
+        "[@][lv 0*\"28\"*\"62100402\"]",
+        "[@][lv 0*\"28\"*\"62100403\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Hmf...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Y?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Si lo que quieres es que te lea en voz alta los Fragmentos del juego de Beato, me rehúso.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Ya no soy tu miko.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Hmf...  ¿Y?  Si lo que quieres es que te lea en voz alta los Fragmentos del juego de Beato, me rehúso.  Ya no soy tu miko.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68606",
+      "kind": "dialogue",
+      "line_number": 395046,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68606",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000419",
+        "50/65000420",
+        "50/65000421",
+        "50/65000422",
+        "50/65000423",
+        "50/65000424",
+        "50/65000425",
+        "50/65000426"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000419\"]",
+        "[@][lv 0*\"50\"*\"65000420\"]",
+        "[@][lv 0*\"50\"*\"65000421\"]",
+        "[@][lv 0*\"50\"*\"65000422\"]",
+        "[@][lv 0*\"50\"*\"65000423\"]",
+        "[@][lv 0*\"50\"*\"65000424\"]",
+        "[@][lv 0*\"50\"*\"65000425\"]",
+        "[@][lv 0*\"50\"*\"65000426\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"He observado todos los juegos de Beato...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " También he observado el juego de {f:5:Lambdadelta} y el de Battler con mucho interés...",
+          "inline_tags": [
+            "{f:5:Lambdadelta}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " Creo que he elaborado mi propia respuesta para todos los acertijos...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " El culpable.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " El motivo.",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " Los trucos...",
+          "inline_tags": []
+        },
+        {
+          "index": 6,
+          "text": " Todavía no entiendo la parte del final del acertijo del epitafio,",
+          "inline_tags": []
+        },
+        {
+          "index": 7,
+          "text": " pero tengo una teoría lo suficientemente sólida como para creer que si en verdad viajase a Rokkenjima e investigara, debería ser capaz de resolver todo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"He observado todos los juegos de Beato...  También he observado el juego de {f:5:Lambdadelta} y el de Battler con mucho interés...  Creo que he elaborado mi propia respuesta para todos los acertijos...  El culpable.  El motivo.  Los trucos...  Todavía no entiendo la parte del final del acertijo del epitafio,  pero tengo una teoría lo suficientemente sólida como para creer que si en verdad viajase a Rokkenjima e investigara, debería ser capaz de resolver todo.\"",
+      "inline_tags": [
+        "{f:5:Lambdadelta}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68607",
+      "kind": "dialogue",
+      "line_number": 395049,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68607",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100404"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100404\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Y...?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Y...?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68608",
+      "kind": "dialogue",
+      "line_number": 395052,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68608",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000427",
+        "50/65000428"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000427\"]",
+        "[@][lv 0*\"50\"*\"65000428\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Por supuesto, debido a que no hay solo una verdad, mi teoría probablemente solo sea una de las muchas posibilidades...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Sin embargo, es una de esas posibilidades, por lo que el problema es menor.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Por supuesto, debido a que no hay solo una verdad, mi teoría probablemente solo sea una de las muchas posibilidades...  Sin embargo, es una de esas posibilidades, por lo que el problema es menor.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68609",
+      "kind": "dialogue",
+      "line_number": 395065,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68609",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100405",
+        "28/62100406"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100405\"]",
+        "[@][lv 0*\"28\"*\"62100406\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Adónde quieres llegar?...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Acaso quieres debatir el juego de Beato conmigo?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Adónde quieres llegar?...  ¿Acaso quieres debatir el juego de Beato conmigo?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68610",
+      "kind": "dialogue",
+      "line_number": 395076,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68610",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000429",
+        "50/65000430"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000429\"]",
+        "[@][#][*][lv 0*\"50\"*\"65000430\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Incorrecto...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Lo que yo quiero es saber las respuestas, hija del hombre.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Incorrecto...  Lo que yo quiero es saber las respuestas, hija del hombre.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68611",
+      "kind": "dialogue",
+      "line_number": 395092,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68611",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Las palabras de {f:5:Featherine} hicieron que {f:5:Bernkastel} se enderezara.",
+          "inline_tags": [
+            "{f:5:Featherine}",
+            "{f:5:Bernkastel}"
+          ]
+        }
+      ],
+      "text": "Las palabras de {f:5:Featherine} hicieron que {f:5:Bernkastel} se enderezara.",
+      "inline_tags": [
+        "{f:5:Featherine}",
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68612",
+      "kind": "dialogue",
+      "line_number": 395094,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68612",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Su antigua ama no pasó por alto su pequeña reacción.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Su antigua ama no pasó por alto su pequeña reacción.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68613",
+      "kind": "dialogue",
+      "line_number": 395103,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68613",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000431",
+        "50/65000432",
+        "50/65000433"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000431\"]",
+        "[@][lv 0*\"50\"*\"65000432\"]",
+        "[@][lv 0*\"50\"*\"65000433\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Hasta ahora, le has dado más sabor al relato siendo un personaje del mismo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Durante el proceso, posiblemente has llegado a poseer varias verdades...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Sin embargo, incluso tú desconoces la verdad detrás de varios acertijos que Beato con tanta habilidad ha sabido mantener sin descubrir, ¿correcto?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Hasta ahora, le has dado más sabor al relato siendo un personaje del mismo.  Durante el proceso, posiblemente has llegado a poseer varias verdades...  Sin embargo, incluso tú desconoces la verdad detrás de varios acertijos que Beato con tanta habilidad ha sabido mantener sin descubrir, ¿correcto?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68614",
+      "kind": "dialogue",
+      "line_number": 395109,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68614",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100407",
+        "28/62100408",
+        "28/62100409"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100407\"]",
+        "[@][#][*][lv 0*\"28\"*\"62100408\"]",
+        "[@][lv 0*\"28\"*\"62100409\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Ya veo...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Quieres usarme para masticar y eviscerar algo una vez más.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...  Ya veo...  Quieres usarme para masticar y eviscerar algo una vez más.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68615",
+      "kind": "dialogue",
+      "line_number": 395120,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68615",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000434",
+        "50/65000435",
+        "50/65000436"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000434\"]",
+        "[@][lv 0*\"50\"*\"65000435\"]",
+        "[@][lv 0*\"50\"*\"65000436\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Después de ver una obra de teatro, leer su panfleto y saber qué pasa entre bastidores es similar a, como tú lo dirías,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " disfrutar algo de té negro tras una comida...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Ese placer no puede quedar inconcluso.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Después de ver una obra de teatro, leer su panfleto y saber qué pasa entre bastidores es similar a, como tú lo dirías,  disfrutar algo de té negro tras una comida...  Ese placer no puede quedar inconcluso.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68616",
+      "kind": "dialogue",
+      "line_number": 395129,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68616",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100410",
+        "28/62100411",
+        "28/62100412"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100410\"]",
+        "[@][lv 0*\"28\"*\"62100411\"]",
+        "[@][lv 0*\"28\"*\"62100412\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Te agrada jugar con ellos y amarlos mientras están vivos, y devorar su carne cuando mueren...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Por ese motivo, los gatos tienen una doble utilidad para ti...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Muérete, monstruo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Te agrada jugar con ellos y amarlos mientras están vivos, y devorar su carne cuando mueren...  Por ese motivo, los gatos tienen una doble utilidad para ti...  Muérete, monstruo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68617",
+      "kind": "dialogue",
+      "line_number": 395134,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68617",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000437",
+        "50/65000438"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000437\"]",
+        "[@][lv 0*\"50\"*\"65000438\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Quiero... saber las respuestas...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Estoy segura de que tú también quieres saberlas.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Quiero... saber las respuestas...  Estoy segura de que tú también quieres saberlas.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68618",
+      "kind": "dialogue",
+      "line_number": 395140,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68618",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100413"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100413\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68619",
+      "kind": "dialogue",
+      "line_number": 395149,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68619",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000439",
+        "50/65000440"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000439\"]",
+        "[@][lv 0*\"50\"*\"65000440\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Piensa en ello como un entierro para el cuerpo de Beato, en el que tú llevas a cabo el velorio...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Qué opinas, hija del hombre?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Piensa en ello como un entierro para el cuerpo de Beato, en el que tú llevas a cabo el velorio...  ¿Qué opinas, hija del hombre?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68620",
+      "kind": "dialogue",
+      "line_number": 395158,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68620",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100414"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100414\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Ahora estás empezando a hablar en mi idioma.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Ahora estás empezando a hablar en mi idioma.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68621",
+      "kind": "dialogue",
+      "line_number": 395178,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68621",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Cuando {f:5:Featherine} chasqueó sus dedos,",
+          "inline_tags": [
+            "{f:5:Featherine}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " una pequeña luz apareció sobre la mesa, la cual estaba abarrotada de libros.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Cuando {f:5:Featherine} chasqueó sus dedos,  una pequeña luz apareció sobre la mesa, la cual estaba abarrotada de libros.",
+      "inline_tags": [
+        "{f:5:Featherine}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68622",
+      "kind": "dialogue",
+      "line_number": 395184,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68622",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y allí... se encontraba doblada una versión del tablero del juego de Beato.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Y allí... se encontraba doblada una versión del tablero del juego de Beato.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68623",
+      "kind": "dialogue",
+      "line_number": 395191,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68623",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La Bruja de la Expectación hizo un círculo con su dedo, y el tablero de juego se abrió por sí solo,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " mostrando las piezas blancas y negras alineadas en él.",
+          "inline_tags": []
+        }
+      ],
+      "text": "La Bruja de la Expectación hizo un círculo con su dedo, y el tablero de juego se abrió por sí solo,  mostrando las piezas blancas y negras alineadas en él.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68624",
+      "kind": "dialogue",
+      "line_number": 395203,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68624",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000441",
+        "50/65000442"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000441\"]",
+        "[@][lv 0*\"50\"*\"65000442\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... El tablero de juego y sus piezas ya están en su sitio...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Los registros de los juegos anteriores también están aquí.",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... El tablero de juego y sus piezas ya están en su sitio...  Los registros de los juegos anteriores también están aquí.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68625",
+      "kind": "dialogue",
+      "line_number": 395228,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68625",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Con un crujido, las páginas del libro pasaron por su propia voluntad, de principio a fin,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " se cerró y voló hasta un costado del tablero de juego, donde esperó.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Dentro suyo se encontraban registrados todos los movimientos de las piezas en juegos anteriores...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Con un crujido, las páginas del libro pasaron por su propia voluntad, de principio a fin,  se cerró y voló hasta un costado del tablero de juego, donde esperó.  Dentro suyo se encontraban registrados todos los movimientos de las piezas en juegos anteriores...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68626",
+      "kind": "dialogue",
+      "line_number": 395236,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68626",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100415",
+        "28/62100416"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100415\"]",
+        "[@][lv 0*\"28\"*\"62100416\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Ya veo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Te faltaba un segundo jugador y un narrador...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Ya veo.  Te faltaba un segundo jugador y un narrador...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68627",
+      "kind": "dialogue",
+      "line_number": 395243,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68627",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000443",
+        "50/65000444",
+        "50/65000445"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000443\"]",
+        "[@][lv 0*\"50\"*\"65000444\"]",
+        "[@][lv 0*\"50\"*\"65000445\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"También nos falta algo de té negro...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Lo mismo con el té de ciruelas secas.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Conseguiré un poco, por supuesto.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"También nos falta algo de té negro...  Lo mismo con el té de ciruelas secas.  Conseguiré un poco, por supuesto.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68628",
+      "kind": "dialogue",
+      "line_number": 395249,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68628",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100417",
+        "28/62100418",
+        "28/62100419"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100417\"]",
+        "[@][lv 0*\"28\"*\"62100418\"]",
+        "[@][lv 0*\"28\"*\"62100419\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Muy bien.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Si le añades algunos pasteles de arroz, tendremos un acuerdo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...  Muy bien.  Si le añades algunos pasteles de arroz, tendremos un acuerdo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68629",
+      "kind": "dialogue",
+      "line_number": 395255,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68629",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000446"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000446\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Las negociaciones han concluido.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Las negociaciones han concluido.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68630",
+      "kind": "dialogue",
+      "line_number": 395261,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68630",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100420"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100420\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Tengo una condición.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Tengo una condición.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68631",
+      "kind": "dialogue",
+      "line_number": 395267,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68631",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000447"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000447\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Oh, ¿de qué se trata?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Oh, ¿de qué se trata?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68632",
+      "kind": "dialogue",
+      "line_number": 395280,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68632",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100421",
+        "28/62100422",
+        "28/62100423"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100421\"]",
+        "[@][lv 0*\"28\"*\"62100422\"]",
+        "[@][lv 0*\"28\"*\"62100423\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Yo voy a ser la Lectora, ¿verdad?...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " No hay amor en mí, así que algunas cosas pueden llegar a ser interpretadas en una forma extraña...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Sin embargo, el Lector es libre de leer las cosas con el tono y los gestos que desee.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Yo voy a ser la Lectora, ¿verdad?...  No hay amor en mí, así que algunas cosas pueden llegar a ser interpretadas en una forma extraña...  Sin embargo, el Lector es libre de leer las cosas con el tono y los gestos que desee.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68633",
+      "kind": "dialogue",
+      "line_number": 395283,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68633",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000448",
+        "50/65000449",
+        "50/65000450",
+        "50/65000451",
+        "50/65000452"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000448\"]",
+        "[@][lv 0*\"50\"*\"65000449\"]",
+        "[@][lv 0*\"50\"*\"65000450\"]",
+        "[@][lv 0*\"50\"*\"65000451\"]",
+        "[@][lv 0*\"50\"*\"65000452\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Solo quiero verificar algunas respuestas...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " No me importa realmente la historia en sí...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " No estoy profundamente interesada en saber qué tipo de historia crearás...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Ah, sí.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Ahora entiendo qué es lo que quieres.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Solo quiero verificar algunas respuestas...  No me importa realmente la historia en sí...  No estoy profundamente interesada en saber qué tipo de historia crearás...  Ah, sí.  Ahora entiendo qué es lo que quieres.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68634",
+      "kind": "dialogue",
+      "line_number": 395286,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68634",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100424"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100424\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Aceptarás mi condición?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Aceptarás mi condición?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68635",
+      "kind": "dialogue",
+      "line_number": 395289,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68635",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000453",
+        "50/65000454",
+        "50/65000455"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000453\"]",
+        "[@][lv 0*\"50\"*\"65000454\"]",
+        "[@][lv 0*\"50\"*\"65000455\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Muy bien...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Yo quiero saber la respuesta. Tú tienes un rencor del cual ocuparte.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Las negociaciones han concluido.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Muy bien...  Yo quiero saber la respuesta. Tú tienes un rencor del cual ocuparte.  Las negociaciones han concluido.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68636",
+      "kind": "dialogue",
+      "line_number": 395301,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68636",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Cuando {f:5:Featherine} volvió a chasquear los dedos...",
+          "inline_tags": [
+            "{f:5:Featherine}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " una gran silla se materializó, como invitando a {f:5:Bernkastel} a sentarse allí.",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        }
+      ],
+      "text": "Cuando {f:5:Featherine} volvió a chasquear los dedos...  una gran silla se materializó, como invitando a {f:5:Bernkastel} a sentarse allí.",
+      "inline_tags": [
+        "{f:5:Featherine}",
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68637",
+      "kind": "dialogue",
+      "line_number": 395303,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68637",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Era una horrible combinación para el resto de los muebles en la habitación... un trono.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Era una horrible combinación para el resto de los muebles en la habitación... un trono.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68638",
+      "kind": "dialogue",
+      "line_number": 395316,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68638",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Un momento, he visto esto antes...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Esto es—",
+          "inline_tags": []
+        }
+      ],
+      "text": "Un momento, he visto esto antes...  Esto es—",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68639",
+      "kind": "dialogue",
+      "line_number": 395319,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68639",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000456",
+        "50/65000457"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000456\"]",
+        "[@][lv 0*\"50\"*\"65000457\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Lo reconozco. Puedes sentarte.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Eres la Game Master.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Lo reconozco. Puedes sentarte.  Eres la Game Master.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68640",
+      "kind": "dialogue",
+      "line_number": 395335,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68640",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100425",
+        "28/62100426"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100425\"]",
+        "[@][lv 0*\"28\"*\"62100426\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Estás segura?...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Estás segura de... {i:verdad}?...\"",
+          "inline_tags": [
+            "{i:verdad}"
+          ]
+        }
+      ],
+      "text": "\"... ¿Estás segura?...  ¿Estás segura de... {i:verdad}?...\"",
+      "inline_tags": [
+        "{i:verdad}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68641",
+      "kind": "dialogue",
+      "line_number": 395341,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68641",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000458",
+        "50/65000459",
+        "50/65000460",
+        "50/65000461",
+        "50/65000462"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000458\"]",
+        "[@][lv 0*\"50\"*\"65000459\"]",
+        "[@][#][*][lv 0*\"50\"*\"65000460\"]",
+        "[@][lv 0*\"50\"*\"65000461\"]",
+        "[@][lv 0*\"50\"*\"65000462\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Puedes crear cualquier tipo de historia que satisfaga tu rencor.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " No me interesa. ",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "Sin embargo, yo también tengo una condición...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Responderás todas las preguntas que te haga.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Sin ocultar la verdad, sin engaños ni trucos.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Puedes crear cualquier tipo de historia que satisfaga tu rencor.  No me interesa.  Sin embargo, yo también tengo una condición...  Responderás todas las preguntas que te haga.  Sin ocultar la verdad, sin engaños ni trucos.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68642",
+      "kind": "dialogue",
+      "line_number": 395354,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68642",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100427",
+        "28/62100428",
+        "28/62100429",
+        "28/62100430"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100427\"]",
+        "[@][lv 0*\"28\"*\"62100428\"]",
+        "[@][lv 0*\"28\"*\"62100429\"]",
+        "[@][lv 0*\"28\"*\"62100430\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Jeh... jeje{0}je{0}je{0}je{0}je{0}je{0}je{0}jeh!...",
+          "inline_tags": [
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " Déjamelo a mí.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Destrozar el pecho y arrancar sus entrañas es mi especialidad...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Después de todo, tú fuiste quien me entrenó.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Jeh... jeje{0}je{0}je{0}je{0}je{0}je{0}je{0}jeh!...  Déjamelo a mí.  Destrozar el pecho y arrancar sus entrañas es mi especialidad...  Después de todo, tú fuiste quien me entrenó.\"",
+      "inline_tags": [
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68643",
+      "kind": "dialogue",
+      "line_number": 395372,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68643",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000463",
+        "50/65000464",
+        "50/65000465"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000463\"]",
+        "[@][lv 0*\"50\"*\"65000464\"]",
+        "[@][lv 0*\"50\"*\"65000465\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Hagamos algo de té negro...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Usaremos nuestras propias manos, sin magia...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Deja que la maestra invite a su miko con un poco de té...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Hagamos algo de té negro...  Usaremos nuestras propias manos, sin magia...  Deja que la maestra invite a su miko con un poco de té...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68644",
+      "kind": "dialogue",
+      "line_number": 395387,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68644",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100431"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100431\"][ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"La antigua Beato me dijo que las brujas son la mejor compañía para tomar el té.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"La antigua Beato me dijo que las brujas son la mejor compañía para tomar el té.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68645",
+      "kind": "dialogue",
+      "line_number": 395396,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68645",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000466",
+        "50/65000467"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000466\"][ak][text_speed_t 5]",
+        "[#][*][|][lv 0*\"50\"*\"65000467\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Se ve que nosotras no encajamos con esa descripción...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Jeh... jeje{0}je{0}je{0}je{0}je{0}je{0}je{0}je{0}je{0}je{0}je{0}je{0}jejeh.\"",
+          "inline_tags": [
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}"
+          ]
+        }
+      ],
+      "text": "\"Se ve que nosotras no encajamos con esa descripción...  Jeh... jeje{0}je{0}je{0}je{0}je{0}je{0}je{0}je{0}je{0}je{0}je{0}je{0}jejeh.\"",
+      "inline_tags": [
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68646",
+      "kind": "dialogue",
+      "line_number": 395435,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68646",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... En algún momento, aquel plato lleno de galletitas...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " se había llenado nuevamente de carne destrozada y salpicaduras de sangre.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " No, no solo carne... también estaban las entrañas...",
+          "inline_tags": []
+        }
+      ],
+      "text": "... En algún momento, aquel plato lleno de galletitas...  se había llenado nuevamente de carne destrozada y salpicaduras de sangre.  No, no solo carne... también estaban las entrañas...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68647",
+      "kind": "dialogue",
+      "line_number": 395457,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68647",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000468"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000468\"][ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... El té negro se disfruta más—\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... El té negro se disfruta más—\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68648",
+      "kind": "dialogue",
+      "line_number": 395490,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68648",
+      "speaker": "narrator",
+      "voice_files": [
+        "00/awase6100_o"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"00\"*\"awase6100_o\"][ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"\"En compañía de monstruos como tú.\"\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"\"En compañía de monstruos como tú.\"\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68649",
+      "kind": "dialogue",
+      "line_number": 395541,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68649",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100433",
+        "28/62100434"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100433\"][ak][text_speed_t 5]",
+        "[#][*][|][lv 0*\"28\"*\"62100434\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... En ese caso, prepara las piezas.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Si seguimos con la cuenta, este sería el séptimo juego, ¿verdad?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... En ese caso, prepara las piezas.  Si seguimos con la cuenta, este sería el séptimo juego, ¿verdad?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68650",
+      "kind": "dialogue",
+      "line_number": 395554,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68650",
+      "speaker": "fea",
+      "voice_files": [
+        "50/65000470",
+        "50/65000471"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"50\"*\"65000470\"][ak][text_speed_t 5]",
+        "[#][*][|][lv 0*\"50\"*\"65000471\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Correcto.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Un número adecuado.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Correcto.  Un número adecuado.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68651",
+      "kind": "dialogue",
+      "line_number": 395567,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68651",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100435"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100435\"][ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Te refieres a que es adecuado para Beato?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Te refieres a que es adecuado para Beato?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68652",
+      "kind": "dialogue",
+      "line_number": 395580,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68652",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{f:5:Bernkastel} levantó lentamente una pieza negra.",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        }
+      ],
+      "text": "{f:5:Bernkastel} levantó lentamente una pieza negra.",
+      "inline_tags": [
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68653",
+      "kind": "dialogue",
+      "line_number": 395586,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68653",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Era... la pieza que representaba a {f:5:Beatrice}.",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "Era... la pieza que representaba a {f:5:Beatrice}.",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68654",
+      "kind": "dialogue",
+      "line_number": 395592,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68654",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "A veces era un rey, a veces una dama y podía convertirse en un caballo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "A veces era un rey, a veces una dama y podía convertirse en un caballo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68655",
+      "kind": "dialogue",
+      "line_number": 395598,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68655",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Sin embargo, solo era así si lograba coronarse.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Hasta entonces, solo era una pieza inservible, como un peón.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "... Sin embargo, solo era así si lograba coronarse. {n}Hasta entonces, solo era una pieza inservible, como un peón.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68656",
+      "kind": "dialogue",
+      "line_number": 395607,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68656",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El primer paso es colocar las piezas.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Para ese momento, el juego de las brujas ya había comenzado.",
+          "inline_tags": []
+        }
+      ],
+      "text": "El primer paso es colocar las piezas.  Para ese momento, el juego de las brujas ya había comenzado.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68657",
+      "kind": "dialogue",
+      "line_number": 395616,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68657",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 5]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{f:5:Bernkastel} tomó la pieza de Beato... y la levantó.",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        }
+      ],
+      "text": "{f:5:Bernkastel} tomó la pieza de Beato... y la levantó.",
+      "inline_tags": [
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep6.ura_teatime_6.d68658",
+      "kind": "dialogue",
+      "line_number": 395635,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_6",
+      "label": "*d68658",
+      "speaker": "ber",
+      "voice_files": [
+        "28/62100436",
+        "28/62100437"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"62100436\"][ak][text_speed_t 5]",
+        "[#][*][|][lv 0*\"28\"*\"62100437\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Primer movimiento, colocación.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " {f:5:Beatrice} en d8.\"",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "\"Primer movimiento, colocación.  {f:5:Beatrice} en d8.\"",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

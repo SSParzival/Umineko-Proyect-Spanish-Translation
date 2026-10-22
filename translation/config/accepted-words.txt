@@ -1,0 +1,234 @@
+# =============================================================================
+# Umineko Project — Diccionario de Términos y Formas Aceptadas (Español)
+# =============================================================================
+# Este archivo lista nombres propios, honorificos japoneses, extranjerismos,
+# regionalismos deliberados (dialecto de Hideyoshi), onomatopeyas y terminos
+# canonicos del universo de Umineko When They Cry que no deben marcarse como
+# errores ortograficos por las herramientas de revision (tools.translation_lint).
+# =============================================================================
+
+# --- Familia Ushiromiya y Personajes Principales ---
+Ushiromiya
+Kinzo
+Krauss
+Natsuhi
+Jessica
+Eva
+Hideyoshi
+George
+Rudolf
+Kyrie
+Battler
+Ange
+Rosa
+Maria
+Genji
+Shannon
+Kanon
+Gohda
+Kumasawa
+Nanjo
+Terumasa
+Sayo
+Yasu
+Yasuda
+Lion
+
+# --- Brujas, Demonios, Muebles e Inquisidores ---
+Beatrice
+Beato
+Bernkastel
+Lambdadelta
+Virgilia
+Publius
+Virgilius
+Maro
+Ronove
+Gaap
+EVA-Beatrice
+Erika
+Furudo
+Dlanor
+Knox
+Cornelia
+Gertrude
+Featherine
+Augustus
+Aurora
+Zepar
+Furfur
+Clair
+Vaux
+Bernard
+Sakutarou
+Sakutaro
+Chiester
+Siesta
+Lucifer
+Leviathan
+Satan
+Satán
+Belphegor
+Mammon
+Beelzebub
+Asmodeus
+Goat-kun
+
+# --- Personajes Secundarios y Referencias ---
+Amakusa
+Juza
+Okonogi
+Tetsuro
+Kawabata
+Otsuki
+Kasumi
+Sumadera
+Kyouko
+Sabakichi
+Kumasawa
+Hachijo
+Tohya
+Ikuko
+Bern
+Lambda
+Marfisa
+Gohda-san
+Kumasawa-san
+Nanjo-sensei
+Bice
+Piece
+
+# --- Lugares, Conceptos y Terminologia del Universo ---
+Rokkenjima
+Niijima
+Shikinejima
+Gukuajima
+Odawara
+Hinamizawa
+Kuwadorian
+Fukuin
+Gospel House
+Mariage Sorcière
+Sorcière
+Peccato
+Purgatorio
+Siete Estacas del Purgatorio
+Hermanas Chiester
+Guardia Imperial Chiester
+Pendragon
+Winchester
+Golden Land
+Tierra Dorada
+Meta-Mundo
+Fragmento
+Fragmentos
+Kakera
+Grimorio
+Epitafio
+Decálogo
+Ronald Knox
+Van Dine
+Agatha Christie
+Ellery Queen
+Chesterton
+Sherlock Holmes
+Moriarty
+Lupin
+Hercule Poirot
+Miss Marple
+Dante
+Divina Comedia
+Virgilio
+Beatriz
+Monte Purgatorio
+Rondo
+
+# --- Honorificos y Expresiones Japonesas Conservadas ---
+san
+sama
+kun
+chan
+tan
+chin
+sensei
+senpai
+aniki
+ane-san
+nee-san
+nee
+nii-san
+nii
+ojii-sama
+obaa-sama
+okaasan
+otousan
+ojousama
+ojou-sama
+danna-sama
+okami-san
+shishou
+miko
+ushiromiya
+beatoriche
+sakutarou
+nyeh
+ugyu
+uu
+uuu
+gwah
+bwah
+kuhihi
+ihihi
+ahahaha
+wahaha
+pukuku
+
+# --- Dialecto Coloquial Deliberado (Hideyoshi Ushiromiya / Kansai-ben) ---
+to's
+pensa'o
+na'
+pa'
+'tá
+'tán
+'taba
+'toy
+rápi'o
+búsque'as
+cansa'o
+preocupa'o
+olvida'o
+habla'o
+deja'o
+esta'o
+pasa'o
+llega'o
+empeza'o
+termina'o
+contento'
+mismo'
+seguro'
+
+# --- Alargamientos Expresivos y Tartamudeos Deliberados ---
+Battleer
+Baaattler
+Baaaaattler
+Bwattleer
+Beatooo
+Maaaaria
+Uuuu
+Kihihihi
+Ahahahaha
+Wahahahaha
+verdaaaad
+noooo
+siiii
+síííí
+quééé
+eeeh
+aaah
+oooh
+mmhm
+hmph
+tsk
+pff
+# Fin del diccionario

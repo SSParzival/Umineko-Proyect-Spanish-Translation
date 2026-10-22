@@ -1,0 +1,5444 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.ep2.ura_teatime_2",
+  "category": "story",
+  "rel_path": "story/ep2/ura_teatime_2.json",
+  "episode": "ep2",
+  "section": "ura_teatime_2",
+  "chapter": "ura_teatime_2",
+  "description": "Episode 2 story script chapter 'ura_teatime_2'.",
+  "entry_count": 128,
+  "entries": [
+    {
+      "id": "ep2.ura_teatime_2.d32095",
+      "kind": "dialogue",
+      "line_number": 100995,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32095",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700281",
+        "27/90700282",
+        "27/90700283"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700281\"]",
+        "[@][lv 0*\"27\"*\"90700282\"]",
+        "[@][lv 0*\"27\"*\"90700283\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Y bien.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Qué te pareció?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Nuestro juego de ahora.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Y bien.  ¿Qué te pareció?  Nuestro juego de ahora.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32096",
+      "kind": "dialogue",
+      "line_number": 101010,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32096",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100082"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100082\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Un juego tan desequilibrado pasa de ser cautivador y se torna aburrido.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Un juego tan desequilibrado pasa de ser cautivador y se torna aburrido.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32097",
+      "kind": "dialogue",
+      "line_number": 101016,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32097",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700284",
+        "27/90700285",
+        "27/90700286"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700284\"]",
+        "[@][lv 0*\"27\"*\"90700285\"]",
+        "[|][lv 0*\"27\"*\"90700286\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"*carcajada*carcajada*. Vaya, vaya, una dura crítica como siempre.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Y yo que estaba tan segura de que incluso Lady {f:5:Bernkastel}, a quien no le gusta nada el aburrimiento,",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " quedaría completamente satisfecha con este impactante desarrollo... Qué despiadada.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"*carcajada*carcajada*. Vaya, vaya, una dura crítica como siempre.  Y yo que estaba tan segura de que incluso Lady {f:5:Bernkastel}, a quien no le gusta nada el aburrimiento,  quedaría completamente satisfecha con este impactante desarrollo... Qué despiadada.\"",
+      "inline_tags": [
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32098",
+      "kind": "dialogue",
+      "line_number": 101022,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32098",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100083",
+        "28/92100084",
+        "28/92100085"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100083\"]",
+        "[@][lv 0*\"28\"*\"92100084\"]",
+        "[@][lv 0*\"28\"*\"92100085\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Bueno, aceptaré que fue impactante.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Sin embargo, fue horrible como un juego limpio.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Necesitas que las condiciones sean un poco más parejas, o—\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Bueno, aceptaré que fue impactante.  Sin embargo, fue horrible como un juego limpio.  Necesitas que las condiciones sean un poco más parejas, o—\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32099",
+      "kind": "dialogue",
+      "line_number": 101028,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32099",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700287",
+        "27/90700288",
+        "27/90700289"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700287\"]",
+        "[@][lv 0*\"27\"*\"90700288\"]",
+        "[@][lv 0*\"27\"*\"90700289\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Me estás diciendo que no hay forma de ganar?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Incluso para Lady {f:5:Bernkastel}?",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " *carcajada*carcajada*.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Me estás diciendo que no hay forma de ganar?  ¿Incluso para Lady {f:5:Bernkastel}?  *carcajada*carcajada*.\"",
+      "inline_tags": [
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32100",
+      "kind": "dialogue",
+      "line_number": 101034,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32100",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100086"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100086\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Me pregunto qué insinuas con eso, Beato.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Me pregunto qué insinuas con eso, Beato.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32101",
+      "kind": "dialogue",
+      "line_number": 101048,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32101",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700290",
+        "27/90700291",
+        "27/90700292"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700290\"]",
+        "[@][lv 0*\"27\"*\"90700291\"]",
+        "[@][lv 0*\"27\"*\"90700292\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No hay necesidad de seguir fingiendo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Ya lo sé.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Sé que {i:no eres simple espectadora}.\"",
+          "inline_tags": [
+            "{i:no eres simple espectadora}"
+          ]
+        }
+      ],
+      "text": "\"No hay necesidad de seguir fingiendo.  Ya lo sé.  Sé que {i:no eres simple espectadora}.\"",
+      "inline_tags": [
+        "{i:no eres simple espectadora}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32102",
+      "kind": "dialogue",
+      "line_number": 101055,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32102",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100087"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100087\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32103",
+      "kind": "dialogue",
+      "line_number": 101062,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32103",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700293",
+        "27/90700294",
+        "27/90700295",
+        "27/90700296"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700293\"]",
+        "[@][lv 0*\"27\"*\"90700294\"]",
+        "[@][lv 0*\"27\"*\"90700295\"]",
+        "[@][lv 0*\"27\"*\"90700296\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Pensaste no me daría cuenta?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Qué insolente, viajar hasta aquí y entrar en un territorio que no es tuyo solo para apostar contra mí.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Viniste aquí planeando ver mi juego desde las gradas, mientras apostabas por mi derrota.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " He adivinado bien, ¿no es así?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Pensaste no me daría cuenta?  Qué insolente, viajar hasta aquí y entrar en un territorio que no es tuyo solo para apostar contra mí.  Viniste aquí planeando ver mi juego desde las gradas, mientras apostabas por mi derrota.  He adivinado bien, ¿no es así?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32104",
+      "kind": "dialogue",
+      "line_number": 101068,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32104",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100088",
+        "28/92100089"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100088\"]",
+        "[@][lv 0*\"28\"*\"92100089\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Y si así fuera?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...  ¿Y si así fuera?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32105",
+      "kind": "dialogue",
+      "line_number": 101074,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32105",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700297",
+        "27/90700298"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700297\"]",
+        "[@][lv 0*\"27\"*\"90700298\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡*carcajada*carcajada*!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Verdaderamente interesante!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡*carcajada*carcajada*!  ¡Verdaderamente interesante!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32106",
+      "kind": "dialogue",
+      "line_number": 101079,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32106",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700299"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700299\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Que se me conceda la oportunidad de luchar contra Lady {f:5:Bernkastel}, la bruja más poderosa y quien derrotó a Lady {f:5:Lambdadelta}, es un verdadero placer!!\"",
+          "inline_tags": [
+            "{f:5:Bernkastel}",
+            "{f:5:Lambdadelta}"
+          ]
+        }
+      ],
+      "text": "\"¡¡Que se me conceda la oportunidad de luchar contra Lady {f:5:Bernkastel}, la bruja más poderosa y quien derrotó a Lady {f:5:Lambdadelta}, es un verdadero placer!!\"",
+      "inline_tags": [
+        "{f:5:Bernkastel}",
+        "{f:5:Lambdadelta}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32107",
+      "kind": "dialogue",
+      "line_number": 101085,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32107",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100090",
+        "28/92100091",
+        "28/92100092"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100090\"]",
+        "[@][lv 0*\"28\"*\"92100091\"]",
+        "[@][lv 0*\"28\"*\"92100092\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Sí.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Es un placer para mí tambien.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Después de todo, he venido hasta aquí solo porque quería verte rebosante de confianza, para luego destrozarte y verte perder.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Sí.  Es un placer para mí tambien.  Después de todo, he venido hasta aquí solo porque quería verte rebosante de confianza, para luego destrozarte y verte perder.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32108",
+      "kind": "dialogue",
+      "line_number": 101091,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32108",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700300",
+        "27/90700301"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700300\"]",
+        "[@][lv 0*\"27\"*\"90700301\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Qué persona tan honesta.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡*carcajada*carcajada*!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Qué persona tan honesta.  ¡¡*carcajada*carcajada*!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32109",
+      "kind": "dialogue",
+      "line_number": 101096,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32109",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700302",
+        "27/90700303"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700302\"]",
+        "[@][lv 0*\"27\"*\"90700303\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Por cierto, si la contienda entre la gran Lady {f:5:Bernkastel} y yo...",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " no contase con al menos un observador, sería una completa lástima.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Por cierto, si la contienda entre la gran Lady {f:5:Bernkastel} y yo...  no contase con al menos un observador, sería una completa lástima.\"",
+      "inline_tags": [
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32110",
+      "kind": "dialogue",
+      "line_number": 101102,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32110",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100093",
+        "28/92100094",
+        "28/92100095"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100093\"]",
+        "[@][lv 0*\"28\"*\"92100094\"]",
+        "[@][lv 0*\"28\"*\"92100095\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " La llamaste, ¿no es así?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " A esa niña.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...  La llamaste, ¿no es así?  A esa niña.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32111",
+      "kind": "dialogue",
+      "line_number": 101134,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32111",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200001",
+        "29/92200002"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200001\"]",
+        "[@][lv 0*\"29\"*\"92200002\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Hoh‐hoh‐hoh‐hoh‐ho!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡Te encontré, por fin te encontré, {f:5:Bernkastel}!!\"",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        }
+      ],
+      "text": "\"¡Hoh‐hoh‐hoh‐hoh‐ho!  ¡¡Te encontré, por fin te encontré, {f:5:Bernkastel}!!\"",
+      "inline_tags": [
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32112",
+      "kind": "dialogue",
+      "line_number": 101145,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32112",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100096",
+        "28/92100097",
+        "28/92100098"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100096\"]",
+        "[@][lv 0*\"28\"*\"92100097\"]",
+        "[@][lv 0*\"28\"*\"92100098\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Cómo estás, Lambda?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Parece que también tienes tiempo libre.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¿Me pregunto si es el destino que nosotras, quienes compartimos el odio por el aburrimiento, volvamos a encontrarnos?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Cómo estás, Lambda?  Parece que también tienes tiempo libre.  ¿Me pregunto si es el destino que nosotras, quienes compartimos el odio por el aburrimiento, volvamos a encontrarnos?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32113",
+      "kind": "dialogue",
+      "line_number": 101159,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32113",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200003",
+        "29/92200004",
+        "29/92200005"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200003\"]",
+        "[@][lv 0*\"29\"*\"92200004\"]",
+        "[@][lv 0*\"29\"*\"92200005\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Qué niña más tonta.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Por qué no te das cuenta de que la única razón por la que me ganaste fue por un poco de suerte y una no tan buena compatibilidad?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¿Acaso eso te hizo una engreída, que ahora incluso buscas pelearte con {f:5:Beatrice}? ¿No deberías conocer cuál es tu lugar?\"",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "\"Qué niña más tonta.  ¿Por qué no te das cuenta de que la única razón por la que me ganaste fue por un poco de suerte y una no tan buena compatibilidad?  ¿Acaso eso te hizo una engreída, que ahora incluso buscas pelearte con {f:5:Beatrice}? ¿No deberías conocer cuál es tu lugar?\"",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32114",
+      "kind": "dialogue",
+      "line_number": 101164,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32114",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200006",
+        "29/92200007",
+        "29/92200008"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200006\"]",
+        "[@][lv 0*\"29\"*\"92200007\"]",
+        "[@][lv 0*\"29\"*\"92200008\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"*risita*, {f:5:Beatrice} es fuerte, ¿sabes?",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " Y ella es más brutal que yo.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡Aunque solo por un poquito!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"*risita*, {f:5:Beatrice} es fuerte, ¿sabes?  Y ella es más brutal que yo.  ¡Aunque solo por un poquito!\"",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32115",
+      "kind": "dialogue",
+      "line_number": 101170,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32115",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200009"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200009\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Ah, y tampoco acortes mi nombre a Lambda!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Ah, y tampoco acortes mi nombre a Lambda!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32116",
+      "kind": "dialogue",
+      "line_number": 101196,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32116",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100099",
+        "28/92100100"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100099\"]",
+        "[@][lv 0*\"28\"*\"92100100\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Eres una tonta tú también, Beato.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Esta niña no hará excepciones por tu juego, lo convertirá todo en una farsa absurda.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Eres una tonta tú también, Beato.  Esta niña no hará excepciones por tu juego, lo convertirá todo en una farsa absurda.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32117",
+      "kind": "dialogue",
+      "line_number": 101212,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32117",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700304"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700304\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No he traído a Lady {f:5:Lambdadelta} aquí solo para que observe desde las gradas.\"",
+          "inline_tags": [
+            "{f:5:Lambdadelta}"
+          ]
+        }
+      ],
+      "text": "\"No he traído a Lady {f:5:Lambdadelta} aquí solo para que observe desde las gradas.\"",
+      "inline_tags": [
+        "{f:5:Lambdadelta}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32118",
+      "kind": "dialogue",
+      "line_number": 101217,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32118",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700305"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700305\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Después de informarle de que estabas apostando contra mí, me dijo que apostaría contra ti.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Después de informarle de que estabas apostando contra mí, me dijo que apostaría contra ti.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32119",
+      "kind": "dialogue",
+      "line_number": 101235,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32119",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100101"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100101\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Todavía me guardas rencor, ¿no?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Todavía me guardas rencor, ¿no?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32120",
+      "kind": "dialogue",
+      "line_number": 101248,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32120",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200010",
+        "29/92200011",
+        "29/92200012"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200010\"]",
+        "[@][lv 0*\"29\"*\"92200011\"]",
+        "[@][lv 0*\"29\"*\"92200012\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Hoh‐hoh‐hoh‐ho!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Porque yo era la bruja más fuerte del universo.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡Pero como perdí contra ti, ya no soy la más fuerte!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Hoh‐hoh‐hoh‐ho!!  Porque yo era la bruja más fuerte del universo.  ¡Pero como perdí contra ti, ya no soy la más fuerte!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32121",
+      "kind": "dialogue",
+      "line_number": 101253,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32121",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200013"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200013\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Así que me pondré de parte de cualquiera que esté en tu contra!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Así que me pondré de parte de cualquiera que esté en tu contra!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32122",
+      "kind": "dialogue",
+      "line_number": 101273,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32122",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700306",
+        "27/90700307",
+        "27/90700308"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700306\"]",
+        "[@][lv 0*\"27\"*\"90700307\"]",
+        "[@][lv 0*\"27\"*\"90700308\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡*carcajada*carcajada*!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Ahí lo tienes.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Con la gran Lady {f:5:Bernkastel} como oponente, puede que esto ni siquiera cuente como desventaja, pero servirá para entretenernos.\"",
+          "inline_tags": [
+            "{f:5:Bernkastel}"
+          ]
+        }
+      ],
+      "text": "\"¡*carcajada*carcajada*!  Ahí lo tienes.  Con la gran Lady {f:5:Bernkastel} como oponente, puede que esto ni siquiera cuente como desventaja, pero servirá para entretenernos.\"",
+      "inline_tags": [
+        "{f:5:Bernkastel}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32123",
+      "kind": "dialogue",
+      "line_number": 101285,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32123",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100102",
+        "28/92100103"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100102\"]",
+        "[@][lv 0*\"28\"*\"92100103\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Haz lo que quieras.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Ahora que me han descubierto, voy a ponerme seria.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Haz lo que quieras.  Ahora que me han descubierto, voy a ponerme seria.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32124",
+      "kind": "dialogue",
+      "line_number": 101290,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32124",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700309",
+        "27/90700310",
+        "27/90700311",
+        "27/90700312"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700309\"]",
+        "[@][lv 0*\"27\"*\"90700310\"]",
+        "[@][lv 0*\"27\"*\"90700311\"]",
+        "[@][lv 0*\"27\"*\"90700312\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Eso sería lo idóneo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " \"Indulgencia\" nunca ha figurado en mi diccionario.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡*carcajada*carcajada*carcajada*carcajada*carcajada*!",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Lady {f:5:Lambdadelta}, disfrutemos de nuestra nueva y valiosa relación.\"",
+          "inline_tags": [
+            "{f:5:Lambdadelta}"
+          ]
+        }
+      ],
+      "text": "\"Eso sería lo idóneo.  \"Indulgencia\" nunca ha figurado en mi diccionario.  ¡*carcajada*carcajada*carcajada*carcajada*carcajada*!  Lady {f:5:Lambdadelta}, disfrutemos de nuestra nueva y valiosa relación.\"",
+      "inline_tags": [
+        "{f:5:Lambdadelta}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32125",
+      "kind": "dialogue",
+      "line_number": 101296,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32125",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200014",
+        "29/92200015",
+        "29/92200016"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200014\"]",
+        "[@][lv 0*\"29\"*\"92200015\"]",
+        "[@][lv 0*\"29\"*\"92200016\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Sí, cuento contigo, Lady {f:5:Beatrice}!",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " Esta chica realmente me puso en aprietos.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡No seré feliz hasta que las dos la aplastemos y le hagamos pagar el doble!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Sí, cuento contigo, Lady {f:5:Beatrice}!  Esta chica realmente me puso en aprietos.  ¡¡No seré feliz hasta que las dos la aplastemos y le hagamos pagar el doble!!\"",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32126",
+      "kind": "dialogue",
+      "line_number": 101322,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32126",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100104",
+        "28/92100105",
+        "28/92100106"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100104\"]",
+        "[@][lv 0*\"28\"*\"92100105\"]",
+        "[@][lv 0*\"28\"*\"92100106\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Lo espero con ansias, Lambda.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Y Beato.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " No importa quién gane o quién pierda, esta será una batalla de gran importancia para nosotras.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Lo espero con ansias, Lambda.  Y Beato.  No importa quién gane o quién pierda, esta será una batalla de gran importancia para nosotras.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32127",
+      "kind": "dialogue",
+      "line_number": 101334,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32127",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200017",
+        "29/92200018"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200017\"]",
+        "[@][lv 0*\"29\"*\"92200018\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Así es.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Por supuesto, no tengo intención de perder, pero eso es más importante que ganar o perder.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Así es.  Por supuesto, no tengo intención de perder, pero eso es más importante que ganar o perder.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32128",
+      "kind": "dialogue",
+      "line_number": 101354,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32128",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700313"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700313\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Después de todo, odiamos el aburrimiento.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Después de todo, odiamos el aburrimiento.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32129",
+      "kind": "dialogue",
+      "line_number": 101362,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32129",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Las tres brujas, reían, carcajeaban y se jactaban.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Las tres brujas, reían, carcajeaban y se jactaban.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32130",
+      "kind": "dialogue",
+      "line_number": 101384,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32130",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100107",
+        "28/92100108",
+        "28/92100109",
+        "28/92100110",
+        "28/92100111"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100107\"]",
+        "[@][lv 0*\"28\"*\"92100108\"]",
+        "[@][lv 0*\"28\"*\"92100109\"]",
+        "[@][lv 0*\"28\"*\"92100110\"]",
+        "[@][lv 0*\"28\"*\"92100111\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Así es.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Debería darte las gracias, Beato.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Parece que por fin podré escapar del aburrimiento.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Da lo mejor de ti para entretenerme.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Junto a {f:5:Lambdadelta}.\"",
+          "inline_tags": [
+            "{f:5:Lambdadelta}"
+          ]
+        }
+      ],
+      "text": "\"Así es.  Debería darte las gracias, Beato.  Parece que por fin podré escapar del aburrimiento.  Da lo mejor de ti para entretenerme.  Junto a {f:5:Lambdadelta}.\"",
+      "inline_tags": [
+        "{f:5:Lambdadelta}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32131",
+      "kind": "dialogue",
+      "line_number": 101396,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32131",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700314",
+        "27/90700315"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700314\"]",
+        "[@][lv 0*\"27\"*\"90700315\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Eso haré.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡*carcajada*carcajada*!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Eso haré.  ¡¡*carcajada*carcajada*!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32132",
+      "kind": "dialogue",
+      "line_number": 101409,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32132",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200019",
+        "29/92200020"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200019\"]",
+        "[@][lv 0*\"29\"*\"92200020\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Eso es, Beato, así que empecemos una reunión estratégica ahora mismo!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Conozco todos los puntos débiles de esta chica, y te los voy a enseñar todos!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Eso es, Beato, así que empecemos una reunión estratégica ahora mismo!  ¡Conozco todos los puntos débiles de esta chica, y te los voy a enseñar todos!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32133",
+      "kind": "dialogue",
+      "line_number": 101415,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32133",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700316"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700316\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Y a pesar de eso, Lady {f:5:Lambdadelta}, fuiste derrotada por ella, para que conste... *carcajada*carcajada*!\"",
+          "inline_tags": [
+            "{f:5:Lambdadelta}"
+          ]
+        }
+      ],
+      "text": "\"¡Y a pesar de eso, Lady {f:5:Lambdadelta}, fuiste derrotada por ella, para que conste... *carcajada*carcajada*!\"",
+      "inline_tags": [
+        "{f:5:Lambdadelta}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32134",
+      "kind": "dialogue",
+      "line_number": 101421,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32134",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200021",
+        "29/92200022"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200021\"]",
+        "[@][#][*][lv 0*\"29\"*\"92200022\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Uuuuuurrgggh, no te diré nada, no te diré nada!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Tsuun!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Uuuuuurrgggh, no te diré nada, no te diré nada!  ¡Tsuun!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32135",
+      "kind": "dialogue",
+      "line_number": 101446,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32135",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700317",
+        "27/90700318"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700317\"]",
+        "[#][*][@][lv 0*\"27\"*\"90700318\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡*carcajada*carcajada* jajajajajajajaja!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Nunca te aburre, esa Lady {f:5:Lambdadelta}.\"",
+          "inline_tags": [
+            "{f:5:Lambdadelta}"
+          ]
+        }
+      ],
+      "text": "\"¡*carcajada*carcajada* jajajajajajajaja!  Nunca te aburre, esa Lady {f:5:Lambdadelta}.\"",
+      "inline_tags": [
+        "{f:5:Lambdadelta}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32136",
+      "kind": "dialogue",
+      "line_number": 101470,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32136",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100112",
+        "28/92100113",
+        "28/92100114"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100112\"]",
+        "[@][lv 0*\"28\"*\"92100113\"]",
+        "[@][lv 0*\"28\"*\"92100114\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No lo hace, ¿no?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Cuida de ella.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Puede que no lo parezca, pero se siente muy sola.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"No lo hace, ¿no?  Cuida de ella.  Puede que no lo parezca, pero se siente muy sola.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32137",
+      "kind": "dialogue",
+      "line_number": 101476,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32137",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700319",
+        "27/90700320",
+        "27/90700321",
+        "27/90700322",
+        "27/90700323"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700319\"]",
+        "[@][lv 0*\"27\"*\"90700320\"]",
+        "[@][lv 0*\"27\"*\"90700321\"]",
+        "[@][lv 0*\"27\"*\"90700322\"]",
+        "[@][lv 0*\"27\"*\"90700323\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ya veo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Así que es una de esas que son populares en estos días.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " *carcajada*, como se esperaría de Lady {f:5:Lambdadelta}.",
+          "inline_tags": [
+            "{f:5:Lambdadelta}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": " Bastante moderna.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " *carcajada*carcajada*carcajada*carcajada*.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Ya veo.  Así que es una de esas que son populares en estos días.  *carcajada*, como se esperaría de Lady {f:5:Lambdadelta}.  Bastante moderna.  *carcajada*carcajada*carcajada*carcajada*.\"",
+      "inline_tags": [
+        "{f:5:Lambdadelta}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32138",
+      "kind": "dialogue",
+      "line_number": 101482,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32138",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100115",
+        "28/92100116"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100115\"]",
+        "[@][lv 0*\"28\"*\"92100116\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ve de una vez.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Esa niña está esperando que la persigas.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Ve de una vez.  Esa niña está esperando que la persigas.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32139",
+      "kind": "dialogue",
+      "line_number": 101488,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32139",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700324"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700324\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Entonces, si me disculpas.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Entonces, si me disculpas.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32140",
+      "kind": "dialogue",
+      "line_number": 101493,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32140",
+      "speaker": "bea",
+      "voice_files": [
+        "27/90700325",
+        "27/90700326"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"90700325\"]",
+        "[@][lv 0*\"27\"*\"90700326\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Nos vemos en el próximo juego.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡*carcajada*carcajada*carcajada*carcajada*carcajada*!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Nos vemos en el próximo juego.  ¡*carcajada*carcajada*carcajada*carcajada*carcajada*!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32141",
+      "kind": "dialogue",
+      "line_number": 101513,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32141",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100117",
+        "28/92100118"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100117\"]",
+        "[@][lv 0*\"28\"*\"92100118\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Lo siento.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Ha venido una problemática, pero no le hagas caso.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Lo siento.  Ha venido una problemática, pero no le hagas caso.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32142",
+      "kind": "dialogue",
+      "line_number": 101515,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32142",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100119",
+        "28/92100120"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100119\"]",
+        "[|][lv 0*\"28\"*\"92100120\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Más importante,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " las cosas se pusieron feas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Más importante,  las cosas se pusieron feas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32143",
+      "kind": "dialogue",
+      "line_number": 101517,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32143",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100121",
+        "28/92100122"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100121\"]",
+        "[|][lv 0*\"28\"*\"92100122\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Pensé que había experimentado algunos finales particularmente horribles en mi juego con Lambda,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " pero esta vez, es excepcionalmente horrible.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Pensé que había experimentado algunos finales particularmente horribles en mi juego con Lambda,  pero esta vez, es excepcionalmente horrible.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32144",
+      "kind": "dialogue",
+      "line_number": 101519,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32144",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100123"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100123\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "No es que no comprenda tu deseo de abrazar tus rodillas y cerrar tu corazón.",
+          "inline_tags": []
+        }
+      ],
+      "text": "No es que no comprenda tu deseo de abrazar tus rodillas y cerrar tu corazón.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32145",
+      "kind": "dialogue",
+      "line_number": 101526,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32145",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100124",
+        "28/92100125"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100124\"]",
+        "[@][lv 0*\"28\"*\"92100125\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Pero si te encuentras con ese final varias veces más,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " tu corazón morirá dentro de cien años.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Pero si te encuentras con ese final varias veces más,  tu corazón morirá dentro de cien años.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32146",
+      "kind": "dialogue",
+      "line_number": 101533,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32146",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100126"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100126\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Beato vio a través de mí, así que lo confesaré.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Beato vio a través de mí, así que lo confesaré.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32147",
+      "kind": "dialogue",
+      "line_number": 101535,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32147",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100127"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100127\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ahora eres exactamente como yo era en el pasado, cuando estaba aprisionada en el mundo de Lambda.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Ahora eres exactamente como yo era en el pasado, cuando estaba aprisionada en el mundo de Lambda.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32148",
+      "kind": "dialogue",
+      "line_number": 101537,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32148",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100128"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100128\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Encerrada en un laberinto del cruel destino, atormentada por los caprichos de una bruja.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Encerrada en un laberinto del cruel destino, atormentada por los caprichos de una bruja.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32149",
+      "kind": "dialogue",
+      "line_number": 101543,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32149",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100129"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100129\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Yo soy una bruja que nació de allí.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Yo soy una bruja que nació de allí.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32150",
+      "kind": "dialogue",
+      "line_number": 101545,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32150",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100130",
+        "28/92100131"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100130\"]",
+        "[@]",
+        "[|][lv 0*\"28\"*\"92100131\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Así que tal vez soy como una hermana mayor para ti.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " Así que he decidido prestarte mi poder.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Así que tal vez soy como una hermana mayor para ti. {n}  Así que he decidido prestarte mi poder.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32151",
+      "kind": "dialogue",
+      "line_number": 101547,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32151",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100132",
+        "28/92100133",
+        "28/92100134"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100132\"]",
+        "[|][lv 0*\"28\"*\"92100133\"]",
+        "[|][lv 0*\"28\"*\"92100134\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sin embargo,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " incluso comparado con mi destino,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " el tuyo es... verdaderamente brutal.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sin embargo,  incluso comparado con mi destino,  el tuyo es... verdaderamente brutal.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32152",
+      "kind": "dialogue",
+      "line_number": 101549,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32152",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100135"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100135\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "No solo me compadezco de ti, sino que casi se me saltan las lágrimas por tu trágico destino.",
+          "inline_tags": []
+        }
+      ],
+      "text": "No solo me compadezco de ti, sino que casi se me saltan las lágrimas por tu trágico destino.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32153",
+      "kind": "dialogue",
+      "line_number": 101565,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32153",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100136",
+        "28/92100137"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100136\"]",
+        "[@]",
+        "[|][lv 0*\"28\"*\"92100137\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Pero por favor, no pierdas la esperanza.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Por favor, no te sometas a Beato, pase lo que pase.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Pero por favor, no pierdas la esperanza. {n} Por favor, no te sometas a Beato, pase lo que pase.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32154",
+      "kind": "dialogue",
+      "line_number": 101567,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32154",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100138"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100138\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ciertamente, el juego de esa niña es bastante injusto.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Ciertamente, el juego de esa niña es bastante injusto.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32155",
+      "kind": "dialogue",
+      "line_number": 101569,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32155",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100139",
+        "28/92100140"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100139\"]",
+        "[@][lv 0*\"28\"*\"92100140\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "He echado un vistazo al tablero de juego, y los trucos son tan mezquinos y astutos,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y los trucos escénicos son tan sucios que probablemente superan con creces a los del tablero de juego de {f:5:Lambdadelta}.",
+          "inline_tags": [
+            "{f:5:Lambdadelta}"
+          ]
+        }
+      ],
+      "text": "He echado un vistazo al tablero de juego, y los trucos son tan mezquinos y astutos,  y los trucos escénicos son tan sucios que probablemente superan con creces a los del tablero de juego de {f:5:Lambdadelta}.",
+      "inline_tags": [
+        "{f:5:Lambdadelta}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32156",
+      "kind": "dialogue",
+      "line_number": 101573,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32156",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100141"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100141\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y lo que es aún más aterrador es que cuando esa niña mueve una pieza, no siempre hace el mejor movimiento posible.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Y lo que es aún más aterrador es que cuando esa niña mueve una pieza, no siempre hace el mejor movimiento posible.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32157",
+      "kind": "dialogue",
+      "line_number": 101575,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32157",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100142",
+        "28/92100143"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100142\"]",
+        "[@]",
+        "[|][lv 0*\"28\"*\"92100143\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Es ahí donde es muy diferente de Lambda.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Lambda siempre utiliza un número abrumador de piezas y hace el mejor movimiento posible para ganar.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Es ahí donde es muy diferente de Lambda. {n} Lambda siempre utiliza un número abrumador de piezas y hace el mejor movimiento posible para ganar.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32158",
+      "kind": "dialogue",
+      "line_number": 101577,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32158",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100144"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100144\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Pero Beato a veces suaviza las cosas intencionadamente cuando mueve sus piezas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Pero Beato a veces suaviza las cosas intencionadamente cuando mueve sus piezas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32159",
+      "kind": "dialogue",
+      "line_number": 101579,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32159",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100145",
+        "28/92100146"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100145\"]",
+        "[@][lv 0*\"28\"*\"92100146\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Esto es desafortunado para nosotros, ya que intentamos averiguar la estrategia de nuestro oponente mirando sus movimientos,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " pero toda esa cantidad formidable de ruido crea ciertos fallos en nuestra información.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Esto es desafortunado para nosotros, ya que intentamos averiguar la estrategia de nuestro oponente mirando sus movimientos,  pero toda esa cantidad formidable de ruido crea ciertos fallos en nuestra información.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32160",
+      "kind": "dialogue",
+      "line_number": 101581,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32160",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100147"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100147\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Este desorden podría ser problemático.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Este desorden podría ser problemático.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32161",
+      "kind": "dialogue",
+      "line_number": 101592,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32161",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100148",
+        "28/92100149"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100148\"]",
+        "[@][lv 0*\"28\"*\"92100149\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sin embargo, como en el ajedrez,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " un jugador podría crear algo de ruido a su oponente con una jugada inútil, pero perdería una jugada más valiosa.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sin embargo, como en el ajedrez,  un jugador podría crear algo de ruido a su oponente con una jugada inútil, pero perdería una jugada más valiosa.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32162",
+      "kind": "dialogue",
+      "line_number": 101594,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32162",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100150"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100150\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En otras palabras, no es que tus oportunidades de aprovechar eso sean nulas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "En otras palabras, no es que tus oportunidades de aprovechar eso sean nulas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32163",
+      "kind": "dialogue",
+      "line_number": 101600,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32163",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100151"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100151\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Aunque no puedas creerlo, este juego también fue así.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Aunque no puedas creerlo, este juego también fue así.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32164",
+      "kind": "dialogue",
+      "line_number": 101602,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32164",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100152",
+        "28/92100153"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100152\"]",
+        "[|][lv 0*\"28\"*\"92100153\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Aunque esos acontecimientos parecían tan abrumadores,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " en realidad eran puntos débiles.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Aunque esos acontecimientos parecían tan abrumadores,  en realidad eran puntos débiles.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32165",
+      "kind": "dialogue",
+      "line_number": 101604,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32165",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100154"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100154\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Parece casi como si quisiera que nos aprovechemos de ellos.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Parece casi como si quisiera que nos aprovechemos de ellos.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32166",
+      "kind": "dialogue",
+      "line_number": 101606,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32166",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100155"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100155\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Aunque, no sé si es una trampa o si nos está poniendo a prueba.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Aunque, no sé si es una trampa o si nos está poniendo a prueba.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32167",
+      "kind": "dialogue",
+      "line_number": 101614,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32167",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100156",
+        "28/92100157",
+        "28/92100158"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100156\"]",
+        "[@]",
+        "[|][lv 0*\"28\"*\"92100157\"]",
+        "[@]",
+        "[|][lv 0*\"28\"*\"92100158\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "De todas formas, no te rindas.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "No dejes de pensar.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 4,
+          "text": "No niegues ninguna posibilidad.",
+          "inline_tags": []
+        }
+      ],
+      "text": "De todas formas, no te rindas. {n} No dejes de pensar. {n} No niegues ninguna posibilidad.",
+      "inline_tags": [
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32168",
+      "kind": "dialogue",
+      "line_number": 101616,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32168",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100159"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100159\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Mientras sigas manteniendo la voluntad de luchar, Beato no ganará.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Mientras sigas manteniendo la voluntad de luchar, Beato no ganará.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32169",
+      "kind": "dialogue",
+      "line_number": 101618,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32169",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100160",
+        "28/92100161"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100160\"]",
+        "[@]",
+        "[|][lv 0*\"28\"*\"92100161\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La defensa es crucial durante una batalla de brujas, ¿sabes?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Más que intentar ganar, intenta no perder.",
+          "inline_tags": []
+        }
+      ],
+      "text": "La defensa es crucial durante una batalla de brujas, ¿sabes? {n} Más que intentar ganar, intenta no perder.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32170",
+      "kind": "dialogue",
+      "line_number": 101620,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32170",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100162"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100162\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Si pierdes al aceptarla, entonces definitivamente no debes aceptarla.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Si pierdes al aceptarla, entonces definitivamente no debes aceptarla.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32171",
+      "kind": "dialogue",
+      "line_number": 101622,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32171",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100163",
+        "28/92100164"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100163\"]",
+        "[@]",
+        "[|][lv 0*\"28\"*\"92100164\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Hacerte aceptar a las brujas.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Ya es es claramente una de las condiciones de victoria de {f:5:Beatrice}.",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "Hacerte aceptar a las brujas. {n} Ya es es claramente una de las condiciones de victoria de {f:5:Beatrice}.",
+      "inline_tags": [
+        "{n}",
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32172",
+      "kind": "dialogue",
+      "line_number": 101627,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32172",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100165"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100165\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ahora que he anunciado que soy tu aliada, yo también me esforzaré por prestarte todo el poder que pueda.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Ahora que he anunciado que soy tu aliada, yo también me esforzaré por prestarte todo el poder que pueda.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32173",
+      "kind": "dialogue",
+      "line_number": 101629,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32173",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100166"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100166\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Haz un esfuerzo tú también.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Haz un esfuerzo tú también.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32174",
+      "kind": "dialogue",
+      "line_number": 101631,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32174",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100167"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100167\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Si sigues abrazado a tus rodillas, ponte de pie rápidamente.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Si sigues abrazado a tus rodillas, ponte de pie rápidamente.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32175",
+      "kind": "dialogue",
+      "line_number": 101638,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32175",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100168"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100168\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Umm, en momentos así, ¿qué es lo que solía decir?",
+          "inline_tags": []
+        }
+      ],
+      "text": "Umm, en momentos así, ¿qué es lo que solía decir?",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32176",
+      "kind": "dialogue",
+      "line_number": 101640,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32176",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100169",
+        "28/92100170",
+        "28/92100171",
+        "28/92100172",
+        "28/92100173",
+        "28/92100174"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100169\"]",
+        "[@]",
+        "[|][lv 0*\"28\"*\"92100170\"]",
+        "[|][lv 0*\"28\"*\"92100171\"]",
+        "[|][lv 0*\"28\"*\"92100172\"]",
+        "[@][lv 0*\"28\"*\"92100173\"]",
+        "[#][*][|][lv 0*\"28\"*\"92100174\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Umm, eh,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " Fi‐",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": "Fight,",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Ooh~.",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " Mii,",
+          "inline_tags": []
+        },
+        {
+          "index": 6,
+          "text": " nipah~{p:0:☆}",
+          "inline_tags": [
+            "{p:0:☆}"
+          ]
+        }
+      ],
+      "text": "Umm, eh, {n}  Fi‐ Fight,  Ooh~.  Mii,  nipah~{p:0:☆}",
+      "inline_tags": [
+        "{n}",
+        "{p:0:☆}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32177",
+      "kind": "dialogue",
+      "line_number": 101651,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32177",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100175"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100175\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Es tan vergonzoso hacer esto.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Es tan vergonzoso hacer esto.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32178",
+      "kind": "dialogue",
+      "line_number": 101653,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32178",
+      "speaker": "ber",
+      "voice_files": [
+        "28/92100176"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"28\"*\"92100176\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "He hecho todo esto por ti, así que date prisa y vuelve a levantarte.",
+          "inline_tags": []
+        }
+      ],
+      "text": "He hecho todo esto por ti, así que date prisa y vuelve a levantarte.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32179",
+      "kind": "dialogue",
+      "line_number": 101681,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32179",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200023",
+        "29/92200024",
+        "29/92200025"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200023\"]",
+        "[@][lv 0*\"29\"*\"92200024\"]",
+        "[@][lv 0*\"29\"*\"92200025\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ah, ahí estás.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Se ha ido Bern a algún sitio?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " *risita*, ¿no podría ser más patética?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Ah, ahí estás.  ¿Se ha ido Bern a algún sitio?  *risita*, ¿no podría ser más patética?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32180",
+      "kind": "dialogue",
+      "line_number": 101695,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32180",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200026",
+        "29/92200027"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200026\"]",
+        "[@]",
+        "[|][lv 0*\"29\"*\"92200027\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En cualquier caso.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Las piezas que elige Bern son horribles como siempre, eh.",
+          "inline_tags": []
+        }
+      ],
+      "text": "En cualquier caso. {n} Las piezas que elige Bern son horribles como siempre, eh.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32181",
+      "kind": "dialogue",
+      "line_number": 101699,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32181",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200028",
+        "29/92200029",
+        "29/92200030"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200028\"]",
+        "[@]",
+        "[|][lv 0*\"29\"*\"92200029\"]",
+        "[@]",
+        "[|][lv 0*\"29\"*\"92200030\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Es lo mismo con el ajedrez, ¿verdad?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Si todas tus piezas fueran peones, tendrías cero oportunidades de ganar, ¿cierto?",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 4,
+          "text": "Si todas tus piezas fueran torres y alfiles, no habría forma de que perdieras.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Es lo mismo con el ajedrez, ¿verdad? {n} Si todas tus piezas fueran peones, tendrías cero oportunidades de ganar, ¿cierto? {n} Si todas tus piezas fueran torres y alfiles, no habría forma de que perdieras.",
+      "inline_tags": [
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32182",
+      "kind": "dialogue",
+      "line_number": 101703,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32182",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200031",
+        "29/92200032"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200031\"]",
+        "[@][lv 0*\"29\"*\"92200032\"]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¡¡B‐Bueno, la última vez sentí un poco de lástima y le dije que podía colocar sus piezas donde quisiera,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y entonces la idiota de Bern no se dio cuenta de mi compasión y empezó con todos sus peones promocionados en la octava fila!!",
+          "inline_tags": []
+        }
+      ],
+      "text": "¡¡B‐Bueno, la última vez sentí un poco de lástima y le dije que podía colocar sus piezas donde quisiera,  y entonces la idiota de Bern no se dio cuenta de mi compasión y empezó con todos sus peones promocionados en la octava fila!!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32183",
+      "kind": "dialogue",
+      "line_number": 101714,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32183",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200033",
+        "29/92200034"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200033\"]",
+        "[@][lv 0*\"29\"*\"92200034\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿Qué pasa con eso? ¡¡No fue una derrota ni nada parecido!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Aaah, solo de recordarlo me entran náuseas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿Qué pasa con eso? ¡¡No fue una derrota ni nada parecido!!  Aaah, solo de recordarlo me entran náuseas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32184",
+      "kind": "dialogue",
+      "line_number": 101718,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32184",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200035"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200035\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Así que, estaré molesta hasta que no vea a la estúpida de Bern quedarse sin palabras.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Así que, estaré molesta hasta que no vea a la estúpida de Bern quedarse sin palabras.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32185",
+      "kind": "dialogue",
+      "line_number": 101720,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32185",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200036"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200036\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¡Así que verte en este estado como pieza de Bern me hace sentir increíble!",
+          "inline_tags": []
+        }
+      ],
+      "text": "¡Así que verte en este estado como pieza de Bern me hace sentir increíble!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32186",
+      "kind": "dialogue",
+      "line_number": 101725,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32186",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200037",
+        "29/92200038",
+        "29/92200039"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200037\"]",
+        "[@][lv 0*\"29\"*\"92200038\"]",
+        "[@][lv 0*\"29\"*\"92200039\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¡Además, lo creas o no, esa chica odia mucho perder,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " así que apuesto a que ahora mismo está rechinando los dientes de frustración, llorando como un bebé,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " es tan patética, *risita*, hohhh‐hoh‐hoh‐hoh‐hoh‐ho!",
+          "inline_tags": []
+        }
+      ],
+      "text": "¡Además, lo creas o no, esa chica odia mucho perder,  así que apuesto a que ahora mismo está rechinando los dientes de frustración, llorando como un bebé,  es tan patética, *risita*, hohhh‐hoh‐hoh‐hoh‐hoh‐ho!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32187",
+      "kind": "dialogue",
+      "line_number": 101729,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32187",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200040"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200040\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Vamos, ríete conmigo, ¡oh‐hoh‐hoh‐hoh‐ho!",
+          "inline_tags": []
+        }
+      ],
+      "text": "Vamos, ríete conmigo, ¡oh‐hoh‐hoh‐hoh‐ho!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32188",
+      "kind": "dialogue",
+      "line_number": 101736,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32188",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200041",
+        "29/92200042"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200041\"]",
+        "[@]",
+        "[|][lv 0*\"29\"*\"92200042\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Espera un segundo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "¿Sigues abrazándote las rodillas?",
+          "inline_tags": []
+        }
+      ],
+      "text": "Espera un segundo. {n} ¿Sigues abrazándote las rodillas?",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32189",
+      "kind": "dialogue",
+      "line_number": 101738,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32189",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200043"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200043\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿Estás así solo porque Beato se puso un poco seria?",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿Estás así solo porque Beato se puso un poco seria?",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32190",
+      "kind": "dialogue",
+      "line_number": 101740,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32190",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200044"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200044\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿No podrías ser un poco menos patético?",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿No podrías ser un poco menos patético?",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32191",
+      "kind": "dialogue",
+      "line_number": 101744,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32191",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200045"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200045\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Eres tan patético, así que te ayudaré solo un poquito.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Eres tan patético, así que te ayudaré solo un poquito.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32192",
+      "kind": "dialogue",
+      "line_number": 101746,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32192",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200046",
+        "29/92200047",
+        "29/92200048"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200046\"]",
+        "[@][lv 0*\"29\"*\"92200047\"]",
+        "[@][lv 0*\"29\"*\"92200048\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Yo, la bruja más fuerte del universo, la Bruja de la Certeza, la gran {f:5:Lambdadelta},",
+          "inline_tags": [
+            "{f:5:Lambdadelta}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " hará que tus pocas posibilidades de ganar se acerquen un poquito más a la certeza.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Será mejor que me lo agradezcas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Yo, la bruja más fuerte del universo, la Bruja de la Certeza, la gran {f:5:Lambdadelta},  hará que tus pocas posibilidades de ganar se acerquen un poquito más a la certeza.  Será mejor que me lo agradezcas.",
+      "inline_tags": [
+        "{f:5:Lambdadelta}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32193",
+      "kind": "dialogue",
+      "line_number": 101761,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32193",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200049"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200049\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sabes, puede que {f:5:Beatrice} sea una bruja cruel y poderosa, pero no es rival para mí.",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "Sabes, puede que {f:5:Beatrice} sea una bruja cruel y poderosa, pero no es rival para mí.",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32194",
+      "kind": "dialogue",
+      "line_number": 101763,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32194",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200050",
+        "29/92200051"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200050\"]",
+        "[@][lv 0*\"29\"*\"92200051\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿Por qué?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Porque es demasiado blanda.",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿Por qué?  Porque es demasiado blanda.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32195",
+      "kind": "dialogue",
+      "line_number": 101765,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32195",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200052"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200052\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Esa niña preparará un tablero de modo que pueda ganar con unos pocos movimientos más, pero deliberadamente no acabará contigo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Esa niña preparará un tablero de modo que pueda ganar con unos pocos movimientos más, pero deliberadamente no acabará contigo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32196",
+      "kind": "dialogue",
+      "line_number": 101767,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32196",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200053"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200053\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Hará cosas como tomar piezas sin valor o poner demasiadas piezas en el tablero para hacer las cosas aún más desiguales.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Hará cosas como tomar piezas sin valor o poner demasiadas piezas en el tablero para hacer las cosas aún más desiguales.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32197",
+      "kind": "dialogue",
+      "line_number": 101769,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32197",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200054"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200054\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El punto es que tiene la mala costumbre de juguetear cuando cree que va a ganar.",
+          "inline_tags": []
+        }
+      ],
+      "text": "El punto es que tiene la mala costumbre de juguetear cuando cree que va a ganar.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32198",
+      "kind": "dialogue",
+      "line_number": 101784,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32198",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200055",
+        "29/92200056"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200055\"]",
+        "[@][lv 0*\"29\"*\"92200056\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Casi todos los diversos ataques que son perjudiciales para ti y para Bern...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " me parecen a mí como un desperdicio total y una exageración.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Casi todos los diversos ataques que son perjudiciales para ti y para Bern...  me parecen a mí como un desperdicio total y una exageración.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32199",
+      "kind": "dialogue",
+      "line_number": 101786,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32199",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200057",
+        "29/92200058",
+        "29/92200059"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200057\"]",
+        "[@][lv 0*\"29\"*\"92200058\"]",
+        "[@][lv 0*\"29\"*\"92200059\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Básicamente, esa es su debilidad, y también es tu oportunidad.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Entiendes?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " No es una oponente a la que temer, ¿verdad?",
+          "inline_tags": []
+        }
+      ],
+      "text": "Básicamente, esa es su debilidad, y también es tu oportunidad.  ¿Entiendes?  No es una oponente a la que temer, ¿verdad?",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32200",
+      "kind": "dialogue",
+      "line_number": 101791,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32200",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200060",
+        "29/92200061",
+        "29/92200062"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200060\"]",
+        "[@]",
+        "[|][lv 0*\"29\"*\"92200061\"]",
+        "[@]",
+        "[|][lv 0*\"29\"*\"92200062\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "A veces ella confunde los medios con el fin.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Y se divierte mucho con cosas inecesarias.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 4,
+          "text": "Como resultado, ella hace e incluso expone sus propios puntos débiles.",
+          "inline_tags": []
+        }
+      ],
+      "text": "A veces ella confunde los medios con el fin. {n} Y se divierte mucho con cosas inecesarias. {n} Como resultado, ella hace e incluso expone sus propios puntos débiles.",
+      "inline_tags": [
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32201",
+      "kind": "dialogue",
+      "line_number": 101793,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32201",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200063"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200063\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Es imposible para una bruja tan fuerte como yo entender por qué actúa tan relajada.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Es imposible para una bruja tan fuerte como yo entender por qué actúa tan relajada.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32202",
+      "kind": "dialogue",
+      "line_number": 101795,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32202",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200064"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200064\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Disminuyendo sus propias posibilidades de ganar.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Disminuyendo sus propias posibilidades de ganar.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32203",
+      "kind": "dialogue",
+      "line_number": 101800,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32203",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200065"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200065\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Pero bueno.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Pero bueno.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32204",
+      "kind": "dialogue",
+      "line_number": 101802,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32204",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200066",
+        "29/92200067"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200066\"]",
+        "[@][lv 0*\"29\"*\"92200067\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Por eso el tipo de bruja como Bern que lee a su oponente y esquiva sus movimientos tiene muy mala compatibilidad con ella.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Porque leerla no funciona.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Por eso el tipo de bruja como Bern que lee a su oponente y esquiva sus movimientos tiene muy mala compatibilidad con ella.  Porque leerla no funciona.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32205",
+      "kind": "dialogue",
+      "line_number": 101804,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32205",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200068",
+        "29/92200069"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200068\"]",
+        "[@][lv 0*\"29\"*\"92200069\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Probablemente sea muy fácil para Bern leer y manejar a alguien obediente y honesta como yo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Eso me enfurece!",
+          "inline_tags": []
+        }
+      ],
+      "text": "Probablemente sea muy fácil para Bern leer y manejar a alguien obediente y honesta como yo.  ¡Eso me enfurece!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32206",
+      "kind": "dialogue",
+      "line_number": 101819,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32206",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200070",
+        "29/92200071"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200070\"]",
+        "[@][lv 0*\"29\"*\"92200071\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Bueno, aun así, alguien con una superpotencia de fuego como yo puede enfrentarse fácilmente a alguien de ataque ligero y de gran alcance como {f:5:Beatrice},",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " así que supongo que es como piedra, papel o tijeras.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Bueno, aun así, alguien con una superpotencia de fuego como yo puede enfrentarse fácilmente a alguien de ataque ligero y de gran alcance como {f:5:Beatrice},  así que supongo que es como piedra, papel o tijeras.",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32207",
+      "kind": "dialogue",
+      "line_number": 101824,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32207",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200072",
+        "29/92200073",
+        "29/92200074"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200072\"]",
+        "[@]",
+        "[|][lv 0*\"29\"*\"92200073\"]",
+        "[@]",
+        "[|][lv 0*\"29\"*\"92200074\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Si yo soy el papel, Beato es la piedra.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Supongo que Bern sería las tijeras.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 4,
+          "text": "Bueeeeno, tal vez nada de eso importa de todos modos.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Si yo soy el papel, Beato es la piedra. {n} Supongo que Bern sería las tijeras. {n} Bueeeeno, tal vez nada de eso importa de todos modos.",
+      "inline_tags": [
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32208",
+      "kind": "dialogue",
+      "line_number": 101829,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32208",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200075",
+        "29/92200076"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200075\"]",
+        "[@][lv 0*\"29\"*\"92200076\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Claro, mi papel pierde ante las tijeras de Bern,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡pero yo soy el mucho más asombroso súper-papel, que es tan grueso como la madera, que puede incluso vencer a las tijeras, ¿verdad?!",
+          "inline_tags": []
+        }
+      ],
+      "text": "Claro, mi papel pierde ante las tijeras de Bern,  ¡pero yo soy el mucho más asombroso súper-papel, que es tan grueso como la madera, que puede incluso vencer a las tijeras, ¿verdad?!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32209",
+      "kind": "dialogue",
+      "line_number": 101831,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32209",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200077",
+        "29/92200078",
+        "29/92200079"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200077\"]",
+        "[|][lv 0*\"29\"*\"92200078\"][#][*]",
+        "[@]",
+        "[|][lv 0*\"29\"*\"92200079\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¡En otras palabras, yo, Lady {f:5:Lambdadelta},",
+          "inline_tags": [
+            "{f:5:Lambdadelta}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " soy un súper-papel!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": " ¡Hoh‐hoh‐hoh‐ho!",
+          "inline_tags": []
+        }
+      ],
+      "text": "¡En otras palabras, yo, Lady {f:5:Lambdadelta},  soy un súper-papel! {n}  ¡Hoh‐hoh‐hoh‐ho!",
+      "inline_tags": [
+        "{f:5:Lambdadelta}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32210",
+      "kind": "dialogue",
+      "line_number": 101857,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32210",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200080",
+        "29/92200081"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200080\"]",
+        "[@]",
+        "[|][lv 0*\"29\"*\"92200081\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Parece que tu cara ha recuperado un poco su color.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Esa Beato, se está divirtiendo torturando a una pieza llamada Rosa.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Parece que tu cara ha recuperado un poco su color. {n} Esa Beato, se está divirtiendo torturando a una pieza llamada Rosa.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32211",
+      "kind": "dialogue",
+      "line_number": 101861,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32211",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200082",
+        "29/92200083"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200082\"]",
+        "[@]",
+        "[|][lv 0*\"29\"*\"92200083\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "A simple vista, podrías pensar que tiene aficiones muy desagradables, ¿verdad?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " ¡Estás equivocado!",
+          "inline_tags": []
+        }
+      ],
+      "text": "A simple vista, podrías pensar que tiene aficiones muy desagradables, ¿verdad? {n}  ¡Estás equivocado!",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32212",
+      "kind": "dialogue",
+      "line_number": 101863,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32212",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200084"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200084\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ella solo está matando el tiempo, esperando que te levantes y vuelvas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Ella solo está matando el tiempo, esperando que te levantes y vuelvas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32213",
+      "kind": "dialogue",
+      "line_number": 101865,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32213",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200085"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200085\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Es una maniobra para despertar tu justa indignación haciendo algo para que la odies a propósito.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Es una maniobra para despertar tu justa indignación haciendo algo para que la odies a propósito.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32214",
+      "kind": "dialogue",
+      "line_number": 101867,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32214",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200086"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200086\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¡Hombre, odio a los niños así!",
+          "inline_tags": []
+        }
+      ],
+      "text": "¡Hombre, odio a los niños así!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32215",
+      "kind": "dialogue",
+      "line_number": 101871,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32215",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200087"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200087\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Bueno, entonces, volveré.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Bueno, entonces, volveré.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32216",
+      "kind": "dialogue",
+      "line_number": 101875,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32216",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200088",
+        "29/92200089"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200088\"]",
+        "[@][lv 0*\"29\"*\"92200089\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¡Ah!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡No le digas a nadie que te ayudé un poquito!",
+          "inline_tags": []
+        }
+      ],
+      "text": "¡Ah!  ¡No le digas a nadie que te ayudé un poquito!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32217",
+      "kind": "dialogue",
+      "line_number": 101877,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32217",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200090"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200090\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¡Quiero decir, no es como si te hubiera ayudado porque quería salvarte, ¿de acuerdo?!",
+          "inline_tags": []
+        }
+      ],
+      "text": "¡Quiero decir, no es como si te hubiera ayudado porque quería salvarte, ¿de acuerdo?!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32218",
+      "kind": "dialogue",
+      "line_number": 101879,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32218",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200091"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200091\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¡A mí, la bruja más fuerte del universo, me robaron mi puesto como la más fuerte cuando perdí contra Bern!",
+          "inline_tags": []
+        }
+      ],
+      "text": "¡A mí, la bruja más fuerte del universo, me robaron mi puesto como la más fuerte cuando perdí contra Bern!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32219",
+      "kind": "dialogue",
+      "line_number": 101881,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32219",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200092",
+        "29/92200093"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200092\"]",
+        "[@][lv 0*\"29\"*\"92200093\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¡Así que tengo que quitarle ese asiento a Bern,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " pero si Bern pierde contra Beato aquí, entonces la posición del más fuerte se trasladará a Beato esta vez, ¿verdad?!",
+          "inline_tags": []
+        }
+      ],
+      "text": "¡Así que tengo que quitarle ese asiento a Bern,  pero si Bern pierde contra Beato aquí, entonces la posición del más fuerte se trasladará a Beato esta vez, ¿verdad?!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32220",
+      "kind": "dialogue",
+      "line_number": 101885,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32220",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200094"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200094\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Bueno, sería más fácil robárselo a Beato, así que a quién le importa realmente, pero eso no me dejará satisfecha, ¡¿sabes a lo que me refiero?!",
+          "inline_tags": []
+        }
+      ],
+      "text": "Bueno, sería más fácil robárselo a Beato, así que a quién le importa realmente, pero eso no me dejará satisfecha, ¡¿sabes a lo que me refiero?!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32221",
+      "kind": "dialogue",
+      "line_number": 101889,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32221",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200095",
+        "29/92200096"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200095\"]",
+        "[@]",
+        "[|][lv 0*\"29\"*\"92200096\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¡Yo seré quien derrote a Bern!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "¡Y recuperaré mi posición como la más fuerte!",
+          "inline_tags": []
+        }
+      ],
+      "text": "¡Yo seré quien derrote a Bern! {n} ¡Y recuperaré mi posición como la más fuerte!",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep2.ura_teatime_2.d32222",
+      "kind": "dialogue",
+      "line_number": 101893,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "ura_teatime_2",
+      "label": "*d32222",
+      "speaker": "lam",
+      "voice_files": [
+        "29/92200097",
+        "29/92200098"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"29\"*\"92200097\"]",
+        "[@]",
+        "[|][lv 0*\"29\"*\"92200098\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¡No es como si realmente te estuviera ayudando, ¿bien?!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "¡No te perdonaré si haces llorar a Bern!",
+          "inline_tags": []
+        }
+      ],
+      "text": "¡No es como si realmente te estuviera ayudando, ¿bien?! {n} ¡No te perdonaré si haces llorar a Bern!",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

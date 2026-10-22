@@ -1,0 +1,2440 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.omake.o4_0",
+  "category": "omake",
+  "rel_path": "story/omake/o4_0.json",
+  "episode": null,
+  "section": "o4_0",
+  "chapter": "o4_0",
+  "description": "Omake / bonus script chapter 'o4_0'.",
+  "entry_count": 59,
+  "entries": [
+    {
+      "id": "omake.o4_0.o4_1",
+      "kind": "dialogue",
+      "line_number": 538920,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_1",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Te damos la más calida bienvenida, viajero, y felicidades por completar nuestra traducción de {i:Umineko no Naku Koro ni ~Rondó de la Bruja y el Razonamiento~}.",
+          "inline_tags": [
+            "{i:Umineko no Naku Koro ni ~Rondó de la Bruja y el Razonamiento~}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " Apreciamos tus esfuerzos por descubrir las partes ocultas del juego.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Te damos la más calida bienvenida, viajero, y felicidades por completar nuestra traducción de {i:Umineko no Naku Koro ni ~Rondó de la Bruja y el Razonamiento~}.  Apreciamos tus esfuerzos por descubrir las partes ocultas del juego.",
+      "inline_tags": [
+        "{i:Umineko no Naku Koro ni ~Rondó de la Bruja y el Razonamiento~}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_2",
+      "kind": "dialogue",
+      "line_number": 538922,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_2",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ha sido un largo recorrido en estos dos años y medio, agradecemos rotundamente el apoyo que hemos recibido por parte de toda la comunidad... Y ha sido un verdadero placer para todos los miembros del equipo de traducción",
+          "inline_tags": []
+        }
+      ],
+      "text": "Ha sido un largo recorrido en estos dos años y medio, agradecemos rotundamente el apoyo que hemos recibido por parte de toda la comunidad... Y ha sido un verdadero placer para todos los miembros del equipo de traducción",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_3",
+      "kind": "dialogue",
+      "line_number": 538924,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_3",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[#][*][@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Como sabran, Umineko es una novela increíblemente larga.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Cada día de estos dos años fueron necesarios para refinar la calidad de la traducción hasta el punto en el que está ahora. ¡Y logramos tenerlo listo en el plazo que fijamos hace un año (2024).",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Adelante, pueden aplaudir.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Como sabran, Umineko es una novela increíblemente larga.  Cada día de estos dos años fueron necesarios para refinar la calidad de la traducción hasta el punto en el que está ahora. ¡Y logramos tenerlo listo en el plazo que fijamos hace un año (2024).  Adelante, pueden aplaudir.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_4",
+      "kind": "dialogue",
+      "line_number": 538931,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_4",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Este Omake era originalmente un mensaje del equipo que desarrolló el Umineko Project, por lo que nos tomamos la libertad de modificarlo un poco para dar nuestro propio mensaje.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Pueden ir a ver el original si así lo desean, solo deben cambiar el idioma de la novela a inglés y desbloquear esta sección de nuevo.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Este proyecto comenzó como un simple traspaso de la traducción original de 07th Inquisition,",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " pero mientras trabajábamos en eso, nos dimos cuenta que la calidad de la traducción no era la mejor, y tenía líneas mal redactadas y mal traducidas en muchas partes.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Algunos de esos errores son arrastrados de la primera traducción de Witch Hunt, pero muchos otros habían sido creados por el propio 07th Inquisition.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Este Omake era originalmente un mensaje del equipo que desarrolló el Umineko Project, por lo que nos tomamos la libertad de modificarlo un poco para dar nuestro propio mensaje.  Pueden ir a ver el original si así lo desean, solo deben cambiar el idioma de la novela a inglés y desbloquear esta sección de nuevo.  Este proyecto comenzó como un simple traspaso de la traducción original de 07th Inquisition,  pero mientras trabajábamos en eso, nos dimos cuenta que la calidad de la traducción no era la mejor, y tenía líneas mal redactadas y mal traducidas en muchas partes.  Algunos de esos errores son arrastrados de la primera traducción de Witch Hunt, pero muchos otros habían sido creados por el propio 07th Inquisition.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_5",
+      "kind": "dialogue",
+      "line_number": 538933,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_5",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Así que decidimos deshechar el plan original, retraducir todo lo que no habíamos traspasado aún, y revisar y arreglar las líneas con problemas.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Bueno, eso es todo lo que queriamos decir, al menos por este Omake.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Así que decidimos deshechar el plan original, retraducir todo lo que no habíamos traspasado aún, y revisar y arreglar las líneas con problemas.  Bueno, eso es todo lo que queriamos decir, al menos por este Omake.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_6",
+      "kind": "dialogue",
+      "line_number": 538935,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_6",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "A partir de aquí los dejaremos con las palabras sobre los easter eggs de la versión de PS3 de parte de los desarrolladores del Umineko Project.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Se supone que encuentres la mayoría tú mismo, así que siéntete libre de releer la historia para encontrarlos.",
+          "inline_tags": []
+        }
+      ],
+      "text": "A partir de aquí los dejaremos con las palabras sobre los easter eggs de la versión de PS3 de parte de los desarrolladores del Umineko Project.  Se supone que encuentres la mayoría tú mismo, así que siéntete libre de releer la historia para encontrarlos.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_7",
+      "kind": "dialogue",
+      "line_number": 538947,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_7",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Esperamos que hayas disfrutado del video del opening por al menos una quinta vez.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Esperamos que hayas disfrutado del video del opening por al menos una quinta vez.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_8",
+      "kind": "dialogue",
+      "line_number": 538949,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_8",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿Notaste algo extraño en él?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Aquí hay una pista: está en el disco del inicio.",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿Notaste algo extraño en él?  Aquí hay una pista: está en el disco del inicio.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_9",
+      "kind": "dialogue",
+      "line_number": 538951,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_9",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Lo primero que se nos viene a la mente es \"Senza {nobreak:{m:-5:——}—}, la verità non si vede\".",
+          "inline_tags": [
+            "{m:-5:——}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": "{n}Sin {nobreak:{m:-5:——}—}, no puede ser visto.",
+          "inline_tags": [
+            "{n}",
+            "{m:-5:——}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}Pensamos que esa palabra es \"monóculo\", ya que ese pequeño texto borroso en los bordes del disco que no se puede ver es:",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Lo primero que se nos viene a la mente es \"Senza {nobreak:{m:-5:——}—}, la verità non si vede\". {n}Sin {nobreak:{m:-5:——}—}, no puede ser visto. {n}Pensamos que esa palabra es \"monóculo\", ya que ese pequeño texto borroso en los bordes del disco que no se puede ver es:",
+      "inline_tags": [
+        "{m:-5:——}",
+        "{n}",
+        "{m:-5:——}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_10",
+      "kind": "dialogue",
+      "line_number": 538955,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_10",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "“Il destino, chi festeggerà?/{0}Oh Maga!/{0}Oh Maga!/{0}Che cosa mi annuncerai?{n}Il vento diviene bufera/{0}Infuriano i marosi/{0}Il mare chiama mugghiando la Maga che ha vissuto mille anni/{0}Ho tanto atteso questo giorno! Ho tanto temuto questo giorno!",
+          "inline_tags": [
+            "{0}",
+            "{0}",
+            "{0}",
+            "{n}",
+            "{0}",
+            "{0}",
+            "{0}"
+          ]
+        }
+      ],
+      "text": "“Il destino, chi festeggerà?/{0}Oh Maga!/{0}Oh Maga!/{0}Che cosa mi annuncerai?{n}Il vento diviene bufera/{0}Infuriano i marosi/{0}Il mare chiama mugghiando la Maga che ha vissuto mille anni/{0}Ho tanto atteso questo giorno! Ho tanto temuto questo giorno!",
+      "inline_tags": [
+        "{0}",
+        "{0}",
+        "{0}",
+        "{n}",
+        "{0}",
+        "{0}",
+        "{0}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_11",
+      "kind": "dialogue",
+      "line_number": 538957,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_11",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Beatrice! Maga crudele!/{0}Di bellezza senza pari/{0}Beatrice! Oh! Di dolcezza capricciosa/{0}Mai potrò liberarmi dal tuo incantesimo/{0}Se questa pena deve durare, almeno una volta abbi pietà”",
+          "inline_tags": [
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}"
+          ]
+        }
+      ],
+      "text": "Beatrice! Maga crudele!/{0}Di bellezza senza pari/{0}Beatrice! Oh! Di dolcezza capricciosa/{0}Mai potrò liberarmi dal tuo incantesimo/{0}Se questa pena deve durare, almeno una volta abbi pietà”",
+      "inline_tags": [
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_12",
+      "kind": "dialogue",
+      "line_number": 538961,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_12",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Dudamos que sea necesario decir de dónde viene esa letra.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Y tu tarea será descifrar los primeros veinte segundos de Capilla del Juramento Resonante.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Dudamos que sea necesario decir de dónde viene esa letra.  Y tu tarea será descifrar los primeros veinte segundos de Capilla del Juramento Resonante.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_13",
+      "kind": "dialogue",
+      "line_number": 538968,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_13",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Por cierto, ya que estamos hablando de música, hagamos una pregunta sencilla.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Cuál BGM está sonando ahora?",
+          "inline_tags": []
+        }
+      ],
+      "text": "Por cierto, ya que estamos hablando de música, hagamos una pregunta sencilla.  ¿Cuál BGM está sonando ahora?",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_14",
+      "kind": "dialogue",
+      "line_number": 538970,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_14",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La respuesta es \"sospecha\".",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " (Aquellos quienes tienen la opción de mostrar BGM obtienen cero puntos.)",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Sin embargo, en la versión de PS3 de los Episodios 1-4—escucharás una {i:canción diferente} bajo este nombre.",
+          "inline_tags": [
+            "{i:canción diferente}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": " Además, \"sospecha\" también suena bajo el nombre de otras canciones.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " No es una tarea tan mala, ¿verdad?",
+          "inline_tags": []
+        }
+      ],
+      "text": "La respuesta es \"sospecha\".  (Aquellos quienes tienen la opción de mostrar BGM obtienen cero puntos.)  Sin embargo, en la versión de PS3 de los Episodios 1-4—escucharás una {i:canción diferente} bajo este nombre.  Además, \"sospecha\" también suena bajo el nombre de otras canciones.  No es una tarea tan mala, ¿verdad?",
+      "inline_tags": [
+        "{i:canción diferente}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_15",
+      "kind": "dialogue",
+      "line_number": 538977,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_15",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Para continuar: Alchemist le hizo algún daño a Umineko mediante la censura.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " No solo removieron las referencias a Touho y Tsurupettan, si no que también las palabras de system0.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Por alguna razón probablemente relacionada con las juntas de clasificación y la edad para beber en Japón, eliminaron las referencias a Battler bebiendo alcohol en los episodios 1, 2 y 4.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " También eliminaron una serie de referencias a personas, marcas y lugares reales, incluidas referencias a Doraemon, Sakura Card Captor, Steve McQueen, Château Pétrus y Alemania.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Para continuar: Alchemist le hizo algún daño a Umineko mediante la censura.  No solo removieron las referencias a Touho y Tsurupettan, si no que también las palabras de system0.  Por alguna razón probablemente relacionada con las juntas de clasificación y la edad para beber en Japón, eliminaron las referencias a Battler bebiendo alcohol en los episodios 1, 2 y 4.  También eliminaron una serie de referencias a personas, marcas y lugares reales, incluidas referencias a Doraemon, Sakura Card Captor, Steve McQueen, Château Pétrus y Alemania.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_16",
+      "kind": "dialogue",
+      "line_number": 538979,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_16",
+      "speaker": "narrator",
+      "voice_files": [
+        "28/92100173",
+        "28/92100174"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@][lv 0*\"28\"*\"92100173\"]",
+        "[|][lv 0*\"28\"*\"92100174\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Además, quedan archivos de voz sin usar en el disco que muestran que en un momento dado, incluso consideraron eliminar las referencias a Higurashi, refiriéndose en su lugar a \"la novela de misterio que estabas leyendo el otro día\".",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Para nuestro alivio, al final consideraron que esto era innecesario.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Mii,",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " nipah~{p:0:☆}.",
+          "inline_tags": [
+            "{p:0:☆}"
+          ]
+        }
+      ],
+      "text": "Además, quedan archivos de voz sin usar en el disco que muestran que en un momento dado, incluso consideraron eliminar las referencias a Higurashi, refiriéndose en su lugar a \"la novela de misterio que estabas leyendo el otro día\".  Para nuestro alivio, al final consideraron que esto era innecesario.  Mii,  nipah~{p:0:☆}.",
+      "inline_tags": [
+        "{p:0:☆}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_17",
+      "kind": "dialogue",
+      "line_number": 538981,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_17",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "De hecho, el disco tiene una serie de tesoros escondidos en los archivos de voz: no solo diálogos censurados y sin censura, sino también textos defectuosos y diálogos dichos por las personas incorrectas.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Aquí también hay algunos errores interesantes que realmente aparecieron en el juego.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Nos gustaría llevarte de viaje por ellas ahora.",
+          "inline_tags": []
+        }
+      ],
+      "text": "De hecho, el disco tiene una serie de tesoros escondidos en los archivos de voz: no solo diálogos censurados y sin censura, sino también textos defectuosos y diálogos dichos por las personas incorrectas.  Aquí también hay algunos errores interesantes que realmente aparecieron en el juego.  Nos gustaría llevarte de viaje por ellas ahora.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_18",
+      "kind": "dialogue",
+      "line_number": 538992,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_18",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ya se había dado la bienvenida a los invitados, así que era hora de prepararles algo de té.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Ya se había dado la bienvenida a los invitados, así que era hora de prepararles algo de té.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_19",
+      "kind": "dialogue",
+      "line_number": 538994,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_19",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Dicho té llegaba tarde, y ver a los invitados hablar sobre hacer algo de té ellos mismos era una vergüenza para el anfitrión.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Dicho té llegaba tarde, y ver a los invitados hablar sobre hacer algo de té ellos mismos era una vergüenza para el anfitrión.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_20",
+      "kind": "dialogue",
+      "line_number": 538996,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_20",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Natsuhi se mordió el labio inferior, frustrada por la ineptitud de los sirvientes que demoraban tanto en traer el té.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Natsuhi se mordió el labio inferior, frustrada por la ineptitud de los sirvientes que demoraban tanto en traer el té.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_21",
+      "kind": "dialogue",
+      "line_number": 538998,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_21",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Al ver su cara, Eva comenzó a reír frívolamente sin dudarlo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Al ver su cara, Eva comenzó a reír frívolamente sin dudarlo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_22",
+      "kind": "dialogue",
+      "line_number": 539009,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_22",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Por supuesto, Shannon no tenía ninguna manera de saber lo que estaba ocurriendo en el salón.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Por supuesto, Shannon no tenía ninguna manera de saber lo que estaba ocurriendo en el salón.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_23",
+      "kind": "dialogue",
+      "line_number": 539011,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_23",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Mientras ella llegaba empujando un carrito en el que había tazas para el té,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Natsuhi la miró con una expresión de dolor sin motivo aparente, y Shannon no pudo evitar retroceder sin saber qué había hecho mal.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Mientras ella llegaba empujando un carrito en el que había tazas para el té,  Natsuhi la miró con una expresión de dolor sin motivo aparente, y Shannon no pudo evitar retroceder sin saber qué había hecho mal.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_24",
+      "kind": "dialogue",
+      "line_number": 539017,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_24",
+      "speaker": "sha",
+      "voice_files": [
+        "15/10500001",
+        "15/10500002"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"15\"*\"10500001\"]",
+        "[@][lv 0*\"15\"*\"10500002\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... D‐Disculpen.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Prepararé el té ahora mismo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... D‐Disculpen.  Prepararé el té ahora mismo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_25",
+      "kind": "dialogue",
+      "line_number": 539023,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_25",
+      "speaker": "hid",
+      "voice_files": [
+        "06/11100088",
+        "06/11100089"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"06\"*\"11100088\"]",
+        "[@][lv 0*\"06\"*\"11100089\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Oh, Shannon‐chan, ha pasado tanto tiempo!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡No has dejado de hacerte más y más guapa!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Oh, Shannon‐chan, ha pasado tanto tiempo!  ¡No has dejado de hacerte más y más guapa!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_26",
+      "kind": "dialogue",
+      "line_number": 539029,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_26",
+      "speaker": "sha",
+      "voice_files": [
+        "15/10500003",
+        "15/10500004",
+        "15/10500005"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"15\"*\"10500003\"]",
+        "[|][lv 0*\"15\"*\"10500004\"]",
+        "[|][lv 0*\"15\"*\"10500005\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Oh...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " um...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " gracias—\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Oh...  um...  gracias—\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_27",
+      "kind": "dialogue",
+      "line_number": 539034,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_27",
+      "speaker": "nat",
+      "voice_files": [
+        "03/10900016",
+        "03/10900017"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"03\"*\"10900016\"]",
+        "[@][lv 0*\"03\"*\"10900017\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Deja las conversaciones para cuando acabes de poner la mesa.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " El té se enfriará.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Deja las conversaciones para cuando acabes de poner la mesa.  El té se enfriará.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_28",
+      "kind": "dialogue",
+      "line_number": 539049,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_28",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¿Notaron algo extraño en la escena?",
+          "inline_tags": []
+        }
+      ],
+      "text": "¿Notaron algo extraño en la escena?",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_29",
+      "kind": "dialogue",
+      "line_number": 539051,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_29",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La respuesta es:",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " la ubicación.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Por alguna razón, a pesar de que el texto los describe {i:dos veces} estando en el salón, ¡están en el comedor!",
+          "inline_tags": [
+            "{i:dos veces}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": " El nombre de la imagen del background incluso se llama \"{nobr:mdin}\", que es un acortamiento de \"{ruby:Comedor:mansion dining}\".",
+          "inline_tags": [
+            "{nobr:mdin}",
+            "{ruby:Comedor:mansion dining}"
+          ]
+        }
+      ],
+      "text": "La respuesta es:  la ubicación.  Por alguna razón, a pesar de que el texto los describe {i:dos veces} estando en el salón, ¡están en el comedor!  El nombre de la imagen del background incluso se llama \"{nobr:mdin}\", que es un acortamiento de \"{ruby:Comedor:mansion dining}\".",
+      "inline_tags": [
+        "{i:dos veces}",
+        "{nobr:mdin}",
+        "{ruby:Comedor:mansion dining}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_30",
+      "kind": "dialogue",
+      "line_number": 539053,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_30",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Este error estaba presente en la versión original de PS3, y nosotros lo arreglamos en nuestro port.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Lo peor de todo es que esta es la primera vez que se ve el salón, y en la versión de PS3, se nos presenta con los BGs del comedor, confundiendo a los lectores respecto a cómo se supone que luce el salón.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Creemos que el Episodio 1 tuvo un desarrollo demasiado apresurado.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Este error estaba presente en la versión original de PS3, y nosotros lo arreglamos en nuestro port.  Lo peor de todo es que esta es la primera vez que se ve el salón, y en la versión de PS3, se nos presenta con los BGs del comedor, confundiendo a los lectores respecto a cómo se supone que luce el salón.  Creemos que el Episodio 1 tuvo un desarrollo demasiado apresurado.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_31",
+      "kind": "dialogue",
+      "line_number": 539055,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_31",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Regresando a la escena, unos momentos después, descubrimos algo en los archivos de voz no utilizados.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Regresando a la escena, unos momentos después, descubrimos algo en los archivos de voz no utilizados.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_32",
+      "kind": "dialogue",
+      "line_number": 539069,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_32",
+      "speaker": "eva",
+      "voice_files": [
+        "05/11000103",
+        "05/11000104",
+        "05/11000105",
+        "05/11000106"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"05\"*\"11000103\"]",
+        "[@][lv 0*\"05\"*\"11000104\"]",
+        "[@][lv 0*\"05\"*\"11000105\"]",
+        "[@][lv 0*\"05\"*\"11000106\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Shannon‐chan.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Sabes para qué se usan las cucharas de plata?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¿O por qué deben ser de ese metal?",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¿Sabes por qué?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Shannon‐chan.  ¿Sabes para qué se usan las cucharas de plata?  ¿O por qué deben ser de ese metal?  ¿Sabes por qué?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_33",
+      "kind": "dialogue",
+      "line_number": 539075,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_33",
+      "speaker": "sha",
+      "voice_files": [
+        "15/10500015",
+        "15/10500016"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"15\"*\"10500015\"]",
+        "[|][lv 0*\"15\"*\"10500016\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... No...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Umm...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... No...  Umm...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_34",
+      "kind": "dialogue",
+      "line_number": 539078,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_34",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Eva miraba juguetonamente a Shannon, que estaba poniendo la mesa, mientras que una maliciosa sonrisa se dibujaba en su rostro.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Eva miraba juguetonamente a Shannon, que estaba poniendo la mesa, mientras que una maliciosa sonrisa se dibujaba en su rostro.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_35",
+      "kind": "dialogue",
+      "line_number": 539080,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_35",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La expresión de Eva mirando a Shannon era encantadora desde un punto de vista algo pícaro.",
+          "inline_tags": []
+        }
+      ],
+      "text": "La expresión de Eva mirando a Shannon era encantadora desde un punto de vista algo pícaro.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_36",
+      "kind": "dialogue",
+      "line_number": 539082,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_36",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sin embargo, las palabras que salían de sus labios cortaban como navajas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sin embargo, las palabras que salían de sus labios cortaban como navajas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_37",
+      "kind": "dialogue",
+      "line_number": 539084,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_37",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Shannon intentaba con todas sus fuerzas evitar la mirada de Eva, la cual continuaba observándola.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Shannon intentaba con todas sus fuerzas evitar la mirada de Eva, la cual continuaba observándola.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_38",
+      "kind": "dialogue",
+      "line_number": 539086,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_38",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@][#][*]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Dándose cuenta de que Shannon estaba siendo realmente presionada para que diera una respuesta, de inmediato Rosa dio una oportuna ayuda.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ({i:¡Patrocinado por las líneas de voces no usadas, la parte de Rosa será dicha por la propia Eva!})",
+          "inline_tags": [
+            "{i:¡Patrocinado por las líneas de voces no usadas, la parte de Rosa será dicha por la propia Eva!}"
+          ]
+        }
+      ],
+      "text": "Dándose cuenta de que Shannon estaba siendo realmente presionada para que diera una respuesta, de inmediato Rosa dio una oportuna ayuda.  ({i:¡Patrocinado por las líneas de voces no usadas, la parte de Rosa será dicha por la propia Eva!})",
+      "inline_tags": [
+        "{i:¡Patrocinado por las líneas de voces no usadas, la parte de Rosa será dicha por la propia Eva!}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_39",
+      "kind": "dialogue",
+      "line_number": 539093,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_39",
+      "speaker": "eva",
+      "voice_files": [
+        "05/11000107",
+        "05/11000108"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"05\"*\"11000107\"]",
+        "[@][lv 0*\"05\"*\"11000108\"]",
+        "[|][#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Se dice que si la plata toca alguna clase de veneno, esta se pone opaca.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " *risita*, Supongo que has aprendido algo nuevo, Shannon‐chan.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Se dice que si la plata toca alguna clase de veneno, esta se pone opaca.  *risita*, Supongo que has aprendido algo nuevo, Shannon‐chan.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_40",
+      "kind": "dialogue",
+      "line_number": 539115,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_40",
+      "speaker": "mar",
+      "voice_files": [
+        "13/90400026",
+        "13/90400027"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"13\"*\"90400026\"]",
+        "[@][lv 0*\"13\"*\"90400027\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Tengo el epitafio anotado en mi cuaderno!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Resolvamos el acertijo, resolvamos el acertijo!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Tengo el epitafio anotado en mi cuaderno!  ¡Resolvamos el acertijo, resolvamos el acertijo!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_41",
+      "kind": "dialogue",
+      "line_number": 539121,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_41",
+      "speaker": "geo",
+      "voice_files": [
+        "07/90300023"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"07\"*\"90300023\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Esta historia probablemente fue mal desde entonces.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Esta historia probablemente fue mal desde entonces.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_42",
+      "kind": "dialogue",
+      "line_number": 539127,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_42",
+      "speaker": "kan",
+      "voice_files": [
+        "16/90600010",
+        "16/90600011"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"16\"*\"90600010\"]",
+        "[@][lv 0*\"16\"*\"90600011\"]",
+        "[|]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Eso es lo más probable.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Quizás deberíamos haber intentado resolver el acertijo del epitafio desde el principio, como {f:5:Beatrice}‐sama dijo.\"",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " ({i:Esperen, no se supone que estas líneas son de...})",
+          "inline_tags": [
+            "{i:Esperen, no se supone que estas líneas son de...}"
+          ]
+        }
+      ],
+      "text": "\"Eso es lo más probable.  Quizás deberíamos haber intentado resolver el acertijo del epitafio desde el principio, como {f:5:Beatrice}‐sama dijo.\"  ({i:Esperen, no se supone que estas líneas son de...})",
+      "inline_tags": [
+        "{f:5:Beatrice}",
+        "{i:Esperen, no se supone que estas líneas son de...}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_43",
+      "kind": "dialogue",
+      "line_number": 539163,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_43",
+      "speaker": "but",
+      "voice_files": [
+        "10/30100631",
+        "10/30100632"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"30100631\"]",
+        "[#][*][@][lv 0*\"10\"*\"30100632\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡No lo entiendo!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡¡No me hableeeeeeeeeeen, uuoooooooooooooooooohhh!!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡No lo entiendo!!  ¡¡¡No me hableeeeeeeeeeen, uuoooooooooooooooooohhh!!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_44",
+      "kind": "dialogue",
+      "line_number": 539178,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_44",
+      "speaker": "bea",
+      "voice_files": [
+        "27/30701110_1",
+        "27/30701110_2"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"30701110_1\"]",
+        "[@][lv 0*\"27\"*\"30701110_2\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Vamos vamos vamos vamos, no llores, ¿de acuerdo?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡Bang bang, es magia!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Vamos vamos vamos vamos, no llores, ¿de acuerdo?  ¡¡Bang bang, es magia!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_45",
+      "kind": "dialogue",
+      "line_number": 539183,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_45",
+      "speaker": "bea",
+      "voice_files": [
+        "27/30701110_3",
+        "27/30701110_4",
+        "27/30701110_5"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"27\"*\"30701110_3\"]",
+        "[@][lv 0*\"27\"*\"30701110_4\"]",
+        "[@][lv 0*\"27\"*\"30701110_5\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Si quieres, aplastaré a la luna y haré que caigan cometas como lluvia!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Puedo inundar la isla entera con esas {b:nee-chans de enormes pechos} que tanto te encantan, ¿¿veeeeeeeees??",
+          "inline_tags": [
+            "{b:nee-chans de enormes pechos}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": " ¡¡Jijijijijijijijiji!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Si quieres, aplastaré a la luna y haré que caigan cometas como lluvia!  Puedo inundar la isla entera con esas {b:nee-chans de enormes pechos} que tanto te encantan, ¿¿veeeeeeeees??  ¡¡Jijijijijijijijiji!!\"",
+      "inline_tags": [
+        "{b:nee-chans de enormes pechos}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_46",
+      "kind": "dialogue",
+      "line_number": 539199,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_46",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Cuando pienso en ello, el mundo es tan enorme... y aun así pequeño.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Cuando pienso en ello, el mundo es tan enorme... y aun así pequeño.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_47",
+      "kind": "dialogue",
+      "line_number": 539201,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_47",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Miles de millones de personas viven en el planeta.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Pero probablemente no conoceré ni siquiera al 1% de esas personas.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Miles de millones de personas viven en el planeta. {n}Pero probablemente no conoceré ni siquiera al 1% de esas personas.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_48",
+      "kind": "dialogue",
+      "line_number": 539203,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_48",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Aun así, hablaré de un mundo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Sin conocer a más del 1% del mundo— Yo hablaré de \"Mi mundo\".",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Aun así, hablaré de un mundo. {n}Sin conocer a más del 1% del mundo— Yo hablaré de \"Mi mundo\".",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_49",
+      "kind": "dialogue",
+      "line_number": 539206,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_49",
+      "speaker": "rg5",
+      "voice_files": [
+        "42/42700298",
+        "42/42700299"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"42\"*\"42700298\"]",
+        "[@][lv 0*\"42\"*\"42700299\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No estoy cualificada para negar las leyes de un mundo que no conozco...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Así que solo porque la magia no existe en mi mundo, no puedo negar que la magia exista en un mundo que no conozco.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"No estoy cualificada para negar las leyes de un mundo que no conozco...  Así que solo porque la magia no existe en mi mundo, no puedo negar que la magia exista en un mundo que no conozco.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_50",
+      "kind": "dialogue",
+      "line_number": 539208,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_50",
+      "speaker": "rg5",
+      "voice_files": [
+        "42/42700300",
+        "42/42700301"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"42\"*\"42700300\"]",
+        "[@][lv 0*\"42\"*\"42700301\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Eso lo hace una verdadera Prueba Diabólica.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " No, tal vez es más como \"en Roma, haz lo que los Romanos\".\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Eso lo hace una verdadera Prueba Diabólica.  No, tal vez es más como \"en Roma, haz lo que los Romanos\".\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_51",
+      "kind": "dialogue",
+      "line_number": 539224,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_51",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Puedo confiar en el mundo que conozco.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "  Así que incluso {i:si eso} es negado por un completo extraño que no sabe nada de mi mundo, no es algo de lo que deba preocuparme.",
+          "inline_tags": [
+            "{i:si eso}"
+          ]
+        }
+      ],
+      "text": "Puedo confiar en el mundo que conozco.   Así que incluso {i:si eso} es negado por un completo extraño que no sabe nada de mi mundo, no es algo de lo que deba preocuparme.",
+      "inline_tags": [
+        "{i:si eso}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_52",
+      "kind": "dialogue",
+      "line_number": 539226,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_52",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y de la misma manera, solo porque no sé algo,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " eso no es excusa para negar un mundo que no conozco.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Y de la misma manera, solo porque no sé algo,  eso no es excusa para negar un mundo que no conozco.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_53",
+      "kind": "dialogue",
+      "line_number": 539235,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_53",
+      "speaker": "rg5",
+      "voice_files": [
+        "42/42700302",
+        "42/42700303",
+        "42/42700304"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"42\"*\"42700302\"]",
+        "[@][lv 0*\"42\"*\"42700303\"]",
+        "[#][*][@][lv 0*\"42\"*\"42700304\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Por lo tanto.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Sin importar si hay magia en mi mundo o no...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " No puedo negar la magia que María onee-chan me enseñó.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Por lo tanto.  Sin importar si hay magia en mi mundo o no...  No puedo negar la magia que María onee-chan me enseñó.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_54",
+      "kind": "dialogue",
+      "line_number": 539265,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_54",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Estamos realmente agradecidos por todo el material que dejaron en el disco.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Dejar los dialogos modificados y sin censura sin modificar en los archivos nos permitió desarrollar un port mucho más completo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Estamos realmente agradecidos por todo el material que dejaron en el disco.  Dejar los dialogos modificados y sin censura sin modificar en los archivos nos permitió desarrollar un port mucho más completo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_55",
+      "kind": "dialogue",
+      "line_number": 539267,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_55",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[#][*][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ellos probablemente no tenían mucho tiempo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Si juegas la versión de PSP, notarás que algunos sprites dejan de sonreir antes de tiempo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Ellos probablemente no tenían mucho tiempo.  Si juegas la versión de PSP, notarás que algunos sprites dejan de sonreir antes de tiempo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_56",
+      "kind": "dialogue",
+      "line_number": 539274,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_56",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Algunos errores no fueron solucionados incluso en esa versión.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Algunos errores no fueron solucionados incluso en esa versión.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_57",
+      "kind": "dialogue",
+      "line_number": 539287,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_57",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[#][*]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Mmm, algo se siente mal aquí.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " No, el maquillaje a prueba de agua aún se ve bien.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Oh, cierto, ¿acaso {f:5:Beatrice} perdió de forma totalmente aleatoria el anillo que consiguió hace poco sin razón aparente?",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "Mmm, algo se siente mal aquí.  No, el maquillaje a prueba de agua aún se ve bien.  Oh, cierto, ¿acaso {f:5:Beatrice} perdió de forma totalmente aleatoria el anillo que consiguió hace poco sin razón aparente?",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_58",
+      "kind": "dialogue",
+      "line_number": 539306,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_58",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Por último, nos gustaría agradecer una vez más a todos nuestros tester por dedicar su tiempo a nuestro trabajo",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Sin ustedes, este port no podría ser visto!",
+          "inline_tags": []
+        }
+      ],
+      "text": "Por último, nos gustaría agradecer una vez más a todos nuestros tester por dedicar su tiempo a nuestro trabajo  ¡Sin ustedes, este port no podría ser visto!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o4_0.o4_59",
+      "kind": "dialogue",
+      "line_number": 539320,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o4_0",
+      "label": "*o4_59",
+      "speaker": "narrator",
+      "voice_files": [
+        "10/30100105",
+        "10/30100106",
+        "10/30100107"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"30100105\"]",
+        "[@][lv 0*\"10\"*\"30100106\"]",
+        "[|][lv 0*\"10\"*\"30100107\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Eso es todo lo que queríamos decir.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Bueno, entonces,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " <see you again, have a nice day>.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Eso es todo lo que queríamos decir.  Bueno, entonces,  <see you again, have a nice day>.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

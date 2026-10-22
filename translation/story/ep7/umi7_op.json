@@ -1,0 +1,5649 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.ep7.umi7_op",
+  "category": "story",
+  "rel_path": "story/ep7/umi7_op.json",
+  "episode": "ep7",
+  "section": "umi7_op",
+  "chapter": "umi7_op",
+  "description": "Episode 7 story script chapter 'umi7_op'.",
+  "entry_count": 135,
+  "entries": [
+    {
+      "id": "ep7.umi7_op.d50502",
+      "kind": "dialogue",
+      "line_number": 395721,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50502",
+      "speaker": "wal",
+      "voice_files": [
+        "30/73200001",
+        "30/73200002",
+        "30/73200003",
+        "30/73200004",
+        "30/73200005"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[lv 0*\"30\"*\"73200001\"]",
+        "[@]",
+        "[|][lv 0*\"30\"*\"73200002\"]",
+        "[@][lv 0*\"30\"*\"73200003\"]",
+        "[@][lv 0*\"30\"*\"73200004\"]",
+        "[@]",
+        "[|][lv 0*\"30\"*\"73200005\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{a:c:",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "Tierra a la tierra.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": "Cenizas a las cenizas,",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " polvo al polvo.",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " Ilusiones a las ilusiones.",
+          "inline_tags": []
+        },
+        {
+          "index": 6,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 7,
+          "text": "Y sueños a los sueños.}",
+          "inline_tags": []
+        }
+      ],
+      "text": "{a:c: Tierra a la tierra. {n} Cenizas a las cenizas,  polvo al polvo.  Ilusiones a las ilusiones. {n} Y sueños a los sueños.}",
+      "inline_tags": [
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50503",
+      "kind": "dialogue",
+      "line_number": 395723,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50503",
+      "speaker": "wal",
+      "voice_files": [
+        "30/73200006"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[lv 0*\"30\"*\"73200006\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{a:c:",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "Un sueño es algo que está dibujado en la arena entre el paso y el retroceso de las olas.}",
+          "inline_tags": []
+        }
+      ],
+      "text": "{a:c: Un sueño es algo que está dibujado en la arena entre el paso y el retroceso de las olas.}",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50504",
+      "kind": "dialogue",
+      "line_number": 395725,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50504",
+      "speaker": "wal",
+      "voice_files": [
+        "30/73200007"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[lv 0*\"30\"*\"73200007\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{a:c:",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "Algo tan frágil que se limpia cada vez que las olas retroceden.}",
+          "inline_tags": []
+        }
+      ],
+      "text": "{a:c: Algo tan frágil que se limpia cada vez que las olas retroceden.}",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50505",
+      "kind": "dialogue",
+      "line_number": 395727,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50505",
+      "speaker": "wal",
+      "voice_files": [
+        "30/73200008"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[lv 0*\"30\"*\"73200008\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{a:c:",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "Por esta razón, las personas sin corazón pueden burlarse del dibujo y llamarlo inútil.}",
+          "inline_tags": []
+        }
+      ],
+      "text": "{a:c: Por esta razón, las personas sin corazón pueden burlarse del dibujo y llamarlo inútil.}",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50506",
+      "kind": "dialogue",
+      "line_number": 395729,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50506",
+      "speaker": "wal",
+      "voice_files": [
+        "30/73200009"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[lv 0*\"30\"*\"73200009\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{a:c:",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "Sin embargo, ninguna ola volverá para borrar el sueño que ella dibujó.}",
+          "inline_tags": []
+        }
+      ],
+      "text": "{a:c: Sin embargo, ninguna ola volverá para borrar el sueño que ella dibujó.}",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50507",
+      "kind": "dialogue",
+      "line_number": 395731,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50507",
+      "speaker": "wal",
+      "voice_files": [
+        "30/73200010"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[lv 0*\"30\"*\"73200010\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{a:c:",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "Su último y maravilloso sueño no desaparecerá, por toda la eternidad.}",
+          "inline_tags": []
+        }
+      ],
+      "text": "{a:c: Su último y maravilloso sueño no desaparecerá, por toda la eternidad.}",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50508",
+      "kind": "dialogue",
+      "line_number": 395737,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50508",
+      "speaker": "wal",
+      "voice_files": [
+        "30/73200011"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[lv 0*\"30\"*\"73200011\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{a:c:",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "Vamos, trata de recordar.}",
+          "inline_tags": []
+        }
+      ],
+      "text": "{a:c: Vamos, trata de recordar.}",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50509",
+      "kind": "dialogue",
+      "line_number": 395739,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50509",
+      "speaker": "wal",
+      "voice_files": [
+        "30/73200012",
+        "30/73200013"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[lv 0*\"30\"*\"73200012\"]",
+        "[@]",
+        "[|][lv 0*\"30\"*\"73200013\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{a:c:",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "Recuerda cómo era el sol de la tarde de ese día cálido de primavera,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": "para que su luz jamás se vuelva a apagar.}",
+          "inline_tags": []
+        }
+      ],
+      "text": "{a:c: Recuerda cómo era el sol de la tarde de ese día cálido de primavera, {n} para que su luz jamás se vuelva a apagar.}",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50510",
+      "kind": "dialogue",
+      "line_number": 395741,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50510",
+      "speaker": "wal",
+      "voice_files": [
+        "30/73200014"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[lv 0*\"30\"*\"73200014\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{a:c:",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "Después de todo, era algo tan maravilloso...}",
+          "inline_tags": []
+        }
+      ],
+      "text": "{a:c: Después de todo, era algo tan maravilloso...}",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50511",
+      "kind": "dialogue",
+      "line_number": 395743,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50511",
+      "speaker": "wal",
+      "voice_files": [
+        "30/73200015",
+        "30/73200016"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[lv 0*\"30\"*\"73200015\"]",
+        "[@]",
+        "[|][lv 0*\"30\"*\"73200016\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{a:c:",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{m:-5:—}—Testigo de tu último sueño,",
+          "inline_tags": [
+            "{m:-5:—}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": "{e:080:{f:5:Publius Virgilia Maro}}}",
+          "inline_tags": [
+            "{f:5:Publius Virgilia Maro}"
+          ]
+        }
+      ],
+      "text": "{a:c: {m:-5:—}—Testigo de tu último sueño, {n} {e:080:{f:5:Publius Virgilia Maro}}}",
+      "inline_tags": [
+        "{m:-5:—}",
+        "{n}",
+        "{f:5:Publius Virgilia Maro}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50512",
+      "kind": "dialogue",
+      "line_number": 395763,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50512",
+      "speaker": "wal",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Los sospechosos fueron reunidos en una habitación, y muchos Inquisidores reportaban los resultados de su investigación.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Los sospechosos fueron reunidos en una habitación, y muchos Inquisidores reportaban los resultados de su investigación.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50513",
+      "kind": "dialogue",
+      "line_number": 395765,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50513",
+      "speaker": "wal",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sus uniformes se parecían mucho a los del Eiserne Jungfrau, pero eran ligeramente diferentes.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " También eran diferentes las insignias que representaban su especialidad.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sus uniformes se parecían mucho a los del Eiserne Jungfrau, pero eran ligeramente diferentes.  También eran diferentes las insignias que representaban su especialidad.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50514",
+      "kind": "dialogue",
+      "line_number": 395767,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50514",
+      "speaker": "wal",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Luego vino el sonido de alguien aplaudiendo una vez.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Era la Inquisidora en jefe.",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Luego vino el sonido de alguien aplaudiendo una vez. {n}Era la Inquisidora en jefe.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50515",
+      "kind": "dialogue",
+      "line_number": 395769,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50515",
+      "speaker": "wal",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Era su señal de que todo el razonamiento se había completado.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Era su señal de que todo el razonamiento se había completado.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50516",
+      "kind": "dialogue",
+      "line_number": 395772,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50516",
+      "speaker": "wal",
+      "voice_files": [
+        "99/shinm7001",
+        "99/shinm7002"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"shinm7001\"]",
+        "[@][lv 0*\"99\"*\"shinm7002\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Hágase saber que ya no hay duda alguna.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " La anterior lógica ha demostrado la inexistencia de su coartada.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Hágase saber que ya no hay duda alguna.  La anterior lógica ha demostrado la inexistencia de su coartada.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50517",
+      "kind": "dialogue",
+      "line_number": 395778,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50517",
+      "speaker": "wal",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Al otro extremo de su dedo índice estaba una sirvienta temblando con los ojos asustados.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Al otro extremo de su dedo índice estaba una sirvienta temblando con los ojos asustados.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50518",
+      "kind": "dialogue",
+      "line_number": 395780,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50518",
+      "speaker": "wal",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Su nombre era—",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " no, eso no era importante.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Su nombre era—  no, eso no era importante.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50519",
+      "kind": "dialogue",
+      "line_number": 395782,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50519",
+      "speaker": "wal",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Lo que importa ahora es que ella podría haber entrado en el estudio cerrado con llave en donde se encontraba la víctima cuando ella quisiera,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y además, se había demostrado que su supuesta coartada en el momento del crimen era contradictoria.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Lo que importa ahora es que ella podría haber entrado en el estudio cerrado con llave en donde se encontraba la víctima cuando ella quisiera,  y además, se había demostrado que su supuesta coartada en el momento del crimen era contradictoria.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50520",
+      "kind": "dialogue",
+      "line_number": 395784,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50520",
+      "speaker": "wal",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Temblando, la sirvienta trató de continuar su ilógica defensa, pero todos sus argumentos habían sido destruidos.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Temblando, la sirvienta trató de continuar su ilógica defensa, pero todos sus argumentos habían sido destruidos.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50521",
+      "kind": "dialogue",
+      "line_number": 395799,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50521",
+      "speaker": "wal",
+      "voice_files": [
+        "99/shinm7003",
+        "99/shinm7004"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"shinm7003\"]",
+        "[@][lv 0*\"99\"*\"shinm7004\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Con esto, hemos encontrado pruebas suficientes del quién y el cómo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Hágase saber que su posición como culpable es un hecho inquebrantable.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Con esto, hemos encontrado pruebas suficientes del quién y el cómo.  Hágase saber que su posición como culpable es un hecho inquebrantable.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50522",
+      "kind": "dialogue",
+      "line_number": 395805,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50522",
+      "speaker": "wal",
+      "voice_files": [
+        "99/maid7001",
+        "99/maid7002",
+        "99/maid7003"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"maid7001\"]",
+        "[@][lv 0*\"99\"*\"maid7002\"]",
+        "[@][lv 0*\"99\"*\"maid7003\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡D-Debes estar bromeando!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¿P-P-Por qué yo mataría al amo, a quien tanto quería y respetaba?!...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡No tengo motivos ni razones!...",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡D-Debes estar bromeando!...  ¡¿P-P-Por qué yo mataría al amo, a quien tanto quería y respetaba?!...  ¡No tengo motivos ni razones!...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50523",
+      "kind": "dialogue",
+      "line_number": 395807,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50523",
+      "speaker": "wal",
+      "voice_files": [
+        "99/shinm7005",
+        "99/shinm7006",
+        "99/shinm7007",
+        "99/shinm7008"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"shinm7005\"]",
+        "[@][lv 0*\"99\"*\"shinm7006\"]",
+        "[@][lv 0*\"99\"*\"shinm7007\"]",
+        "[@][lv 0*\"99\"*\"shinm7008\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Quién y cómo lo hizo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Hágase saber que estos dos son todo lo que es necesario establecer.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Permítaseme hablar... para informarle lo siguiente.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Hágase saber que los motivos no son necesarios en los misterios.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Quién y cómo lo hizo.  Hágase saber que estos dos son todo lo que es necesario establecer.  Permítaseme hablar... para informarle lo siguiente.  Hágase saber que los motivos no son necesarios en los misterios.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50524",
+      "kind": "dialogue",
+      "line_number": 395809,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50524",
+      "speaker": "wal",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La Inquisidora habló friamente.",
+          "inline_tags": []
+        }
+      ],
+      "text": "La Inquisidora habló friamente.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50525",
+      "kind": "dialogue",
+      "line_number": 395840,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50525",
+      "speaker": "wal",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Después de terminar su oración de bruja, {f:5:Virgilia} dio un paso atrás del ataúd, donde yacía un altar adornado con muchas rosas preciosas.",
+          "inline_tags": [
+            "{f:5:Virgilia}"
+          ]
+        }
+      ],
+      "text": "Después de terminar su oración de bruja, {f:5:Virgilia} dio un paso atrás del ataúd, donde yacía un altar adornado con muchas rosas preciosas.",
+      "inline_tags": [
+        "{f:5:Virgilia}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50526",
+      "kind": "dialogue",
+      "line_number": 395852,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50526",
+      "speaker": "wal",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En cambio, Battler se movió al frente del altar, llevando su capa de Lord Territorial...",
+          "inline_tags": []
+        }
+      ],
+      "text": "En cambio, Battler se movió al frente del altar, llevando su capa de Lord Territorial...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50527",
+      "kind": "dialogue",
+      "line_number": 395854,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50527",
+      "speaker": "wal",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Aunque se suponía que la capa representaba dignidad y majestuosidad,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " de alguna manera hacía parecer más pequeño a Battler.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Aunque se suponía que la capa representaba dignidad y majestuosidad,  de alguna manera hacía parecer más pequeño a Battler.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50528",
+      "kind": "dialogue",
+      "line_number": 395861,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50528",
+      "speaker": "wal",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Battler sostenía un libro con una atadura majestuosa en su mano.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Battler sostenía un libro con una atadura majestuosa en su mano.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50529",
+      "kind": "dialogue",
+      "line_number": 395867,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50529",
+      "speaker": "wal",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Era... el registro de un juego que acababa de ser escrito.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Era... el registro de un juego que acababa de ser escrito.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50530",
+      "kind": "dialogue",
+      "line_number": 395869,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50530",
+      "speaker": "wal",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "O quizás era una historia.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Un juego.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " O puede que un Fragmento.",
+          "inline_tags": []
+        }
+      ],
+      "text": "O quizás era una historia.  Un juego.  O puede que un Fragmento.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50531",
+      "kind": "dialogue",
+      "line_number": 395871,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50531",
+      "speaker": "wal",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Escrito en él...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " estaba el \"sueño\" que sería más agradable para ella que cualquier otro...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Escrito en él...  estaba el \"sueño\" que sería más agradable para ella que cualquier otro...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50532",
+      "kind": "dialogue",
+      "line_number": 395877,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50532",
+      "speaker": "wal",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Battler lo presionó contra su frente y meditó por un tiempo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Battler lo presionó contra su frente y meditó por un tiempo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50533",
+      "kind": "dialogue",
+      "line_number": 395886,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50533",
+      "speaker": "but",
+      "voice_files": [
+        "10/70100001"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"70100001\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50534",
+      "kind": "dialogue",
+      "line_number": 395899,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50534",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Luego, lo besó... y lo puso suavemente en el ataúd.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Luego, lo besó... y lo puso suavemente en el ataúd.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50535",
+      "kind": "dialogue",
+      "line_number": 395906,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50535",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Fue colocado sobre su pecho.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Fue colocado sobre su pecho.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50536",
+      "kind": "dialogue",
+      "line_number": 395908,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50536",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La hizo parecer a una niña aferrada a su peluche favorito cuando se quedaba dormida...",
+          "inline_tags": []
+        }
+      ],
+      "text": "La hizo parecer a una niña aferrada a su peluche favorito cuando se quedaba dormida...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50537",
+      "kind": "dialogue",
+      "line_number": 395915,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50537",
+      "speaker": "but",
+      "voice_files": [
+        "10/70100002",
+        "10/70100003"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"70100002\"]",
+        "[|][lv 0*\"10\"*\"70100003\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Esta historia es mi regalo para ti.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " La única que habrá.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Esta historia es mi regalo para ti.  La única que habrá.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50538",
+      "kind": "dialogue",
+      "line_number": 395918,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50538",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Esta historia estará encerrada junto a ti en tu ataúd, por toda la eternidad.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Esta historia estará encerrada junto a ti en tu ataúd, por toda la eternidad.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50539",
+      "kind": "dialogue",
+      "line_number": 395920,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50539",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Así que nadie más que tú será capaz de leerla, en tu ataúd.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Así que nadie más que tú será capaz de leerla, en tu ataúd.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50540",
+      "kind": "dialogue",
+      "line_number": 395934,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50540",
+      "speaker": "wal",
+      "voice_files": [
+        "30/73200017",
+        "30/73200018",
+        "30/73200019",
+        "30/73200020",
+        "30/73200021"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"30\"*\"73200017\"]",
+        "[|][lv 0*\"30\"*\"73200018\"]",
+        "[|][lv 0*\"30\"*\"73200019\"]",
+        "[|][lv 0*\"30\"*\"73200020\"]",
+        "[|][lv 0*\"30\"*\"73200021\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Encierra en esa caja del gato,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " la única...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " incambiable,",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " inviolable,",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " y eterna historia.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Encierra en esa caja del gato,  la única...  incambiable,  inviolable,  y eterna historia.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50541",
+      "kind": "dialogue",
+      "line_number": 395942,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50541",
+      "speaker": "but",
+      "voice_files": [
+        "10/70100004",
+        "10/70100005",
+        "10/70100006",
+        "10/70100007",
+        "10/70100008",
+        "10/70100009",
+        "10/70100010",
+        "10/70100011"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"70100004\"]",
+        "[|][lv 0*\"10\"*\"70100005\"]",
+        "[@][lv 0*\"10\"*\"70100006\"]",
+        "[|][lv 0*\"10\"*\"70100007\"]",
+        "[@][lv 0*\"10\"*\"70100008\"]",
+        "[|][lv 0*\"10\"*\"70100009\"]",
+        "[|][lv 0*\"10\"*\"70100010\"]",
+        "[|][lv 0*\"10\"*\"70100011\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"De esta forma,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " nadie será capaz de profanar su historia.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Nadie podrá negarla,",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " y nadie podrá discutir en contra de ella...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Perteneciendo solo a mí y a ella,",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " solo a nosotros dos,",
+          "inline_tags": []
+        },
+        {
+          "index": 6,
+          "text": " esta es la única...",
+          "inline_tags": []
+        },
+        {
+          "index": 7,
+          "text": " y absoluta verdad.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"De esta forma,  nadie será capaz de profanar su historia.  Nadie podrá negarla,  y nadie podrá discutir en contra de ella...  Perteneciendo solo a mí y a ella,  solo a nosotros dos,  esta es la única...  y absoluta verdad.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50542",
+      "kind": "dialogue",
+      "line_number": 395966,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50542",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400001"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400001\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Esos desgraciados...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Esos desgraciados...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50543",
+      "kind": "dialogue",
+      "line_number": 395968,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50543",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Un hombre corrió a través de una ciudad envuelta en el atardecer.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Un hombre corrió a través de una ciudad envuelta en el atardecer.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50544",
+      "kind": "dialogue",
+      "line_number": 395970,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50544",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El ajetreo y el bullicio del día de esta bella aldea, que combinaba lo tradicional con la belleza del estilo clásico del siglo pasado, ahora parecían un simple sueño.",
+          "inline_tags": []
+        }
+      ],
+      "text": "El ajetreo y el bullicio del día de esta bella aldea, que combinaba lo tradicional con la belleza del estilo clásico del siglo pasado, ahora parecían un simple sueño.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50545",
+      "kind": "dialogue",
+      "line_number": 395972,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50545",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El sol naranja ya se había ocultado detrás de la torre del reloj, y los estrechos callejones quedaron rápidamente en la oscuridad.",
+          "inline_tags": []
+        }
+      ],
+      "text": "El sol naranja ya se había ocultado detrás de la torre del reloj, y los estrechos callejones quedaron rápidamente en la oscuridad.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50546",
+      "kind": "dialogue",
+      "line_number": 395974,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50546",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Mientras la luces a gas comenzaban a encenderse, hacían destacar aún más la oscuridad de este atardecer.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Mientras la luces a gas comenzaban a encenderse, hacían destacar aún más la oscuridad de este atardecer.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50547",
+      "kind": "dialogue",
+      "line_number": 395981,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50547",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El hombre echó a correr.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " No quedaba tiempo.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Tenía que apresurarse.",
+          "inline_tags": []
+        }
+      ],
+      "text": "El hombre echó a correr.  No quedaba tiempo.  Tenía que apresurarse.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50548",
+      "kind": "dialogue",
+      "line_number": 395983,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50548",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Había tenido varios experimentos que hacer y cosas que revisar, y todo había tomado más tiempo del que esperaba.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Había tenido varios experimentos que hacer y cosas que revisar, y todo había tomado más tiempo del que esperaba.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50549",
+      "kind": "dialogue",
+      "line_number": 395985,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50549",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400002",
+        "54/75400003"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400002\"]",
+        "[@][lv 0*\"54\"*\"75400003\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Sí, no hay error.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " El quién y el cómo son todo lo que necesitas en los misterios.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Sí, no hay error.  El quién y el cómo son todo lo que necesitas en los misterios.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50550",
+      "kind": "dialogue",
+      "line_number": 395992,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50550",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "En el género del misterio, al motivo, o el porqué se le da la menor prioridad.",
+          "inline_tags": []
+        }
+      ],
+      "text": "En el género del misterio, al motivo, o el porqué se le da la menor prioridad.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50551",
+      "kind": "dialogue",
+      "line_number": 395994,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50551",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Lo único que se necesita para que exista un asesinato es un culpable que lo cometa.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Lo único que se necesita para que exista un asesinato es un culpable que lo cometa.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50552",
+      "kind": "dialogue",
+      "line_number": 395996,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50552",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ninguna parte de eso requiere un motivo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Así que, usualmente, es el elemento más ignorado.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Ninguna parte de eso requiere un motivo.  Así que, usualmente, es el elemento más ignorado.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50553",
+      "kind": "dialogue",
+      "line_number": 395998,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50553",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "De hecho, estos días, incluso hay algunos que los llaman elementos innecesarios en los misterios.",
+          "inline_tags": []
+        }
+      ],
+      "text": "De hecho, estos días, incluso hay algunos que los llaman elementos innecesarios en los misterios.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50554",
+      "kind": "dialogue",
+      "line_number": 396000,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50554",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400004",
+        "54/75400005",
+        "54/75400006"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400004\"]",
+        "[@][lv 0*\"54\"*\"75400005\"]",
+        "[@][lv 0*\"54\"*\"75400006\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Si encuentras a un culpable con nada más que el porqué, no es misterio.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Es propaganda.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Sin embargo...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Si encuentras a un culpable con nada más que el porqué, no es misterio.  Es propaganda.  Sin embargo...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50555",
+      "kind": "dialogue",
+      "line_number": 396006,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50555",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400007",
+        "54/75400008"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400007\"]",
+        "[@]",
+        "[|][lv 0*\"54\"*\"75400008\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "No significa que puedes ignorar el motivo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}",
+          "inline_tags": [
+            "{n}"
+          ]
+        },
+        {
+          "index": 2,
+          "text": "No hace válido ignorar al corazón.",
+          "inline_tags": []
+        }
+      ],
+      "text": "No significa que puedes ignorar el motivo. {n} No hace válido ignorar al corazón.",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50556",
+      "kind": "dialogue",
+      "line_number": 396036,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50556",
+      "speaker": "wal",
+      "voice_files": [
+        "30/73200022",
+        "30/73200023",
+        "30/73200024"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"30\"*\"73200022\"]",
+        "[@][lv 0*\"30\"*\"73200023\"]",
+        "[@][#][*][lv 0*\"30\"*\"73200024\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Ambos sabemos cuánto se estará divirtiendo en su último sueño.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Así que dudo que alguien la moleste...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Después de todo, ¿quién podría molestar a una niña dormida sonriendo en su feliz sueño?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Ambos sabemos cuánto se estará divirtiendo en su último sueño.  Así que dudo que alguien la moleste...  Después de todo, ¿quién podría molestar a una niña dormida sonriendo en su feliz sueño?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50557",
+      "kind": "dialogue",
+      "line_number": 396048,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50557",
+      "speaker": "but",
+      "voice_files": [
+        "10/70100012"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"70100012\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50558",
+      "kind": "dialogue",
+      "line_number": 396054,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50558",
+      "speaker": "wal",
+      "voice_files": [
+        "30/73200025",
+        "30/73200026",
+        "30/73200027"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"30\"*\"73200025\"]",
+        "[@][lv 0*\"30\"*\"73200026\"]",
+        "[@][lv 0*\"30\"*\"73200027\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Vamos...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Es hora de irnos.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Si hacemos mucho ruido, la despertaremos de su sueño.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Vamos...  Es hora de irnos.  Si hacemos mucho ruido, la despertaremos de su sueño.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50559",
+      "kind": "dialogue",
+      "line_number": 396060,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50559",
+      "speaker": "but",
+      "voice_files": [
+        "10/70100013",
+        "10/70100014",
+        "10/70100015"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"70100013\"]",
+        "[@][lv 0*\"10\"*\"70100014\"]",
+        "[@][lv 0*\"10\"*\"70100015\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Tienes razón.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Qué más podrías hacer con un niño que duerme además de ponerle una manta...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " apagar las luces, y salir caminando tranquilamente...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Tienes razón.  Qué más podrías hacer con un niño que duerme además de ponerle una manta...  apagar las luces, y salir caminando tranquilamente...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50560",
+      "kind": "dialogue",
+      "line_number": 396073,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50560",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Después de mirar el ataúd por última vez, {f:5:Virgilia} se dio la vuelta tranquilamente.",
+          "inline_tags": [
+            "{f:5:Virgilia}"
+          ]
+        }
+      ],
+      "text": "Después de mirar el ataúd por última vez, {f:5:Virgilia} se dio la vuelta tranquilamente.",
+      "inline_tags": [
+        "{f:5:Virgilia}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50561",
+      "kind": "dialogue",
+      "line_number": 396075,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50561",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Battler hizo lo mismo... pero luego se dio la vuelta y se dirigió hacia el ataúd decorado con rosas...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Battler hizo lo mismo... pero luego se dio la vuelta y se dirigió hacia el ataúd decorado con rosas...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50562",
+      "kind": "dialogue",
+      "line_number": 396093,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50562",
+      "speaker": "but",
+      "voice_files": [
+        "10/70100016"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"70100016\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50563",
+      "kind": "dialogue",
+      "line_number": 396096,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50563",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Battler dijo sus últimas palabras con su corazón.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Battler dijo sus últimas palabras con su corazón.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50564",
+      "kind": "dialogue",
+      "line_number": 396098,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50564",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Mientras esas palabras no salieran de su boca, nadie podría entender qué eran.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Mientras esas palabras no salieran de su boca, nadie podría entender qué eran.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50565",
+      "kind": "dialogue",
+      "line_number": 396100,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50565",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... Sin embargo, esas palabras dentro del corazón de Battler causaron que su expresión cambiara varias veces.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... Sin embargo, esas palabras dentro del corazón de Battler causaron que su expresión cambiara varias veces.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50566",
+      "kind": "dialogue",
+      "line_number": 396106,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50566",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Primero, frunció el ceño con tristeza, luego, su rostro se oscureció con remordimiento, y luego cambió a una sonrisa amarga y muda...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Pasó por múltiples expresiones.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Primero, frunció el ceño con tristeza, luego, su rostro se oscureció con remordimiento, y luego cambió a una sonrisa amarga y muda...  Pasó por múltiples expresiones.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50567",
+      "kind": "dialogue",
+      "line_number": 396108,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50567",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": " La última expresión que pasó por su cara, fue... sorprendentemente,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " una dulce sonrisa.",
+          "inline_tags": []
+        }
+      ],
+      "text": " La última expresión que pasó por su cara, fue... sorprendentemente,  una dulce sonrisa.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50568",
+      "kind": "dialogue",
+      "line_number": 396118,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50568",
+      "speaker": "but",
+      "voice_files": [
+        "10/70100018"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@][lv 0*\"10\"*\"70100018\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\".",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "..\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\". ..\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50569",
+      "kind": "dialogue",
+      "line_number": 396121,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50569",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Algo subió a los labios de Battler.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Sin embargo, se los mordió.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Algo subió a los labios de Battler.  Sin embargo, se los mordió.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50570",
+      "kind": "dialogue",
+      "line_number": 396123,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50570",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Ciertamente no había palabras...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " para describir los sentimientos que guardaba en su pecho.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Ciertamente no había palabras...  para describir los sentimientos que guardaba en su pecho.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50571",
+      "kind": "dialogue",
+      "line_number": 396129,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50571",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Por lo que... decir algo en voz alta probablemente sería vulgar.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Por lo que... decir algo en voz alta probablemente sería vulgar.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50572",
+      "kind": "dialogue",
+      "line_number": 396131,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50572",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Battler entendió esto, y él mismo dejó de hablar con una sonrisa amarga.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Battler entendió esto, y él mismo dejó de hablar con una sonrisa amarga.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50573",
+      "kind": "dialogue",
+      "line_number": 396144,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50573",
+      "speaker": "wal",
+      "voice_files": [
+        "30/73200028"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"30\"*\"73200028\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50574",
+      "kind": "dialogue",
+      "line_number": 396150,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50574",
+      "speaker": "but",
+      "voice_files": [
+        "10/70100019"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"70100019\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Gracias.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Gracias.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50575",
+      "kind": "dialogue",
+      "line_number": 396156,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50575",
+      "speaker": "wal",
+      "voice_files": [
+        "30/73200029"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"30\"*\"73200029\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Oh, no he hecho nada que requiera tus agradecimientos...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Oh, no he hecho nada que requiera tus agradecimientos...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50576",
+      "kind": "dialogue",
+      "line_number": 396162,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50576",
+      "speaker": "but",
+      "voice_files": [
+        "10/70100020"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"10\"*\"70100020\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Te dejo el resto a ti.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Te dejo el resto a ti.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50577",
+      "kind": "dialogue",
+      "line_number": 396167,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50577",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Después de ver a {f:5:Virgilia} asintiéndole, Battler le dio la espalda al altar una vez más...",
+          "inline_tags": [
+            "{f:5:Virgilia}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " y se fue de la capilla.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Después de ver a {f:5:Virgilia} asintiéndole, Battler le dio la espalda al altar una vez más...  y se fue de la capilla.",
+      "inline_tags": [
+        "{f:5:Virgilia}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50578",
+      "kind": "dialogue",
+      "line_number": 396174,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50578",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{f:5:Virgilia} también desapareció,",
+          "inline_tags": [
+            "{f:5:Virgilia}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " y todas las perturbaciones que podrían haber interrumpido su maravilloso sueño habían desaparecido...",
+          "inline_tags": []
+        }
+      ],
+      "text": "{f:5:Virgilia} también desapareció,  y todas las perturbaciones que podrían haber interrumpido su maravilloso sueño habían desaparecido...",
+      "inline_tags": [
+        "{f:5:Virgilia}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50579",
+      "kind": "dialogue",
+      "line_number": 396186,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50579",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Los Inquisidores escucharon con tranquilas... no, con miradas despectivas.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Los Inquisidores escucharon con tranquilas... no, con miradas despectivas.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50580",
+      "kind": "dialogue",
+      "line_number": 396188,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50580",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Escucharon el balbuceo frenético de la sirvienta acusada de asesinar a su amo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Escucharon el balbuceo frenético de la sirvienta acusada de asesinar a su amo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50581",
+      "kind": "dialogue",
+      "line_number": 396190,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50581",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Sin embargo, nada de lo que dijo podía anular los fallos en su propia coartada.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Sin embargo, nada de lo que dijo podía anular los fallos en su propia coartada.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50582",
+      "kind": "dialogue",
+      "line_number": 396192,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50582",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Todos eran argumentos emocionales.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}\"Amaba y respetaba mucho a mi amo. No tenía motivo para matarlo.\"",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "Todos eran argumentos emocionales. {n}\"Amaba y respetaba mucho a mi amo. No tenía motivo para matarlo.\"",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50583",
+      "kind": "dialogue",
+      "line_number": 396194,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50583",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "No importa lo mucho que ella hablara,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " solo la hacía parecer más y más como el indeciso verdadero culpable que lucha patéticamente.",
+          "inline_tags": []
+        }
+      ],
+      "text": "No importa lo mucho que ella hablara,  solo la hacía parecer más y más como el indeciso verdadero culpable que lucha patéticamente.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50584",
+      "kind": "dialogue",
+      "line_number": 396201,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50584",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El \"quién\" y el \"cómo\" se han cumplido.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}En cuanto al \"porqué\", el motivo, el corazón, ¿a quién le importa?",
+          "inline_tags": [
+            "{n}"
+          ]
+        }
+      ],
+      "text": "El \"quién\" y el \"cómo\" se han cumplido. {n}En cuanto al \"porqué\", el motivo, el corazón, ¿a quién le importa?",
+      "inline_tags": [
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50585",
+      "kind": "dialogue",
+      "line_number": 396203,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50585",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... No importa lo mucho que habló de su gratitud por su amo, quien le había dado generosamente su trabajo cuando ella más lo necesitaba después de varias desgracias,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " no ayudaba a su causa en lo más mínimo en el género de misterio.",
+          "inline_tags": []
+        }
+      ],
+      "text": "... No importa lo mucho que habló de su gratitud por su amo, quien le había dado generosamente su trabajo cuando ella más lo necesitaba después de varias desgracias,  no ayudaba a su causa en lo más mínimo en el género de misterio.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50586",
+      "kind": "dialogue",
+      "line_number": 396210,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50586",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Por lo tanto, su motivo no importaba.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "{n}Todo eso podría ser {i:exprimido} del culpable después.",
+          "inline_tags": [
+            "{n}",
+            "{i:exprimido}"
+          ]
+        }
+      ],
+      "text": "Por lo tanto, su motivo no importaba. {n}Todo eso podría ser {i:exprimido} del culpable después.",
+      "inline_tags": [
+        "{n}",
+        "{i:exprimido}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50587",
+      "kind": "dialogue",
+      "line_number": 396217,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50587",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Un Inquisidor sacó un rollo de pergamino y lo sostuvo, acabando con los sollozos y protestas de la sirvienta.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Un Inquisidor sacó un rollo de pergamino y lo sostuvo, acabando con los sollozos y protestas de la sirvienta.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50588",
+      "kind": "dialogue",
+      "line_number": 396220,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50588",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/shinm7009",
+        "99/shinm7010",
+        "99/shinm7011",
+        "99/shinm7012",
+        "99/shinm7013",
+        "99/shinm7014",
+        "99/shinm7015"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"shinm7009\"]",
+        "[@][lv 0*\"99\"*\"shinm7010\"]",
+        "[@][lv 0*\"99\"*\"shinm7011\"]",
+        "[@][lv 0*\"99\"*\"shinm7012\"]",
+        "[@][lv 0*\"99\"*\"shinm7013\"]",
+        "[@][lv 0*\"99\"*\"shinm7014\"]",
+        "[@][lv 0*\"99\"*\"shinm7015\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Así es como cometiste el crimen.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Hágase saber que esta acusación ha sido recibida por la Gran Corte y que tu arresto ha sido aprobado.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Aquí está la orden de arresto.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " El motivo no es necesario.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Hágase saber que tal cosa es totalmente ajena a la cuestión de señalar al culpable.",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " Con eso en mente, Permítaseme informarle lo siguiente.",
+          "inline_tags": []
+        },
+        {
+          "index": 6,
+          "text": " Hágase saber que nosotros, en la SSVD poseemos métodos para forzar a los criminales no arrepentidos a revelar la verdad.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Así es como cometiste el crimen.  Hágase saber que esta acusación ha sido recibida por la Gran Corte y que tu arresto ha sido aprobado.  Aquí está la orden de arresto.  El motivo no es necesario.  Hágase saber que tal cosa es totalmente ajena a la cuestión de señalar al culpable.  Con eso en mente, Permítaseme informarle lo siguiente.  Hágase saber que nosotros, en la SSVD poseemos métodos para forzar a los criminales no arrepentidos a revelar la verdad.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50589",
+      "kind": "dialogue",
+      "line_number": 396222,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50589",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/shinm7016",
+        "99/shinm7017",
+        "99/shinm7018",
+        "99/shinm7019"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"shinm7016\"]",
+        "[@][lv 0*\"99\"*\"shinm7017\"]",
+        "[@][lv 0*\"99\"*\"shinm7018\"]",
+        "[@][#][*][lv 0*\"99\"*\"shinm7019\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Tenga en cuenta que con estas herramientas de interrogación bendecidas por los poderes de la justicia, nosotros, los Inquisidores de la Herejía azotaremos tus extremidades, las quemaremos, las aplastaremos, te colgaremos de ellas,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y así sacar la verdad roja de ti...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡Ni siquiera es necesario que confieses!",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Asistentes, ¡arresten a esa sirvienta!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Tenga en cuenta que con estas herramientas de interrogación bendecidas por los poderes de la justicia, nosotros, los Inquisidores de la Herejía azotaremos tus extremidades, las quemaremos, las aplastaremos, te colgaremos de ellas,  y así sacar la verdad roja de ti...  ¡Ni siquiera es necesario que confieses!  Asistentes, ¡arresten a esa sirvienta!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50590",
+      "kind": "dialogue",
+      "line_number": 396234,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50590",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/maid7004",
+        "99/maid7005"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"maid7004\"]",
+        "[@][lv 0*\"99\"*\"maid7005\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡No fui yo! ¡¡No maté al amo!!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " N-No, ¡¡noooooooooo!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡No fui yo! ¡¡No maté al amo!!...  N-No, ¡¡noooooooooo!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50591",
+      "kind": "dialogue",
+      "line_number": 396256,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50591",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400009",
+        "54/75400010"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400009\"]",
+        "[@][lv 0*\"54\"*\"75400010\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Alto ahí.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Tienes al culpable equivocado.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Alto ahí.  Tienes al culpable equivocado.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50592",
+      "kind": "dialogue",
+      "line_number": 396258,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50592",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Un hombre pateó la puerta, y todos los Inquisidores se sorprendieron al verlo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Un hombre pateó la puerta, y todos los Inquisidores se sorprendieron al verlo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50593",
+      "kind": "dialogue",
+      "line_number": 396266,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50593",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/shinm7020",
+        "99/shinm7021"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"shinm7020\"]",
+        "[@][lv 0*\"99\"*\"shinm7021\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿P-Por qué estás aquí?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Hágase saber que ya no estás a cargo de este caso!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿P-Por qué estás aquí?  ¡Hágase saber que ya no estás a cargo de este caso!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50594",
+      "kind": "dialogue",
+      "line_number": 396280,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50594",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400011",
+        "54/75400012",
+        "54/75400013",
+        "54/75400014",
+        "54/75400015",
+        "54/75400016"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400011\"]",
+        "[@][lv 0*\"54\"*\"75400012\"]",
+        "[@][lv 0*\"54\"*\"75400013\"]",
+        "[@][lv 0*\"54\"*\"75400014\"]",
+        "[@][lv 0*\"54\"*\"75400015\"]",
+        "[@][lv 0*\"54\"*\"75400016\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Silencio.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Encuentras una persona sin una coartada y solo asumes que ella es la culpable?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¿De verdad crees que no hay necesidad de un motivo, de un corazón, en un crimen?",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Los crímenes los cometen las personas.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " No hay crímenes sin corazón.",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " Jamás aceptaré una teoría que ignore al corazón.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Silencio.  ¿Encuentras una persona sin una coartada y solo asumes que ella es la culpable?  ¿De verdad crees que no hay necesidad de un motivo, de un corazón, en un crimen?  Los crímenes los cometen las personas.  No hay crímenes sin corazón.  Jamás aceptaré una teoría que ignore al corazón.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50595",
+      "kind": "dialogue",
+      "line_number": 396287,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50595",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/shinm7022",
+        "99/shinm7023",
+        "99/shinm7024",
+        "99/shinm7025"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"shinm7022\"]",
+        "[@][lv 0*\"99\"*\"shinm7023\"]",
+        "[@][lv 0*\"99\"*\"shinm7024\"]",
+        "[@][lv 0*\"99\"*\"shinm7025\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡H-Hágase saber que tu enfoque en el \"porqué\" es simplemente vergonzoso!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡El \"porqué\" no es necesario!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡Tal cosa puede ser fácilmente extraída a través de los interrogatorios!",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡¡Incluso la Gran Corte ya ha reconocido a esa mujer como la culpable!!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡H-Hágase saber que tu enfoque en el \"porqué\" es simplemente vergonzoso!...  ¡El \"porqué\" no es necesario!  ¡Tal cosa puede ser fácilmente extraída a través de los interrogatorios!  ¡¡Incluso la Gran Corte ya ha reconocido a esa mujer como la culpable!!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50596",
+      "kind": "dialogue",
+      "line_number": 396306,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50596",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400017",
+        "54/75400018",
+        "54/75400019",
+        "54/75400020",
+        "54/75400021",
+        "54/75400022"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400017\"]",
+        "[@][lv 0*\"54\"*\"75400018\"]",
+        "[@][lv 0*\"54\"*\"75400019\"]",
+        "[@][lv 0*\"54\"*\"75400020\"]",
+        "[@][lv 0*\"54\"*\"75400021\"]",
+        "[@][lv 0*\"54\"*\"75400022\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"La Gran Corte escuchó tu argumento de que la sirvienta debe ser la culpable porque todos tienen una coartada menos ella,",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " y han confundido tu exceso de confianza y orgullo por sabiduría.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Si alguno de los otros sospechosos pierde su coartada, tu evidencia no prueba nada...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Solo mira qué patéticas son algunas de esas coartadas.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " ¿El reloj de la recepción sonó en el momento justo a la medianoche?",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " ¿El perro de la puerta de atrás ladró a todos?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"La Gran Corte escuchó tu argumento de que la sirvienta debe ser la culpable porque todos tienen una coartada menos ella,  y han confundido tu exceso de confianza y orgullo por sabiduría.  Si alguno de los otros sospechosos pierde su coartada, tu evidencia no prueba nada...  Solo mira qué patéticas son algunas de esas coartadas.  ¿El reloj de la recepción sonó en el momento justo a la medianoche?  ¿El perro de la puerta de atrás ladró a todos?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50597",
+      "kind": "dialogue",
+      "line_number": 396310,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50597",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400023",
+        "54/75400024",
+        "54/75400025"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400023\"]",
+        "[@][lv 0*\"54\"*\"75400024\"]",
+        "[@][lv 0*\"54\"*\"75400025\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Así que te las arreglaste para probar que la coartada de la sirvienta es falsa.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Felicidades.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¿Pero termina ahí?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Así que te las arreglaste para probar que la coartada de la sirvienta es falsa.  Felicidades.  ¿Pero termina ahí?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50598",
+      "kind": "dialogue",
+      "line_number": 396312,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50598",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400026",
+        "54/75400027",
+        "54/75400028",
+        "54/75400029"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400026\"]",
+        "[@][lv 0*\"54\"*\"75400027\"]",
+        "[@][lv 0*\"54\"*\"75400028\"]",
+        "[@][lv 0*\"54\"*\"75400029\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Puede que haya sido posible que ella lo haga, ¿pero tiene un motivo?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Son las coartadas de los demás perfectas?",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Esta sirvienta no era la única con una coartada falsa.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Tienes que seguir buscando si quieres encontrar las otras.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "Puede que haya sido posible que ella lo haga, ¿pero tiene un motivo?  ¿Son las coartadas de los demás perfectas?  Esta sirvienta no era la única con una coartada falsa.  Tienes que seguir buscando si quieres encontrar las otras.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50599",
+      "kind": "dialogue",
+      "line_number": 396314,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50599",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400030",
+        "54/75400031",
+        "54/75400032"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400030\"]",
+        "[@][lv 0*\"54\"*\"75400031\"]",
+        "[@][lv 0*\"54\"*\"75400032\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Había algún tipo de rencor contra la víctima? ¿O algún problema relacionado con el dinero?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " No abandones el motivo, no abandones el corazón.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Los misterios secos donde el motivo puede ser resuelto solo más adelante son una pérdida de tiempo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Había algún tipo de rencor contra la víctima? ¿O algún problema relacionado con el dinero?  No abandones el motivo, no abandones el corazón.  Los misterios secos donde el motivo puede ser resuelto solo más adelante son una pérdida de tiempo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50600",
+      "kind": "dialogue",
+      "line_number": 396321,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50600",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/shinm7026",
+        "99/shinm7027",
+        "99/shinm7028"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"shinm7026\"]",
+        "[#][*][@][lv 0*\"99\"*\"shinm7027\"]",
+        "[@][lv 0*\"99\"*\"shinm7028\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"S-Si la sirviente no es la culpable, ¡¿por qué falsificó su coartada?!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Tan siquiera preguntar algo así es una pérdida de tiempo!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Hágase saber que solo debemos interrogarla, sacarle la verdad roja, ¡y hacerla firmar en sangre roja todo lo que pasó en el momento del crimen!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"S-Si la sirviente no es la culpable, ¡¿por qué falsificó su coartada?!  ¡Tan siquiera preguntar algo así es una pérdida de tiempo!  Hágase saber que solo debemos interrogarla, sacarle la verdad roja, ¡y hacerla firmar en sangre roja todo lo que pasó en el momento del crimen!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50601",
+      "kind": "dialogue",
+      "line_number": 396335,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50601",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400033",
+        "54/75400034",
+        "54/75400035",
+        "54/75400036"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400033\"]",
+        "[@][lv 0*\"54\"*\"75400034\"]",
+        "[@][lv 0*\"54\"*\"75400035\"]",
+        "[@][lv 0*\"54\"*\"75400036\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Sí, quizás puedas hacer eso.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Puedes solo utilizar esa tortura tuya para exprimirlo todo con franqueza y objetividad, visto desde los ojos de Dios.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¿Pero sabes qué?",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Jamás aceptaré misterios que carezcan de corazón.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Sí, quizás puedas hacer eso.  Puedes solo utilizar esa tortura tuya para exprimirlo todo con franqueza y objetividad, visto desde los ojos de Dios.  ¿Pero sabes qué?  Jamás aceptaré misterios que carezcan de corazón.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50602",
+      "kind": "dialogue",
+      "line_number": 396342,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50602",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/shinm7029",
+        "99/shinm7030",
+        "99/shinm7031",
+        "99/shinm7032"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"shinm7029\"]",
+        "[@][lv 0*\"99\"*\"shinm7030\"]",
+        "[@][lv 0*\"99\"*\"shinm7031\"]",
+        "[@][lv 0*\"99\"*\"shinm7032\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Y-Ya he tomado la responsabilidad de este caso!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Incluso tengo un decreto aquí!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Vamos, Asistentes, ¡sepan que no hay razón para dudar!",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡¡Les ordeno que arresten a esta sirvienta!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Y-Ya he tomado la responsabilidad de este caso!!  ¡Incluso tengo un decreto aquí!  Vamos, Asistentes, ¡sepan que no hay razón para dudar!  ¡¡Les ordeno que arresten a esta sirvienta!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50603",
+      "kind": "dialogue",
+      "line_number": 396352,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50603",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Cuando ella dio esta orden, sus subordinados dudaron, mirando a un lado y a otro entre su superior y aquel hombre...",
+          "inline_tags": []
+        }
+      ],
+      "text": "Cuando ella dio esta orden, sus subordinados dudaron, mirando a un lado y a otro entre su superior y aquel hombre...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50604",
+      "kind": "dialogue",
+      "line_number": 396366,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50604",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400037",
+        "54/75400038",
+        "54/75400039",
+        "54/75400040",
+        "54/75400041"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400037\"]",
+        "[@][lv 0*\"54\"*\"75400038\"]",
+        "[@][lv 0*\"54\"*\"75400039\"]",
+        "[@][lv 0*\"54\"*\"75400040\"]",
+        "[@][lv 0*\"54\"*\"75400041\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No te dejaré.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " El verdadero culpable es alguien más.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Es posible usar el motivo para encontrarlo,",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " y el truco de la coartada es uno viejo.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " No puedes olvidarte del corazón.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"No te dejaré.  El verdadero culpable es alguien más.  Es posible usar el motivo para encontrarlo,  y el truco de la coartada es uno viejo.  No puedes olvidarte del corazón.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50605",
+      "kind": "dialogue",
+      "line_number": 396373,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50605",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/shinm7033",
+        "99/shinm7034",
+        "99/shinm7035",
+        "99/shinm7036"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"shinm7033\"]",
+        "[@][lv 0*\"99\"*\"shinm7034\"]",
+        "[@][lv 0*\"99\"*\"shinm7035\"]",
+        "[|][lv 0*\"99\"*\"shinm7036\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡N-No hay necesidad de eso!!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Solo tenemos que encontrar a los sospechosos que podrían haber cometido el crimen, interrogarlos, ¡¡y exprimir la verdad roja!!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " En la remota posibilidad de que uno no sea el culpable,",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡¡entonces solo tenemos que interrogar al siguiente sospechoso!!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡N-No hay necesidad de eso!!...  Solo tenemos que encontrar a los sospechosos que podrían haber cometido el crimen, interrogarlos, ¡¡y exprimir la verdad roja!!  En la remota posibilidad de que uno no sea el culpable,  ¡¡entonces solo tenemos que interrogar al siguiente sospechoso!!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50606",
+      "kind": "dialogue",
+      "line_number": 396386,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50606",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400042"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400042\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Llamas a eso razonamiento?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Llamas a eso razonamiento?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50607",
+      "kind": "dialogue",
+      "line_number": 396388,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50607",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/shinm7037",
+        "99/shinm7038",
+        "99/shinm7039"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"shinm7037\"]",
+        "[@][lv 0*\"99\"*\"shinm7038\"]",
+        "[@][lv 0*\"99\"*\"shinm7039\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Retrocede!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡Arrestaremos a esa mujer!!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡Hágase saber que esta sirvienta es la culpable!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Retrocede!!  ¡¡Arrestaremos a esa mujer!!  ¡¡Hágase saber que esta sirvienta es la culpable!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50608",
+      "kind": "dialogue",
+      "line_number": 396423,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50608",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400043"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400043\"][#][*]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡{p:1:Queda prohibido que un sirviente sea el culpable}!!\"",
+          "inline_tags": [
+            "{p:1:Queda prohibido que un sirviente sea el culpable}"
+          ]
+        }
+      ],
+      "text": "\"¡¡{p:1:Queda prohibido que un sirviente sea el culpable}!!\"",
+      "inline_tags": [
+        "{p:1:Queda prohibido que un sirviente sea el culpable}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50609",
+      "kind": "dialogue",
+      "line_number": 396444,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50609",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/shinm7040",
+        "99/shinm7041",
+        "99/shinm7042"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"shinm7040\"]",
+        "[|][lv 0*\"99\"*\"shinm7041\"]",
+        "[|][lv 0*\"99\"*\"shinm7042\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¿¡¿Q‐",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "Qué...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " has dicho?!?!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¿¡¿Q‐ Qué...  has dicho?!?!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50610",
+      "kind": "dialogue",
+      "line_number": 396446,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50610",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Las palabras de poder ahuyentaron a los asistentes que intentaban detener a la doncella.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Las palabras de poder ahuyentaron a los asistentes que intentaban detener a la doncella.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50611",
+      "kind": "dialogue",
+      "line_number": 396455,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50611",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400044",
+        "54/75400045"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400044\"][#][*]",
+        "[@][lv 0*\"54\"*\"75400045\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"{p:1:... Las Veinte Reglas de Van Dine, Regla #11.}",
+          "inline_tags": [
+            "{p:1:... Las Veinte Reglas de Van Dine, Regla #11.}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " Si quieres torturar a esta sirvienta, asegúrate primero de comprobar las coartadas de la segunda esposa y de su amante.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"{p:1:... Las Veinte Reglas de Van Dine, Regla #11.}  Si quieres torturar a esta sirvienta, asegúrate primero de comprobar las coartadas de la segunda esposa y de su amante.\"",
+      "inline_tags": [
+        "{p:1:... Las Veinte Reglas de Van Dine, Regla #11.}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50612",
+      "kind": "dialogue",
+      "line_number": 396461,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50612",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/shinm7043"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"shinm7043\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡E-Esos dos ya tienen una coartada clara para el momento del crimen!!...\"\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡E-Esos dos ya tienen una coartada clara para el momento del crimen!!...\"\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50613",
+      "kind": "dialogue",
+      "line_number": 396466,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50613",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400046",
+        "54/75400047",
+        "54/75400048",
+        "54/75400049"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400046\"]",
+        "[@][lv 0*\"54\"*\"75400047\"]",
+        "[@][lv 0*\"54\"*\"75400048\"]",
+        "[@][lv 0*\"54\"*\"75400049\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Eso, una coartada?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Maldición, una idiota como tú no podría entenderlo no importa cuánto te lo facilite.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Si deseas que te llamen Inquisidora General, tratar de averiguar por lo menos eso por ti misma.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Hasta entonces, me llevaré la autorización para el arresto de esta sirvienta.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Eso, una coartada?  Maldición, una idiota como tú no podría entenderlo no importa cuánto te lo facilite.  Si deseas que te llamen Inquisidora General, tratar de averiguar por lo menos eso por ti misma.  Hasta entonces, me llevaré la autorización para el arresto de esta sirvienta.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50614",
+      "kind": "dialogue",
+      "line_number": 396473,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50614",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/shinm7044",
+        "99/shinm7045",
+        "99/shinm7046",
+        "99/shinm7047",
+        "99/shinm7048",
+        "99/shinm7049"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"shinm7044\"]",
+        "[@][lv 0*\"99\"*\"shinm7045\"]",
+        "[@][lv 0*\"99\"*\"shinm7046\"]",
+        "[@][lv 0*\"99\"*\"shinm7047\"]",
+        "[@][lv 0*\"99\"*\"shinm7048\"]",
+        "[@][lv 0*\"99\"*\"shinm7049\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¿Qué hay de ti?!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¿Puedes probar que esta sirvienta no cometió el crimen?!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡Hágase saber que estaba fuera de la cocina en el momento del crimen!",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Entonces, ¡¿qué hacía y dónde?!",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Ella no puede probarlo, yo no puedo probarlo, ¡y tú tampoco! ¡Nadie puede!",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " ¡¡Es por eso que no tenemos más remedio que utilizar estos aparatos de tortura para interrogarla hasta que saquemos la verdad roja!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¿Qué hay de ti?!  ¡¿Puedes probar que esta sirvienta no cometió el crimen?!  ¡Hágase saber que estaba fuera de la cocina en el momento del crimen!  Entonces, ¡¿qué hacía y dónde?!  Ella no puede probarlo, yo no puedo probarlo, ¡y tú tampoco! ¡Nadie puede!  ¡¡Es por eso que no tenemos más remedio que utilizar estos aparatos de tortura para interrogarla hasta que saquemos la verdad roja!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50615",
+      "kind": "dialogue",
+      "line_number": 396481,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50615",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400050",
+        "54/75400051",
+        "54/75400052"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400050\"]",
+        "[@][#][*][lv 0*\"54\"*\"75400051\"]",
+        "[@][lv 0*\"54\"*\"75400052\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Puedes exprimir tanta sangre y verdad del verdadero culpable como quieras.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Pero debes saber esto.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " No te dejaré interrogar ni torturar a nadie que no sea el culpable.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Puedes exprimir tanta sangre y verdad del verdadero culpable como quieras.  Pero debes saber esto.  No te dejaré interrogar ni torturar a nadie que no sea el culpable.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50616",
+      "kind": "dialogue",
+      "line_number": 396494,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50616",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/shinm7050",
+        "99/shinm7051",
+        "99/shinm7052"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"shinm7050\"]",
+        "[@][lv 0*\"99\"*\"shinm7051\"]",
+        "[@][lv 0*\"99\"*\"shinm7052\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡E-Es por eso que todos dicen que eres muy suave!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Se debe interrogar a todos los sospechosos!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡Es así como los Inquisidores llevamos a cabo nuestros juicios en contra de las brujas!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡E-Es por eso que todos dicen que eres muy suave!...  ¡Se debe interrogar a todos los sospechosos!  ¡¡Es así como los Inquisidores llevamos a cabo nuestros juicios en contra de las brujas!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50617",
+      "kind": "dialogue",
+      "line_number": 396503,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50617",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400053",
+        "54/75400054",
+        "54/75400055",
+        "54/75400056",
+        "54/75400057",
+        "54/75400058",
+        "54/75400059",
+        "54/75400060"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400053\"]",
+        "[@][lv 0*\"54\"*\"75400054\"]",
+        "[@][lv 0*\"54\"*\"75400055\"]",
+        "[@][lv 0*\"54\"*\"75400056\"]",
+        "[@][lv 0*\"54\"*\"75400057\"]",
+        "[@][lv 0*\"54\"*\"75400058\"]",
+        "[@][lv 0*\"54\"*\"75400059\"]",
+        "[@][lv 0*\"54\"*\"75400060\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Es cierto, somos Inquisidores.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Derribar a las malvadas brujas es nuestro trabajo.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Sin embargo, no debemos arriesgarnos a herir a los inocentes.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡No debemos sospechar de ellos!...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " Todos los humanos tienen sus propias verdades personales.",
+          "inline_tags": []
+        },
+        {
+          "index": 5,
+          "text": " Las cuales solo deben exponerse cuando se cometen crímenes.",
+          "inline_tags": []
+        },
+        {
+          "index": 6,
+          "text": " Se nos ha dado el derecho de exponerlas.",
+          "inline_tags": []
+        },
+        {
+          "index": 7,
+          "text": " Pero hay algo que no podemos hacer.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Es cierto, somos Inquisidores.  Derribar a las malvadas brujas es nuestro trabajo.  Sin embargo, no debemos arriesgarnos a herir a los inocentes.  ¡No debemos sospechar de ellos!...  Todos los humanos tienen sus propias verdades personales.  Las cuales solo deben exponerse cuando se cometen crímenes.  Se nos ha dado el derecho de exponerlas.  Pero hay algo que no podemos hacer.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50618",
+      "kind": "dialogue",
+      "line_number": 396505,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50618",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/shinm7053"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"shinm7053\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¡¿Q-Qué?!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¡¿Q-Qué?!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50619",
+      "kind": "dialogue",
+      "line_number": 396520,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50619",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400061"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400061\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Nadie, ni siquiera Dios, tiene el derecho de exponer las inocentes verdades de quienes no han pecado!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Nadie, ni siquiera Dios, tiene el derecho de exponer las inocentes verdades de quienes no han pecado!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50620",
+      "kind": "dialogue",
+      "line_number": 396528,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50620",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "La sirvienta finalmente se dio cuenta de que el hombre trataba de protegerla.",
+          "inline_tags": []
+        }
+      ],
+      "text": "La sirvienta finalmente se dio cuenta de que el hombre trataba de protegerla.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50621",
+      "kind": "dialogue",
+      "line_number": 396530,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50621",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/maid7006",
+        "99/maid7007",
+        "99/maid7008",
+        "99/maid7009",
+        "99/maid7010"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"maid7006\"]",
+        "[@][lv 0*\"99\"*\"maid7007\"]",
+        "[|][lv 0*\"99\"*\"maid7008\"]",
+        "[|][lv 0*\"99\"*\"maid7009\"]",
+        "[@][lv 0*\"99\"*\"maid7010\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... N-No sé quién eres, pero...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡M-",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "Muchísimas...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " gracias!...",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " ¡Yo... realmente... no soy la culpable!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... N-No sé quién eres, pero...  ¡M- Muchísimas...  gracias!...  ¡Yo... realmente... no soy la culpable!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50622",
+      "kind": "dialogue",
+      "line_number": 396538,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50622",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400062",
+        "54/75400063",
+        "54/75400064",
+        "54/75400065"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400062\"]",
+        "[@][lv 0*\"54\"*\"75400063\"]",
+        "[@][lv 0*\"54\"*\"75400064\"]",
+        "[@][lv 0*\"54\"*\"75400065\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Sí, lo sé...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Tu novio dijo que estaría dispuesto a renunciar a todo para probar tu coartada.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Deberías agradecerle.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Ese chico dijo que el honor y la reputación no valen nada en comparación contigo.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Sí, lo sé...  Tu novio dijo que estaría dispuesto a renunciar a todo para probar tu coartada.  Deberías agradecerle.  Ese chico dijo que el honor y la reputación no valen nada en comparación contigo.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50623",
+      "kind": "dialogue",
+      "line_number": 396540,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50623",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/maid7011"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"maid7011\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"P-Pero, si hace eso, él...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"P-Pero, si hace eso, él...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50624",
+      "kind": "dialogue",
+      "line_number": 396545,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50624",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400066",
+        "54/75400067",
+        "54/75400068",
+        "54/75400069"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400066\"]",
+        "[@][lv 0*\"54\"*\"75400067\"]",
+        "[@][lv 0*\"54\"*\"75400068\"]",
+        "[@][lv 0*\"54\"*\"75400069\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No llegará a eso.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Exponer los secretos entre los enamorados es un trabajo para revistas de tercera.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Eso no es misterio...",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Nunca permitiré un razonamiento sin corazón.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"No llegará a eso.  Exponer los secretos entre los enamorados es un trabajo para revistas de tercera.  Eso no es misterio...  Nunca permitiré un razonamiento sin corazón.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50625",
+      "kind": "dialogue",
+      "line_number": 396552,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50625",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Entonces, por primera vez, la expresión tensa del hombre se relajó y acarició sin reservas la cabeza de la sirvienta.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Entonces, por primera vez, la expresión tensa del hombre se relajó y acarició sin reservas la cabeza de la sirvienta.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50626",
+      "kind": "dialogue",
+      "line_number": 396554,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50626",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400070",
+        "54/75400071",
+        "54/75400072"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400070\"]",
+        "[@][lv 0*\"54\"*\"75400071\"]",
+        "[@][lv 0*\"54\"*\"75400072\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Estoy seguro de que ambos serán felices juntos.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Pero reunirse en secreto mientras trabajas no es muy digno de elogio.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Trata de hacerlo lo menos posible.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Estoy seguro de que ambos serán felices juntos.  Pero reunirse en secreto mientras trabajas no es muy digno de elogio.  Trata de hacerlo lo menos posible.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50627",
+      "kind": "dialogue",
+      "line_number": 396556,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50627",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/maid7012",
+        "99/maid7013"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"maid7012\"]",
+        "[@][lv 0*\"99\"*\"maid7013\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"M‐Muchas gracias...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Muchísimas gracias...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"M‐Muchas gracias...  Muchísimas gracias...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50628",
+      "kind": "dialogue",
+      "line_number": 396558,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50628",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Solo ellos dos escucharon esas palabras.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Solo ellos dos escucharon esas palabras.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50629",
+      "kind": "dialogue",
+      "line_number": 396560,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50629",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El hombre se había enterado de su inocencia, la cual solo podía demostrarse sacando a la luz los secretos de una pareja de jóvenes enamorados, y se había apresurado a buscar una solución, resentido por la arrogancia de quienes trataban de sacar esto por la fuerza.",
+          "inline_tags": []
+        }
+      ],
+      "text": "El hombre se había enterado de su inocencia, la cual solo podía demostrarse sacando a la luz los secretos de una pareja de jóvenes enamorados, y se había apresurado a buscar una solución, resentido por la arrogancia de quienes trataban de sacar esto por la fuerza.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50630",
+      "kind": "dialogue",
+      "line_number": 396569,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50630",
+      "speaker": "narrator",
+      "voice_files": [
+        "54/75400073",
+        "54/75400074",
+        "54/75400075",
+        "54/75400076",
+        "54/75400077"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400073\"]",
+        "[@][lv 0*\"54\"*\"75400074\"]",
+        "[@][#][*][lv 0*\"54\"*\"75400075\"]",
+        "[@][lv 0*\"54\"*\"75400076\"]",
+        "[@][#][*][lv 0*\"54\"*\"75400077\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"El objetivo de hacer teorías no es crear un culpable, ni pisotear la verdad en los corazones de los inocentes en el proceso.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " El corazón importa...",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " Si quieres jugar al detective, no olvides el corazón.",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " Olvida eso y solo serán violadores intelectuales.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": " ¡¡No lo olvides!!",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"El objetivo de hacer teorías no es crear un culpable, ni pisotear la verdad en los corazones de los inocentes en el proceso.  El corazón importa...  Si quieres jugar al detective, no olvides el corazón.  Olvida eso y solo serán violadores intelectuales.  ¡¡No lo olvides!!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50631",
+      "kind": "dialogue",
+      "line_number": 396580,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50631",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/shinm7054"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"99\"*\"shinm7054\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Uu...ggh...ggggghhhhh...!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Uu...ggh...ggggghhhhh...!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50632",
+      "kind": "dialogue",
+      "line_number": 396587,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50632",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Los inquisidores no pudieron oponerse por más tiempo ante las contundentes palabras del hombre.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Los inquisidores no pudieron oponerse por más tiempo ante las contundentes palabras del hombre.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50633",
+      "kind": "dialogue",
+      "line_number": 396589,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50633",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "El hombre se llamaba Will.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Pero todo el mundo lo llamaba de otra manera.",
+          "inline_tags": []
+        }
+      ],
+      "text": "El hombre se llamaba Will.  Pero todo el mundo lo llamaba de otra manera.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50634",
+      "kind": "dialogue",
+      "line_number": 396594,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50634",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Inquisidor General de la SSVD, la Agencia de Aplicación del Arrepentimiento del Octavo Distrito de la Gran Corte del Cielo—",
+          "inline_tags": []
+        }
+      ],
+      "text": "Inquisidor General de la SSVD, la Agencia de Aplicación del Arrepentimiento del Octavo Distrito de la Gran Corte del Cielo—",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50635",
+      "kind": "dialogue",
+      "line_number": 396598,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50635",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Cazador de Magos Wright.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Cazador de Magos Wright.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "ep7.umi7_op.d50636",
+      "kind": "dialogue",
+      "line_number": 396614,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "umi7_op",
+      "label": "*d50636",
+      "speaker": "wil",
+      "voice_files": [
+        "54/75400078",
+        "54/75400079",
+        "54/75400080"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[lv 0*\"54\"*\"75400078\"]",
+        "[@][lv 0*\"54\"*\"75400079\"]",
+        "[@][lv 0*\"54\"*\"75400080\"]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Esto es lo último que les dejo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Si quieren ser el próximo \"Cazador de magos Wright\", recuérdenlo.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡Nunca lo olviden!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Esto es lo último que les dejo.  Si quieren ser el próximo \"Cazador de magos Wright\", recuérdenlo.  ¡¡Nunca lo olviden!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

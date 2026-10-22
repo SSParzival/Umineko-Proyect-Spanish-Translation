@@ -1,0 +1,2929 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.omake.chiru_trailer",
+  "category": "omake",
+  "rel_path": "story/omake/chiru_trailer.json",
+  "episode": null,
+  "section": "chiru_trailer",
+  "chapter": "chiru_trailer",
+  "description": "Omake / bonus script chapter 'chiru_trailer'.",
+  "entry_count": 79,
+  "entries": [
+    {
+      "id": "omake.chiru_trailer.trailer1",
+      "kind": "dialogue",
+      "line_number": 539365,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer1",
+      "speaker": "cla",
+      "voice_files": [
+        "02/50800192"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"02\"*\"50800192\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Bienvenida a Rokkenjima.",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Bienvenida a Rokkenjima.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer2",
+      "kind": "dialogue",
+      "line_number": 539375,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer2",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54500009",
+        "46/54500010"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"46\"*\"54500009\"]",
+        "[|][@][lv 0*\"46\"*\"54500010\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Hola.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Mi nombre es Furudo Erika.",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Hola.  Mi nombre es Furudo Erika.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer3",
+      "kind": "dialogue",
+      "line_number": 539385,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer3",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54500032"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"46\"*\"54500032\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Quién es esa?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Quién es esa?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer4",
+      "kind": "dialogue",
+      "line_number": 539395,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer4",
+      "speaker": "kum",
+      "voice_files": [
+        "18/51800020"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"18\"*\"51800020\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Ah, ella es la Bruja Dorada, {f:5:Beatrice}‐sama.\"",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "\"... Ah, ella es la Bruja Dorada, {f:5:Beatrice}‐sama.\"",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer5",
+      "kind": "dialogue",
+      "line_number": 539426,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer5",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54500246"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[text_speed_t 5][text_fade_t 133][@][lv 0*\"46\"*\"54500246\"]",
+        "[!w1800][#][*][|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Buenos días a todos...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Oh... qué maravilloso círculo mágico.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Buenos días a todos...  Oh... qué maravilloso círculo mágico.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer6",
+      "kind": "dialogue",
+      "line_number": 539448,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer6",
+      "speaker": "cla",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak]",
+        "[!w1249][#][*]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Contempla...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " el río de ayus que atraviesa mi añorado pueblo natal?...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Contempla...  el río de ayus que atraviesa mi añorado pueblo natal?...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer7",
+      "kind": "dialogue",
+      "line_number": 539471,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer7",
+      "speaker": "rud",
+      "voice_files": [
+        "08/51200144"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"08\"*\"51200144\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ya veo... el epitafio...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Ya veo... el epitafio...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer8",
+      "kind": "dialogue",
+      "line_number": 539484,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer8",
+      "speaker": "but",
+      "voice_files": [
+        "10/50100536"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[text_speed_t 5][text_fade_t 133][@][lv 0*\"10\"*\"50100536\"]",
+        "[!w2500][#][*][|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Lo sabías?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " En las novelas de misterio, llaman a cosas como los asesinatos del epitafio ‘asesinatos de trama’...",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Lo sabías?  En las novelas de misterio, llaman a cosas como los asesinatos del epitafio ‘asesinatos de trama’...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer9",
+      "kind": "dialogue",
+      "line_number": 539507,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer9",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54500276",
+        "46/54500277"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"46\"*\"54500276\"]",
+        "[|][@][lv 0*\"46\"*\"54500277\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Simplemente por la existencia de un círculo mágico en ese lugar, ",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": "este nivel de razonamiento es posible para Furudo Erika.",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Simplemente por la existencia de un círculo mágico en ese lugar,  este nivel de razonamiento es posible para Furudo Erika.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer10",
+      "kind": "dialogue",
+      "line_number": 539526,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer10",
+      "speaker": "goh",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¿...?! ¡Krauss-sama! ¡La cadena de esta habitación también está puesta!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¿...?! ¡Krauss-sama! ¡La cadena de esta habitación también está puesta!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer11",
+      "kind": "dialogue",
+      "line_number": 539537,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer11",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54500306",
+        "46/54500307"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"46\"*\"54500306\"]",
+        "[|][@][#][*][lv 0*\"46\"*\"54500307\"]",
+        "[|][!w133][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Una habitación cerrada!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " <Good>.",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Una habitación cerrada!...  <Good>.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer12",
+      "kind": "dialogue",
+      "line_number": 539554,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer12",
+      "speaker": "sha",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0][lv 0*\"\"+\"15\"*\"../../../graphics/trailer/sha1\"]",
+        "[#][*][|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Así que esto es realmente... ¿obra de {f:5:Beatrice}-sama?...\"",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "\"Así que esto es realmente... ¿obra de {f:5:Beatrice}-sama?...\"",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer13",
+      "kind": "dialogue",
+      "line_number": 539570,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer13",
+      "speaker": "bea",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[text_speed_t 5][text_fade_t 133]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"En efecto.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Soy la alquimista de la familia Ushiromiya, la Bruja Dorada, {f:5:Beatrice}.",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "\"En efecto.  Soy la alquimista de la familia Ushiromiya, la Bruja Dorada, {f:5:Beatrice}.",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer14",
+      "kind": "dialogue",
+      "line_number": 539587,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer14",
+      "speaker": "eri",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Exacto. Por supuesto que no hay manera de que {f:5:Beatrice} exista.\"",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "\"Exacto. Por supuesto que no hay manera de que {f:5:Beatrice} exista.\"",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer15",
+      "kind": "dialogue",
+      "line_number": 539599,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer15",
+      "speaker": "mar",
+      "voice_files": [
+        "13/60400031"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[text_speed_t 5][text_fade_t 133][@][lv 0*\"13\"*\"60400031\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Uu, ¡Ella existe!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡{f:5:Beatrice} existe!\"",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "\"Uu, ¡Ella existe!  ¡{f:5:Beatrice} existe!\"",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer16",
+      "kind": "dialogue",
+      "line_number": 539608,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer16",
+      "speaker": "mar",
+      "voice_files": [
+        "13/60400076"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0][lv 0*\"13\"*\"60400076\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Es magia, es magia!!",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Es magia, es magia!!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer17",
+      "kind": "dialogue",
+      "line_number": 539620,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer17",
+      "speaker": "but",
+      "voice_files": [
+        "10/50100806"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"10\"*\"50100806\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Acaso no tienes corazón?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Acaso no tienes corazón?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer18",
+      "kind": "dialogue",
+      "line_number": 539626,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer18",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54500298",
+        "46/54500299"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"46\"*\"54500298\"]",
+        "[|][@][lv 0*\"46\"*\"54500299\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Corazón?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¿Qué es eso?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Corazón?  ¿Qué es eso?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer19",
+      "kind": "dialogue",
+      "line_number": 539639,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer19",
+      "speaker": "eri",
+      "voice_files": [
+        "46/64500222"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[text_speed_t 5][text_fade_t 133][@][lv 0*\"46\"*\"64500222\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Sí, deberíamos.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡Dlanooooooooooor!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Sí, deberíamos.  ¡¡Dlanooooooooooor!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer20",
+      "kind": "dialogue",
+      "line_number": 539670,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer20",
+      "speaker": "dla",
+      "voice_files": [
+        "47/54600020"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"47\"*\"54600020\"][#][*]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"{p:1:No se permitirá la existencia de una puerta oculta en esta {f:5:habitación}}.\"",
+          "inline_tags": [
+            "{f:5:habitación}"
+          ]
+        }
+      ],
+      "text": "\"{p:1:No se permitirá la existencia de una puerta oculta en esta {f:5:habitación}}.\"",
+      "inline_tags": [
+        "{f:5:habitación}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer21",
+      "kind": "dialogue",
+      "line_number": 539689,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer21",
+      "speaker": "but",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0][lv 0*\"\"+\"10\"*\"../../../graphics/trailer/but3\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"{p:2:¡Supongamos que existe un método X que puede llevar a alguien al segundo piso de la casa de huéspedes sin pasar por la sala de estar!",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"{p:2:¡Supongamos que existe un método X que puede llevar a alguien al segundo piso de la casa de huéspedes sin pasar por la sala de estar!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": true,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer22",
+      "kind": "dialogue",
+      "line_number": 539707,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer22",
+      "speaker": "eri",
+      "voice_files": [
+        "46/54500471"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[text_speed_t 5][text_fade_t 133][@][lv 0*\"46\"*\"54500471\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Es debido a que esto es el género del misterio.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " {p:1:Knox n.° 3: Queda prohibida la existencia de pasadizos secretos}.",
+          "inline_tags": [
+            "{p:1:Knox n.° 3: Queda prohibida la existencia de pasadizos secretos}"
+          ]
+        }
+      ],
+      "text": "\"Es debido a que esto es el género del misterio.  {p:1:Knox n.° 3: Queda prohibida la existencia de pasadizos secretos}.",
+      "inline_tags": [
+        "{p:1:Knox n.° 3: Queda prohibida la existencia de pasadizos secretos}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer23",
+      "kind": "dialogue",
+      "line_number": 539718,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer23",
+      "speaker": "bea",
+      "voice_files": [
+        "27/80700775"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"27\"*\"80700775\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"{p:1:Es inútil.}",
+          "inline_tags": [
+            "{p:1:Es inútil.}"
+          ]
+        }
+      ],
+      "text": "\"{p:1:Es inútil.}",
+      "inline_tags": [
+        "{p:1:Es inútil.}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer24",
+      "kind": "dialogue",
+      "line_number": 539741,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer24",
+      "speaker": "bea",
+      "voice_files": [
+        "27/50700549"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0][lv 0*\"27\"*\"50700549\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Piensas que me tienes solo con esto?...",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Piensas que me tienes solo con esto?...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer25",
+      "kind": "dialogue",
+      "line_number": 539771,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer25",
+      "speaker": "ger",
+      "voice_files": [
+        "48/54800001"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"48\"*\"54800001\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Por favor, permítaseme hablar.",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Por favor, permítaseme hablar.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer26",
+      "kind": "dialogue",
+      "line_number": 539803,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer26",
+      "speaker": "cor",
+      "voice_files": [
+        "49/54700002"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[text_speed_t 5][text_fade_t 133][@][lv 0*\"49\"*\"54700002\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Permítaseme hablar!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Hágase saber que {p:1:todas las ventanas estaban cerradas con pestillo}.",
+          "inline_tags": [
+            "{p:1:todas las ventanas estaban cerradas con pestillo}"
+          ]
+        }
+      ],
+      "text": "\"¡Permítaseme hablar!  Hágase saber que {p:1:todas las ventanas estaban cerradas con pestillo}.",
+      "inline_tags": [
+        "{p:1:todas las ventanas estaban cerradas con pestillo}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer27",
+      "kind": "dialogue",
+      "line_number": 539820,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer27",
+      "speaker": "dla",
+      "voice_files": [
+        "47/54600013"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"47\"*\"54600013\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ahora que te has encontrado conmigo, este es tu {f:5:fin}.",
+          "inline_tags": [
+            "{f:5:fin}"
+          ]
+        }
+      ],
+      "text": "\"Ahora que te has encontrado conmigo, este es tu {f:5:fin}.",
+      "inline_tags": [
+        "{f:5:fin}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer28",
+      "kind": "dialogue",
+      "line_number": 539831,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer28",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak]",
+        "[!w800][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "... ¿Qué es eso?... ¿¿Cinta adhesiva??",
+          "inline_tags": []
+        }
+      ],
+      "text": "... ¿Qué es eso?... ¿¿Cinta adhesiva??",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer29",
+      "kind": "dialogue",
+      "line_number": 539868,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer29",
+      "speaker": "ber",
+      "voice_files": [
+        "28/52100070",
+        "28/52100071"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"28\"*\"52100070\"]",
+        "[|][@][lv 0*\"28\"*\"52100071\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... A eso me refiero.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Todas esas cosas violan las reglas de un verdadero misterio.",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... A eso me refiero.  Todas esas cosas violan las reglas de un verdadero misterio.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer30",
+      "kind": "dialogue",
+      "line_number": 539877,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer30",
+      "speaker": "enj",
+      "voice_files": [
+        "11/62000512"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"11\"*\"62000512\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Este mundo es un juego que es posible explicar con humanos...",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Este mundo es un juego que es posible explicar con humanos...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer31",
+      "kind": "dialogue",
+      "line_number": 539885,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer31",
+      "speaker": "eri",
+      "voice_files": [
+        "46/64501083"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"46\"*\"64501083\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"{p:2:Esta es la única excepción.}",
+          "inline_tags": [
+            "{p:2:Esta es la única excepción.}"
+          ]
+        }
+      ],
+      "text": "\"{p:2:Esta es la única excepción.}",
+      "inline_tags": [
+        "{p:2:Esta es la única excepción.}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer32",
+      "kind": "dialogue",
+      "line_number": 539918,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer32",
+      "speaker": "enj",
+      "voice_files": [
+        "11/62000336"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"11\"*\"62000336\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"‘Sin amor, {ruby:los errores de traducción:eso} no puede ser visto’.",
+          "inline_tags": [
+            "{ruby:los errores de traducción:eso}"
+          ]
+        }
+      ],
+      "text": "\"‘Sin amor, {ruby:los errores de traducción:eso} no puede ser visto’.",
+      "inline_tags": [
+        "{ruby:los errores de traducción:eso}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer33",
+      "kind": "dialogue",
+      "line_number": 539930,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer33",
+      "speaker": "narrator",
+      "voice_files": [
+        "51/65100002"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"51\"*\"65100002\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡La gente vive gracias al amor!",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡La gente vive gracias al amor!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer34",
+      "kind": "dialogue",
+      "line_number": 539936,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer34",
+      "speaker": "narrator",
+      "voice_files": [
+        "52/65200005"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"52\"*\"65200005\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Oh, qué grande es el poder para vivir, el poder del amor!...",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Oh, qué grande es el poder para vivir, el poder del amor!...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer35",
+      "kind": "dialogue",
+      "line_number": 539944,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer35",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Dentro del estuche, había un par de pistolas para duelos antiguas... del tipo que se utilizaban hace cientos de años.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Dentro del estuche, había un par de pistolas para duelos antiguas... del tipo que se utilizaban hace cientos de años.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer36",
+      "kind": "dialogue",
+      "line_number": 539969,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer36",
+      "speaker": "kan",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer37",
+      "kind": "dialogue",
+      "line_number": 540032,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer37",
+      "speaker": "bu3",
+      "voice_files": [
+        "56/64900038",
+        "56/64900039"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"56\"*\"64900038\"]",
+        "[|][@][lv 0*\"56\"*\"64900039\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Lo que has venido aquí a escuchar...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " es la \"verdad\" que he alcanzado, ¿no?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Lo que has venido aquí a escuchar...  es la \"verdad\" que he alcanzado, ¿no?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer38",
+      "kind": "dialogue",
+      "line_number": 540043,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer38",
+      "speaker": "kum",
+      "voice_files": [
+        "18/71800030",
+        "18/71800031"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"18\"*\"71800030\"]",
+        "[|][@][lv 0*\"18\"*\"71800031\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Amo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Quizás la hora de hablar de ello ha llegado.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Amo.  Quizás la hora de hablar de ello ha llegado.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer39",
+      "kind": "dialogue",
+      "line_number": 540051,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer39",
+      "speaker": "narrator",
+      "voice_files": [
+        "59/70700007"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"59\"*\"70700007\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"<{ruby:I speak English.:Yo hablo inglés.}>\"",
+          "inline_tags": [
+            "{ruby:I speak English.:Yo hablo inglés.}"
+          ]
+        }
+      ],
+      "text": "\"<{ruby:I speak English.:Yo hablo inglés.}>\"",
+      "inline_tags": [
+        "{ruby:I speak English.:Yo hablo inglés.}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer40",
+      "kind": "dialogue",
+      "line_number": 540061,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer40",
+      "speaker": "be3",
+      "voice_files": [
+        "59/70700060"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[text_speed_t 5][text_fade_t 133][@][lv 0*\"59\"*\"70700060\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"<... {ruby:I'm happy too.:Yo también estoy contenta.}",
+          "inline_tags": [
+            "{ruby:I'm happy too.:Yo también estoy contenta.}"
+          ]
+        },
+        {
+          "index": 1,
+          "text": " {ruby:You always call me Beatrice.:Siempre me llamas Beatrice.}",
+          "inline_tags": [
+            "{ruby:You always call me Beatrice.:Siempre me llamas Beatrice.}"
+          ]
+        }
+      ],
+      "text": "\"<... {ruby:I'm happy too.:Yo también estoy contenta.}  {ruby:You always call me Beatrice.:Siempre me llamas Beatrice.}",
+      "inline_tags": [
+        "{ruby:I'm happy too.:Yo también estoy contenta.}",
+        "{ruby:You always call me Beatrice.:Siempre me llamas Beatrice.}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer41",
+      "kind": "dialogue",
+      "line_number": 540086,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer41",
+      "speaker": "bea",
+      "voice_files": [
+        "27/60700008",
+        "27/60700009"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"27\"*\"60700008\"]",
+        "[|][@][lv 0*\"27\"*\"60700009\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Soy de alguna manera diferente...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " a la {f:5:Beatrice} que todos estaban esperando?\"",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "\"... ¿Soy de alguna manera diferente...  a la {f:5:Beatrice} que todos estaban esperando?\"",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer42",
+      "kind": "dialogue",
+      "line_number": 540095,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer42",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak]",
+        "[!w1000][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Y ahí estaba... junto a otra yo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Y ahí estaba... junto a otra yo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer43",
+      "kind": "dialogue",
+      "line_number": 540114,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer43",
+      "speaker": "goh",
+      "voice_files": [
+        "17/71700015",
+        "17/71700016"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0][lv 0*\"17\"*\"71700015\"]",
+        "[|][text_speed_t 5][text_fade_t 133][@][lv 0*\"17\"*\"71700016\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"A la habitación VIP...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " no se debe entrar a las dos de la madrugada—",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"A la habitación VIP...  no se debe entrar a las dos de la madrugada—",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer44",
+      "kind": "dialogue",
+      "line_number": 540124,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer44",
+      "speaker": "jes",
+      "voice_files": [
+        "04/70200181"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"04\"*\"70200181\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Qué demonios es esto?... ¿Es una ofrenda o qué?",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... ¿Qué demonios es esto?... ¿Es una ofrenda o qué?",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer45",
+      "kind": "dialogue",
+      "line_number": 540136,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer45",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak]",
+        "[#][*][!w100][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Alguien venía corriendo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Alguien venía corriendo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer46",
+      "kind": "dialogue",
+      "line_number": 540149,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer46",
+      "speaker": "narrator",
+      "voice_files": [
+        "99/tajim7003"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[!w100][text_speed_t 5][text_fade_t 133][@][lv 0*\"99\"*\"tajim7003\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Hu-Huye...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡Nos van a ma-matar!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Hu-Huye...  ¡¡Nos van a ma-matar!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer47",
+      "kind": "dialogue",
+      "line_number": 540183,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer47",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... He vuelto para vengarme...",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... He vuelto para vengarme...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer48",
+      "kind": "dialogue",
+      "line_number": 540197,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer48",
+      "speaker": "hid",
+      "voice_files": [
+        "06/51100182"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"06\"*\"51100182\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¿Q-Quién eres?!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¿Q-Quién eres?!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer49",
+      "kind": "dialogue",
+      "line_number": 540238,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer49",
+      "speaker": "eva",
+      "voice_files": [
+        "05/71000145"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"05\"*\"71000145\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... No me digas que... ese reloj...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... No me digas que... ese reloj...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer50",
+      "kind": "dialogue",
+      "line_number": 540248,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer50",
+      "speaker": "ros",
+      "voice_files": [
+        "11/82000288"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak]",
+        "[!w400][lv 0*\"11\"*\"82000288\"][|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡N-No tenemos mucho tiempo, Nee-san!!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡N-No tenemos mucho tiempo, Nee-san!!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer51",
+      "kind": "dialogue",
+      "line_number": 540258,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer51",
+      "speaker": "ros",
+      "voice_files": [
+        "12/71400232",
+        "11/82000293"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 1*\"12\"*\"71400232\"][#][*]",
+        "[!w400][lv 0*\"11\"*\"82000293\"][|][lv 0*\"\"+\"11\"*\"../../../graphics/trailer/enj2\"][|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¿Qué piensas hacer con esa arma, Nee-san?",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¿Qué piensas hacer con esa arma, Nee-san?",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer52",
+      "kind": "dialogue",
+      "line_number": 540274,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer52",
+      "speaker": "pro",
+      "voice_files": [
+        "23/84400007"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"23\"*\"84400007\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Esa idea nos proporciona la explicación más lógica al misterio de Rokkenjima.",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Esa idea nos proporciona la explicación más lógica al misterio de Rokkenjima.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer53",
+      "kind": "dialogue",
+      "line_number": 540283,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer53",
+      "speaker": "narrator",
+      "voice_files": [
+        "55/75500002",
+        "55/75500003"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"55\"*\"75500002\"]",
+        "[|][@][lv 0*\"55\"*\"75500003\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Escucha.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Soy un ser y a la vez muchos.",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Escucha.  Soy un ser y a la vez muchos.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer54",
+      "kind": "dialogue",
+      "line_number": 540300,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer54",
+      "speaker": "ber",
+      "voice_files": [
+        "28/82100182"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"28\"*\"82100182\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... La verdad puede traicionarte en ocasiones.",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... La verdad puede traicionarte en ocasiones.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer55",
+      "kind": "dialogue",
+      "line_number": 540316,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer55",
+      "speaker": "lam",
+      "voice_files": [
+        "29/52200384"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"29\"*\"52200384\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Esa oscuridad es el mundo de las brujas!",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Esa oscuridad es el mundo de las brujas!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer56",
+      "kind": "dialogue",
+      "line_number": 540326,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer56",
+      "speaker": "enj",
+      "voice_files": [
+        "11/82000926"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[text_speed_t 5][text_fade_t 133][@][lv 0*\"11\"*\"82000926\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... <Eva>... <Ushiro>... <Ushiromiya>...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Ushiromiya Eva!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... <Eva>... <Ushiro>... <Ushiromiya>...  ¡Ushiromiya Eva!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer57",
+      "kind": "dialogue",
+      "line_number": 540336,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer57",
+      "speaker": "sha",
+      "voice_files": [
+        "15/70500094",
+        "11/82000073"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[text_speed_t 5][text_fade_t 133][lv 1*\"15\"*\"70500094\"][#][*][lv 0*\"11\"*\"82000073\"]",
+        "[!w100]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No te preocupes. Te ayudaré.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Demos lo mejor juntas,",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¿bien?\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"No te preocupes. Te ayudaré.  Demos lo mejor juntas,  ¿bien?\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer58",
+      "kind": "dialogue",
+      "line_number": 540348,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer58",
+      "speaker": "kin",
+      "voice_files": [
+        "11/82000077"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"11\"*\"82000077\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡¡AAAAAaaaaannnggeeeeeeeeeeeeeeeeeeeeee!!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡¡AAAAAaaaaannnggeeeeeeeeeeeeeeeeeeeeee!!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer59",
+      "kind": "dialogue",
+      "line_number": 540360,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer59",
+      "speaker": "kin",
+      "voice_files": [
+        "01/81500183",
+        "11/82000078"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 1*\"01\"*\"81500183\"][#][*][lv 0*\"11\"*\"82000078\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Entonces comencemos, Ange.",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Entonces comencemos, Ange.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer60",
+      "kind": "dialogue",
+      "line_number": 540414,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer60",
+      "speaker": "enj",
+      "voice_files": [
+        "11/82000368",
+        "11/72000152"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 1*\"11\"*\"82000368\"][#][*]",
+        "[!w100][#][*][lv 0*\"11\"*\"72000152\"][|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Bien. ¡Gracias, tía Eva!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Bien. ¡Gracias, tía Eva!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer61",
+      "kind": "dialogue",
+      "line_number": 540434,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer61",
+      "speaker": "enj",
+      "voice_files": [
+        "11/72000153"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[text_speed_t 5][text_fade_t 133][@][lv 0*\"11\"*\"72000153\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Estás mintiendo...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Estás mintiendo... ¡¡Mientes!!",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Estás mintiendo...  Estás mintiendo... ¡¡Mientes!!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer62",
+      "kind": "dialogue",
+      "line_number": 540447,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer62",
+      "speaker": "wil",
+      "voice_files": [
+        "54/75400114",
+        "54/75400115"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"54\"*\"75400114\"]",
+        "[|][@][lv 0*\"54\"*\"75400115\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No trates de entenderlo.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Solo conseguirás un dolor de cabeza.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"No trates de entenderlo.  Solo conseguirás un dolor de cabeza.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer63",
+      "kind": "dialogue",
+      "line_number": 540458,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer63",
+      "speaker": "rio",
+      "voice_files": [
+        "53/75300318"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"53\"*\"75300318\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Beatrice fue una benefactora de mi abuelo.",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Beatrice fue una benefactora de mi abuelo.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer64",
+      "kind": "dialogue",
+      "line_number": 540464,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer64",
+      "speaker": "wil",
+      "voice_files": [
+        "54/75400725"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"54\"*\"75400725\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... ¿Entonces dices que no conoces a la bruja {f:5:Beatrice}?",
+          "inline_tags": [
+            "{f:5:Beatrice}"
+          ]
+        }
+      ],
+      "text": "\"... ¿Entonces dices que no conoces a la bruja {f:5:Beatrice}?",
+      "inline_tags": [
+        "{f:5:Beatrice}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer65",
+      "kind": "dialogue",
+      "line_number": 540582,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer65",
+      "speaker": "sha",
+      "voice_files": [
+        "15/80500144",
+        "10/80100629"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 1*\"15\"*\"80500144\"][#][*][lv 0*\"10\"*\"80100629\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"{p:42:Los sirvientes estuvimos juntos todo el tiempo}.\"",
+          "inline_tags": [
+            "{p:42:Los sirvientes estuvimos juntos todo el tiempo}"
+          ]
+        }
+      ],
+      "text": "\"{p:42:Los sirvientes estuvimos juntos todo el tiempo}.\"",
+      "inline_tags": [
+        "{p:42:Los sirvientes estuvimos juntos todo el tiempo}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer66",
+      "kind": "dialogue",
+      "line_number": 540638,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer66",
+      "speaker": "wil",
+      "voice_files": [
+        "54/75401125"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"54\"*\"75401125\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Ilusiones a las ilusiones.",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Ilusiones a las ilusiones.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer67",
+      "kind": "dialogue",
+      "line_number": 540645,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer67",
+      "speaker": "wil",
+      "voice_files": [
+        "54/75401164"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[text_speed_t 5][text_fade_t 133][@][lv 0*\"54\"*\"75401164\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "`\"Ilusiones... a las ilusiones...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " El dios de la muerte predestinado, ajeno a los deseos de la bruja, baja el telón de la historia.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "`\"Ilusiones... a las ilusiones...  El dios de la muerte predestinado, ajeno a los deseos de la bruja, baja el telón de la historia.\"",
+      "inline_tags": [],
+      "has_stray_backtick": true,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": "Pre-existing stray backtick inside segment; preserved for lossless round-trip."
+    },
+    {
+      "id": "omake.chiru_trailer.trailer68",
+      "kind": "dialogue",
+      "line_number": 540669,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer68",
+      "speaker": "be3",
+      "voice_files": [
+        "60/60700401",
+        "47/54600449"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0][lv 1*\"60\"*\"60700401\"][#][*][lv 0*\"47\"*\"54600449\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"*carcajada*carcajada*carcajada*... Sí, lo es. {p:41:Usaste magia para crear un pétalo de rosa dorada dentro de una taza boca abajo. Fue una espléndida pizca de magia}.",
+          "inline_tags": [
+            "{p:41:Usaste magia para crear un pétalo de rosa dorada dentro de una taza boca abajo. Fue una espléndida pizca de magia}"
+          ]
+        }
+      ],
+      "text": "\"*carcajada*carcajada*carcajada*... Sí, lo es. {p:41:Usaste magia para crear un pétalo de rosa dorada dentro de una taza boca abajo. Fue una espléndida pizca de magia}.",
+      "inline_tags": [
+        "{p:41:Usaste magia para crear un pétalo de rosa dorada dentro de una taza boca abajo. Fue una espléndida pizca de magia}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer69",
+      "kind": "dialogue",
+      "line_number": 540682,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer69",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "Era... una montaña de lingotes de oro.",
+          "inline_tags": []
+        }
+      ],
+      "text": "Era... una montaña de lingotes de oro.",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer70",
+      "kind": "dialogue",
+      "line_number": 540693,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer70",
+      "speaker": "nat",
+      "voice_files": [
+        "03/50901005"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[|][text_speed_t 5][text_fade_t 133][@][lv 0*\"03\"*\"50901005\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Qué persona más lamentable...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Veo que nunca has amado de verdad a nadie...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Qué persona más lamentable...  Veo que nunca has amado de verdad a nadie...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer71",
+      "kind": "dialogue",
+      "line_number": 540715,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer71",
+      "speaker": "but",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak]",
+        "[!w500][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡¡Ven, Furudo Erikaaaaaaaaaaaaaaaaa!!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡¡Ven, Furudo Erikaaaaaaaaaaaaaaaaa!!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer72",
+      "kind": "dialogue",
+      "line_number": 540726,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer72",
+      "speaker": "eri",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak]",
+        "[!w500][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡¡Entretenme, Bwattleer-shwaaaaaaaaaaaaannnnnn!!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡¡Entretenme, Bwattleer-shwaaaaaaaaaaaaannnnnn!!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer73",
+      "kind": "dialogue",
+      "line_number": 540820,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer73",
+      "speaker": "kir",
+      "voice_files": [
+        "09/61300157"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 1*\"09\"*\"61300157\"][#][*][text_speed_t 10][text_fade_t 0]",
+        "[!w100][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... De lo contrario, podrías terminar como yo... Una mujer, por amor, debe llegar a sentir deseos de matar al menos una vez en la vida...",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... De lo contrario, podrías terminar como yo... Una mujer, por amor, debe llegar a sentir deseos de matar al menos una vez en la vida...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer74",
+      "kind": "dialogue",
+      "line_number": 540839,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer74",
+      "speaker": "ros",
+      "voice_files": [
+        "12/71400001"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 1*\"12\"*\"71400001\"][#][*]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Yo la maté...",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Yo la maté...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer75",
+      "kind": "dialogue",
+      "line_number": 540852,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer75",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Bueno, sabes...",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Bueno, sabes...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer76",
+      "kind": "dialogue",
+      "line_number": 540860,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer76",
+      "speaker": "eri",
+      "voice_files": [
+        "46/64501412"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 1*\"46\"*\"64501412\"][#][*]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Por favor, miiiiiiren eeeeestooooo!",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Por favor, miiiiiiren eeeeestooooo!",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer76.L540884",
+      "kind": "dialogue",
+      "line_number": 540884,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer76",
+      "speaker": "geo",
+      "voice_files": [],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Unnggg... ggnhh...!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Unnggg... ggnhh...!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer77",
+      "kind": "dialogue",
+      "line_number": 540895,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer77",
+      "speaker": "narrator",
+      "voice_files": [
+        "50/65000003"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 1*\"50\"*\"65000003\"][#][*]",
+        "[!w100][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Te encuentro muy interesante, hija del hombre...",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Te encuentro muy interesante, hija del hombre...",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.chiru_trailer.trailer78",
+      "kind": "dialogue",
+      "line_number": 540916,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "chiru_trailer",
+      "label": "*trailer78",
+      "speaker": "bu3",
+      "voice_files": [
+        "56/64900123"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][text_speed_t 10][text_fade_t 0]",
+        "[|][text_speed_t 5][text_fade_t 133][lv 0*\"56\"*\"64900123\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... No... Quiero que pienses.",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Quiero que {i:los} lectores piensen también.\"",
+          "inline_tags": [
+            "{i:los}"
+          ]
+        }
+      ],
+      "text": "\"... No... Quiero que pienses.  Quiero que {i:los} lectores piensen también.\"",
+      "inline_tags": [
+        "{i:los}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}

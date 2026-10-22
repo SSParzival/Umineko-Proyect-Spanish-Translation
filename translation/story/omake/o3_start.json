@@ -1,0 +1,639 @@
+{
+  "schema_version": "1.0",
+  "catalog_id": "story.omake.o3_start",
+  "category": "omake",
+  "rel_path": "story/omake/o3_start.json",
+  "episode": null,
+  "section": "o3_start",
+  "chapter": "o3_start",
+  "description": "Omake / bonus script chapter 'o3_start'.",
+  "entry_count": 15,
+  "entries": [
+    {
+      "id": "omake.o3_start.o3_wal_1",
+      "kind": "dialogue",
+      "line_number": 537729,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o3_start",
+      "label": "*o3_wal_1",
+      "speaker": "wal",
+      "voice_files": [
+        "30/43200067"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"30\"*\"43200067\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"... Vamos, levántense, sirvientes cabras.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"... Vamos, levántense, sirvientes cabras.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o3_start.o3_wal_2",
+      "kind": "dialogue",
+      "line_number": 537767,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o3_start",
+      "label": "*o3_wal_2",
+      "speaker": "go2",
+      "voice_files": [
+        "45/yagim2001"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"45\"*\"yagim2001\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o3_start.o3_bea_1",
+      "kind": "dialogue",
+      "line_number": 537827,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o3_start",
+      "label": "*o3_bea_1",
+      "speaker": "bea",
+      "voice_files": [
+        "27/30700921"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"27\"*\"30700921\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Vamos, levántense, Siete Estacas del Purgatorio.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Vamos, levántense, Siete Estacas del Purgatorio.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o3_start.o3_bea_2",
+      "kind": "dialogue",
+      "line_number": 537903,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o3_start",
+      "label": "*o3_bea_2",
+      "speaker": "narrator",
+      "voice_files": [],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][#][*]",
+        "[!w2677][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"\"\"\"\"\"¡¡Kyajjajajajajajajaja{0}ja{0}ja{0}ja{0}ja!!\"\"\"\"\"\"",
+          "inline_tags": [
+            "{0}",
+            "{0}",
+            "{0}",
+            "{0}"
+          ]
+        }
+      ],
+      "text": "\"\"\"\"\"\"¡¡Kyajjajajajajajajaja{0}ja{0}ja{0}ja{0}ja!!\"\"\"\"\"\"",
+      "inline_tags": [
+        "{0}",
+        "{0}",
+        "{0}",
+        "{0}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o3_start.o3_ev2_1",
+      "kind": "dialogue",
+      "line_number": 537951,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o3_start",
+      "label": "*o3_ev2_1",
+      "speaker": "ev2",
+      "voice_files": [
+        "34/33300505",
+        "34/33300506",
+        "34/33300507",
+        "34/33300508"
+      ],
+      "command_prefix": "d2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"34\"*\"33300505\"]",
+        "[|][@][lv 0*\"34\"*\"33300506\"]",
+        "[|][@][lv 0*\"34\"*\"33300507\"]",
+        "[#][*][|][@][lv 0*\"34\"*\"33300508\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Vamos, levántense, muebles adecuados para mí!!...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡No esos muebles de segunda, sino unos muebles mucho más fuertes!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¡Unos mucho más crueles!!",
+          "inline_tags": []
+        },
+        {
+          "index": 3,
+          "text": " ¡¡¡Ajajajajajajajajajajajajyajya!!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Vamos, levántense, muebles adecuados para mí!!...  ¡No esos muebles de segunda, sino unos muebles mucho más fuertes!  ¡¡Unos mucho más crueles!!  ¡¡¡Ajajajajajajajajajajajajyajya!!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o3_start.o3_ev2_2",
+      "kind": "dialogue",
+      "line_number": 537963,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o3_start",
+      "label": "*o3_ev2_2",
+      "speaker": "s41",
+      "voice_files": [
+        "36/33500001"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"36\"*\"33500001\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Siesta{ruby:cuatrocientos-diez:410}. Presente.",
+          "inline_tags": [
+            "{ruby:cuatrocientos-diez:410}"
+          ]
+        }
+      ],
+      "text": "\"Siesta{ruby:cuatrocientos-diez:410}. Presente.",
+      "inline_tags": [
+        "{ruby:cuatrocientos-diez:410}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o3_start.o3_ev2_3",
+      "kind": "dialogue",
+      "line_number": 537969,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o3_start",
+      "label": "*o3_ev2_3",
+      "speaker": "s45",
+      "voice_files": [
+        "35/33400001"
+      ],
+      "command_prefix": "d ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"35\"*\"33400001\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Siesta{ruby:cuarenta y cinco:45}. Presente.",
+          "inline_tags": [
+            "{ruby:cuarenta y cinco:45}"
+          ]
+        }
+      ],
+      "text": "\"Siesta{ruby:cuarenta y cinco:45}. Presente.",
+      "inline_tags": [
+        "{ruby:cuarenta y cinco:45}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o3_start.o3_rud",
+      "kind": "dialogue",
+      "line_number": 538048,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o3_start",
+      "label": "*o3_rud",
+      "speaker": "rud",
+      "voice_files": [
+        "08/31200369",
+        "08/31200370"
+      ],
+      "command_prefix": "\td ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"08\"*\"31200369\"]",
+        "[|][@][lv 0*\"08\"*\"31200370\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"No subestimes a la generación que ama las películas del viejo oeste, ¿está bien?",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Las chiquillas no saben nada sobre el refinamiento de estos rifles.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"No subestimes a la generación que ama las películas del viejo oeste, ¿está bien?  Las chiquillas no saben nada sobre el refinamiento de estos rifles.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o3_start.o3_kir",
+      "kind": "dialogue",
+      "line_number": 538066,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o3_start",
+      "label": "*o3_kir",
+      "speaker": "kir",
+      "voice_files": [
+        "09/31300339"
+      ],
+      "command_prefix": "\td ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"09\"*\"31300339\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"Sabes, puedo ser bastante brutal cuando mi esposo no está cerca.\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"Sabes, puedo ser bastante brutal cuando mi esposo no está cerca.\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o3_start.o3_cla",
+      "kind": "dialogue",
+      "line_number": 538081,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o3_start",
+      "label": "*o3_cla",
+      "speaker": "cla",
+      "voice_files": [
+        "02/30800067",
+        "02/10800310"
+      ],
+      "command_prefix": "\td ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"02\"*\"30800067\"]",
+        "[|][@][lv 0*\"02\"*\"10800310\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Rídiculo!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡¡No puedo tolerar más esta humillación!!...\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Rídiculo!  ¡¡No puedo tolerar más esta humillación!!...\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o3_start.o3_nat",
+      "kind": "dialogue",
+      "line_number": 538106,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o3_start",
+      "label": "*o3_nat",
+      "speaker": "nat",
+      "voice_files": [
+        "03/10900371",
+        "03/10900372"
+      ],
+      "command_prefix": "\td ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"03\"*\"10900371\"]",
+        "[|][@][lv 0*\"03\"*\"10900372\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡Soy Ushiromiya Natsuhi!!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Aunque no se me permita llevar el Águila de un Ala en mi ropa... ¡¡ciertamente la llevo en mi corazón!!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡Soy Ushiromiya Natsuhi!!  Aunque no se me permita llevar el Águila de un Ala en mi ropa... ¡¡ciertamente la llevo en mi corazón!!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o3_start.o3_hid",
+      "kind": "dialogue",
+      "line_number": 538125,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o3_start",
+      "label": "*o3_hid",
+      "speaker": "hid",
+      "voice_files": [
+        "06/11100021",
+        "06/11100022",
+        "06/11100023"
+      ],
+      "command_prefix": "\td ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"06\"*\"11100021\"]",
+        "[|][@][lv 0*\"06\"*\"11100022\"]",
+        "[|][@][lv 0*\"06\"*\"11100023\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡Ahí lo tienes!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " ¡Bien dicho!",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": " ¡¿Qué tal un caramelo como recompensa?!\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡Ahí lo tienes!  ¡Bien dicho!  ¡¿Qué tal un caramelo como recompensa?!\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o3_start.o3_ros",
+      "kind": "dialogue",
+      "line_number": 538146,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o3_start",
+      "label": "*o3_ros",
+      "speaker": "ros",
+      "voice_files": [
+        "12/21400906",
+        "12/21400907"
+      ],
+      "command_prefix": "\td2 ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak][lv 0*\"12\"*\"21400906\"]",
+        "[|][@][#][*][lv 0*\"12\"*\"21400907\"]",
+        "[|][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "\"¡¡¡Te mostraré...",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " cómo es un sueño doraaaaaaaado!!!\"\"",
+          "inline_tags": []
+        }
+      ],
+      "text": "\"¡¡¡Te mostraré...  cómo es un sueño doraaaaaaaado!!!\"\"",
+      "inline_tags": [],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o3_start.o3_golden_bullets_diag",
+      "kind": "dialogue",
+      "line_number": 538548,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o3_start",
+      "label": "*o3_golden_bullets_diag",
+      "speaker": "ros",
+      "voice_files": [],
+      "command_prefix": "\t\td ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "[ak]",
+        "[!w3000][\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "{p:41:{a:c:Balas Doradas. Magia... para destruir... magia...}}",
+          "inline_tags": [
+            "{a:c:Balas Doradas. Magia... para destruir... magia...}"
+          ]
+        }
+      ],
+      "text": "{p:41:{a:c:Balas Doradas. Magia... para destruir... magia...}}",
+      "inline_tags": [
+        "{a:c:Balas Doradas. Magia... para destruir... magia...}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    },
+    {
+      "id": "omake.o3_start.o3_congr_d",
+      "kind": "dialogue",
+      "line_number": 538905,
+      "line_span": 1,
+      "line_ending": "CRLF",
+      "chapter": "o3_start",
+      "label": "*o3_congr_d",
+      "speaker": "ros",
+      "voice_files": [],
+      "command_prefix": "\td ",
+      "command_suffix": "",
+      "sprite_prefix": "",
+      "markers": [
+        "",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[@]",
+        "[\\]"
+      ],
+      "segments": [
+        {
+          "index": 0,
+          "text": "¡Felicidades!",
+          "inline_tags": []
+        },
+        {
+          "index": 1,
+          "text": " Te tomó algo de tiempo, pero finalmente llegaste hasta aquí.",
+          "inline_tags": []
+        },
+        {
+          "index": 2,
+          "text": "{n}{n}Por todo tu esfuerzo, la Bruja Dorada te ha entregado la llave del Archivo de Lord {f:5:Goldsmith}.",
+          "inline_tags": [
+            "{n}",
+            "{n}",
+            "{f:5:Goldsmith}"
+          ]
+        },
+        {
+          "index": 3,
+          "text": " Para ti, puede convertirse en un lugar de descanso y añorar recuerdos largamente olvidados.",
+          "inline_tags": []
+        },
+        {
+          "index": 4,
+          "text": "{n}{n}¡Buena suerte en tu travesía por llegar al final del juego!",
+          "inline_tags": [
+            "{n}",
+            "{n}"
+          ]
+        }
+      ],
+      "text": "¡Felicidades!  Te tomó algo de tiempo, pero finalmente llegaste hasta aquí. {n}{n}Por todo tu esfuerzo, la Bruja Dorada te ha entregado la llave del Archivo de Lord {f:5:Goldsmith}.  Para ti, puede convertirse en un lugar de descanso y añorar recuerdos largamente olvidados. {n}{n}¡Buena suerte en tu travesía por llegar al final del juego!",
+      "inline_tags": [
+        "{n}",
+        "{n}",
+        "{f:5:Goldsmith}",
+        "{n}",
+        "{n}"
+      ],
+      "has_stray_backtick": false,
+      "has_unbalanced_braces": false,
+      "allow_empty": false,
+      "status": "translated",
+      "notes": ""
+    }
+  ]
+}
