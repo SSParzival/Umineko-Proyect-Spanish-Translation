@@ -9,6 +9,7 @@ from pathlib import Path
 from typing import Sequence
 
 from tools.esfile import __version__
+from tools.esfile.builder import build_esfile
 from tools.esfile.codec import EsFileError
 from tools.esfile.extractor import extract_esfile
 from tools.esfile.inspector import format_inspection_report, inspect_esfile
@@ -106,6 +107,56 @@ def build_arg_parser() -> argparse.ArgumentParser:
         help="Print detailed extraction statistics and warnings.",
     )
 
+    # 3. build
+    p_build = subparsers.add_parser(
+        "build",
+        help="Compile a structured translation directory back into an ONS2 (.file) archive.",
+    )
+    p_build.add_argument(
+        "translation_dir",
+        type=Path,
+        help="Path to the extracted translation directory containing manifest.json.",
+    )
+    p_build.add_argument(
+        "output_pos",
+        nargs="?",
+        type=Path,
+        default=None,
+        help="Target path for the rebuilt .file archive (positional or --output).",
+    )
+    p_build.add_argument(
+        "--output",
+        "-o",
+        dest="output_opt",
+        type=Path,
+        default=None,
+        help="Target path for the rebuilt .file archive.",
+    )
+    p_build.add_argument(
+        "--force",
+        "-f",
+        action="store_true",
+        help="Allow overwriting an existing output .file archive.",
+    )
+    p_build.add_argument(
+        "--strict",
+        action=argparse.BooleanOptionalAction,
+        default=True,
+        help="Enforce strict syntax and inline tag balance checks before building (default: true).",
+    )
+    p_build.add_argument(
+        "--report",
+        type=Path,
+        default=None,
+        help="Optional path to write the JSON build report.",
+    )
+    p_build.add_argument(
+        "--verbose",
+        "-v",
+        action="store_true",
+        help="Print detailed build checksums and comparison metrics.",
+    )
+
     return parser
 
 
@@ -144,6 +195,37 @@ def main(argv: Sequence[str] | None = None) -> int:
             if args.verbose and report["warnings"]:
                 for w in report["warnings"]:
                     print(f"  [WARN L{w['line_number']}] {w['code']} ({w['entry_id']}): {w['message']}")
+            return 0
+
+        if args.command == "build":
+            output_file = args.output_opt or args.output_pos
+            if output_file is None:
+                parser.error("build requires an output file path via positional argument or --output <file>.")
+            report = build_esfile(
+                args.translation_dir,
+                output_file,
+                force=args.force,
+                strict=args.strict,
+                report_path=args.report,
+            )
+            match_str = (
+                "BINARY-IDENTICAL"
+                if report["binary_identical_to_original"]
+                else (
+                    "PLAINTEXT-IDENTICAL"
+                    if report["plaintext_identical_to_original"]
+                    else f"MODIFIED ({len(report['modified_catalogs'])} catalog(s) changed)"
+                )
+            )
+            print(
+                f"Built {output_file} from {args.translation_dir} "
+                f"({report['file_size_bytes']:,} bytes, SHA-256={report['file_sha256'][:16]}..., {match_str})."
+            )
+            if args.verbose:
+                print(f"  File SHA-256      : {report['file_sha256']}")
+                print(f"  Plaintext SHA-256 : {report['plaintext_sha256']}")
+                print(f"  ZLIB Adler-32     : {report['zlib_adler32']}")
+                print(f"  Entries compiled  : {report['entries_compiled']:,}")
             return 0
 
     except EsFileError as exc:
