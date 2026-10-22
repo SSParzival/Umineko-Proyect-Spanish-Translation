@@ -5474,13 +5474,13 @@
         },
         {
           "index": 1,
-          "text": "{n}... Probabablemente había terminado de hablar y quería que Dlanor se fuera.",
+          "text": "{n}... Probablemente había terminado de hablar y quería que Dlanor se fuera.",
           "inline_tags": [
             "{n}"
           ]
         }
       ],
-      "text": "Y después de eso, Erika no habló más. {n}... Probabablemente había terminado de hablar y quería que Dlanor se fuera.",
+      "text": "Y después de eso, Erika no habló más. {n}... Probablemente había terminado de hablar y quería que Dlanor se fuera.",
       "inline_tags": [
         "{n}"
       ],
@@ -7103,7 +7103,7 @@
         },
         {
           "index": 1,
-          "text": " ¡¡Sus padres también se quedarón muy impresionados contigo!!",
+          "text": " ¡¡Sus padres también se quedaron muy impresionados contigo!!",
           "inline_tags": []
         },
         {
@@ -7117,7 +7117,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"¡¡Me imaginaba que lo sabías!!...  ¡¡Sus padres también se quedarón muy impresionados contigo!!  Si realmente sueñas con construir tu propio castillo como tu padre, es Ayumi-san quien realmente podría ayudarte, ¡¿no es así?!  ¡¿Intentas traicionar sus sentimientos?!\"",
+      "text": "\"¡¡Me imaginaba que lo sabías!!...  ¡¡Sus padres también se quedaron muy impresionados contigo!!  Si realmente sueñas con construir tu propio castillo como tu padre, es Ayumi-san quien realmente podría ayudarte, ¡¿no es así?!  ¡¿Intentas traicionar sus sentimientos?!\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -13702,7 +13702,7 @@
         },
         {
           "index": 1,
-          "text": "¡¡Me alegra, George, me alegra oirte decir que por lo menos estás agradecido de una cosa!!",
+          "text": "¡¡Me alegra, George, me alegra oírte decir que por lo menos estás agradecido de una cosa!!",
           "inline_tags": []
         },
         {
@@ -13722,7 +13722,7 @@
           ]
         }
       ],
-      "text": "\"... ¡¡Ja... kyajjajajajaja!!  ¡¡Me alegra, George, me alegra oirte decir que por lo menos estás agradecido de una cosa!!  ¡¡Tu madre está feliz!!  ¡¡¡Kyaja{0}ja{0}ja{0}ja{0}ja{0}aaa!!!\"",
+      "text": "\"... ¡¡Ja... kyajjajajajaja!!  ¡¡Me alegra, George, me alegra oírte decir que por lo menos estás agradecido de una cosa!!  ¡¡Tu madre está feliz!!  ¡¡¡Kyaja{0}ja{0}ja{0}ja{0}ja{0}aaa!!!\"",
       "inline_tags": [
         "{0}",
         "{0}",

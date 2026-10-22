@@ -1189,11 +1189,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "María sacó un libro de su bolso que contenía preguntas y acertijos y empezó a leérlos.",
+          "text": "María sacó un libro de su bolso que contenía preguntas y acertijos y empezó a leerlos.",
           "inline_tags": []
         }
       ],
-      "text": "María sacó un libro de su bolso que contenía preguntas y acertijos y empezó a leérlos.",
+      "text": "María sacó un libro de su bolso que contenía preguntas y acertijos y empezó a leerlos.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -9060,7 +9060,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "Con mi puño derecho, golpee el vidrio una y otra vez,",
+          "text": "Con mi puño derecho, golpeé el vidrio una y otra vez,",
           "inline_tags": []
         },
         {
@@ -9069,7 +9069,7 @@
           "inline_tags": []
         }
       ],
-      "text": "Con mi puño derecho, golpee el vidrio una y otra vez,  pero eso solo consiguió lastimar mi mano derecha, la otra mano seguía atrapada...",
+      "text": "Con mi puño derecho, golpeé el vidrio una y otra vez,  pero eso solo consiguió lastimar mi mano derecha, la otra mano seguía atrapada...",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

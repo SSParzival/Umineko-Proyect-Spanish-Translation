@@ -2832,7 +2832,7 @@
         },
         {
           "index": 1,
-          "text": " daré comienzo al climax de nuestro juego...",
+          "text": " daré comienzo al clímax de nuestro juego...",
           "inline_tags": []
         },
         {
@@ -2856,7 +2856,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Ahora, dentro de esta diminuta habitación...  daré comienzo al climax de nuestro juego...  la persecución tras el rey.  Debería terminar en unos pocos movimientos.  No serás capaz de construir la lógica necesaria para permitir que Battler pueda escapar de la habitación...  y el relato será destruido— fin del juego.\"",
+      "text": "\"Ahora, dentro de esta diminuta habitación...  daré comienzo al clímax de nuestro juego...  la persecución tras el rey.  Debería terminar en unos pocos movimientos.  No serás capaz de construir la lógica necesaria para permitir que Battler pueda escapar de la habitación...  y el relato será destruido— fin del juego.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -8208,11 +8208,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Cerró el grifo por completo y el silenció volvió al baño.",
+          "text": "Cerró el grifo por completo y el silencio volvió al baño.",
           "inline_tags": []
         }
       ],
-      "text": "Cerró el grifo por completo y el silenció volvió al baño.",
+      "text": "Cerró el grifo por completo y el silencio volvió al baño.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
