@@ -1843,11 +1843,11 @@
         },
         {
           "index": 2,
-          "text": "Puedes usarla para cavar a través de la prision en la que estás encerrado, o como arma para arrancar los ojos de la bruja.\"",
+          "text": "Puedes usarla para cavar a través de la prisión en la que estás encerrado, o como arma para arrancar los ojos de la bruja.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Una cuchara puede ser usada para más que solo tomar sopa. {n} Puedes usarla para cavar a través de la prision en la que estás encerrado, o como arma para arrancar los ojos de la bruja.\"",
+      "text": "\"Una cuchara puede ser usada para más que solo tomar sopa. {n} Puedes usarla para cavar a través de la prisión en la que estás encerrado, o como arma para arrancar los ojos de la bruja.\"",
       "inline_tags": [
         "{n}"
       ],

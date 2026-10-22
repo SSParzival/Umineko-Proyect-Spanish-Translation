@@ -11992,11 +11992,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Y esta era la nueva vida que había construído.",
+          "text": "Y esta era la nueva vida que había construido.",
           "inline_tags": []
         }
       ],
-      "text": "Y esta era la nueva vida que había construído.",
+      "text": "Y esta era la nueva vida que había construido.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -19669,11 +19669,11 @@
         },
         {
           "index": 1,
-          "text": " Él fue la persona que más se preocupo por sus tropas a lo largo de este.\"",
+          "text": " Él fue la persona que más se preocupó por sus tropas a lo largo de este.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"... Takeda Shingen no fue simplemente el hombre que lideró las tropas de caballería más fuertes del periodo Sengoku.  Él fue la persona que más se preocupo por sus tropas a lo largo de este.\"",
+      "text": "\"... Takeda Shingen no fue simplemente el hombre que lideró las tropas de caballería más fuertes del periodo Sengoku.  Él fue la persona que más se preocupó por sus tropas a lo largo de este.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -20177,14 +20177,14 @@
       "segments": [
         {
           "index": 0,
-          "text": "Todos los sirvientes de la Casa {ruby:Fukuin:{p:0:福音}} tomaban nombres con el caracter \"{ruby:in/on/non:{p:0:音}}\" en ellos mientras servían.",
+          "text": "Todos los sirvientes de la Casa {ruby:Fukuin:{p:0:福音}} tomaban nombres con el carácter \"{ruby:in/on/non:{p:0:音}}\" en ellos mientras servían.",
           "inline_tags": [
             "{p:0:福音}",
             "{p:0:音}"
           ]
         }
       ],
-      "text": "Todos los sirvientes de la Casa {ruby:Fukuin:{p:0:福音}} tomaban nombres con el caracter \"{ruby:in/on/non:{p:0:音}}\" en ellos mientras servían.",
+      "text": "Todos los sirvientes de la Casa {ruby:Fukuin:{p:0:福音}} tomaban nombres con el carácter \"{ruby:in/on/non:{p:0:音}}\" en ellos mientras servían.",
       "inline_tags": [
         "{p:0:福音}",
         "{p:0:音}"
@@ -21960,11 +21960,11 @@
         },
         {
           "index": 1,
-          "text": " los dos hablaron sobre los muchos recuerdos que habían construído durante la relación que nadie más conocía.",
+          "text": " los dos hablaron sobre los muchos recuerdos que habían construido durante la relación que nadie más conocía.",
           "inline_tags": []
         }
       ],
-      "text": "Durante un largo rato, ignorando el rugido del temporal y la lluvia,  los dos hablaron sobre los muchos recuerdos que habían construído durante la relación que nadie más conocía.",
+      "text": "Durante un largo rato, ignorando el rugido del temporal y la lluvia,  los dos hablaron sobre los muchos recuerdos que habían construido durante la relación que nadie más conocía.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

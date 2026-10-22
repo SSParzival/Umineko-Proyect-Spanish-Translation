@@ -170,7 +170,7 @@
         },
         {
           "index": 1,
-          "text": " La carta de {f:5:Beatrice}, que María‐chan leyó en el primer día, nos avisó de antemano que teniamos que resolver el acertijo del epitafio.",
+          "text": " La carta de {f:5:Beatrice}, que María‐chan leyó en el primer día, nos avisó de antemano que teníamos que resolver el acertijo del epitafio.",
           "inline_tags": [
             "{f:5:Beatrice}"
           ]
@@ -181,7 +181,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Yo pienso lo mismo.  La carta de {f:5:Beatrice}, que María‐chan leyó en el primer día, nos avisó de antemano que teniamos que resolver el acertijo del epitafio.  Estuvimos tan ocupados intentando protegernos y de buscar al culpable que no dimos ni siquiera intentamos resolverlo.\"",
+      "text": "\"Yo pienso lo mismo.  La carta de {f:5:Beatrice}, que María‐chan leyó en el primer día, nos avisó de antemano que teníamos que resolver el acertijo del epitafio.  Estuvimos tan ocupados intentando protegernos y de buscar al culpable que no dimos ni siquiera intentamos resolverlo.\"",
       "inline_tags": [
         "{f:5:Beatrice}"
       ],
@@ -1225,7 +1225,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"Si el poema del epitafio representaba el ritual de resurreción de {f:5:Beatrice}‐sama, entonces ella necesitaba muchos sacrificios.",
+          "text": "\"Si el poema del epitafio representaba el ritual de resurrección de {f:5:Beatrice}‐sama, entonces ella necesitaba muchos sacrificios.",
           "inline_tags": [
             "{f:5:Beatrice}"
           ]
@@ -1236,7 +1236,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Si el poema del epitafio representaba el ritual de resurreción de {f:5:Beatrice}‐sama, entonces ella necesitaba muchos sacrificios.  Él debió simplemente haber sido designado como uno de ellos.\"",
+      "text": "\"Si el poema del epitafio representaba el ritual de resurrección de {f:5:Beatrice}‐sama, entonces ella necesitaba muchos sacrificios.  Él debió simplemente haber sido designado como uno de ellos.\"",
       "inline_tags": [
         "{f:5:Beatrice}"
       ],
@@ -4963,11 +4963,11 @@
         },
         {
           "index": 2,
-          "text": " ¿Así que que mamá también era uno de los culpables?\"",
+          "text": " ¿Así que mamá también era uno de los culpables?\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Sí.  Mamá tenía esa llave.  ¿Así que que mamá también era uno de los culpables?\"",
+      "text": "\"Sí.  Mamá tenía esa llave.  ¿Así que mamá también era uno de los culpables?\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -5472,11 +5472,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "El tonto y malhumorado Battler intentó forzar su ingorancia hacia los otros, gritando.",
+          "text": "El tonto y malhumorado Battler intentó forzar su ignorancia hacia los otros, gritando.",
           "inline_tags": []
         }
       ],
-      "text": "El tonto y malhumorado Battler intentó forzar su ingorancia hacia los otros, gritando.",
+      "text": "El tonto y malhumorado Battler intentó forzar su ignorancia hacia los otros, gritando.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -8585,7 +8585,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "Guíadas por el comando de aquellas palabras mágicas, siete estacas se reunieron.",
+          "text": "Guiadas por el comando de aquellas palabras mágicas, siete estacas se reunieron.",
           "inline_tags": []
         },
         {
@@ -8596,7 +8596,7 @@
           ]
         }
       ],
-      "text": "Guíadas por el comando de aquellas palabras mágicas, siete estacas se reunieron. {n}Eran las estacas de los siete demonios simbolizando los pecados capitales de la gente pecaminosa.",
+      "text": "Guiadas por el comando de aquellas palabras mágicas, siete estacas se reunieron. {n}Eran las estacas de los siete demonios simbolizando los pecados capitales de la gente pecaminosa.",
       "inline_tags": [
         "{n}"
       ],

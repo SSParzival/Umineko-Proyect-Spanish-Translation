@@ -297,11 +297,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "... Nada se reflejaba en sus ojos mientas miraba fijamente el vacío...",
+          "text": "... Nada se reflejaba en sus ojos mientras miraba fijamente el vacío...",
           "inline_tags": []
         }
       ],
-      "text": "... Nada se reflejaba en sus ojos mientas miraba fijamente el vacío...",
+      "text": "... Nada se reflejaba en sus ojos mientras miraba fijamente el vacío...",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -4571,7 +4571,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"Como todos sabrán, dentro de ese estudio, el amo tenía todo preparado, desde un lugar dónde dormir hasta un cuarto de baño.",
+          "text": "\"Como todos sabrán, dentro de ese estudio, el amo tenía todo preparado, desde un lugar donde dormir hasta un cuarto de baño.",
           "inline_tags": []
         },
         {
@@ -4580,7 +4580,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Como todos sabrán, dentro de ese estudio, el amo tenía todo preparado, desde un lugar dónde dormir hasta un cuarto de baño.  No puedo imaginarle abandonando esa habitación a excepción de alguna razón significativa.\"",
+      "text": "\"Como todos sabrán, dentro de ese estudio, el amo tenía todo preparado, desde un lugar donde dormir hasta un cuarto de baño.  No puedo imaginarle abandonando esa habitación a excepción de alguna razón significativa.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -9748,7 +9748,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"Las únicas personas en este salón ahora mismo que parecen ser capaces de pelear decentemente son los tres de mi familia, y quizás también tú, somos como maximo cuatro personas.",
+          "text": "\"Las únicas personas en este salón ahora mismo que parecen ser capaces de pelear decentemente son los tres de mi familia, y quizás también tú, somos como máximo cuatro personas.",
           "inline_tags": []
         },
         {
@@ -9762,7 +9762,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Las únicas personas en este salón ahora mismo que parecen ser capaces de pelear decentemente son los tres de mi familia, y quizás también tú, somos como maximo cuatro personas.  La situación no es distinta de como fue anoche.  En resumen, sería fácil para el culpable masacrar al resto de nosotros.\"",
+      "text": "\"Las únicas personas en este salón ahora mismo que parecen ser capaces de pelear decentemente son los tres de mi familia, y quizás también tú, somos como máximo cuatro personas.  La situación no es distinta de como fue anoche.  En resumen, sería fácil para el culpable masacrar al resto de nosotros.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -14778,11 +14778,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Pero María no le contesto de ninguna forma en particular.",
+          "text": "Pero María no le contestó de ninguna forma en particular.",
           "inline_tags": []
         }
       ],
-      "text": "Pero María no le contesto de ninguna forma en particular.",
+      "text": "Pero María no le contestó de ninguna forma en particular.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -15245,7 +15245,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "Por un momento, todos, yo incluído, estábamos sin palabras.",
+          "text": "Por un momento, todos, yo incluido, estábamos sin palabras.",
           "inline_tags": []
         },
         {
@@ -15256,7 +15256,7 @@
           ]
         }
       ],
-      "text": "Por un momento, todos, yo incluído, estábamos sin palabras. {n}Un poco después, George-aniki regresó en sí, y lentamente pudo hablar.",
+      "text": "Por un momento, todos, yo incluido, estábamos sin palabras. {n}Un poco después, George-aniki regresó en sí, y lentamente pudo hablar.",
       "inline_tags": [
         "{n}"
       ],
@@ -19786,11 +19786,11 @@
         },
         {
           "index": 2,
-          "text": " No importa cuánto le pedí que me dejara tocarla, él nunca me dejo poner un dedo en eso.\"",
+          "text": " No importa cuánto le pedí que me dejara tocarla, él nunca me dejó poner un dedo en eso.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Ah, lo recuerdo.  ¿De dónde pudo haber venido?  No importa cuánto le pedí que me dejara tocarla, él nunca me dejo poner un dedo en eso.\"",
+      "text": "\"Ah, lo recuerdo.  ¿De dónde pudo haber venido?  No importa cuánto le pedí que me dejara tocarla, él nunca me dejó poner un dedo en eso.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

@@ -1654,7 +1654,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "Por ello, mientras nuestros padres aún eran jovenes,",
+          "text": "Por ello, mientras nuestros padres aún eran jóvenes,",
           "inline_tags": []
         },
         {
@@ -1663,7 +1663,7 @@
           "inline_tags": []
         }
       ],
-      "text": "Por ello, mientras nuestros padres aún eran jovenes,  exploraron esta isla de varias formas, creyendo que el oro del abuelo podría haber estado escondido en algún lugar.",
+      "text": "Por ello, mientras nuestros padres aún eran jóvenes,  exploraron esta isla de varias formas, creyendo que el oro del abuelo podría haber estado escondido en algún lugar.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -4206,11 +4206,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Al burlarme de la bruja, riéndome, estaba tratándo de separarme del niño de hace seis años que estaba temeroso de la bruja del bosque. En ese momento, María tiró de mi manga.",
+          "text": "Al burlarme de la bruja, riéndome, estaba tratando de separarme del niño de hace seis años que estaba temeroso de la bruja del bosque. En ese momento, María tiró de mi manga.",
           "inline_tags": []
         }
       ],
-      "text": "Al burlarme de la bruja, riéndome, estaba tratándo de separarme del niño de hace seis años que estaba temeroso de la bruja del bosque. En ese momento, María tiró de mi manga.",
+      "text": "Al burlarme de la bruja, riéndome, estaba tratando de separarme del niño de hace seis años que estaba temeroso de la bruja del bosque. En ese momento, María tiró de mi manga.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -11774,11 +11774,11 @@
         },
         {
           "index": 2,
-          "text": " Te estamos haciendo un favor al ofrecer que nosotros dejemos las cosas de lado por solo diez por ciento en dinero de buena fé.\"",
+          "text": " Te estamos haciendo un favor al ofrecer que nosotros dejemos las cosas de lado por solo diez por ciento en dinero de buena fe.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Krauss nii‐san, no importa qué, ese diez por ciento no es más que un número pa' medir tu sincerida', ¿no?  Estrictamente hablando, no deberíamos estar haciendo un acuerdo en primer lugar.  Te estamos haciendo un favor al ofrecer que nosotros dejemos las cosas de lado por solo diez por ciento en dinero de buena fé.\"",
+      "text": "\"Krauss nii‐san, no importa qué, ese diez por ciento no es más que un número pa' medir tu sincerida', ¿no?  Estrictamente hablando, no deberíamos estar haciendo un acuerdo en primer lugar.  Te estamos haciendo un favor al ofrecer que nosotros dejemos las cosas de lado por solo diez por ciento en dinero de buena fe.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -12534,7 +12534,7 @@
         },
         {
           "index": 1,
-          "text": " Del mismo modo que ustedes pueden reunir evidencias que prueban que nadie me haría un prestamo, yo puedo hacer lo mismo con ustedes.",
+          "text": " Del mismo modo que ustedes pueden reunir evidencias que prueban que nadie me haría un préstamo, yo puedo hacer lo mismo con ustedes.",
           "inline_tags": []
         },
         {
@@ -12543,7 +12543,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"De la misma forma que tú.  Del mismo modo que ustedes pueden reunir evidencias que prueban que nadie me haría un prestamo, yo puedo hacer lo mismo con ustedes.  Jajaja, ¿es realmente tan extraño eso?\"",
+      "text": "\"De la misma forma que tú.  Del mismo modo que ustedes pueden reunir evidencias que prueban que nadie me haría un préstamo, yo puedo hacer lo mismo con ustedes.  Jajaja, ¿es realmente tan extraño eso?\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -14407,7 +14407,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "Rosa atípicamente dejo salir sus emociones y gritó.",
+          "text": "Rosa atípicamente dejó salir sus emociones y gritó.",
           "inline_tags": []
         },
         {
@@ -14419,13 +14419,13 @@
         },
         {
           "index": 2,
-          "text": "{n}Mientras Krauss miraba, dejo salir una apagada risa...",
+          "text": "{n}Mientras Krauss miraba, dejó salir una apagada risa...",
           "inline_tags": [
             "{n}"
           ]
         }
       ],
-      "text": "Rosa atípicamente dejo salir sus emociones y gritó. {n}... Porque ella creía que nadie más sabía eso. {n}Mientras Krauss miraba, dejo salir una apagada risa...",
+      "text": "Rosa atípicamente dejó salir sus emociones y gritó. {n}... Porque ella creía que nadie más sabía eso. {n}Mientras Krauss miraba, dejó salir una apagada risa...",
       "inline_tags": [
         "{n}",
         "{n}"

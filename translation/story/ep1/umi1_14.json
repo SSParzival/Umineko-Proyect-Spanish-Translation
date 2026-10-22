@@ -7082,7 +7082,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "... Battler era alguien que podía comprender los sentimientos de dolor y arrepentimieto en el corazón de una persona.",
+          "text": "... Battler era alguien que podía comprender los sentimientos de dolor y arrepentimiento en el corazón de una persona.",
           "inline_tags": []
         },
         {
@@ -7098,7 +7098,7 @@
           "inline_tags": []
         }
       ],
-      "text": "... Battler era alguien que podía comprender los sentimientos de dolor y arrepentimieto en el corazón de una persona. {n}... Así que lloró.  Con todas sus fuerzas.",
+      "text": "... Battler era alguien que podía comprender los sentimientos de dolor y arrepentimiento en el corazón de una persona. {n}... Así que lloró.  Con todas sus fuerzas.",
       "inline_tags": [
         "{n}"
       ],
@@ -8074,13 +8074,13 @@
       "segments": [
         {
           "index": 0,
-          "text": "Probablemente habían sacado {i:eso} de la caldera, donde habia estado quemándose.",
+          "text": "Probablemente habían sacado {i:eso} de la caldera, donde había estado quemándose.",
           "inline_tags": [
             "{i:eso}"
           ]
         }
       ],
-      "text": "Probablemente habían sacado {i:eso} de la caldera, donde habia estado quemándose.",
+      "text": "Probablemente habían sacado {i:eso} de la caldera, donde había estado quemándose.",
       "inline_tags": [
         "{i:eso}"
       ],
@@ -8886,7 +8886,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"Tengo entedido que desde hace tiempo, la polidactilia es bastante común en la familia Ushiromiya...",
+          "text": "\"Tengo entendido que desde hace tiempo, la polidactilia es bastante común en la familia Ushiromiya...",
           "inline_tags": []
         },
         {
@@ -8895,7 +8895,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Tengo entedido que desde hace tiempo, la polidactilia es bastante común en la familia Ushiromiya...  Probablemente sea hereditario.\"",
+      "text": "\"Tengo entendido que desde hace tiempo, la polidactilia es bastante común en la familia Ushiromiya...  Probablemente sea hereditario.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
