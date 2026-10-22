@@ -1,0 +1,82 @@
+# =============================================================================
+# Umineko Project — Game Installation Assets & Protected Resources (DO NOT COMMIT)
+# =============================================================================
+*.file
+*.rebuilt.file
+*.bak
+*.orig
+*.dmp
+*.dump
+*.exe
+*.dll
+*.hash
+*.cfg
+*.ico
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.ogg
+*.wav
+*.mp4
+*.pam
+*.ttf
+*.otf
+*.ass
+
+# Game asset directories in the local installation
+/backgrounds/
+/caches/
+/dlls/
+/fonts/
+/graphics/
+/legacy/
+/mysav/
+/sav/
+/sound/
+/sprites/
+/video/
+
+# Pre-existing engine license files from the game distribution
+/LICENSE
+/LICENSE-BSD
+/LICENSE-GPLv2
+
+# =============================================================================
+# Extracted Translation Data, Rebuilt Outputs, Reports & Backups
+# =============================================================================
+/translation/
+/translation-*/
+/extracted/
+/extracted-*/
+/out/
+/output/
+/rebuilt/
+/backups/
+/dumps/
+/reports/
+/logs/
+*.log
+*report*.json
+
+# =============================================================================
+# Python / Tooling / OS Caches & Virtual Environments
+# =============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+/build/
+/dist/
+/*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.DS_Store
+Thumbs.db

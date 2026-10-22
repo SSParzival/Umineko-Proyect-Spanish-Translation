@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://umineko-project.local/schemas/translation-catalog.schema.json",
+  "title": "Umineko Project Editable Translation Catalog File",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "category",
+    "section",
+    "entries"
+  ],
+  "properties": {
+    "schema_version": { "type": "string", "const": "1.0" },
+    "category": { "type": "string", "enum": ["story", "omake", "strings"] },
+    "episode": { "type": ["string", "null"] },
+    "section": { "type": "string" },
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "kind", "line_number"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "kind": {
+            "type": "string",
+            "enum": ["dialogue", "stralias", "bgm_title", "inline_string"]
+          },
+          "line_number": { "type": "integer", "minimum": 1 },
+          "label": { "type": ["string", "null"] },
+          "command": { "type": "string" },
+          "speaker": { "type": ["string", "null"] },
+          "alias": { "type": ["string", "null"] },
+          "bgm_id": { "type": ["integer", "null"] },
+          "context": { "type": ["string", "null"] },
+          "status": { "type": "string" },
+          "notes": { "type": "string" },
+          "text": { "type": "string" },
+          "segments": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["index", "tags_before", "text"],
+              "properties": {
+                "index": { "type": "integer", "minimum": 0 },
+                "voice": { "type": ["string", "null"] },
+                "tags_before": { "type": "string" },
+                "text": { "type": "string" },
+                "has_stray_backtick": { "type": "boolean" }
+              },
+              "additionalProperties": false
+            }
+          },
+          "Protected": {
+            "type": "object"
+          }
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}
