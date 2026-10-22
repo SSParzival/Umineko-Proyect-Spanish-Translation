@@ -2323,11 +2323,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "... Incapaz de entender porque no podía aceptar honestamente este sentimiento, sentí lagrimas que brotaban de mis ojos.",
+          "text": "... Incapaz de entender porque no podía aceptar honestamente este sentimiento, sentí lágrimas que brotaban de mis ojos.",
           "inline_tags": []
         }
       ],
-      "text": "... Incapaz de entender porque no podía aceptar honestamente este sentimiento, sentí lagrimas que brotaban de mis ojos.",
+      "text": "... Incapaz de entender porque no podía aceptar honestamente este sentimiento, sentí lágrimas que brotaban de mis ojos.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -10463,11 +10463,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "El juego consistía en tomar una capsula con la grúa... pero yo era pequeña y era muy difícil para mí.",
+          "text": "El juego consistía en tomar una cápsula con la grúa... pero yo era pequeña y era muy difícil para mí.",
           "inline_tags": []
         }
       ],
-      "text": "El juego consistía en tomar una capsula con la grúa... pero yo era pequeña y era muy difícil para mí.",
+      "text": "El juego consistía en tomar una cápsula con la grúa... pero yo era pequeña y era muy difícil para mí.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -10792,7 +10792,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "Cuando Onii-chan me arrojó esa capsula,",
+          "text": "Cuando Onii-chan me arrojó esa cápsula,",
           "inline_tags": []
         },
         {
@@ -10803,7 +10803,7 @@
           ]
         }
       ],
-      "text": "Cuando Onii-chan me arrojó esa capsula,  recuerdo que él lucía muy, muy {i:confiable}.",
+      "text": "Cuando Onii-chan me arrojó esa cápsula,  recuerdo que él lucía muy, muy {i:confiable}.",
       "inline_tags": [
         "{i:confiable}"
       ],
@@ -10833,11 +10833,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Por varios días, había sentido como que abrir la capsula sería un desperdicio.",
+          "text": "Por varios días, había sentido como que abrir la cápsula sería un desperdicio.",
           "inline_tags": []
         }
       ],
-      "text": "Por varios días, había sentido como que abrir la capsula sería un desperdicio.",
+      "text": "Por varios días, había sentido como que abrir la cápsula sería un desperdicio.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -12688,7 +12688,7 @@
         },
         {
           "index": 1,
-          "text": " Deberia aceptarlo literalmente.",
+          "text": " Debería aceptarlo literalmente.",
           "inline_tags": []
         },
         {
@@ -12702,7 +12702,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"... Lo siento.  Deberia aceptarlo literalmente.  Sí, lo es.  Incluso en este disparatado mundo, ser capaz de reunirme con Onii-chan me hace feliz desde el fondo de mi corazón.\"",
+      "text": "\"... Lo siento.  Debería aceptarlo literalmente.  Sí, lo es.  Incluso en este disparatado mundo, ser capaz de reunirme con Onii-chan me hace feliz desde el fondo de mi corazón.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -19242,7 +19242,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "Esa confusión se convirtió en un liquido caliente, y lo sentí brotar por mis ojos...",
+          "text": "Esa confusión se convirtió en un líquido caliente, y lo sentí brotar por mis ojos...",
           "inline_tags": []
         },
         {
@@ -19253,7 +19253,7 @@
           ]
         }
       ],
-      "text": "Esa confusión se convirtió en un liquido caliente, y lo sentí brotar por mis ojos... {n}Era tan caliente... que se sentía como si fuera a quemar mi rostro...",
+      "text": "Esa confusión se convirtió en un líquido caliente, y lo sentí brotar por mis ojos... {n}Era tan caliente... que se sentía como si fuera a quemar mi rostro...",
       "inline_tags": [
         "{n}"
       ],

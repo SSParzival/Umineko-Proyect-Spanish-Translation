@@ -1333,7 +1333,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "Las personas, las maquinas y manecillas de reloj, incluso el polvo danzando en el viento, fueron congelados.",
+          "text": "Las personas, las máquinas y manecillas de reloj, incluso el polvo danzando en el viento, fueron congelados.",
           "inline_tags": []
         },
         {
@@ -1351,7 +1351,7 @@
           ]
         }
       ],
-      "text": "Las personas, las maquinas y manecillas de reloj, incluso el polvo danzando en el viento, fueron congelados. {n}Con un pie aún levantado, las personas que estaban caminando fueron congeladas. {n}Residuos de papel danzando en el viento se detuvieron en el aire, congelados.",
+      "text": "Las personas, las máquinas y manecillas de reloj, incluso el polvo danzando en el viento, fueron congelados. {n}Con un pie aún levantado, las personas que estaban caminando fueron congeladas. {n}Residuos de papel danzando en el viento se detuvieron en el aire, congelados.",
       "inline_tags": [
         "{n}",
         "{n}"

@@ -322,11 +322,11 @@
         },
         {
           "index": 1,
-          "text": " Parecía sobresaltada con la preocupación de que María se podria haber resfriado, pero la misma María era indiferente.",
+          "text": " Parecía sobresaltada con la preocupación de que María se podría haber resfriado, pero la misma María era indiferente.",
           "inline_tags": []
         }
       ],
-      "text": "Rosa limpió la cabeza de María con una toalla.  Parecía sobresaltada con la preocupación de que María se podria haber resfriado, pero la misma María era indiferente.",
+      "text": "Rosa limpió la cabeza de María con una toalla.  Parecía sobresaltada con la preocupación de que María se podría haber resfriado, pero la misma María era indiferente.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -5547,11 +5547,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"Si María sonrie... ¿regresará mamá?...\"",
+          "text": "\"Si María sonríe... ¿regresará mamá?...\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Si María sonrie... ¿regresará mamá?...\"",
+      "text": "\"Si María sonríe... ¿regresará mamá?...\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -8982,11 +8982,11 @@
         },
         {
           "index": 1,
-          "text": " todo lo que hiciste fue aferrarte a las sabanas y lloraste hasta dormir, ¡¿cierto?!...\"",
+          "text": " todo lo que hiciste fue aferrarte a las sábanas y lloraste hasta dormir, ¡¿cierto?!...\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Y después de que hiciste de tu habitación un desastre y estabas toda cansada...  todo lo que hiciste fue aferrarte a las sabanas y lloraste hasta dormir, ¡¿cierto?!...\"",
+      "text": "\"Y después de que hiciste de tu habitación un desastre y estabas toda cansada...  todo lo que hiciste fue aferrarte a las sábanas y lloraste hasta dormir, ¡¿cierto?!...\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -12032,11 +12032,11 @@
         },
         {
           "index": 1,
-          "text": " Con un sonido cortante y agudo, la cálida atmosfera se destrozó.",
+          "text": " Con un sonido cortante y agudo, la cálida atmósfera se destrozó.",
           "inline_tags": []
         }
       ],
-      "text": "En ese entonces...  Con un sonido cortante y agudo, la cálida atmosfera se destrozó.",
+      "text": "En ese entonces...  Con un sonido cortante y agudo, la cálida atmósfera se destrozó.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -19879,13 +19879,13 @@
       "segments": [
         {
           "index": 0,
-          "text": " Ahí, el amigo de María, Sakutaro, tenia una nueva forma, y {i:existía}.",
+          "text": " Ahí, el amigo de María, Sakutaro, tenía una nueva forma, y {i:existía}.",
           "inline_tags": [
             "{i:existía}"
           ]
         }
       ],
-      "text": " Ahí, el amigo de María, Sakutaro, tenia una nueva forma, y {i:existía}.",
+      "text": " Ahí, el amigo de María, Sakutaro, tenía una nueva forma, y {i:existía}.",
       "inline_tags": [
         "{i:existía}"
       ],

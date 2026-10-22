@@ -6403,7 +6403,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "Cuando apareció esa misteriosa mujer que decia llamarse {f:5:Beatrice},",
+          "text": "Cuando apareció esa misteriosa mujer que decía llamarse {f:5:Beatrice},",
           "inline_tags": [
             "{f:5:Beatrice}"
           ]
@@ -6414,7 +6414,7 @@
           "inline_tags": []
         }
       ],
-      "text": "Cuando apareció esa misteriosa mujer que decia llamarse {f:5:Beatrice},  incluso yo creía que era una bruja de verdad y que podría empezar a invocar monstruos cabra a diestra y siniestra.",
+      "text": "Cuando apareció esa misteriosa mujer que decía llamarse {f:5:Beatrice},  incluso yo creía que era una bruja de verdad y que podría empezar a invocar monstruos cabra a diestra y siniestra.",
       "inline_tags": [
         "{f:5:Beatrice}"
       ],
@@ -13731,11 +13731,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Y cuando uno de sus ojos se abrió bajo la luz cegadora... los dos estaban en el jardin de rosas...",
+          "text": "Y cuando uno de sus ojos se abrió bajo la luz cegadora... los dos estaban en el jardín de rosas...",
           "inline_tags": []
         }
       ],
-      "text": "Y cuando uno de sus ojos se abrió bajo la luz cegadora... los dos estaban en el jardin de rosas...",
+      "text": "Y cuando uno de sus ojos se abrió bajo la luz cegadora... los dos estaban en el jardín de rosas...",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -16902,11 +16902,11 @@
         },
         {
           "index": 3,
-          "text": " ¡¡Sé devorado por el primer crepúsculo del cuarto juego y desparece!!\"",
+          "text": " ¡¡Sé devorado por el primer crepúsculo del cuarto juego y desaparece!!\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Oh, así que me consideras un fantasma.  ¡¡Entonces intentas llevar hasta el final esa teoría de que yo ya estoy muerto!!  ¡¡Esa será tu perdición!!  ¡¡Sé devorado por el primer crepúsculo del cuarto juego y desparece!!\"",
+      "text": "\"Oh, así que me consideras un fantasma.  ¡¡Entonces intentas llevar hasta el final esa teoría de que yo ya estoy muerto!!  ¡¡Esa será tu perdición!!  ¡¡Sé devorado por el primer crepúsculo del cuarto juego y desaparece!!\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -19647,13 +19647,13 @@
       "segments": [
         {
           "index": 0,
-          "text": "Y... la absoluta y certera determinación reside en Battler... dejandome a {ruby:watashi:mí} sin un milagro certero.",
+          "text": "Y... la absoluta y certera determinación reside en Battler... dejándome a {ruby:watashi:mí} sin un milagro certero.",
           "inline_tags": [
             "{ruby:watashi:mí}"
           ]
         }
       ],
-      "text": "Y... la absoluta y certera determinación reside en Battler... dejandome a {ruby:watashi:mí} sin un milagro certero.",
+      "text": "Y... la absoluta y certera determinación reside en Battler... dejándome a {ruby:watashi:mí} sin un milagro certero.",
       "inline_tags": [
         "{ruby:watashi:mí}"
       ],
@@ -19766,7 +19766,7 @@
         },
         {
           "index": 1,
-          "text": " es continuar resistiéndo...",
+          "text": " es continuar resistiendo...",
           "inline_tags": []
         },
         {
@@ -19775,7 +19775,7 @@
           "inline_tags": []
         }
       ],
-      "text": "... La única resolución permitida...  es continuar resistiéndo...  hasta que sea derrotada... en este juego...",
+      "text": "... La única resolución permitida...  es continuar resistiendo...  hasta que sea derrotada... en este juego...",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

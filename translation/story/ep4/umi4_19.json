@@ -9070,7 +9070,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"Te rehusas a repetirlo, ya veo.",
+          "text": "\"Te rehúsas a repetirlo, ya veo.",
           "inline_tags": []
         },
         {
@@ -9098,7 +9098,7 @@
           ]
         }
       ],
-      "text": "\"Te rehusas a repetirlo, ya veo.  Beato declaró dos verdades rojas:  \"{p:1:Tú no eres el hijo de Ushiromiya Asumu}\",  y  \"{p:1:Nadie excepto Battler, el nieto de Kinzo, está calificado para ser su oponente}\".\"",
+      "text": "\"Te rehúsas a repetirlo, ya veo.  Beato declaró dos verdades rojas:  \"{p:1:Tú no eres el hijo de Ushiromiya Asumu}\",  y  \"{p:1:Nadie excepto Battler, el nieto de Kinzo, está calificado para ser su oponente}\".\"",
       "inline_tags": [
         "{p:1:Tú no eres el hijo de Ushiromiya Asumu}",
         "{p:1:Nadie excepto Battler, el nieto de Kinzo, está calificado para ser su oponente}"
@@ -11352,7 +11352,7 @@
         },
         {
           "index": 1,
-          "text": " No voy a huír o a esconderme...",
+          "text": " No voy a huir o a esconderme...",
           "inline_tags": []
         },
         {
@@ -11361,7 +11361,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"... Hmph... tal como ella dijo.  No voy a huír o a esconderme...  Yo le quité la familia a Ushiromiya Ange.\"",
+      "text": "\"... Hmph... tal como ella dijo.  No voy a huir o a esconderme...  Yo le quité la familia a Ushiromiya Ange.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

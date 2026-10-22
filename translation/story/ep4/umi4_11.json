@@ -4951,11 +4951,11 @@
         },
         {
           "index": 2,
-          "text": " Por favor, preguntale a nuestros invitados si desean un poco más de café.\"",
+          "text": " Por favor, pregúntale a nuestros invitados si desean un poco más de café.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Gracias.  Eres muy atento...  Por favor, preguntale a nuestros invitados si desean un poco más de café.\"",
+      "text": "\"Gracias.  Eres muy atento...  Por favor, pregúntale a nuestros invitados si desean un poco más de café.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -10138,7 +10138,7 @@
         },
         {
           "index": 2,
-          "text": " ¡Así que he creado una vida usando diez mil milloness de yenes!",
+          "text": " ¡Así que he creado una vida usando diez mil millones de yenes!",
           "inline_tags": []
         },
         {
@@ -10152,7 +10152,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"¡¡Jajjajajajajajajajajaja!!  ¡Esto es fantástico!  ¡Así que he creado una vida usando diez mil milloness de yenes!  ¡Así son las cosas!  Interesante, un ejemplo realmente interesante en el sentido de la alquimia, ¡¿verdad?!...\"",
+      "text": "\"¡¡Jajjajajajajajajajajaja!!  ¡Esto es fantástico!  ¡Así que he creado una vida usando diez mil millones de yenes!  ¡Así son las cosas!  Interesante, un ejemplo realmente interesante en el sentido de la alquimia, ¡¿verdad?!...\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
