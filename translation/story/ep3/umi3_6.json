@@ -2067,7 +2067,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "Al igual que los escritorios y armarios los cuáles no eran notados por los miembros de la familia, ",
+          "text": "Al igual que los escritorios y armarios los cuales no eran notados por los miembros de la familia, ",
           "inline_tags": []
         },
         {
@@ -2076,7 +2076,7 @@
           "inline_tags": []
         }
       ],
-      "text": "Al igual que los escritorios y armarios los cuáles no eran notados por los miembros de la familia,  los sirvientes también trataban de ser capaces de aparentar indiferencia cuando lo necesitaban, como una gran virtud.",
+      "text": "Al igual que los escritorios y armarios los cuales no eran notados por los miembros de la familia,  los sirvientes también trataban de ser capaces de aparentar indiferencia cuando lo necesitaban, como una gran virtud.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -6273,11 +6273,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "... En esta mansión, el numero 5 instantáneamente les hizo pensar en el número de sirvientes...",
+          "text": "... En esta mansión, el número 5 instantáneamente les hizo pensar en el número de sirvientes...",
           "inline_tags": []
         }
       ],
-      "text": "... En esta mansión, el numero 5 instantáneamente les hizo pensar en el número de sirvientes...",
+      "text": "... En esta mansión, el número 5 instantáneamente les hizo pensar en el número de sirvientes...",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -13025,7 +13025,7 @@
         },
         {
           "index": 2,
-          "text": " Vengan, levántense, Sietes Estacas del purgatorio.",
+          "text": " Vengan, levántense, Siete Estacas del purgatorio.",
           "inline_tags": []
         },
         {
@@ -13034,7 +13034,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Te lo prometí, ¿verdad?  Si podías derrotar a mis muebles, {i:las Siete Estacas del Purgatorio}, ¿cieeeeeeeeerto?  Vengan, levántense, Sietes Estacas del purgatorio.  ¡Las seis hermanas menores de la inútil hermana mayor!\"",
+      "text": "\"Te lo prometí, ¿verdad?  Si podías derrotar a mis muebles, {i:las Siete Estacas del Purgatorio}, ¿cieeeeeeeeerto?  Vengan, levántense, Siete Estacas del purgatorio.  ¡Las seis hermanas menores de la inútil hermana mayor!\"",
       "inline_tags": [
         "{i:las Siete Estacas del Purgatorio}"
       ],

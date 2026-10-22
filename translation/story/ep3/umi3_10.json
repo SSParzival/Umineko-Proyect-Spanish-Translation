@@ -12802,7 +12802,7 @@
         },
         {
           "index": 2,
-          "text": " El kanji {ruby:sato:{p:0:里}} es un caracter antiguo para denominar a un {loghint:machi:pueblo} o {loghint:mura:aldea}, ¿cierto?",
+          "text": " El kanji {ruby:sato:{p:0:里}} es un carácter antiguo para denominar a un {loghint:machi:pueblo} o {loghint:mura:aldea}, ¿cierto?",
           "inline_tags": [
             "{p:0:里}",
             "{loghint:machi:pueblo}",
@@ -12815,7 +12815,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"S-Sí, ya sé...  A medida que avances río abajo, verás una aldea ({ruby:sato:{p:0:里}})...  El kanji {ruby:sato:{p:0:里}} es un caracter antiguo para denominar a un {loghint:machi:pueblo} o {loghint:mura:aldea}, ¿cierto?  Pero es una zona densamente poblada... hay muchos de ellos...\"",
+      "text": "\"S-Sí, ya sé...  A medida que avances río abajo, verás una aldea ({ruby:sato:{p:0:里}})...  El kanji {ruby:sato:{p:0:里}} es un carácter antiguo para denominar a un {loghint:machi:pueblo} o {loghint:mura:aldea}, ¿cierto?  Pero es una zona densamente poblada... hay muchos de ellos...\"",
       "inline_tags": [
         "{p:0:里}",
         "{p:0:里}",

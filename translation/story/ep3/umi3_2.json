@@ -4513,11 +4513,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "... Este encuentro con mis primos, quiénes habían crecido tanto en estos últimos seis años y estaban disfrutando plenamente de su juventud, me pareció muy reconfortante.",
+          "text": "... Este encuentro con mis primos, quienes habían crecido tanto en estos últimos seis años y estaban disfrutando plenamente de su juventud, me pareció muy reconfortante.",
           "inline_tags": []
         }
       ],
-      "text": "... Este encuentro con mis primos, quiénes habían crecido tanto en estos últimos seis años y estaban disfrutando plenamente de su juventud, me pareció muy reconfortante.",
+      "text": "... Este encuentro con mis primos, quienes habían crecido tanto en estos últimos seis años y estaban disfrutando plenamente de su juventud, me pareció muy reconfortante.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -7510,13 +7510,13 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"¡¡{f:5:Beatrice}, enseñame como revivir una rosa con magia!!...\"",
+          "text": "\"¡¡{f:5:Beatrice}, enséñame como revivir una rosa con magia!!...\"",
           "inline_tags": [
             "{f:5:Beatrice}"
           ]
         }
       ],
-      "text": "\"¡¡{f:5:Beatrice}, enseñame como revivir una rosa con magia!!...\"",
+      "text": "\"¡¡{f:5:Beatrice}, enséñame como revivir una rosa con magia!!...\"",
       "inline_tags": [
         "{f:5:Beatrice}"
       ],

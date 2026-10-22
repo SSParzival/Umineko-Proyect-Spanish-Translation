@@ -4499,7 +4499,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"... Definición de habitacion cerrada, entendido.",
+          "text": "\"... Definición de habitación cerrada, entendido.",
           "inline_tags": []
         },
         {
@@ -4510,7 +4510,7 @@
           ]
         }
       ],
-      "text": "\"... Definición de habitacion cerrada, entendido.  Continúa, {f:5:Virgilia}.\"",
+      "text": "\"... Definición de habitación cerrada, entendido.  Continúa, {f:5:Virgilia}.\"",
       "inline_tags": [
         "{f:5:Virgilia}"
       ],
@@ -10710,11 +10710,11 @@
         },
         {
           "index": 3,
-          "text": " ¡¡¡Contraataqué, contraataqué!!!\"",
+          "text": " ¡¡¡Contraataque, contraataque!!!\"",
           "inline_tags": []
         }
       ],
-      "text": "\"¡¿Qué te parece eso?!  ¡¿Estás satisfecho?!...  ¡*carcajada*carcajada*, jajaajajajaja!  ¡¡¡Contraataqué, contraataqué!!!\"",
+      "text": "\"¡¿Qué te parece eso?!  ¡¿Estás satisfecho?!...  ¡*carcajada*carcajada*, jajaajajajaja!  ¡¡¡Contraataque, contraataque!!!\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

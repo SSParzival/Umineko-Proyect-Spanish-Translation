@@ -2476,11 +2476,11 @@
         },
         {
           "index": 4,
-          "text": " ¡¡George es el verdadero sucesor de la familia Ushromiya!!\"",
+          "text": " ¡¡George es el verdadero sucesor de la familia Ushiromiya!!\"",
           "inline_tags": []
         }
       ],
-      "text": "\"El resto de la familia eventualmente quedarán arruinados y desaparecerán.  Para ese punto, George usará este oro, y revivirá el honor perdido de la familia Ushiromiya,  ¡¡justo como mi padre hizo!!...  No habrá lugar para cualquiera que lo discuta...  ¡¡George es el verdadero sucesor de la familia Ushromiya!!\"",
+      "text": "\"El resto de la familia eventualmente quedarán arruinados y desaparecerán.  Para ese punto, George usará este oro, y revivirá el honor perdido de la familia Ushiromiya,  ¡¡justo como mi padre hizo!!...  No habrá lugar para cualquiera que lo discuta...  ¡¡George es el verdadero sucesor de la familia Ushiromiya!!\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -4198,13 +4198,13 @@
         },
         {
           "index": 1,
-          "text": "{n}Circunstancialmente, después de ver las intensiones de la otra, bajaron sus armas.",
+          "text": "{n}Circunstancialmente, después de ver las intenciones de la otra, bajaron sus armas.",
           "inline_tags": [
             "{n}"
           ]
         }
       ],
-      "text": "Se sentía la tensión en el aire, ambas hermanas apuntándose con sus armas. {n}Circunstancialmente, después de ver las intensiones de la otra, bajaron sus armas.",
+      "text": "Se sentía la tensión en el aire, ambas hermanas apuntándose con sus armas. {n}Circunstancialmente, después de ver las intenciones de la otra, bajaron sus armas.",
       "inline_tags": [
         "{n}"
       ],
@@ -6265,11 +6265,11 @@
         },
         {
           "index": 2,
-          "text": " Lo siento, pero al menos escuchame por esta vez.\"",
+          "text": " Lo siento, pero al menos escúchame por esta vez.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"...  Rosa.  Lo siento, pero al menos escuchame por esta vez.\"",
+      "text": "\"...  Rosa.  Lo siento, pero al menos escúchame por esta vez.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -10365,13 +10365,13 @@
       "segments": [
         {
           "index": 0,
-          "text": "Eva... no, la nueva {f:5:Beatrice} se dio la vuelta timidamente.",
+          "text": "Eva... no, la nueva {f:5:Beatrice} se dio la vuelta tímidamente.",
           "inline_tags": [
             "{f:5:Beatrice}"
           ]
         }
       ],
-      "text": "Eva... no, la nueva {f:5:Beatrice} se dio la vuelta timidamente.",
+      "text": "Eva... no, la nueva {f:5:Beatrice} se dio la vuelta tímidamente.",
       "inline_tags": [
         "{f:5:Beatrice}"
       ],
@@ -12758,7 +12758,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"... En en otras palabras, ¿debo ver a la tía Eva y a ella como la misma persona?...",
+          "text": "\"... En otras palabras, ¿debo ver a la tía Eva y a ella como la misma persona?...",
           "inline_tags": []
         },
         {
@@ -12767,7 +12767,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"... En en otras palabras, ¿debo ver a la tía Eva y a ella como la misma persona?...  Maldición... esto está empezando a darme mala espina...\"",
+      "text": "\"... En otras palabras, ¿debo ver a la tía Eva y a ella como la misma persona?...  Maldición... esto está empezando a darme mala espina...\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

@@ -2132,11 +2132,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"... Tal como pensé, no lo creiste.\"",
+          "text": "\"... Tal como pensé, no lo creíste.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"... Tal como pensé, no lo creiste.\"",
+      "text": "\"... Tal como pensé, no lo creíste.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -6850,7 +6850,7 @@
         },
         {
           "index": 2,
-          "text": " Esto sería lo contrarío a una repetición interminable de movimientos,",
+          "text": " Esto sería lo contrario a una repetición interminable de movimientos,",
           "inline_tags": []
         },
         {
@@ -6859,7 +6859,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Es un término del ajedrez que se refiere a un estado en el que, similar a un \"jaque perpetuo\",  es imposible seguir avanzando en el juego.  Esto sería lo contrarío a una repetición interminable de movimientos,  porque ya no habría más movimientos y provocaría una especie de punto muerto.\"",
+      "text": "\"Es un término del ajedrez que se refiere a un estado en el que, similar a un \"jaque perpetuo\",  es imposible seguir avanzando en el juego.  Esto sería lo contrario a una repetición interminable de movimientos,  porque ya no habría más movimientos y provocaría una especie de punto muerto.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -8059,13 +8059,13 @@
         },
         {
           "index": 1,
-          "text": " {p:1:En 1967, {f:5:Beatrice}‐sama sama existió como una humana en una mansión oculta en Rokkenjima}.\"",
+          "text": " {p:1:En 1967, {f:5:Beatrice}‐sama existió como una humana en una mansión oculta en Rokkenjima}.\"",
           "inline_tags": [
             "{f:5:Beatrice}"
           ]
         }
       ],
-      "text": "\"Eso es correcto.  {p:1:En 1967, {f:5:Beatrice}‐sama sama existió como una humana en una mansión oculta en Rokkenjima}.\"",
+      "text": "\"Eso es correcto.  {p:1:En 1967, {f:5:Beatrice}‐sama existió como una humana en una mansión oculta en Rokkenjima}.\"",
       "inline_tags": [
         "{f:5:Beatrice}"
       ],
