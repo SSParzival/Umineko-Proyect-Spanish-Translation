@@ -66,6 +66,55 @@ class TestTranslationLint(unittest.TestCase):
         self.assertEqual(s_to, "¡Hurra, ya")
         self.assertEqual(cat, "ESPACIADO")
 
+    def test_medium_priority_resolutions_on_disk(self) -> None:
+        workspace = Path(__file__).resolve().parent.parent / "translation"
+
+        # 1. ep8.teatime_8.d67746
+        p8 = json.loads((workspace / "story" / "ep8" / "teatime_8.json").read_text(encoding="utf-8"))
+        e8 = next(e for e in p8["entries"] if e["id"] == "ep8.teatime_8.d67746")
+        self.assertIn("alguien lo está entrenando infernalmente", e8["segments"][0]["text"])
+
+        # 2. ep7.umi7_4.d51677
+        p7 = json.loads((workspace / "story" / "ep7" / "umi7_4.json").read_text(encoding="utf-8"))
+        e7 = next(e for e in p7["entries"] if e["id"] == "ep7.umi7_4.d51677")
+        self.assertIn("{ruby:an unusable scrap heap now.:un montón de chatarra inservible.}", e7["segments"][1]["text"])
+
+        # 3. ep6.umi6_18.d50079
+        p6 = json.loads((workspace / "story" / "ep6" / "umi6_18.json").read_text(encoding="utf-8"))
+        e6_desafio = next(e for e in p6["entries"] if e["id"] == "ep6.umi6_18.d50079")
+        self.assertIn("{f:5:desafío}", e6_desafio["segments"][1]["text"])
+
+    def test_low_priority_stutters_preserved(self) -> None:
+        workspace = Path(__file__).resolve().parent.parent / "translation"
+
+        p6 = json.loads((workspace / "story" / "ep6" / "umi6_16.json").read_text(encoding="utf-8"))
+        e6_1 = next(e for e in p6["entries"] if e["id"] == "ep6.umi6_16.d49232")
+        self.assertIn("Deten...", e6_1["segments"][2]["text"])
+        self.assertIn(" te", e6_1["segments"][3]["text"])
+        self.assertIn("Deten...  te", e6_1["text"])
+
+        e6_2 = next(e for e in p6["entries"] if e["id"] == "ep6.umi6_16.d49256")
+        self.assertIn("deten... te...", e6_2["segments"][2]["text"])
+
+        p8 = json.loads((workspace / "story" / "ep8" / "umi8_16.json").read_text(encoding="utf-8"))
+        e8 = next(e for e in p8["entries"] if e["id"] == "ep8.umi8_16.d65167")
+        self.assertIn("¡¡D-Deten—!!", e8["segments"][0]["text"])
+
+    def test_review_decisions_registry(self) -> None:
+        decisions_path = Path(__file__).resolve().parent.parent / "translation" / "config" / "review-decisions.jsonl"
+        self.assertTrue(decisions_path.exists())
+        lines = decisions_path.read_text(encoding="utf-8").splitlines()
+        self.assertGreaterEqual(len(lines), 10)
+        for line in lines:
+            if not line.strip():
+                continue
+            item = json.loads(line)
+            self.assertIn("id", item)
+            self.assertIn("file", item)
+            self.assertIn("entry_id", item)
+            self.assertIn("decision", item)
+            self.assertIn("status", item)
+
     def test_round_trip_application_on_fixture(self) -> None:
         fixture_catalog = {
             "schema_version": "1.0.0",
@@ -154,6 +203,46 @@ class TestTranslationLint(unittest.TestCase):
             val = validate_workspace_lint(tmppath)
             self.assertTrue(val.valid)
             self.assertEqual(len(val.errors), 0)
+
+    def test_double_space_normalizer_rules(self) -> None:
+        from tools.translation_lint.double_space_normalizer import normalize_spacing
+
+        # Internal double space
+        self.assertEqual(
+            normalize_spacing("Siendo incapaz de resistir...  no podía"),
+            "Siendo incapaz de resistir... no podía",
+        )
+        # Leading double space
+        self.assertEqual(
+            normalize_spacing("  pero después"),
+            " pero después",
+        )
+        # Trailing double space
+        self.assertEqual(
+            normalize_spacing("Era una mujer.  "),
+            "Era una mujer.",
+        )
+        # Spacing around tags
+        self.assertEqual(
+            normalize_spacing("{f:5:Bernkastel}  me miró"),
+            "{f:5:Bernkastel} me miró",
+        )
+        # Tags with internal colon or params preserved
+        self.assertEqual(
+            normalize_spacing("Lucifer  ({p:4:ルシファー})"),
+            "Lucifer ({p:4:ルシファー})",
+        )
+
+    def test_intentional_spacing_preserved(self) -> None:
+        workspace = Path(__file__).resolve().parent.parent / "translation"
+        p7 = json.loads((workspace / "story" / "ep7" / "umi7_2.json").read_text(encoding="utf-8"))
+        e_call1 = next(e for e in p7["entries"] if e["id"] == "ep7.umi7_2.d51163")
+        e_call2 = next(e for e in p7["entries"] if e["id"] == "ep7.umi7_2.d51165")
+        e_pause = next(e for e in p7["entries"] if e["id"] == "ep7.umi7_2.d51167")
+
+        self.assertIn("p u e d o", e_call1["segments"][0]["text"])
+        self.assertIn("ll amar", e_call2["segments"][0]["text"])
+        self.assertEqual(e_pause["segments"][0]["text"], '"' + " " * 60 + '."')
 
 
 if __name__ == "__main__":
