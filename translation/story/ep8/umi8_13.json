@@ -4840,7 +4840,7 @@
         },
         {
           "index": 2,
-          "text": " Es por eso que esta meta de encontrar el Libro de la Única Verdad le ha devuelto un poco de brillo a mi vida, ahora que está apunto de terminar...",
+          "text": " Es por eso que esta meta de encontrar el Libro de la Única Verdad le ha devuelto un poco de brillo a mi vida, ahora que está a punto de terminar...",
           "inline_tags": []
         },
         {
@@ -4851,7 +4851,7 @@
           ]
         }
       ],
-      "text": "\"Sí.  Así que, mi motivo para vivir, mi propia existencia, y todo lo demás carece de sentido...  Es por eso que esta meta de encontrar el Libro de la Única Verdad le ha devuelto un poco de brillo a mi vida, ahora que está apunto de terminar...  Al menos por eso, le estoy agradecida a {f:5:Bernkastel}.\"",
+      "text": "\"Sí.  Así que, mi motivo para vivir, mi propia existencia, y todo lo demás carece de sentido...  Es por eso que esta meta de encontrar el Libro de la Única Verdad le ha devuelto un poco de brillo a mi vida, ahora que está a punto de terminar...  Al menos por eso, le estoy agradecida a {f:5:Bernkastel}.\"",
       "inline_tags": [
         "{f:5:Bernkastel}"
       ],
@@ -11362,7 +11362,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"Que por algun motivo... Ange cambie de opinión...",
+          "text": "\"Que por algún motivo... Ange cambie de opinión...",
           "inline_tags": []
         },
         {
@@ -11371,7 +11371,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Que por algun motivo... Ange cambie de opinión...  Hay una posibilidad, quizás de una en varios millones, de que regrese.\"",
+      "text": "\"Que por algún motivo... Ange cambie de opinión...  Hay una posibilidad, quizás de una en varios millones, de que regrese.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -13561,13 +13561,13 @@
       "segments": [
         {
           "index": 0,
-          "text": "{f:5:Lambdadelta} tambaleó como si estuviera mareada... y luego se desplomo sobre una silla.",
+          "text": "{f:5:Lambdadelta} tambaleó como si estuviera mareada... y luego se desplomó sobre una silla.",
           "inline_tags": [
             "{f:5:Lambdadelta}"
           ]
         }
       ],
-      "text": "{f:5:Lambdadelta} tambaleó como si estuviera mareada... y luego se desplomo sobre una silla.",
+      "text": "{f:5:Lambdadelta} tambaleó como si estuviera mareada... y luego se desplomó sobre una silla.",
       "inline_tags": [
         "{f:5:Lambdadelta}"
       ],

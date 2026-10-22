@@ -3125,7 +3125,7 @@
         },
         {
           "index": 2,
-          "text": " Mgggh, ¡No hay márgen de discusión! ¡Debo tener ese alfiler específico!",
+          "text": " Mgggh, ¡No hay margen de discusión! ¡Debo tener ese alfiler específico!",
           "inline_tags": []
         },
         {
@@ -3134,7 +3134,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"¿Ese alfiler de corbata ‘que tengo ahí’? ¡¡¿Es {i:esa} tu sugerencia?!!  ¡La conferencia familiar solo se da una vez al año!  Mgggh, ¡No hay márgen de discusión! ¡Debo tener ese alfiler específico!  ¡¡¿Dónde está, dónde, dónde?!!\"",
+      "text": "\"¿Ese alfiler de corbata ‘que tengo ahí’? ¡¡¿Es {i:esa} tu sugerencia?!!  ¡La conferencia familiar solo se da una vez al año!  Mgggh, ¡No hay margen de discusión! ¡Debo tener ese alfiler específico!  ¡¡¿Dónde está, dónde, dónde?!!\"",
       "inline_tags": [
         "{i:esa}"
       ],
@@ -4318,11 +4318,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"\"\"¡A la órden!\"\"\"",
+          "text": "\"\"\"¡A la orden!\"\"\"",
           "inline_tags": []
         }
       ],
-      "text": "\"\"\"¡A la órden!\"\"\"",
+      "text": "\"\"\"¡A la orden!\"\"\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -9676,11 +9676,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"Por favor, sientanse libres de dejarlos aquí mientras se dirigen a almorzar.\"",
+          "text": "\"Por favor, siéntanse libres de dejarlos aquí mientras se dirigen a almorzar.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Por favor, sientanse libres de dejarlos aquí mientras se dirigen a almorzar.\"",
+      "text": "\"Por favor, siéntanse libres de dejarlos aquí mientras se dirigen a almorzar.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

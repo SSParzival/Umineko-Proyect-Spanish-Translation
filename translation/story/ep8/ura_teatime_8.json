@@ -1274,11 +1274,11 @@
         },
         {
           "index": 2,
-          "text": " Según lo que he escuchado, si sigue así, ¡podría romper el record al mejor libro del año!\"",
+          "text": " Según lo que he escuchado, si sigue así, ¡podría romper el récord al mejor libro del año!\"",
           "inline_tags": []
         }
       ],
-      "text": "\"¡Señorita Kotobuki, felicidades por su premio!  ¡He oído que la adaptación a la gran pantalla también ha estado consiguiendo buenas críticas!  Según lo que he escuchado, si sigue así, ¡podría romper el record al mejor libro del año!\"",
+      "text": "\"¡Señorita Kotobuki, felicidades por su premio!  ¡He oído que la adaptación a la gran pantalla también ha estado consiguiendo buenas críticas!  Según lo que he escuchado, si sigue así, ¡podría romper el récord al mejor libro del año!\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -4372,7 +4372,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "Después de todo, solo tenía seis años la útlima vez.",
+          "text": "Después de todo, solo tenía seis años la última vez.",
           "inline_tags": []
         },
         {
@@ -4381,7 +4381,7 @@
           "inline_tags": []
         }
       ],
-      "text": "Después de todo, solo tenía seis años la útlima vez.  Debe ser difícil para él encontrar algún rasgo que pueda reconocer.",
+      "text": "Después de todo, solo tenía seis años la última vez.  Debe ser difícil para él encontrar algún rasgo que pueda reconocer.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

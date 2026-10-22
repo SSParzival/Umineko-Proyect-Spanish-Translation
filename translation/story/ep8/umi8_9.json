@@ -1948,11 +1948,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Para mediodia, todos se cansaron de discutir, y decidieron tomarse un descanso.",
+          "text": "Para mediodía, todos se cansaron de discutir, y decidieron tomarse un descanso.",
           "inline_tags": []
         }
       ],
-      "text": "Para mediodia, todos se cansaron de discutir, y decidieron tomarse un descanso.",
+      "text": "Para mediodía, todos se cansaron de discutir, y decidieron tomarse un descanso.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -3472,7 +3472,7 @@
         },
         {
           "index": 1,
-          "text": " Esta es la veradera naturaleza de esta habitación cerrada.",
+          "text": " Esta es la verdadera naturaleza de esta habitación cerrada.",
           "inline_tags": []
         },
         {
@@ -3486,7 +3486,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Entonces voy a intentar con la verdad azul.  Esta es la veradera naturaleza de esta habitación cerrada.  {p:2:El culpable cerró la puerta por dentro y se escondió en la habitación de Natsuhi.  Entonces, después de que todo el mundo se fue, encontraron una oportunidad para escapar}.\"",
+      "text": "\"Entonces voy a intentar con la verdad azul.  Esta es la verdadera naturaleza de esta habitación cerrada.  {p:2:El culpable cerró la puerta por dentro y se escondió en la habitación de Natsuhi.  Entonces, después de que todo el mundo se fue, encontraron una oportunidad para escapar}.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -5498,11 +5498,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Ahora, nadie podía entrar en la habitacion cerrada que era la casa de huéspedes.",
+          "text": "Ahora, nadie podía entrar en la habitación cerrada que era la casa de huéspedes.",
           "inline_tags": []
         }
       ],
-      "text": "Ahora, nadie podía entrar en la habitacion cerrada que era la casa de huéspedes.",
+      "text": "Ahora, nadie podía entrar en la habitación cerrada que era la casa de huéspedes.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -10602,7 +10602,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"... Es muy extaño.",
+          "text": "\"... Es muy extraño.",
           "inline_tags": []
         },
         {
@@ -10611,7 +10611,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"... Es muy extaño.  Me molesta que avancen... pero si se atascaran, sería aburrido.\"",
+      "text": "\"... Es muy extraño.  Me molesta que avancen... pero si se atascaran, sería aburrido.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

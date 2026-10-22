@@ -588,7 +588,7 @@
         },
         {
           "index": 1,
-          "text": " Por favor, manténga esto fuera del registro.",
+          "text": " Por favor, mantenga esto fuera del registro.",
           "inline_tags": []
         },
         {
@@ -597,7 +597,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Gracias, doctor...  Por favor, manténga esto fuera del registro.  No es mucho, pero aquí tiene algo de dinero por las molestias.\"",
+      "text": "\"Gracias, doctor...  Por favor, mantenga esto fuera del registro.  No es mucho, pero aquí tiene algo de dinero por las molestias.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -10398,11 +10398,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "... Me acerque con cada uno de ellos... para saludarlos, agradecerles y disculparme.",
+          "text": "... Me acerqué con cada uno de ellos... para saludarlos, agradecerles y disculparme.",
           "inline_tags": []
         }
       ],
-      "text": "... Me acerque con cada uno de ellos... para saludarlos, agradecerles y disculparme.",
+      "text": "... Me acerqué con cada uno de ellos... para saludarlos, agradecerles y disculparme.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -15049,7 +15049,7 @@
         },
         {
           "index": 2,
-          "text": " Battler es quien tiene el cascabel , ¿cierto?",
+          "text": " Battler es quien tiene el cascabel, ¿cierto?",
           "inline_tags": []
         },
         {
@@ -15058,7 +15058,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Bien, primero que nada,  suéltense el uno al otro...  Battler es quien tiene el cascabel , ¿cierto?  Salta, Battler.\"",
+      "text": "\"Bien, primero que nada,  suéltense el uno al otro...  Battler es quien tiene el cascabel, ¿cierto?  Salta, Battler.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

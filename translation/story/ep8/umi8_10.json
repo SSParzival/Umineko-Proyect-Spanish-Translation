@@ -4864,11 +4864,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Simplemente se habían aburrido de la teoría anterior y buscaban una una nueva sensación...",
+          "text": "Simplemente se habían aburrido de la teoría anterior y buscaban una nueva sensación...",
           "inline_tags": []
         }
       ],
-      "text": "Simplemente se habían aburrido de la teoría anterior y buscaban una una nueva sensación...",
+      "text": "Simplemente se habían aburrido de la teoría anterior y buscaban una nueva sensación...",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -13836,13 +13836,13 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"¡Sí, el juego de Lady {f:5:Bernkastel} fue un espléndido desafio!\"",
+          "text": "\"¡Sí, el juego de Lady {f:5:Bernkastel} fue un espléndido desafío!\"",
           "inline_tags": [
             "{f:5:Bernkastel}"
           ]
         }
       ],
-      "text": "\"¡Sí, el juego de Lady {f:5:Bernkastel} fue un espléndido desafio!\"",
+      "text": "\"¡Sí, el juego de Lady {f:5:Bernkastel} fue un espléndido desafío!\"",
       "inline_tags": [
         "{f:5:Bernkastel}"
       ],
@@ -17343,7 +17343,7 @@
         },
         {
           "index": 1,
-          "text": " Cambiemos de posicion y empecemos un nuevo juego.",
+          "text": " Cambiemos de posición y empecemos un nuevo juego.",
           "inline_tags": []
         },
         {
@@ -17357,7 +17357,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Así que, hagamos que el juego también sea justo.  Cambiemos de posicion y empecemos un nuevo juego.  Estoy deseando que llegue el momento.  ¡Esta vez ganamos, pero ¿quién sabe si la próxima será igual?!...\"",
+      "text": "\"Así que, hagamos que el juego también sea justo.  Cambiemos de posición y empecemos un nuevo juego.  Estoy deseando que llegue el momento.  ¡Esta vez ganamos, pero ¿quién sabe si la próxima será igual?!...\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

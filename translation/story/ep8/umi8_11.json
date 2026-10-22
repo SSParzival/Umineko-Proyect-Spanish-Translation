@@ -4006,11 +4006,11 @@
         },
         {
           "index": 3,
-          "text": " ¡Quiero la autentica verdad!\"",
+          "text": " ¡Quiero la auténtica verdad!\"",
           "inline_tags": []
         }
       ],
-      "text": "\"¡¡Lo he oído todo de {f:5:Bernkastel}!!  ¡He soportado sus mentiras durante demasiado tiempo!  ¡No quiero una falsa ilusión!  ¡Quiero la autentica verdad!\"",
+      "text": "\"¡¡Lo he oído todo de {f:5:Bernkastel}!!  ¡He soportado sus mentiras durante demasiado tiempo!  ¡No quiero una falsa ilusión!  ¡Quiero la auténtica verdad!\"",
       "inline_tags": [
         "{f:5:Bernkastel}"
       ],
@@ -6931,11 +6931,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"... ¡¿Están comiendose... las rosas?!...\"",
+          "text": "\"... ¡¿Están comiéndose... las rosas?!...\"",
           "inline_tags": []
         }
       ],
-      "text": "\"... ¡¿Están comiendose... las rosas?!...\"",
+      "text": "\"... ¡¿Están comiéndose... las rosas?!...\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -14606,11 +14606,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Lúcifer eligió a uno de ellos, apuntando a su frente.",
+          "text": "Lucifer eligió a uno de ellos, apuntando a su frente.",
           "inline_tags": []
         }
       ],
-      "text": "Lúcifer eligió a uno de ellos, apuntando a su frente.",
+      "text": "Lucifer eligió a uno de ellos, apuntando a su frente.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,

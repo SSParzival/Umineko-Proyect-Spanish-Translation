@@ -1256,13 +1256,13 @@
       "segments": [
         {
           "index": 0,
-          "text": "En un instante, {f:5:Bernkastel} se transformó de vuelta en un gato negro, atrapo la ciruela en el aire, y empezó a masticarla.",
+          "text": "En un instante, {f:5:Bernkastel} se transformó de vuelta en un gato negro, atrapó la ciruela en el aire, y empezó a masticarla.",
           "inline_tags": [
             "{f:5:Bernkastel}"
           ]
         }
       ],
-      "text": "En un instante, {f:5:Bernkastel} se transformó de vuelta en un gato negro, atrapo la ciruela en el aire, y empezó a masticarla.",
+      "text": "En un instante, {f:5:Bernkastel} se transformó de vuelta en un gato negro, atrapó la ciruela en el aire, y empezó a masticarla.",
       "inline_tags": [
         "{f:5:Bernkastel}"
       ],
@@ -4871,7 +4871,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"¡¡Me rehuso!!",
+          "text": "\"¡¡Me rehúso!!",
           "inline_tags": []
         },
         {
@@ -4880,7 +4880,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"¡¡Me rehuso!!  ¡Por definición, es imposible que un asesinato en una habitación cerrada tenga lugar dentro de una habitación cerrada perfecta!\"",
+      "text": "\"¡¡Me rehúso!!  ¡Por definición, es imposible que un asesinato en una habitación cerrada tenga lugar dentro de una habitación cerrada perfecta!\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -6310,11 +6310,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Su ira y odio giraban en su cabeza, barriendo la compostura necesaría para crear teorías.",
+          "text": "Su ira y odio giraban en su cabeza, barriendo la compostura necesaria para crear teorías.",
           "inline_tags": []
         }
       ],
-      "text": "Su ira y odio giraban en su cabeza, barriendo la compostura necesaría para crear teorías.",
+      "text": "Su ira y odio giraban en su cabeza, barriendo la compostura necesaria para crear teorías.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -7144,7 +7144,7 @@
         },
         {
           "index": 2,
-          "text": " ¡¡En ese caso, no te permitire tenerla!!...",
+          "text": " ¡¡En ese caso, no te permitiré tenerla!!...",
           "inline_tags": []
         },
         {
@@ -7158,7 +7158,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"¡Claro que lo hay, niña estúpida!  ¡Así que, cuando alcances la verdad, pretendes morir!  ¡¡En ese caso, no te permitire tenerla!!...  Debo engañarte y cegarte tanto como pueda... ¡para mantenerte viva!  ¡¡Battler quiere que vivas!!...\"",
+      "text": "\"¡Claro que lo hay, niña estúpida!  ¡Así que, cuando alcances la verdad, pretendes morir!  ¡¡En ese caso, no te permitiré tenerla!!...  Debo engañarte y cegarte tanto como pueda... ¡para mantenerte viva!  ¡¡Battler quiere que vivas!!...\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -7843,11 +7843,11 @@
         },
         {
           "index": 1,
-          "text": " Me rehuso.\"",
+          "text": " Me rehúso.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"¡...!  Me rehuso.\"",
+      "text": "\"¡...!  Me rehúso.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -16682,11 +16682,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Quizás le haya dado a Lion un poco de magia por esa fé absoluta en un final feliz.",
+          "text": "Quizás le haya dado a Lion un poco de magia por esa fe absoluta en un final feliz.",
           "inline_tags": []
         }
       ],
-      "text": "Quizás le haya dado a Lion un poco de magia por esa fé absoluta en un final feliz.",
+      "text": "Quizás le haya dado a Lion un poco de magia por esa fe absoluta en un final feliz.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
