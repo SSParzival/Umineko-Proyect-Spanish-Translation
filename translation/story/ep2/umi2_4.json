@@ -2999,11 +2999,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Tanto María como Rosa tenian el rostro enrojecido despues de haber llorado a cantaros.",
+          "text": "Tanto María como Rosa tenían el rostro enrojecido después de haber llorado a cántaros.",
           "inline_tags": []
         }
       ],
-      "text": "Tanto María como Rosa tenian el rostro enrojecido despues de haber llorado a cantaros.",
+      "text": "Tanto María como Rosa tenían el rostro enrojecido después de haber llorado a cántaros.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -4716,11 +4716,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Krauss se dió cuenta.",
+          "text": "Krauss se dio cuenta.",
           "inline_tags": []
         }
       ],
-      "text": "Krauss se dió cuenta.",
+      "text": "Krauss se dio cuenta.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -8471,11 +8471,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Era el caramelo de calabaza de hallowen que Rosa había comprado para ella.",
+          "text": "Era el caramelo de calabaza de Halloween que Rosa había comprado para ella.",
           "inline_tags": []
         }
       ],
-      "text": "Era el caramelo de calabaza de hallowen que Rosa había comprado para ella.",
+      "text": "Era el caramelo de calabaza de Halloween que Rosa había comprado para ella.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -10689,11 +10689,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"En terminos generales, ¿cuál es tu impresión sobre la situación?\"",
+          "text": "\"En términos generales, ¿cuál es tu impresión sobre la situación?\"",
           "inline_tags": []
         }
       ],
-      "text": "\"En terminos generales, ¿cuál es tu impresión sobre la situación?\"",
+      "text": "\"En términos generales, ¿cuál es tu impresión sobre la situación?\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -10852,7 +10852,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "El ejecutivo ordenó a la secretaría que lo conectara a la línea externa.",
+          "text": "El ejecutivo ordenó a la secretaria que lo conectara a la línea externa.",
           "inline_tags": []
         },
         {
@@ -10863,7 +10863,7 @@
           ]
         }
       ],
-      "text": "El ejecutivo ordenó a la secretaría que lo conectara a la línea externa. {n}Inmediatamente, el teléfono frente a Rudolf comenzó a sonar.",
+      "text": "El ejecutivo ordenó a la secretaria que lo conectara a la línea externa. {n}Inmediatamente, el teléfono frente a Rudolf comenzó a sonar.",
       "inline_tags": [
         "{n}"
       ],

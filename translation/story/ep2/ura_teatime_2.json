@@ -265,11 +265,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"Me pregunto qué insinuas con eso, Beato.\"",
+          "text": "\"Me pregunto qué insinúas con eso, Beato.\"",
           "inline_tags": []
         }
       ],
-      "text": "\"Me pregunto qué insinuas con eso, Beato.\"",
+      "text": "\"Me pregunto qué insinúas con eso, Beato.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -571,7 +571,7 @@
         },
         {
           "index": 1,
-          "text": " Es un placer para mí tambien.",
+          "text": " Es un placer para mí también.",
           "inline_tags": []
         },
         {
@@ -580,7 +580,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Sí.  Es un placer para mí tambien.  Después de todo, he venido hasta aquí solo porque quería verte rebosante de confianza, para luego destrozarte y verte perder.\"",
+      "text": "\"Sí.  Es un placer para mí también.  Después de todo, he venido hasta aquí solo porque quería verte rebosante de confianza, para luego destrozarte y verte perder.\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -3275,13 +3275,13 @@
         },
         {
           "index": 2,
-          "text": "Ya es es claramente una de las condiciones de victoria de {f:5:Beatrice}.",
+          "text": "Ya es claramente una de las condiciones de victoria de {f:5:Beatrice}.",
           "inline_tags": [
             "{f:5:Beatrice}"
           ]
         }
       ],
-      "text": "Hacerte aceptar a las brujas. {n} Ya es es claramente una de las condiciones de victoria de {f:5:Beatrice}.",
+      "text": "Hacerte aceptar a las brujas. {n} Ya es claramente una de las condiciones de victoria de {f:5:Beatrice}.",
       "inline_tags": [
         "{n}",
         "{f:5:Beatrice}"

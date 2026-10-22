@@ -488,11 +488,11 @@
         },
         {
           "index": 1,
-          "text": " la tía Rosa, que poco antes había estado medio dormida, se sobresalto y se despertó, apuntando a la puerta con el cañón de la pistola mientras gritaba.",
+          "text": " la tía Rosa, que poco antes había estado medio dormida, se sobresaltó y se despertó, apuntando a la puerta con el cañón de la pistola mientras gritaba.",
           "inline_tags": []
         }
       ],
-      "text": "Después de oír sonido de la puerta siendo golpeada moderadamente,  la tía Rosa, que poco antes había estado medio dormida, se sobresalto y se despertó, apuntando a la puerta con el cañón de la pistola mientras gritaba.",
+      "text": "Después de oír sonido de la puerta siendo golpeada moderadamente,  la tía Rosa, que poco antes había estado medio dormida, se sobresaltó y se despertó, apuntando a la puerta con el cañón de la pistola mientras gritaba.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -961,11 +961,11 @@
       "segments": [
         {
           "index": 0,
-          "text": "Cuando terminé, voltee a echar un vistazo a la tía Rosa, quien me apuntaba por encima del hombro con el cañón del arma, y abrí la puerta.",
+          "text": "Cuando terminé, volteé a echar un vistazo a la tía Rosa, quien me apuntaba por encima del hombro con el cañón del arma, y abrí la puerta.",
           "inline_tags": []
         }
       ],
-      "text": "Cuando terminé, voltee a echar un vistazo a la tía Rosa, quien me apuntaba por encima del hombro con el cañón del arma, y abrí la puerta.",
+      "text": "Cuando terminé, volteé a echar un vistazo a la tía Rosa, quien me apuntaba por encima del hombro con el cañón del arma, y abrí la puerta.",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -8450,7 +8450,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"Pero... quiza ese sí sea el caso.",
+          "text": "\"Pero... quizá ese sí sea el caso.",
           "inline_tags": []
         },
         {
@@ -8464,7 +8464,7 @@
           "inline_tags": []
         }
       ],
-      "text": "\"Pero... quiza ese sí sea el caso.  No, esa es una mala manera de decirlo.  ¿Y si, a tus ojos, Rudolf nii-san y Kyrie-san no son tus padres?\"",
+      "text": "\"Pero... quizá ese sí sea el caso.  No, esa es una mala manera de decirlo.  ¿Y si, a tus ojos, Rudolf nii-san y Kyrie-san no son tus padres?\"",
       "inline_tags": [],
       "has_stray_backtick": false,
       "has_unbalanced_braces": false,
@@ -10225,7 +10225,7 @@
       "segments": [
         {
           "index": 0,
-          "text": "\"¡¡Aunque fue obra de la bruja, ni siquiera fuimos capaces de confiar entre nosostros como seres humanos!!...",
+          "text": "\"¡¡Aunque fue obra de la bruja, ni siquiera fuimos capaces de confiar entre nosotros como seres humanos!!...",
           "inline_tags": []
         },
         {
@@ -10237,7 +10237,7 @@
           ]
         }
       ],
-      "text": "\"¡¡Aunque fue obra de la bruja, ni siquiera fuimos capaces de confiar entre nosostros como seres humanos!!...  ¿Verdad, tía Rosa? Desde el principio, no hubo un culpable {y:0:Humano}{n:0:humano}, todo fue obra de la bruja.\"",
+      "text": "\"¡¡Aunque fue obra de la bruja, ni siquiera fuimos capaces de confiar entre nosotros como seres humanos!!...  ¿Verdad, tía Rosa? Desde el principio, no hubo un culpable {y:0:Humano}{n:0:humano}, todo fue obra de la bruja.\"",
       "inline_tags": [
         "{y:0:Humano}",
         "{n:0:humano}"
