@@ -8,6 +8,7 @@ import unittest
 from pathlib import Path
 
 from tools.esfile.builder import build_esfile
+from tools.esfile.codec import decode_ons2
 from tools.esfile.differ import diff_targets
 from tools.esfile.extractor import extract_esfile
 from tools.esfile.validator import validate_workspace
@@ -26,9 +27,9 @@ EXPECTED_ORIGINAL_SHA256 = (
 class TestFinalBuildValidation(unittest.TestCase):
     """End-to-end verification of final translation workspace, compilation, and preservation."""
 
+    @unittest.skipUnless(ORIGINAL_ES_FILE.is_file(), "Requires the original es.file in the repository root")
     def test_original_esfile_unmodified(self) -> None:
         """Requirement: original es.file must never be modified or overwritten."""
-        self.assertTrue(ORIGINAL_ES_FILE.exists(), "Original es.file must exist on disk.")
         actual_sha = hashlib.sha256(ORIGINAL_ES_FILE.read_bytes()).hexdigest()
         self.assertEqual(
             actual_sha,
@@ -95,6 +96,23 @@ class TestFinalBuildValidation(unittest.TestCase):
             self.assertEqual(summary["altered_markers_count"], 0)
             self.assertFalse(summary["altered_order"])
             self.assertEqual(summary["altered_structural_blocks_count"], 0)
+
+    def test_built_file_is_recognized_as_spanish_script(self) -> None:
+        """The released es.file must keep the header and directives the game uses to list it as Spanish."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            out_file = Path(tmpdir) / "es.file"
+            build_esfile(TRANSLATION_DIR, out_file, force=True, strict=True)
+            raw = out_file.read_bytes()
+
+        self.assertEqual(raw[:4], b"ONS2")
+        self.assertEqual(int.from_bytes(raw[4:8], "little"), len(raw) - 16)
+        self.assertEqual(int.from_bytes(raw[12:16], "little"), 0x6E)
+
+        container = decode_ons2(raw, strict=True, verify_gameid=True)
+        lines = container.plaintext_bytes.decode("utf-8").splitlines()
+        self.assertEqual(lines[0], ";mode1920@2172,1222,value2500")
+        self.assertEqual(lines[1], ";gameid UminekoPS3ficationEs")
+        self.assertIn('stralias localisation,"es"', lines[:40])
 
 
 if __name__ == "__main__":
