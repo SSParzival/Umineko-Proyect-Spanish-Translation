@@ -57,7 +57,7 @@
 /logs/
 *.log
 *report*.json
-!/translation/report.json
+/reports/
 
 # =============================================================================
 # Python / Tooling / OS Caches & Virtual Environments
