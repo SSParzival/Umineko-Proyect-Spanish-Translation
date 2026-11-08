@@ -1,50 +1,89 @@
-# Umineko Project — Toolkit de Localización para `es.file` (`ONS2`)
+# Umineko Project: traducción al español revisada
 
-Herramienta profesional de ingeniería inversa, extracción estructurada, validación, compilación determinista y comparación semántica/binaria para el contenedor de script `es.file` (`ONS2`) utilizado por **Umineko Project** (motor **ONScripter-RU**).
+Versión corregida del guion en español de [Umineko Project](https://umineko-project.org/). Parte de la traducción de [Universo When They Cry](https://universowtc.github.io/) y corrige 563 errores: tildes, erratas, palabras repetidas, nombres mal escritos y espacios de más. No cambia el estilo de la traducción ni la forma de hablar de los personajes.
 
----
+Todo cabe en un solo archivo, `es.file`, que reemplaza al que instala el parche en español.
 
-## Características Principales
+## Antes de empezar
 
-* **Reversibilidad bit a bit (Lossless Round-Trip)**: Extraer `es.file` y reconstruirlo sin modificaciones produce un archivo binariamente idéntico (`SHA-256 == 0c00c9cf156b6429e01e6f1d26a6ae655329ef8301b6719a1742834b524300e1`).
-* **Organización modular amigable para traducción**: Divide las `68,651` entradas traducibles del script monolítico (`585,050` líneas) en `182` catálogos JSON organizados por episodio/capítulo (`story/ep1..8/*.json`, `story/omake/*.json`) y categoría de interfaz (`strings/*.json`), separando por completo el código estructural no traducible en `blocks/*.json`.
-* **Protección de sincronización y comandos**: Separa explícitamente los marcadores de control y voz (`[lv ...]`, `[@]`, `[\]`, `[|]`, `[#][*]`) de los segmentos de texto editables (`segments[i].text`) y valida el balance de etiquetas en línea (`{n}`, `{c:FF0000:...}`, `{f:5:...}`, `{p:...}`).
-* **Seguridad y determinismo**: Sin dependencias externas fuera de la biblioteca estándar de Python (`>= 3.10`), con protección estricta contra *path traversal*, colisiones de mayúsculas/minúsculas, enlaces simbólicos y sobrescritura accidental.
+Necesitas tener instaladas y funcionando estas dos cosas:
 
----
+1. **Umineko Project.** Se descarga desde <https://umineko-project.org/en/downloads/>.
+2. **El parche en español de Universo When They Cry.** Se descarga desde <https://github.com/UniversoWTC/Umineko-Project-Espa-ol/releases>. Ese parche trae las imágenes, los menús y los subtítulos en español. Este repositorio no los incluye: solo mejora el texto.
 
-## Inicio Rápido
+Si ya juegas Umineko Project en español, tienes las dos cosas y puedes pasar directo a la instalación.
+
+## Instalación
+
+1. Descarga `es.file` desde la [página de la última versión](https://github.com/SSParzival/Umineko-Proyect-Spanish-Translation/releases/latest). Baja hasta la sección **Assets** y haz clic en `es.file`. No descargues los archivos «Source code»: son el código de este repositorio y no sirven para jugar.
+   - También puedes usar el enlace directo: <https://github.com/SSParzival/Umineko-Proyect-Spanish-Translation/releases/latest/download/es.file>
+   - Si el navegador avisa que el archivo no se descarga con frecuencia, elige «Conservar» o «Descargar de todos modos».
+2. Abre la carpeta donde instalaste Umineko Project. La reconoces porque tiene el programa del juego (`onscripter-ru.exe` en Windows), archivos como `en.file`, `chiru.file` y `game.hash`, y carpetas como `sound`, `sprites` y `graphics`. En esa misma carpeta ya hay un `es.file`, el que dejó el parche en español.
+3. Guarda una copia del `es.file` que ya está en la carpeta del juego. Lo más simple es copiarlo al Escritorio. Así puedes volver atrás si algo sale mal.
+4. Copia el `es.file` que descargaste (normalmente queda en la carpeta Descargas) y pégalo en la carpeta del juego. Cuando Windows pregunte, elige «Reemplazar el archivo en el destino».
+   - El archivo tiene que llamarse exactamente `es.file`. Si el navegador lo guardó como `es (1).file` o algo parecido, cámbiale el nombre antes de pegarlo.
+5. Abre el juego. Si aparece en otro idioma, entra en la configuración del juego y cambia el idioma a «Español». Después cierra el juego y vuelve a abrirlo, porque el cambio de idioma se aplica al reiniciar.
+
+En Linux, macOS y Android se hace lo mismo: reemplazar `es.file` en la carpeta donde están los archivos del juego.
+
+Cambiar este archivo no borra tus partidas guardadas.
+
+## Si algo sale mal
+
+- **El juego sigue en inglés.** Revisa el paso 5: el idioma se cambia en la configuración y hay que reiniciar el juego.
+- **Faltan imágenes o los menús salen en inglés.** Falta el parche de Universo When They Cry. Instálalo y luego repite los pasos 3 y 4.
+- **Reinstalaste o actualizaste el parche de Universo When They Cry.** El parche vuelve a poner su propio `es.file`. Repite los pasos 3 y 4.
+- **La verificación de archivos del juego marca `es.file` como modificado.** Es esperable: es un archivo distinto al que trae el parche.
+- **Quieres volver a la versión anterior.** Copia el `es.file` que guardaste en el paso 3 de vuelta a la carpeta del juego y reemplaza el que está ahí.
+
+## Qué se corrigió
+
+| Tipo de corrección | Cantidad |
+|---|---:|
+| Tildes | 368 |
+| Espacios de más o mal puestos | 74 |
+| Erratas | 69 |
+| Palabras repetidas por error | 18 |
+| Nombres propios mal escritos | 16 |
+| Otras faltas de ortografía | 12 |
+| Concordancia (género, número o tiempo verbal) | 6 |
+| **Total** | **563** |
+
+Se dejó tal cual, a propósito:
+
+- La forma de hablar de Hideyoshi (`pa'`, `na'`, `'tá`, `pensa'o`).
+- Los tartamudeos y alargamientos de voz (`Battleer`, `kihihihi`).
+- El texto con espacios del acertijo del teléfono en el episodio 7.
+- Los términos propios de la obra (`Verdad Roja`, `Tierra Dorada`) y los honoríficos japoneses.
+
+Las reglas que se siguieron están en [`translation/config/style-guide.md`](translation/config/style-guide.md).
+
+## Para quien quiera editar la traducción
+
+Esta parte es solo para quien quiera cambiar textos y generar su propio `es.file`. Para jugar no hace falta.
+
+El texto está en archivos JSON:
+
+- `translation/story/`: diálogos y narración de los episodios 1 a 8 y de los omake.
+- `translation/strings/`: menús, tips, personajes, trofeos, créditos y títulos de música.
+- `translation/blocks/`: código del juego. No se edita; si cambia, la compilación se detiene.
+
+En los diálogos se edita `segments[i].text`, sin agregar ni quitar segmentos, porque cada uno va sincronizado con una voz. En `strings/` se edita el campo `text`. Las etiquetas entre llaves (`{c:FF0000:...}`, `{f:5:...}`) deben quedar cerradas.
+
+Se necesita Python 3.10 o superior, sin librerías extra (pytest solo para las pruebas):
 
 ```bash
-# 1. Inspeccionar el contenedor binario es.file
-python3 -m tools.esfile inspect es.file --verbose
-
-# 2. Extraer el contenido editable a una estructura de carpetas
-python3 -m tools.esfile extract es.file --output translation/
-
-# 3. Validar la estructura extraída y las modificaciones realizadas
-python3 -m tools.esfile validate translation/ --strict --verbose
-
-# 4. Reconstruir un nuevo archivo .file
-python3 -m tools.esfile build translation/ es.rebuilt.file --verbose
-
-# 5. Comparar semántica y binariamente dos archivos .file o dos carpetas
-python3 -m tools.esfile diff es.file es.rebuilt.file --verbose
-
-# 6. Ejecutar la suite completa de pruebas automatizadas (unitarias, fuzzing y round-trip)
-python3 -m unittest discover -s tests -v
+python3 -m tools.esfile validate translation/ --strict   # revisa que todo esté en orden
+python3 -m tools.esfile build translation/ out/es.file   # genera el es.file
+python3 -m tools.translation_lint scan translation/      # busca faltas de ortografía comunes
+python3 -m pytest                                        # corre las pruebas
 ```
 
----
+## Créditos
 
-## Estructura del Repositorio
+- *Umineko no Naku Koro ni*: 07th Expansion.
+- Umineko Project: [umineko-project.org](https://umineko-project.org/).
+- Traducción al español: [Universo When They Cry](https://universowtc.github.io/).
+- Revisión y correcciones: [SSParzival](https://github.com/SSParzival).
 
-* [`tools/esfile/`](tools/esfile/): Implementación del paquete CLI (`codec.py`, `models.py`, `parser.py`, `extractor.py`, `inspector.py`, `validator.py`, `builder.py`, `differ.py`, `cli.py`).
-* [`tests/`](tests/): Suite de pruebas unitarias, integración, seguridad de rutas, fuzzing y round-trip sobre `es.file`.
-* [`docs/es-file/`](docs/es-file/):
-  * [`README.md`](docs/es-file/README.md): Manual técnico y referencia de comandos CLI.
-  * [`research.md`](docs/es-file/research.md): Informe de ingeniería inversa del binario `onscripter-new.exe` y contenedores `.file`.
-  * [`format.md`](docs/es-file/format.md): Especificación formal del formato `ONS2` y gramática ONScripter-RU.
-  * [`editing-guide.md`](docs/es-file/editing-guide.md): Guía detallada para traductores y protocolo de prueba en el juego.
-* [`schemas/`](schemas/): Esquemas JSON (`manifest.schema.json` y `translation-catalog.schema.json`).
-* [`examples/`](examples/): Ejemplo ilustrativo de manifiesto (`manifest.example.json`).
+Esta revisión es independiente. No es una versión oficial de Universo When They Cry ni de Umineko Project.
